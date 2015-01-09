@@ -60,6 +60,7 @@ function extract_nodes($body, $domain, $kid) {
     }
   }
 
+  # Figure out the structure of the HTML
   $first = $dom->firstChild();
   $els = array();
   if ($first == 'div') {
@@ -72,10 +73,7 @@ function extract_nodes($body, $domain, $kid) {
     $els = $dom("$first ~ *");
   }
 
-  # Chop the tree
-
-  # Put in the top level book node
-  # Initial array to return 
+  # Chop the book tree into pages
   $pages = array();
   $page_index = 0;
   $pages[$page_index]['index'] = 0;
