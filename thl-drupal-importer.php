@@ -104,8 +104,10 @@ foreach ($filenames as $filename) {
       
       # Should go earlier if possible
       if (preg_match("/^\s*Essay\s*$/",$title) && $kmap_json) {
+        print "Fixing title ...\n";
         $node->title .= " on " . ucwords($kmap_json->feature->header);
       } elseif (preg_match("/^\s*$/",$title) && $kmap_json) {
+        print "Fixing title (2) ...\n";
         $node->title .= ucwords($kmap_json->feature->header);
       }
 
