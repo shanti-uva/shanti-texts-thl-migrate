@@ -102,8 +102,8 @@ function extract_nodes($body, $domain, $kid) {
       $pages[$page_index]['parent_index'] = $parent;
     }
     else {
-      #$pages[$page_index]['body'] .= clean_content($el->html()); # No idea why this doesn't work!
-      $pages[$page_index]['body'] .= $el->html();
+      $pages[$page_index]['body'] .= clean_content($el->html()); # No idea why this doesn't work!
+      #$pages[$page_index]['body'] .= $el->html();
     }
   }
   
