@@ -18,7 +18,7 @@ nodes = []
 */
 
 $dir = '~/WORK/shanti-texts-thl-migrate/03-books-json';
-exec("ls $dir/*.json", $filenames);
+exec("ls $dir/places-1.json", $filenames);
 
 $kmap_fields = array();
 $kmap_fields['subjects']  = 'field_kmap_term';
