@@ -2,26 +2,28 @@
 
 include("ganon.php");
 
+// Where to get and put files
+$srcdir = '01-raw-json';
+$outdir = '03-books-json';
+
+// A list of CSS selectors for elements to remove from the essay content
 $elements_to_lose = array(
-  'table[class="navarrows"]',
-  'div[id="chap-id"]', 
-  'div[id="chapRefWindow"]',
-  'p[class="view-essay-in-publication"]',
-  '*[id="essay-head2"]',
-  '*[class="copyright"]',
-  '*[class="author"]',
-  '*[class="biblref"]',
-  '*[class="chap-id"]',
-  '*[class="chapter"]',
-  '*[class="description-title"]', 
-  '*[class="by"]',
-  '*[class="content_by"]',
-  '*[class="last_updated"]',
+  'table.navarrows',
+  '#chap-id', 
+  '#chapRefWindow',
+  'p.view-essay-in-publication',
+  '#essay-head2',
+  '.copyright',
+  '.author',
+  '.biblref',
+  '.chap-id',
+  '.chapter',
+  '.description-title',
+  '.by',
+  '.content_by',
+  '.last_updated',
 );
 
-// Where to get and put files
-$srcdir = '02-raw-json-decoded';
-$outdir = '03-books-json';
 
 // Grab files from source dir and loop
 exec("ls $srcdir/*.json",$dirlist);
@@ -43,7 +45,7 @@ foreach ($dirlist as $line) {
     $book['meta']['dates']['updated_at']  = $desc->updated_at;  
     $book['nodes'] = extract_nodes($desc->content, $domain, $kid); 
     $book['nodes'][0]['title'] = $book['meta']['title']; 
-    file_put_contents("$outdir/$domain-$kid-$desc_n.json",json_encode($book, JSON_UNESCAPED_UNICODE));
+    file_put_contents("$outdir/$domain-$kid-$desc_n.json",json_encode($book, JSON_UNESCAPED_UNICODE + JSON_UNESCAPED_SLASHES));
   }
 }
 
@@ -62,6 +64,7 @@ function extract_nodes($body, $domain, $kid) {
 
   # Figure out the structure of the HTML
   $first = $dom->firstChild();
+  print "$first\n";
   $els = array();
   if ($first == 'div') {
     if ($first->attributes['class'] == 'essay-body') {
@@ -69,8 +72,12 @@ function extract_nodes($body, $domain, $kid) {
     } else {
       $els = $dom('div:first-of-type > *');
     }
+  } elseif ($first == '~text~') {
+    # This is text without a root element, so don't try to grab els
+    # Instead, handle separately below
   } else {
-    $els = $dom("$first ~ *");
+    # Assume its just an element
+    $els = $dom("$first ~ *");  
   }
 
   # Chop the book tree into pages
@@ -91,11 +98,24 @@ function extract_nodes($body, $domain, $kid) {
       $pages[$page_index]['parent_index'] = $parent;
     }
     else {
-      $pages[$page_index]['body'] .= html_entity_decode($el->html());
+      $pages[$page_index]['body'] .= clean_content($el->html());
     }
   }
   
+  # Handle unwrapped content
+  if ($first == '~text~') {
+    $content = clean_content($dom->html());
+    $pages[$page_index]['body'] .= preg_replace("/~root~/", "div", $content);  
+  }
+  
   return $pages;
+}
+
+function clean_content ($content) {
+  $content = preg_replace("/(\\t|\\n)+/m", " ", $content);
+  $content = preg_replace("/\s+/m", " ", $content);
+  $content = html_entity_decode($content);
+  return $content;
 }
 
 ?>
