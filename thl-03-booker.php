@@ -39,6 +39,8 @@ foreach ($dirlist as $line) {
     $desc_n++;
     print "$domain-$kid-$desc_n\n";    
     $book = array();
+    $book['meta']['domain']               = $domain;
+    $book['meta']['kid']                  = $kid;
     $book['meta']['authors']              = $desc->authors;
     $book['meta']['title']                = trim($desc->title);
     $book['meta']['dates']['created_at']  = $desc->created_at;

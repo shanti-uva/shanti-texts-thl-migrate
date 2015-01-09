@@ -31,6 +31,7 @@ foreach ($filenames as $filename) {
   $domain = $book->meta->domain;
   if (!$domain || !$kid) {
     print "Missing key for $filename: DOMAIN=$domain, KID=$kid\n";
+    print_r($book);
     continue;
   }
   $key = "$domain-$kid";
