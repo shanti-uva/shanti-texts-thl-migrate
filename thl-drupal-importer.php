@@ -102,9 +102,9 @@ foreach ($filenames as $filename) {
 
         # Use KMap info to fix empty book titles
         if (preg_match("/^\s*Essay\s*$/", $title)) {
-          $node->title .= " on " . ucwords($kmap_json->feature->header);
+          $node->title .= " on " . ucwords($kmap_header);
         } elseif (preg_match("/^\s*$/", $title)) {
-          $node->title .= ucwords($kmap_json->feature->header);
+          $node->title .= ucwords($kmap_header);
         }
 
       }
