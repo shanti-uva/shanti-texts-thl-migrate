@@ -57,7 +57,8 @@ foreach ($filenames as $filename) {
     if ($parent == -1) {
       if ($authors) {
         $prev_author = ''; # Remove duplicates
-        foreach ($authors as $author) {
+        foreach ($authors as $author_inf) {
+          $author = $author_inf['fullname'];
           if ($author != $prev_author) {
             $node->field_book_author[$node->language][0]['value'] = $author;
           }
@@ -128,3 +129,4 @@ foreach ($filenames as $filename) {
 }
 
 ?>
+All done.
