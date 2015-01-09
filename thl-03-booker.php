@@ -94,7 +94,8 @@ function extract_nodes($body, $domain, $kid) {
       $level = $matches[1];
       $page_level[$level] = $page_index;
       $parent = $page_level[$level - 1]; if (!$parent) $parent = 0;
-      $pages[$page_index]['title']        = trim(html_entity_decode($el->getPlainText()));
+      $title = trim(html_entity_decode($el->getPlainText()));
+      $pages[$page_index]['title']        = $title;
       $pages[$page_index]['index']        = $page_index;
       $pages[$page_index]['parent_index'] = $parent;
     }
