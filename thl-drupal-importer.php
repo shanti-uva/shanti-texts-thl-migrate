@@ -99,13 +99,14 @@ foreach ($filenames as $filename) {
         $node->{$kmap_field}[$node->language][0]['header']  = $kmap_header;
         $node->{$kmap_field}[$node->language][0]['domain']  = $domain;
         $node->{$kmap_field}[$node->language][0]['path']    = $kmap_ancestors_str;
+
       }
       
       # Should go earlier if possible
       if (preg_match("/^\s*Essay\s*$/",$title) && $kmap_json) {
-        $title .= " on " . ucwords($kmap_json->feature->header);
+        $node->title .= " on " . ucwords($kmap_json->feature->header);
       } elseif (preg_match("/^\s*$/",$title) && $kmap_json) {
-        $title .= ucwords($kmap_json->feature->header);
+        $node->title .= ucwords($kmap_json->feature->header);
       }
 
       $node->book['bid']  = 'new';
