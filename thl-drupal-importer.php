@@ -1,7 +1,23 @@
-This is a PHP script. I can add text here without worrying about escaping it.
 <?php
 
-$dir = '~/WORK/shanti-texts-thl-import/02-json-books';
+/* 
+Data Model for Book JSON:
+
+meta
+  authors = []
+  title = ''
+  dates
+    created_at = ''
+    updated_at = ''
+nodes = []
+  title = ''
+  index = 0
+  paren_index = 0
+  body = ''
+    
+*/
+
+$dir = '~/WORK/shanti-texts-thl-migrate/03-books-json';
 exec("ls $dir/*.json", $filenames);
 
 $kmap_fields = array();
@@ -38,13 +54,21 @@ foreach ($filenames as $filename) {
     $node->field_book_content[$node->language][0]['format'] = 'ckeditor_full';
     if ($parent == -1) {
       if ($authors) {
+        $prev_author = ''; # Remove duplicates
         foreach ($authors as $author) {
-          $node->field_book_author[$node->language][0]['value'] = $author;
+          if ($author != $prev_author) {
+            $node->field_book_author[$node->language][0]['value'] = $author;
+          }
+          $prev_author = $author;
         }
       }
-      $date = preg_replace("/(\w+) (\d+), (\d+)/","$2 $1 $3",$date); 
+      # Source date format 2009-05-21 12:04:11 UTC
+      # Target date format d m y
+      # $date = preg_replace("/(\w+) (\d+), (\d+)/","$2 $1 $3",$date); # Older way
+      # $date = preg_replace("/(\d{4})-(\d{2})-(\d{2}) .+/", "$3 $2 $1", $date);
       if ($date) { // Not really good enough
-        $node->field_book_date[$node->language][0]['value'] = strtotime($date); # M dd, YY
+        #$node->field_book_date[$node->language][0]['value'] = strtotime($date); # M dd, YY
+        $node->field_book_date[$node->language][0]['value'] = $date; 
         preg_match("/(\d{4})/",$date,$matches);
         $year = $matches[1] . "-01-01 00:00:00";
         if ($year) $node->field_dc_date_publication_year[$node->language][0]['value'] = $year;
@@ -75,6 +99,14 @@ foreach ($filenames as $filename) {
         $node->{$kmap_field}[$node->language][0]['domain']  = $domain;
         $node->{$kmap_field}[$node->language][0]['path']    = $kmap_ancestors_str;
       }
+      
+      # Should go earlier if possible
+      if (preg_match("/^\s*Essay\s*$/",$title) && $kmap_json) {
+        $title .= " on " . ucwords($kmap_json->feature->header);
+      } elseif (preg_match("/^\s*$/",$title) && $kmap_json) {
+        $title .= ucwords($kmap_json->feature->header);
+      }
+
       $node->book['bid']  = 'new';
       $node->book['plid'] = 0;
     } 
