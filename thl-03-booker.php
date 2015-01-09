@@ -64,7 +64,6 @@ function extract_nodes($body, $domain, $kid) {
 
   # Figure out the structure of the HTML
   $first = $dom->firstChild();
-  print "$first\n";
   $els = array();
   if ($first == 'div') {
     if ($first->attributes['class'] == 'essay-body') {
@@ -75,9 +74,11 @@ function extract_nodes($body, $domain, $kid) {
   } elseif ($first == '~text~') {
     # This is text without a root element, so don't try to grab els
     # Instead, handle separately below
+  } elseif ($first == '~comment~') {
+    # Do nothing
   } else {
     # Assume its just an element
-    $els = $dom("$first ~ *");  
+    $els = $dom("$first:first-of-type, $first ~ *");
   }
 
   # Chop the book tree into pages
@@ -98,7 +99,8 @@ function extract_nodes($body, $domain, $kid) {
       $pages[$page_index]['parent_index'] = $parent;
     }
     else {
-      $pages[$page_index]['body'] .= clean_content($el->html());
+      #$pages[$page_index]['body'] .= clean_content($el->html()); # No idea why this doesn't work!
+      $pages[$page_index]['body'] .= $el->html();
     }
   }
   
