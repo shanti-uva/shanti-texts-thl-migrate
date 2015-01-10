@@ -3,8 +3,9 @@
 include("ganon.php");
 
 // Where to get and put files
-$srcdir = '01-raw-json';
+$srcdir = '02-raw-json-decoded';
 $outdir = '03-books-json';
+$fmask  = $argv[1];
 
 // A list of CSS selectors for elements to remove from the essay content
 $elements_to_lose = array(
@@ -22,11 +23,11 @@ $elements_to_lose = array(
   '.by',
   '.content_by',
   '.last_updated',
+  '#_mcePaste',
 );
 
-
 // Grab files from source dir and loop
-exec("ls $srcdir/*.json",$dirlist);
+exec("ls $srcdir/$fmask",$dirlist);
 foreach ($dirlist as $line) {
   preg_match("/(.+)\/((.+)-(.+)\.json)/", $line, $matches);
   $dir      = $matches[1];
@@ -39,10 +40,15 @@ foreach ($dirlist as $line) {
     $desc_n++;
     print "$domain-$kid-$desc_n\n";    
     $book = array();
+    $title = trim($desc->title); // Need to trap missing titles
+    if (!title) {
+      $kmap_info = json_encode("01-raw-json-info/$domain-$kid-info.json");
+      $title = $kmap_info->feature->header;
+    }
     $book['meta']['domain']               = $domain;
     $book['meta']['kid']                  = $kid;
     $book['meta']['authors']              = $desc->authors;
-    $book['meta']['title']                = trim($desc->title);
+    $book['meta']['title']                = $title;
     $book['meta']['dates']['created_at']  = $desc->created_at;
     $book['meta']['dates']['updated_at']  = $desc->updated_at;  
     $book['nodes'] = extract_nodes($desc->content, $domain, $kid); 
@@ -64,36 +70,24 @@ function extract_nodes($body, $domain, $kid) {
     }
   }
 
-  # Figure out the structure of the HTML
-  $first = $dom->firstChild();
-  $els = array();
-  if ($first == 'div') {
-    if ($first->attributes['class'] == 'essay-body') {
-      $els = $dom('div.essay-body > *');
-    } else {
-      $els = $dom('div:first-of-type > *');
-    }
-  } elseif ($first == '~text~') {
-    # This is text without a root element, so don't try to grab els
-    # Instead, handle separately below
-  } elseif ($first == '~comment~') {
-    # Do nothing
-  } else {
-    # Assume its just an element
-    $els = $dom("$first:first-of-type, $first ~ *");
-  }
-
-  # Chop the book tree into pages
+  # Get the indent level at which to chop the tree
+  $els = $dom('*');
+  $indent = 0; if ($els[0]->getTag() == 'div') $indent = 1;
+  
+  # Chop the tree into pages
   $pages = array();
   $page_index = 0;
   $pages[$page_index]['index'] = 0;
   $pages[$page_index]['parent_index'] = -1;
   $page_level = array();
   foreach ($els as $el) {
+    if ($el->indent() != $indent) continue;
     $tag = $el->getTag();
-    if (preg_match("/h(\d)/",$tag,$matches)) {
+    $class = $el->attributes['class'];
+    $index = $el->index();
+    if (preg_match("/^h(\d)/",$tag,$matches)) {
       $page_index++;
-      $level = $matches[1];
+      $level = $matches[1]; if (preg_match("/h1/",$class)) $level = 1;
       $page_level[$level] = $page_index;
       $parent = $page_level[$level - 1]; if (!$parent) $parent = 0;
       $title = trim(html_entity_decode($el->getPlainText()));
@@ -102,25 +96,51 @@ function extract_nodes($body, $domain, $kid) {
       $pages[$page_index]['parent_index'] = $parent;
     }
     else {
-      $pages[$page_index]['body'] .= clean_content($el->html()); # No idea why this doesn't work!
-      #$pages[$page_index]['body'] .= $el->html();
+      //$pages[$page_index]['body'] .= $el->html();
+      $content = clean_content($el->html());
+      $pages[$page_index]['body'] .= $content;
     }
   }
-  
+    
   # Handle unwrapped content
   if ($first == '~text~') {
-    $content = clean_content($dom->html());
+    //$content = $el->html();
+    $content = clean_content($el->html());
     $pages[$page_index]['body'] .= preg_replace("/~root~/", "div", $content);  
   }
   
+  # Handle case of no title?
+  if (!isset($pages[$page_index]['title']) || !$pages[$page_index]['title']) {
+    print "$page_index -- NO TITLE\n";
+    // Use meta title ... but not yet set ... Actually, this is caught in the importer
+  }
+    
   return $pages;
 }
 
-function clean_content ($content) {
+function clean_content($content) {
   $content = preg_replace("/(\\t|\\n)+/m", " ", $content);
-  $content = preg_replace("/\s+/m", " ", $content);
+  #$content = preg_replace("/\s+/m", " ", $content);
   $content = html_entity_decode($content);
   return $content;
+}
+
+function print_els($els) {
+  foreach ($els as $el) {
+    print "TAG:       " . $el->getTag() . "\n";
+    if (count($el->attributes))  {
+      print "ATTS:      ";
+      foreach($el->attributes as $attribute => $value) {
+        echo $attribute, ': ', $value, "; "; 
+      }
+      print "\n";
+    }
+    print "INDEX:     " . $el->index() . " \n";
+    print "INDENT:    " . $el->indent() . "\n";
+    print "LOCATION:  " . $el->dumpLocation() . "\n";
+    print "CONTENT:   " . substr($el->html(),0,60) . "\n";
+    print "------------------------------------------------------------------\n";
+  }
 }
 
 ?>

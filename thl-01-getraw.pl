@@ -235,6 +235,8 @@ for my $domain (keys %kmaps) {
     my $base = "http://$domain.kmaps.virginia.edu";
     my $url = "$base/features/$kid/descriptions.json";
     getstore($url,"$OUTDIR/$domain-$kid.json");
+    my $url2 = "$base/features/$kid.json";
+    getstore($url2,"${OUTDIR}-info/$domain-$kid-info.json");
   }
 }
 
