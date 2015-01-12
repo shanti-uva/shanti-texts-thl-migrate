@@ -58,11 +58,16 @@ foreach ($filenames as $filename) {
       if ($authors) {
         $prev_author = ''; # Remove duplicates
         foreach ($authors as $author_inf) {
-          $author = $author_inf['fullname'];
+          if (is_array($author_inf)) {
+            $author = $author_inf['fullname'];
+          } else {
+            $author = $author_inf;
+          }
           if ($author != $prev_author) {
             $node->field_book_author[$node->language][0]['value'] = $author;
           }
           $prev_author = $author;
+          print "TEST: $author\n";
         }
       }
       # Source date format 2009-05-21 12:04:11 UTC
