@@ -43,7 +43,7 @@ foreach ($filenames as $filename) {
     $index    = $part->index;
     $parent   = $part->parent_index;
     $body     = $part->body;
-    $authors  = $part->authors; # This is an array
+    #$authors  = $part->authors; # This is an array
     $date     = $part->dates[0]; # This may not be correct
     
     $node = new stdClass(); // We create a new node object
@@ -55,6 +55,7 @@ foreach ($filenames as $filename) {
     $node->field_book_content[$node->language][0]['value'] = $body;
     $node->field_book_content[$node->language][0]['format'] = 'ckeditor_full';
     if ($parent == -1) {
+      $authors = $book->meta->authors;
       if ($authors) {
         $prev_author = ''; # Remove duplicates
         foreach ($authors as $author_inf) {
