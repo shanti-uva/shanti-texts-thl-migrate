@@ -83,6 +83,8 @@ function extract_nodes($body, $domain, $kid) {
   foreach ($els as $el) {
     if ($el->indent() != $indent) continue;
     $tag = $el->getTag();
+    if (preg_match("/~/",$tag)) continue;
+    print "TAG: $tag\n";
     $class = $el->attributes['class'];
     $index = $el->index();
     if (preg_match("/^h(\d)/",$tag,$matches)) {
@@ -90,13 +92,12 @@ function extract_nodes($body, $domain, $kid) {
       $level = $matches[1]; if (preg_match("/h1/",$class)) $level = 1;
       $page_level[$level] = $page_index;
       $parent = $page_level[$level - 1]; if (!$parent) $parent = 0;
-      $title = trim(html_entity_decode($el->getPlainText()));
+      $title = trim(html_entity_decode($el->getPlainText(), ENT_COMPAT, 'UTF-8'));
       $pages[$page_index]['title']        = $title;
       $pages[$page_index]['index']        = $page_index;
       $pages[$page_index]['parent_index'] = $parent;
     }
     else {
-      //$pages[$page_index]['body'] .= $el->html();
       $content = clean_content($el->html());
       $pages[$page_index]['body'] .= $content;
     }
@@ -104,7 +105,6 @@ function extract_nodes($body, $domain, $kid) {
     
   # Handle unwrapped content
   if ($first == '~text~') {
-    //$content = $el->html();
     $content = clean_content($el->html());
     $pages[$page_index]['body'] .= preg_replace("/~root~/", "div", $content);  
   }
@@ -120,8 +120,7 @@ function extract_nodes($body, $domain, $kid) {
 
 function clean_content($content) {
   $content = preg_replace("/(\\t|\\n)+/m", " ", $content);
-  #$content = preg_replace("/\s+/m", " ", $content);
-  $content = html_entity_decode($content);
+  $content = html_entity_decode($content, ENT_COMPAT, 'UTF-8');
   return $content;
 }
 
