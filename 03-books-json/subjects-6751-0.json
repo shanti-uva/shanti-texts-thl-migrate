@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"meta":{"domain":"subjects","kid":"6751","authors":[{"fullname":"Rinchenkhar","id":"25"}],"title":"","dates":{"created_at":"2013-09-15 04:19:15 UTC","updated_at":"2013-09-15 04:19:15 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>\u0f62\u0f72\u0f0b\u0f51\u0fad\u0f42\u0f66\u0f0b\u0f64\u0fad\u0f0b\u0f56\u0f60\u0f72\u0f0b\u0f54\u0f42\u0f66\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f56\u0f5f\u0f7c\u0f66\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f63\u0fb7\u0f58\u0f0d<\/p>","title":""}]}
+=======
+{"meta":{"domain":"subjects","kid":"6751","authors":[{"fullname":"Rinchenkhar","id":"25"}],"title":"","dates":{"created_at":"2013-09-15 04:19:15 UTC","updated_at":"2013-09-15 04:19:15 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>རི་དྭགས་ཤྭ་བའི་པགས་པའི་བཟོས་པའི་ལྷམ།</p>","title":""}]}
+>>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424

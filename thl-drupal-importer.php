@@ -67,8 +67,13 @@ foreach ($filenames as $filename) {
       if ($authors) {
         $prev_author = ''; # Remove duplicates
         foreach ($authors as $author_inf) {
+<<<<<<< HEAD
           if (is_object($author_inf)) {
             $author = $author_inf->fullname;
+=======
+          if (is_array($author_inf)) {
+            $author = $author_inf['fullname'];
+>>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
           } else {
             $author = $author_inf;
           }
@@ -76,6 +81,7 @@ foreach ($filenames as $filename) {
             $node->field_book_author[$node->language][0]['value'] = $author;
           }
           $prev_author = $author;
+          print "TEST: $author\n";
         }
       }
 

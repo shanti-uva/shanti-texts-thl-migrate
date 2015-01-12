@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"meta":{"domain":"subjects","kid":"2423","authors":[{"fullname":"Jos\u00e9 I. Cabez\u00f3n","id":"7"}],"title":"","dates":{"created_at":"2013-09-15 04:09:42 UTC","updated_at":"2013-09-15 04:09:42 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>bsrung yig. Ex: Lha \u2018dre bsrung yig gi skor (W3508), Yi ge bzhi pa\u2019i bsrung ba (W584)? <\/p>","title":""}]}
+=======
+{"meta":{"domain":"subjects","kid":"2423","authors":[{"fullname":"José I. Cabezón","id":"7"}],"title":"","dates":{"created_at":"2013-09-15 04:09:42 UTC","updated_at":"2013-09-15 04:09:42 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>bsrung yig. Ex: Lha ‘dre bsrung yig gi skor (W3508), Yi ge bzhi pa’i bsrung ba (W584)? </p>","title":""}]}
+>>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"meta":{"domain":"subjects","kid":"84","authors":[{"fullname":"David Germano","id":"2"}],"title":"","dates":{"created_at":"2013-09-15 04:03:29 UTC","updated_at":"2013-09-15 04:03:29 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>This was expressly denied as the proper term for a pass by Tsering Gyurme and Chonyi, despite its very frequent use in international writing about Tibet. We need to look into this.<\/p>","title":""}]}
+=======
+{"meta":{"domain":"subjects","kid":"84","authors":[{"fullname":"David Germano","id":"2"}],"title":"","dates":{"created_at":"2013-09-15 04:03:29 UTC","updated_at":"2013-09-15 04:03:29 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>This was expressly denied as the proper term for a pass by Tsering Gyurme and Chonyi, despite its very frequent use in international writing about Tibet. We need to look into this.</p>","title":""}]}
+>>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424

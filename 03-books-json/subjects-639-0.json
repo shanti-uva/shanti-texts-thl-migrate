@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"meta":{"domain":"subjects","kid":"639","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"An Overview of the Kanauri-Almora Language","dates":{"created_at":"2013-09-15 04:04:56 UTC","updated_at":"2013-09-15 04:04:56 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>These languages are spoken in Himachal Pradesh (India).<\/p>","title":"An Overview of the Kanauri-Almora Language"}]}
+=======
+{"meta":{"domain":"subjects","kid":"639","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"An Overview of the Kanauri-Almora Language","dates":{"created_at":"2013-09-15 04:04:56 UTC","updated_at":"2013-09-15 04:04:56 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>These languages are spoken in Himachal Pradesh (India).</p>","title":"An Overview of the Kanauri-Almora Language"}]}
+>>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424

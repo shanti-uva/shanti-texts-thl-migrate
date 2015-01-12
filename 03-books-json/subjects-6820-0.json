@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"meta":{"domain":"subjects","kid":"6820","authors":[{"fullname":"Matthew Zito","id":"30"}],"title":"","dates":{"created_at":"2013-09-15 04:19:26 UTC","updated_at":"2013-09-15 04:19:26 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>\u0f62\u0fad\u0f0b\u0f45\u0f7c\u0f0b\u0f63\u0f66\u0f0b\u0f56\u0f5f\u0f7c\u0f66\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f66\u0fa3\u0f0b\u0f50\u0f0b\u0f60\u0f50\u0f7a\u0f53\u0f0b\u0f56\u0fb1\u0f7a\u0f51\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f64\u0f74\u0f56\u0f66\u0f0b\u0f63\u0f0b\u0f5f\u0f7a\u0f62\u0f0d<\/p>","title":""}]}
+=======
+{"meta":{"domain":"subjects","kid":"6820","authors":[{"fullname":"Matthew Zito","id":"30"}],"title":"","dates":{"created_at":"2013-09-15 04:19:26 UTC","updated_at":"2013-09-15 04:19:26 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>རྭ་ཅོ་ལས་བཟོས་པའི་སྣ་ཐ་འཐེན་བྱེད་ཀྱི་ཤུབས་ལ་ཟེར།</p>","title":""}]}
+>>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424

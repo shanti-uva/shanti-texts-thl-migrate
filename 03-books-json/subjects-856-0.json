@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"meta":{"domain":"subjects","kid":"856","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of the Supreme Way","dates":{"created_at":"2013-09-15 04:05:38 UTC","updated_at":"2013-09-15 04:05:38 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>Comprises the Dzokchen (rdzogs chen) teachings.<\/p>","title":"An Overview of the Supreme Way"}]}
+=======
+{"meta":{"domain":"subjects","kid":"856","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of the Supreme Way","dates":{"created_at":"2013-09-15 04:05:38 UTC","updated_at":"2013-09-15 04:05:38 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>Comprises the Dzokchen (rdzogs chen) teachings.</p>","title":"An Overview of the Supreme Way"}]}
+>>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424

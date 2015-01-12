@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"meta":{"domain":"subjects","kid":"6896","authors":[{"fullname":"Ben Nourse","id":"13"}],"title":"Tibet Heritage Fund material type","dates":{"created_at":"2013-09-15 04:19:37 UTC","updated_at":"2013-09-15 04:19:37 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>\"Mud\" is a building material type specified in the Tibet Heritage Fund database.<\/p>","title":"Tibet Heritage Fund material type"}]}
+=======
+{"meta":{"domain":"subjects","kid":"6896","authors":[{"fullname":"Ben Nourse","id":"13"}],"title":"Tibet Heritage Fund material type","dates":{"created_at":"2013-09-15 04:19:37 UTC","updated_at":"2013-09-15 04:19:37 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>\"Mud\" is a building material type specified in the Tibet Heritage Fund database.</p>","title":"Tibet Heritage Fund material type"}]}
+>>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424

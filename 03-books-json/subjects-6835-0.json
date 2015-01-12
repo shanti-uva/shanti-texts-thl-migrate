@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"meta":{"domain":"subjects","kid":"6835","authors":[{"fullname":"Matthew Zito","id":"30"}],"title":"","dates":{"created_at":"2013-09-15 04:19:30 UTC","updated_at":"2013-09-15 04:19:30 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>\u0f66\u0fa6\u0fb2\u0f0b\u0f53\u0f42\u0f0b\u0f66\u0f7c\u0f42\u0f66\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f66\u0f9f\u0f7a\u0f44\u0f0b\u0f53\u0f0b\u0f61\u0f7c\u0f51\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f66\u0f92\u0f7c\u0f0b\u0f64\u0f62\u0f0b\u0f63\u0f0b\u0f5f\u0f7a\u0f62\u0f0d \u0f42\u0f61\u0f42\u0f0b\u0f62\u0fa9\u0f72\u0f51\u0f0b\u0f63\u0f66\u0f0b\u0f56\u0f5f\u0f7c\u0f66\u0f0b\u0f54\u0f0b\u0f61\u0f72\u0f53\u0f0d<\/p>","title":""}]}
+=======
+{"meta":{"domain":"subjects","kid":"6835","authors":[{"fullname":"Matthew Zito","id":"30"}],"title":"","dates":{"created_at":"2013-09-15 04:19:30 UTC","updated_at":"2013-09-15 04:19:30 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>སྦྲ་ནག་སོགས་ཀྱི་སྟེང་ན་ཡོད་པའི་སྒོ་ཤར་ལ་ཟེར། གཡག་རྩིད་ལས་བཟོས་པ་ཡིན།</p>","title":""}]}
+>>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424

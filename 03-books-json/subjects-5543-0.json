@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"meta":{"domain":"subjects","kid":"5543","authors":[{"fullname":"Steve Weinberger","id":"3"}],"title":"","dates":{"created_at":"2013-09-15 04:16:37 UTC","updated_at":"2013-09-15 04:16:37 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>\u0f66\u0f7a\u0f62\u0f0b\u0f41\u0fb1\u0f72\u0f58\u0f0b might be a householder who wears yellow but is a specialist in divination<\/p>","title":""}]}
+=======
+{"meta":{"domain":"subjects","kid":"5543","authors":[{"fullname":"Steve Weinberger","id":"3"}],"title":"","dates":{"created_at":"2013-09-15 04:16:37 UTC","updated_at":"2013-09-15 04:16:37 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>སེར་ཁྱིམ་ might be a householder who wears yellow but is a specialist in divination</p>","title":""}]}
+>>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424

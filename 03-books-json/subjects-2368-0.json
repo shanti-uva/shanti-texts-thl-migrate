@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"meta":{"domain":"subjects","kid":"2368","authors":[{"fullname":"Jos\u00e9 I. Cabez\u00f3n","id":"7"}],"title":"","dates":{"created_at":"2013-09-15 04:09:31 UTC","updated_at":"2013-09-15 04:09:31 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>Ex: \u2018Dod lha sna tshogs kyi bstod tshogs gsol \u2018debs (W1997) (Also Praise)<\/p>","title":""}]}
+=======
+{"meta":{"domain":"subjects","kid":"2368","authors":[{"fullname":"José I. Cabezón","id":"7"}],"title":"","dates":{"created_at":"2013-09-15 04:09:31 UTC","updated_at":"2013-09-15 04:09:31 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>Ex: ‘Dod lha sna tshogs kyi bstod tshogs gsol ‘debs (W1997) (Also Praise)</p>","title":""}]}
+>>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424

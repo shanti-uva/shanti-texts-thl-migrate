@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"meta":{"domain":"subjects","kid":"4110","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of the Second Administrative Unit","dates":{"created_at":"2013-09-15 04:12:50 UTC","updated_at":"2013-09-15 04:12:50 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>Second order administrative division of Bhutan<\/p>","title":"An Overview of the Second Administrative Unit"}]}
+=======
+{"meta":{"domain":"subjects","kid":"4110","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of the Second Administrative Unit","dates":{"created_at":"2013-09-15 04:12:50 UTC","updated_at":"2013-09-15 04:12:50 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>Second order administrative division of Bhutan</p>","title":"An Overview of the Second Administrative Unit"}]}
+>>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424

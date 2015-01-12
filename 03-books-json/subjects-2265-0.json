@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"meta":{"domain":"subjects","kid":"2265","authors":[{"fullname":"Jos\u00e9 I. Cabez\u00f3n","id":"7"}],"title":"","dates":{"created_at":"2013-09-15 04:09:11 UTC","updated_at":"2013-09-15 04:09:11 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>phyag mchod [TBRC T2265]. This often means \u201cprostration and offering\u201d. Ex: Khro bo\u2019i lha tshogs rnams phyag \u2018tshol ba\u2019i cho ga in rNying ma rgyud \u2018bum <\/p>","title":""}]}
+=======
+{"meta":{"domain":"subjects","kid":"2265","authors":[{"fullname":"José I. Cabezón","id":"7"}],"title":"","dates":{"created_at":"2013-09-15 04:09:11 UTC","updated_at":"2013-09-15 04:09:11 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>phyag mchod [TBRC T2265]. This often means “prostration and offering”. Ex: Khro bo’i lha tshogs rnams phyag ‘tshol ba’i cho ga in rNying ma rgyud ‘bum </p>","title":""}]}
+>>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424

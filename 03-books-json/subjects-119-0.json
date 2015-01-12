@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"meta":{"domain":"subjects","kid":"119","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Introduction to Tibetan Literary Genres","dates":{"created_at":"2013-09-15 04:03:35 UTC","updated_at":"2013-09-15 04:03:35 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>This documents the various genres of Tibetan literature in historical and contemporary forms.<\/p>","title":"An Introduction to Tibetan Literary Genres"}]}
+=======
+{"meta":{"domain":"subjects","kid":"119","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Introduction to Tibetan Literary Genres","dates":{"created_at":"2013-09-15 04:03:35 UTC","updated_at":"2013-09-15 04:03:35 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>This documents the various genres of Tibetan literature in historical and contemporary forms.</p>","title":"An Introduction to Tibetan Literary Genres"}]}
+>>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424

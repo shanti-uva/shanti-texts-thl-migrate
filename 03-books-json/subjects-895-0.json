@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"meta":{"domain":"subjects","kid":"895","authors":[{"fullname":"Steve Weinberger","id":"3"}],"title":"An Overview of the Tropu Kagy\u00fc Tradition","dates":{"created_at":"2013-09-15 04:05:48 UTC","updated_at":"2013-09-15 04:05:48 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>The Tropu Kagy\u00fc (khro phu bka' brgyud) order was named for Tropu (khro phu) Monastery in Tsang (gtsang), Central Tibet, founded in 1171 by Gyeltsa Rinchen G\u00f6n (rgyal tsha rin chen mgon, 1118-1195).<\/p>","title":"An Overview of the Tropu Kagy\u00fc Tradition"}]}
+=======
+{"meta":{"domain":"subjects","kid":"895","authors":[{"fullname":"Steve Weinberger","id":"3"}],"title":"An Overview of the Tropu Kagyü Tradition","dates":{"created_at":"2013-09-15 04:05:48 UTC","updated_at":"2013-09-15 04:05:48 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>The Tropu Kagyü (khro phu bka' brgyud) order was named for Tropu (khro phu) Monastery in Tsang (gtsang), Central Tibet, founded in 1171 by Gyeltsa Rinchen Gön (rgyal tsha rin chen mgon, 1118-1195).</p>","title":"An Overview of the Tropu Kagyü Tradition"}]}
+>>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424

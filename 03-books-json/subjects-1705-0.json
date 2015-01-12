@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"meta":{"domain":"subjects","kid":"1705","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of the Miscellaneous Feature","dates":{"created_at":"2013-09-15 04:07:30 UTC","updated_at":"2013-09-15 04:07:30 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>This category should be used when you have a feature but are unsure what type of feature it is.<\/p>","title":"An Overview of the Miscellaneous Feature"}]}
+=======
+{"meta":{"domain":"subjects","kid":"1705","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of the Miscellaneous Feature","dates":{"created_at":"2013-09-15 04:07:30 UTC","updated_at":"2013-09-15 04:07:30 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>This category should be used when you have a feature but are unsure what type of feature it is.</p>","title":"An Overview of the Miscellaneous Feature"}]}
+>>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424

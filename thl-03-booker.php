@@ -81,10 +81,15 @@ function extract_nodes($body) {
   $pages[$page_index]['parent_index'] = -1;
   $page_level = array();
   foreach ($els as $el) {
+  
+    # Only process elements at the right level
     if ($el->indent() != $indent) continue;
+
+    # Only process real elements (e.g. skip ~text~)
     $tag = $el->getTag();
     if (preg_match("/~/",$tag)) continue;
-    print "TAG: $tag\n";
+  
+    # Process the element, treating headers 
     $class = $el->attributes['class'];
     $index = $el->index();
     if (preg_match("/^h(\d)/",$tag,$matches)) {

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"meta":{"domain":"subjects","kid":"295","authors":[{"fullname":"David Germano","id":"2"}],"title":"","dates":{"created_at":"2013-09-15 04:03:59 UTC","updated_at":"2013-09-15 04:03:59 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>Examples: \u0f49\u0f72\u0f66\u0f0b\u0f56\u0f62\u0f92\u0fb1\u0f0b, \u0f66\u0f7c\u0f0b\u0f45\u0f72\u0f42, \u0f56\u0f62\u0f92\u0fb1\u0f51\u0f0b<\/p>","title":""}]}
+=======
+{"meta":{"domain":"subjects","kid":"295","authors":[{"fullname":"David Germano","id":"2"}],"title":"","dates":{"created_at":"2013-09-15 04:03:59 UTC","updated_at":"2013-09-15 04:03:59 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>Examples: ཉིས་བརྒྱ་, སོ་ཅིག, བརྒྱད་</p>","title":""}]}
+>>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
