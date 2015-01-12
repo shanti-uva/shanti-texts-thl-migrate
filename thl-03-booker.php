@@ -51,13 +51,13 @@ foreach ($dirlist as $line) {
     $book['meta']['title']                = $title;
     $book['meta']['dates']['created_at']  = $desc->created_at;
     $book['meta']['dates']['updated_at']  = $desc->updated_at;  
-    $book['nodes'] = extract_nodes($desc->content, $domain, $kid); 
+    $book['nodes'] = extract_nodes($desc->content); 
     $book['nodes'][0]['title'] = $book['meta']['title']; 
     file_put_contents("$outdir/$domain-$kid-$desc_n.json",json_encode($book, JSON_UNESCAPED_UNICODE + JSON_UNESCAPED_SLASHES));
   }
 }
 
-function extract_nodes($body, $domain, $kid) {
+function extract_nodes($body) {
   
   # Create an XML tree
   $dom = str_get_dom($body);
@@ -114,7 +114,10 @@ function extract_nodes($body, $domain, $kid) {
     print "$page_index -- NO TITLE\n";
     // Use meta title ... but not yet set ... Actually, this is caught in the importer
   }
-    
+   
+  # Maybe this will prevent the script for causing a core dump
+  unset($dom);
+  
   return $pages;
 }
 

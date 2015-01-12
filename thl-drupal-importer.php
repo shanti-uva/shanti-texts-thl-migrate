@@ -17,8 +17,8 @@ nodes = []
   body = ''
     
 */
-
-$filemask = 'places-*.json'; 
+$min_kid = 1853; # To allow skipping successful imports
+$filemask = 'subjects-*.json'; 
 $dir = '~/WORK/shanti-texts-thl-migrate/03-books-json';
 print "Attempting to import files from $dir/$filemask ...\n";
 exec("ls $dir/$filemask", $filenames);
@@ -26,14 +26,17 @@ $kmap_fields = array();
 $kmap_fields['subjects']  = 'field_kmap_term';
 $kmap_fields['places']    = 'field_kmap_places';
 foreach ($filenames as $filename) {
-  echo $filename . "\n";
+  print $filename . "\n";
   $book = file_get_contents($filename);
   $book = json_decode($book);
   $kid = $book->meta->kid;
   $domain = $book->meta->domain;
   if (!$domain || !$kid) {
     print "Missing key for $filename: DOMAIN=$domain, KID=$kid\n";
-    print_r($book);
+    continue;
+  }
+  if ($kid < $min_kid) {
+    print "Skipping ...\n";
     continue;
   }
   $key = "$domain-$kid";
@@ -137,6 +140,7 @@ foreach ($filenames as $filename) {
     node_save($node);
     $RECORD[$index]['nid']  = $node->nid;
     $RECORD[$index]['mlid'] = $node->book['mlid'];
+    print "Created " . $node->nid . "\n";
   }
 
 }
