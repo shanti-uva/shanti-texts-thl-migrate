@@ -1,7 +1,5 @@
 <?php
 
-define('MAX_FILE_SIZE', 600000);
-
 include("ganon.php");
 
 // Where to get and put files
@@ -35,7 +33,7 @@ foreach ($dirlist as $line) {
   $dir      = $matches[1];
   $filename = $matches[2];
   $domain   = $matches[3];
-  $kid      = $matches[4];
+  $kid      = $matches[4];  
   $doc = json_decode(file_get_contents($line));
   $desc_n = -1;
   foreach ($doc->descriptions as $desc) {
