@@ -1,5 +1,7 @@
 <?php
 
+define('MAX_FILE_SIZE', 600000);
+
 include("ganon.php");
 
 // Where to get and put files
