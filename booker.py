@@ -9,27 +9,20 @@ class Booker:
     self.losers = losers
     
   def proc(self):
-
     for filename in os.listdir(self.srcdir):
-    
       if not(re.match('(places|subjects)-(\d+)\.json',filename)): continue
-
       fparts       = re.split(r'[.-]',filename)
       self.domain  = fparts[0]
       self.kid     = fparts[1]
       fdata        = open(self.srcdir+'/'+filename,'r').read()
       doc         = []
-
       try:    
         doc = json.loads(fdata,encoding='utf-8')
       except:
         print self.domain,self.kid,"not a doc"
         continue
-      
       for n, desc in enumerate(doc['descriptions']):
-
         book = Book()
-        
         book.title    = desc.get('title')
         book.date     = desc.get('created_at')
         book.authors  = desc.get('authors')
@@ -39,7 +32,6 @@ class Booker:
         book.desc_n   = n
         book.outdir   = self.outdir
         book.losers   = self.losers
-        
         book.make_nodes()
         book.print_jdoc() # Maybe make this a method of Booker
         del book

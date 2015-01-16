@@ -59,7 +59,8 @@ foreach ($filenames as $filename) {
     $node->field_book_content[$node->language][0]['value'] = $body;
     $node->field_book_content[$node->language][0]['format'] = 'ckeditor_full';
     
-    # IF NO PARENT, CREATE A BOOK
+    # IF NO PARENT, CREATE A BOOK -- ACTUALLY, CREATE A 
+    # BOOK BEFORE THIS AND JUST APPEND A NEW CHILD
     if ($parent == -1) {
     
       # AUTHORS
