@@ -1,8 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>Some texts have overarching divisions which then each consist of one or more sub-divisions.</p>
-", 
+   "body": "<p>Some texts have overarching divisions which then each consist of one or more sub-divisions.</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "An Overview of the Section Division Section"

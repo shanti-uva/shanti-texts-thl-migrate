@@ -1,10 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>
-  <span>This is a collection of quite short texts that are among the earliest strata of Dzokchen (<span class=\"tibetan\" title=\"Type ID here\">rdzogs chen</span>) literature.</span>
-</p>
-", 
+   "body": "<p><span>This is a collection of quite short texts that are among the earliest strata of Dzokchen (<span class=\"tibetan\" title=\"Type ID here\">rdzogs chen</span>) literature.</span></p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "An Overview of the Eighteen Mind Series Texts"

@@ -1,8 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>This represents spellings which are based in traditional literary spellings of a word, but modify it to try to also account for the contemporary pronunciation in a given dialect.</p>
-", 
+   "body": "<p>This represents spellings which are based in traditional literary spellings of a word, but modify it to try to also account for the contemporary pronunciation in a given dialect.</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "An Overview of the Modified Literary Spelling Type"

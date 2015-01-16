@@ -1,8 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>beer dispenser</p>
-", 
+   "body": "<p>beer dispenser</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "About Beer Dispenser"

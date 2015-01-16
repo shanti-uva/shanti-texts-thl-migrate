@@ -1,10 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p class=\"Paragraph\">The Tibetan noun phrase minimally consists of a head noun, and may also contain pre-head and post-head dependents, that is, modifiers that either precede or follow the head noun. The basic structure of a noun phrase can be schematized as follows:</p>
-<p class=\"Paragraph\">Pre-nominal Modifiers* &gt; Noun &gt; Adjectives* &gt; Determinatives* &gt; Case</p>
-<p class=\"Paragraph\">The sign * means that there may be more than one such item. Other items occur no more than once. In the “Nouns and Noun Phrases” section of this Reference Grammar, each of these components of the will be discussed.</p>
-", 
+   "body": "<p class=\"Paragraph\">The Tibetan noun phrase minimally consists of a head noun, and may also contain pre-head and post-head dependents, that is, modifiers that either precede or follow the head noun. The basic structure of a noun phrase can be schematized as follows:</p><p class=\"Paragraph\">Pre-nominal Modifiers* &gt; Noun &gt; Adjectives* &gt; Determinatives* &gt; Case</p><p class=\"Paragraph\">The sign * means that there may be more than one such item. Other items occur no more than once. In the “Nouns and Noun Phrases” section of this Reference Grammar, each of these components of the will be discussed.</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "About Nouns and Noun Phrases"

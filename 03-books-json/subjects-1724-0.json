@@ -1,8 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>Examples: <span class=\"tibetan\" title=\"Type ID here\">ནོ་</span>, <span class=\"tibetan\" title=\"Type ID here\">དོ་</span>,<span class=\"tibetan\" title=\"Type ID here\"> ངོ་</span></p>
-", 
+   "body": "<p>Examples: <span class=\"tibetan\" title=\"Type ID here\">ནོ་</span>, <span class=\"tibetan\" title=\"Type ID here\">དོ་</span>,<span class=\"tibetan\" title=\"Type ID here\"> ངོ་</span></p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "About Final Sentence Particles"

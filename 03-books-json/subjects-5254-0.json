@@ -1,10 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p class=\"Paragraph\">This is the most polite form in which to phrase a command or a request. It is used only with honorifics, and takes the present-future (not the imperative) form of the verb.</p>
-<ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཕེབས་རོགས་གནང་།</span> “Please go,” or “Please come.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">གསུངས་རོགས་གནང་།</span> “Please say.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">བཞུགས་རོགས་གནང་།</span> “Please stay.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">མཆོད་རོགས་གནང་།</span> “Please eat.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">བཀག་རོགས་གནང་།</span> “Please stop (the car, the dog, etc.).”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཞུ་རོགས་གནང་།</span> “Please ask.”</li> </ul>
-<p class=\"Paragraph\"><em>Note</em>: There is also the non-honorific version <span class=\"tibetan\" title=\"Type ID here\">རོགས་བྱེད་</span>.</p>
-", 
+   "body": "<p class=\"Paragraph\">This is the most polite form in which to phrase a command or a request. It is used only with honorifics, and takes the present-future (not the imperative) form of the verb.</p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཕེབས་རོགས་གནང་།</span> “Please go,” or “Please come.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">གསུངས་རོགས་གནང་།</span> “Please say.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">བཞུགས་རོགས་གནང་།</span> “Please stay.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">མཆོད་རོགས་གནང་།</span> “Please eat.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">བཀག་རོགས་གནང་།</span> “Please stop (the car, the dog, etc.).”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཞུ་རོགས་གནང་།</span> “Please ask.”</li> </ul><p class=\"Paragraph\"><em>Note</em>: There is also the non-honorific version <span class=\"tibetan\" title=\"Type ID here\">རོགས་བྱེད་</span>.</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "About The Expression རོགས་གནང་"

@@ -1,9 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p class=\"Paragraph\">The “receptive” auxiliary<span class=\"tibetan\" title=\"Type ID here\"> བྱུང་</span> is used only in the past tense. This auxiliary is associated with the first-person pronoun, whether this be the subject (“I”), the object (“me”), the indirect (“to me”), or an adverbial (“at my place,” etc.).</p>
-<ul> <li><span class=\"tibetan\" title=\"Type ID here\">ང་ན་བྱུང་། </span>“I fell ill.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁོང་ང་ལ་ཁ་པར་བཏང་བྱུང་། </span>“He phoned me.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཨ་ཁུ་ལགས་མཇལ་བྱུང་།</span> “I met our uncle.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁོང་ངའི་རྩ་ལ་ཕེབས་བྱུང་།</span> “He came to my place.”</li> </ul>
-", 
+   "body": "<p class=\"Paragraph\">The “receptive” auxiliary<span class=\"tibetan\" title=\"Type ID here\"> བྱུང་</span> is used only in the past tense. This auxiliary is associated with the first-person pronoun, whether this be the subject (“I”), the object (“me”), the indirect (“to me”), or an adverbial (“at my place,” etc.).</p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">ང་ན་བྱུང་། </span>“I fell ill.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁོང་ང་ལ་ཁ་པར་བཏང་བྱུང་། </span>“He phoned me.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཨ་ཁུ་ལགས་མཇལ་བྱུང་།</span> “I met our uncle.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁོང་ངའི་རྩ་ལ་ཕེབས་བྱུང་།</span> “He came to my place.”</li> </ul>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "About The Receptive Egophoric Past Tense Auxiliary བྱུང་"

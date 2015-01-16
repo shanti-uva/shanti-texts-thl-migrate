@@ -1,9 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>A report signifies a factual account of some event or circumstance. Examples of reports include news reports, essays, and commentaries.</p>
-<p>The Open Language Archives Community (OLAC) standards also term this \"report.\"</p>
-", 
+   "body": "<p>A report signifies a factual account of some event or circumstance. Examples of reports include news reports, essays, and commentaries.</p><p>The Open Language Archives Community (OLAC) standards also term this \"report.\"</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "An Overview of the Report Speech Type"

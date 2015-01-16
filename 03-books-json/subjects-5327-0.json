@@ -1,8 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<ul> <li><span class=\"tibetan\" title=\"Type ID here\">པུ་ར་</span> “All” (<em>pura</em>)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཅི་ནི་</span> “Sugar” (<em>cini</em>)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ག་རི་</span> “Car” (<em>ghari</em>)</li> <li><span class=\"tibetan\" title=\"Type ID here\">རྐང་ག་རིལ་</span> “Bicycle” (from <span class=\"tibetan\" title=\"Type ID here\">རྐང་</span>, the Tibetan for “foot” or “leg,” and <em>ghari, </em>Hindi for “car,” “vehicle”)</li> </ul>
-", 
+   "body": "<ul> <li><span class=\"tibetan\" title=\"Type ID here\">པུ་ར་</span> “All” (<em>pura</em>)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཅི་ནི་</span> “Sugar” (<em>cini</em>)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ག་རི་</span> “Car” (<em>ghari</em>)</li> <li><span class=\"tibetan\" title=\"Type ID here\">རྐང་ག་རིལ་</span> “Bicycle” (from <span class=\"tibetan\" title=\"Type ID here\">རྐང་</span>, the Tibetan for “foot” or “leg,” and <em>ghari, </em>Hindi for “car,” “vehicle”)</li> </ul>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "About From Hindi"

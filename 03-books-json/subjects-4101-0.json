@@ -1,8 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>Many of the full-fledged Knowledge Maps are used to provide controlled vocabulary within THL applications, in additon to their function as maps of areas of knowledge that can be browsed in their own right. In addition, there are other \"knowledge maps\" which are just simple lists of items used as controlled vocabulary in such applications.  These may involve only a few options in one level, and so are not knowledge maps proper. Thus we have categorized those shallow controlled vocabulary schemes under a single header called \"Controlled Vocabulary Schemes\".</p>
-", 
+   "body": "<p>Many of the full-fledged Knowledge Maps are used to provide controlled vocabulary within THL applications, in additon to their function as maps of areas of knowledge that can be browsed in their own right. In addition, there are other \"knowledge maps\" which are just simple lists of items used as controlled vocabulary in such applications.  These may involve only a few options in one level, and so are not knowledge maps proper. Thus we have categorized those shallow controlled vocabulary schemes under a single header called \"Controlled Vocabulary Schemes\".</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "An Introduction to the THL Controlled Vocabulary Scheme"

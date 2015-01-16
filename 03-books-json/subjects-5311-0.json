@@ -1,9 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p class=\"Paragraph\">This particle, which is essentially a part of speech derived from the noun meaning “cause,” is used with a head noun that operates as an object or else as the subject of an intransitive verb. It often carries the modal meaning “to have to.”</p>
-<ul> <li><span class=\"tibetan\" title=\"Type ID here\">རྒྱ་གར་ནས་འབྱོར་རྒྱུའི་བླ་མ་རྣམས་འབྲས་སྤུངས་ལ་བཞུགས་ཀྱི་རེད།</span> “The lamas who are to come from India will reside at Drepung.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">གང་བསྐྱབས་པར་བྱ་རྒྱུའི་སེམས་ཅན་ལས་ངན་དེ་ལ་སྙིང་རྗེ་(བསྐྱེད་དགོས་)།</span> “(One should generate) compassion for living beings with bad karma that are to be protected.”</li> </ul>
-", 
+   "body": "<p class=\"Paragraph\">This particle, which is essentially a part of speech derived from the noun meaning “cause,” is used with a head noun that operates as an object or else as the subject of an intransitive verb. It often carries the modal meaning “to have to.”</p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">རྒྱ་གར་ནས་འབྱོར་རྒྱུའི་བླ་མ་རྣམས་འབྲས་སྤུངས་ལ་བཞུགས་ཀྱི་རེད།</span> “The lamas who are to come from India will reside at Drepung.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">གང་བསྐྱབས་པར་བྱ་རྒྱུའི་སེམས་ཅན་ལས་ངན་དེ་ལ་སྙིང་རྗེ་(བསྐྱེད་དགོས་)།</span> “(One should generate) compassion for living beings with bad karma that are to be protected.”</li> </ul>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "About The Nominalizer རྒྱུ་"

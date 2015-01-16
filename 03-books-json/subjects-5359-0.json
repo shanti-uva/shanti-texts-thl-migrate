@@ -1,9 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p class=\"Paragraph\">This is used instead of the auxiliary (or copula) <span class=\"tibetan\" title=\"Type ID here\">རེད་</span>.</p>
-<ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཐུབ་བསྟན་ཡིན་པ་རེད།</span> “Ah, it’s Tupten!” (I hadn’t realized.)</li> <li><span class=\"tibetan\" title=\"Type ID here\">འབྲོག་པ་ཡིན་པ་རེད།</span> “Oh, it’s a nomad.” (I hadn’t thought so.)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཨ་ལའི་སྨྱོན་པ་ཡིན་པ་རེད།</span> “So, he’s crazy!” (I didn’t know that.)</li> </ul>
-", 
+   "body": "<p class=\"Paragraph\">This is used instead of the auxiliary (or copula) <span class=\"tibetan\" title=\"Type ID here\">རེད་</span>.</p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཐུབ་བསྟན་ཡིན་པ་རེད།</span> “Ah, it’s Tupten!” (I hadn’t realized.)</li> <li><span class=\"tibetan\" title=\"Type ID here\">འབྲོག་པ་ཡིན་པ་རེད།</span> “Oh, it’s a nomad.” (I hadn’t thought so.)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཨ་ལའི་སྨྱོན་པ་ཡིན་པ་རེད།</span> “So, he’s crazy!” (I didn’t know that.)</li> </ul>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "About The “Self-Corrective” Essential Verb ཡིན་པ་རེད་"

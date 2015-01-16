@@ -1,8 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>This is a cave that houses a shrine, statue, stupa, or other object of veneration. It may be used for worship.  A cave temple can be a single separate cave but it will often be part of a cave complex.</p>
-", 
+   "body": "<p>This is a cave that houses a shrine, statue, stupa, or other object of veneration. It may be used for worship.  A cave temple can be a single separate cave but it will often be part of a cave complex.</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "About Cave Temple"

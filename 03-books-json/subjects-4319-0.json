@@ -1,9 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>\"Interview\" signifies verbal exchange between two or more people that is structured by questions and answers, and usually has a formal goal in mind, such as a newspaper article, survey, job application, or television interview.</p>
-<p>The Open Language Archives Community (OLAC) standards combine this with \"conversation\" under the header of \"interactive discourse\"</p>
-", 
+   "body": "<p>\"Interview\" signifies verbal exchange between two or more people that is structured by questions and answers, and usually has a formal goal in mind, such as a newspaper article, survey, job application, or television interview.</p><p>The Open Language Archives Community (OLAC) standards combine this with \"conversation\" under the header of \"interactive discourse\"</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "An Overview of the Interview Speech Type"

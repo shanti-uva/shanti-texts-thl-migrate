@@ -1,8 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<ul> <li><span class=\"tibetan\" title=\"Type ID here\">འཛིན་བཟུང་</span> “Capture” (seize-hold)</li> <li><span class=\"tibetan\" title=\"Type ID here\">མཇལ་ཕྲད་</span> “Encounter” (meet [H]-meet)</li> <li><span class=\"tibetan\" title=\"Type ID here\">གསུང་བཤད་</span> “Speech,” “discourse” (say [H]-say)</li> <li><span class=\"tibetan\" title=\"Type ID here\">འཕེལ་རྒྱས་</span> “Development” (increase-spread)</li> <li><span class=\"tibetan\" title=\"Type ID here\">བཀག་འགོག་</span> “Obstruction” (stop [past]-stop [present])</li> <li><span class=\"tibetan\" title=\"Type ID here\">འཛུག་སྐྲུན་</span> “Construction” (establish-construct)</li> </ul>
-", 
+   "body": "<ul> <li><span class=\"tibetan\" title=\"Type ID here\">འཛིན་བཟུང་</span> “Capture” (seize-hold)</li> <li><span class=\"tibetan\" title=\"Type ID here\">མཇལ་ཕྲད་</span> “Encounter” (meet [H]-meet)</li> <li><span class=\"tibetan\" title=\"Type ID here\">གསུང་བཤད་</span> “Speech,” “discourse” (say [H]-say)</li> <li><span class=\"tibetan\" title=\"Type ID here\">འཕེལ་རྒྱས་</span> “Development” (increase-spread)</li> <li><span class=\"tibetan\" title=\"Type ID here\">བཀག་འགོག་</span> “Obstruction” (stop [past]-stop [present])</li> <li><span class=\"tibetan\" title=\"Type ID here\">འཛུག་སྐྲུན་</span> “Construction” (establish-construct)</li> </ul>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "About Compounds Consisting of Two Synonymous Verbs"

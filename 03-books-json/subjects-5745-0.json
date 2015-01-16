@@ -1,8 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>chef</p>
-", 
+   "body": "<p>chef</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "About Chef"

@@ -46,7 +46,7 @@ class Booker:
         book.outdir   = self.outdir
         #book.losers   = self.losers
         book.make_nodes()
-        book.print_jdoc() # Maybe make this a method of Booker?
+        book.print_jdoc()
         del book
         gc.collect()
         
@@ -112,7 +112,7 @@ class Book:
           'body': ''
         })
       else: 
-        content = html.tostring(el,with_tail=0,pretty_print=1,method='xml',encoding='utf-8') # Write a cleaning function  
+        content = html.tostring(el,with_tail=0,pretty_print=0,method='html',encoding='utf-8') # Write a cleaning function  
         content = content.replace('"', '\\"')
         pages[page_index]['body'] += content 
       
@@ -126,7 +126,6 @@ class Book:
     return tree
 
   def print_jdoc(self):
-    # OK, now use the body
     outbook = {
       'meta': {
         'title':    self.title,

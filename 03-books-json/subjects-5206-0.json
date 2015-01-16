@@ -1,9 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p class=\"Paragraph\">These constructions require the use of <span class=\"tibetan\" title=\"Type ID here\">ནང་བཞིན་</span> (“as X as,” “like,” “as”), which goes after the term being compared.</p>
-<ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཇོ་ཁང་རྩེ་ཕོ་བྲང་ནང་བཞིན་མཐོ་པོ་མི་འདུག</span> “The Jokhang isn’t as high as sthe Potala.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">བུ་མོ་འདི་ཨ་མ་ནང་བཞིན་མཛེས་པོ་འདུག</span> “This girl is as beautiful as her mother.”</li> </ul>
-", 
+   "body": "<p class=\"Paragraph\">These constructions require the use of <span class=\"tibetan\" title=\"Type ID here\">ནང་བཞིན་</span> (“as X as,” “like,” “as”), which goes after the term being compared.</p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཇོ་ཁང་རྩེ་ཕོ་བྲང་ནང་བཞིན་མཐོ་པོ་མི་འདུག</span> “The Jokhang isn’t as high as sthe Potala.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">བུ་མོ་འདི་ཨ་མ་ནང་བཞིན་མཛེས་པོ་འདུག</span> “This girl is as beautiful as her mother.”</li> </ul>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "About Comparative Constructions of Equality ནང་བཞིན་"

@@ -1,9 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>\"Sermons\" signifies lectures given in a religious context on religious issues.</p>
-<p>The Open Language Archives Community (OLAC) standards combine this with lectures and speeches under the header of \"oratory.\"</p>
-", 
+   "body": "<p>\"Sermons\" signifies lectures given in a religious context on religious issues.</p><p>The Open Language Archives Community (OLAC) standards combine this with lectures and speeches under the header of \"oratory.\"</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "An Overview of the Sermon Speech Type"

@@ -1,8 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>master</p>
-", 
+   "body": "<p>master</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "About Master"

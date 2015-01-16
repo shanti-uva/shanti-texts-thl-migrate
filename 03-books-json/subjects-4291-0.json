@@ -1,9 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>Conversation signifies ordinary verbal exchange between two or more people that is not a structured context such as an interview, spontaneous singing exchanges, or such more structured contexts of exchange.</p>
-<p>The Open Language Archives Community (OLAC) standards combine this with \"interviews\" under the header of \"interactive discourse\".</p>
-", 
+   "body": "<p>Conversation signifies ordinary verbal exchange between two or more people that is not a structured context such as an interview, spontaneous singing exchanges, or such more structured contexts of exchange.</p><p>The Open Language Archives Community (OLAC) standards combine this with \"interviews\" under the header of \"interactive discourse\".</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "An Overview of the Conversation Speech Type"

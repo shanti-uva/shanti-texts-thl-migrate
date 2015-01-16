@@ -1,8 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>Unnumbered sections between sequentially numbered chapters.</p>
-", 
+   "body": "<p>Unnumbered sections between sequentially numbered chapters.</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "An Overview of the Interstitial Chapter Section"

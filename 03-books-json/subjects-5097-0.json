@@ -1,9 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p class=\"Paragraph\">This auxiliary, which is always in the negative, means “to ought not.” The preceding verb goes in the present-future.</p>
-<ul> <li><span class=\"tibetan\" title=\"Type ID here\">སི་པན་མང་པོ་ཟ་རྒྱུ་ཡོད་མ་རེད།</span> “You shouldn’t eat a lot of chili!”</li> <li><span class=\"tibetan\" title=\"Type ID here\">འདི་འདྲས་ལབ་རྒྱུ་ཡོད་མ་རེད།</span> “You ought not to speak in that way!”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁྱེད་རང་སེམས་ཁྲལ་འདི་འདྲས་བྱེད་རྒྱུ་མི་འདུག</span> “You shouldn’t worry so!”</li> </ul>
-", 
+   "body": "<p class=\"Paragraph\">This auxiliary, which is always in the negative, means “to ought not.” The preceding verb goes in the present-future.</p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">སི་པན་མང་པོ་ཟ་རྒྱུ་ཡོད་མ་རེད།</span> “You shouldn’t eat a lot of chili!”</li> <li><span class=\"tibetan\" title=\"Type ID here\">འདི་འདྲས་ལབ་རྒྱུ་ཡོད་མ་རེད།</span> “You ought not to speak in that way!”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁྱེད་རང་སེམས་ཁྲལ་འདི་འདྲས་བྱེད་རྒྱུ་མི་འདུག</span> “You shouldn’t worry so!”</li> </ul>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "About The Auxiliary རྒྱུ་ཡོད་མ་རེད་, རྒྱུ་མི་འདུག་"

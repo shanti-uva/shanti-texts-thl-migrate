@@ -1,9 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p class=\"Paragraph\">When someone hasn’t heard what the speaker has said, or wishes to make him repeat it, he can use the particle <span class=\"tibetan\" title=\"Type ID here\">ཨས་</span>, which raises a question about the preceding word. In a similar situation English would use interrogative pronouns.</p>
-<ul> <li><span class=\"tibetan\" title=\"Type ID here\">སྦྲ་གུར་ནང་ལ་ཨས།</span> “In the tent?” <span class=\"tibetan\" title=\"Type ID here\">ཡིན་དགོས་བྱུང་།</span> “Sure!”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཞལ་པར་སླེབས་སོང་།</span> <span class=\"tibetan\" title=\"Type ID here\">ཕེབས་རོགས་གནང་།</span> “There’s a phone call, come!” <span class=\"tibetan\" title=\"Type ID here\">སུ།</span> <span class=\"tibetan\" title=\"Type ID here\">ང་ཨས། </span>“Who? Me?”</li> </ul>
-", 
+   "body": "<p class=\"Paragraph\">When someone hasn’t heard what the speaker has said, or wishes to make him repeat it, he can use the particle <span class=\"tibetan\" title=\"Type ID here\">ཨས་</span>, which raises a question about the preceding word. In a similar situation English would use interrogative pronouns.</p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">སྦྲ་གུར་ནང་ལ་ཨས།</span> “In the tent?” <span class=\"tibetan\" title=\"Type ID here\">ཡིན་དགོས་བྱུང་།</span> “Sure!”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཞལ་པར་སླེབས་སོང་།</span> <span class=\"tibetan\" title=\"Type ID here\">ཕེབས་རོགས་གནང་།</span> “There’s a phone call, come!” <span class=\"tibetan\" title=\"Type ID here\">སུ།</span> <span class=\"tibetan\" title=\"Type ID here\">ང་ཨས། </span>“Who? Me?”</li> </ul>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "About The Echo Question ཨས་"

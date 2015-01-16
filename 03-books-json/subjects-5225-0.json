@@ -1,9 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p class=\"Paragraph\">This connective means “before,” and is associated with the verb in the past tense form. The verb itself must be preceded by a negation.</p>
-<ul> <li><span class=\"tibetan\" title=\"Type ID here\">ང་མ་ཕྱིན་གོང་ལ་ལས་ཀ་འདི་ཡིན་གཅིག་མིན་གཅིག་ཚར་དགོས་རེད།</span> “I really must finish this work before going.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁྱེད་རང་མ་གཟིམ་གོང་ལ་རིལ་བུ་གསུམ་མཆོད་དགོས་རེད།</span> “You should take three pills before sleeping.”</li> </ul>
-", 
+   "body": "<p class=\"Paragraph\">This connective means “before,” and is associated with the verb in the past tense form. The verb itself must be preceded by a negation.</p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">ང་མ་ཕྱིན་གོང་ལ་ལས་ཀ་འདི་ཡིན་གཅིག་མིན་གཅིག་ཚར་དགོས་རེད།</span> “I really must finish this work before going.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁྱེད་རང་མ་གཟིམ་གོང་ལ་རིལ་བུ་གསུམ་མཆོད་དགོས་རེད།</span> “You should take three pills before sleeping.”</li> </ul>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "About The Connective གོང་ལ་"

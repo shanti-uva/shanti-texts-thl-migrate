@@ -1,9 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p class=\"Paragraph\">The use of <span class=\"tibetan\" title=\"Type ID here\">མཁན་</span> is much more limited than in the spoken language. It can only modify head nouns that correspond semantically to “agents.” The marker <span class=\"tibetan\" title=\"Type ID here\">མི་</span> has a function similar to that of <span class=\"tibetan\" title=\"Type ID here\">མཁན་</span>, but it is used only in Literary Tibetan.</p>
-<ul> <li><span class=\"tibetan\" title=\"Type ID here\">ལུས་ནི་ཀུན་བྱེད་རི་མོ་མཁན་དང་འདྲ།</span> “Karma is like a draughtsman who can design anything.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">རྒྱ་གླིང་གཏོང་མཁན་གྱི་གྲྭ་པ།</span> “The monk who’s playing the shawm…”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཨ་རོག་ཟེར་མི་ཕོ་རོག་ཡིན།</span> “The one who calls me an old friend is the crow.”</li> </ul>
-", 
+   "body": "<p class=\"Paragraph\">The use of <span class=\"tibetan\" title=\"Type ID here\">མཁན་</span> is much more limited than in the spoken language. It can only modify head nouns that correspond semantically to “agents.” The marker <span class=\"tibetan\" title=\"Type ID here\">མི་</span> has a function similar to that of <span class=\"tibetan\" title=\"Type ID here\">མཁན་</span>, but it is used only in Literary Tibetan.</p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">ལུས་ནི་ཀུན་བྱེད་རི་མོ་མཁན་དང་འདྲ།</span> “Karma is like a draughtsman who can design anything.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">རྒྱ་གླིང་གཏོང་མཁན་གྱི་གྲྭ་པ།</span> “The monk who’s playing the shawm…”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཨ་རོག་ཟེར་མི་ཕོ་རོག་ཡིན།</span> “The one who calls me an old friend is the crow.”</li> </ul>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "About The Nominalizers མཁན་ and མི་"

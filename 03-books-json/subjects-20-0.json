@@ -1,8 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>This is the thesaurus of geographical features - administrative, natural, religious, and so forth - used in THL to categorize features described in its Place Dictionary. A feature thesaurus presents a typology of geographical features. These categories of geographic places thus help express the general nature of a given place. Overall, the thesaurus constitutes a hierarchical array of conceptual categories that show the relationship between different types of places.  This feature thesaurus is under constant development</p>
-", 
+   "body": "<p>This is the thesaurus of geographical features - administrative, natural, religious, and so forth - used in THL to categorize features described in its Place Dictionary. A feature thesaurus presents a typology of geographical features. These categories of geographic places thus help express the general nature of a given place. Overall, the thesaurus constitutes a hierarchical array of conceptual categories that show the relationship between different types of places.  This feature thesaurus is under constant development</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "An Introduction to the Thesaurus of Geographical Features"

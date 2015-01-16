@@ -1,8 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>test</p>
-", 
+   "body": "<p>test</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "Untitled"

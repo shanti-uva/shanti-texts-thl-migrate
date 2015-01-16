@@ -1,8 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>This is a category used just for generic purposes of grouping together features chiefly for display purposes.</p>
-", 
+   "body": "<p>This is a category used just for generic purposes of grouping together features chiefly for display purposes.</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "An Overview of the Grouping Category"

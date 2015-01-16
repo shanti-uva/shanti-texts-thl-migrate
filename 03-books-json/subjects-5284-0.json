@@ -1,8 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p class=\"Paragraph\">The marker of the definite plural <span class=\"tibetan\" title=\"Type ID here\">ཚོ་</span> is used in both Spoken and Literary Tibetan. There are, however, two other markers, <span class=\"tibetan\" title=\"Type ID here\">དག་</span> and <span class=\"tibetan\" title=\"Type ID here\">རྣམས་</span>, that occur in the literary language (and in some dialects) are hardly ever used in Standard Spoken Tibetan. The indefinite singular marker <span class=\"tibetan\" title=\"Type ID here\">ཅིག་</span> is used in both registers, but is spelled in three ways in the literary language: <span class=\"tibetan\" title=\"Type ID here\">ཞིག་</span>, <span class=\"tibetan\" title=\"Type ID here\">ཤིག་</span>, and <span class=\"tibetan\" title=\"Type ID here\">ཅིག་</span>, depending on the last letter of the preceding word (xxlink MST 6.3.1).</p>
-", 
+   "body": "<p class=\"Paragraph\">The marker of the definite plural <span class=\"tibetan\" title=\"Type ID here\">ཚོ་</span> is used in both Spoken and Literary Tibetan. There are, however, two other markers, <span class=\"tibetan\" title=\"Type ID here\">དག་</span> and <span class=\"tibetan\" title=\"Type ID here\">རྣམས་</span>, that occur in the literary language (and in some dialects) are hardly ever used in Standard Spoken Tibetan. The indefinite singular marker <span class=\"tibetan\" title=\"Type ID here\">ཅིག་</span> is used in both registers, but is spelled in three ways in the literary language: <span class=\"tibetan\" title=\"Type ID here\">ཞིག་</span>, <span class=\"tibetan\" title=\"Type ID here\">ཤིག་</span>, and <span class=\"tibetan\" title=\"Type ID here\">ཅིག་</span>, depending on the last letter of the preceding word (xxlink MST 6.3.1).</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "About Articles and Number Markers"

@@ -1,8 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>A verb with a subject and one or more objects. Examples: ཟ་བ་ (to eat), སྒྱུར་བ་ (to change something), སྙལ་བ་ (to lay something down), འབེབས་པ་ (to send something down), ལྟ་བ་ (to look at), ཉན་པ་ (to listen).</p>
-", 
+   "body": "<p>A verb with a subject and one or more objects. Examples: ཟ་བ་ (to eat), སྒྱུར་བ་ (to change something), སྙལ་བ་ (to lay something down), འབེབས་པ་ (to send something down), ལྟ་བ་ (to look at), ཉན་པ་ (to listen).</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "About Transitive"

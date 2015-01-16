@@ -1,11 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p class=\"Paragraph\">There is a clear distinction between nominal modifiers that precede the head noun and those which follow it. Pre-nominal modifiers come in a variety of categories, including nouns, clauses, and even adjectives. These all share one important morphosyntactic characteristic: they are marked by the genitive case particle <span class=\"tibetan\" title=\"Type ID here\">གི་</span> or its variants.</p>
-<p class=\"Paragraph\">Semantically, pre-nominal modifiers are ordered as follows:</p>
-<p class=\"Paragraph\">Possessor &gt; Other modifiers [relative clauses] &gt; Provenance &gt; Type/Material</p>
-<p class=\"Paragraph\">The main syntactic discrepancy for the pre-nominal modifiers is the fact that in Literary Tibetan adjectives very often occur before the noun as well as after the noun.</p>
-", 
+   "body": "<p class=\"Paragraph\">There is a clear distinction between nominal modifiers that precede the head noun and those which follow it. Pre-nominal modifiers come in a variety of categories, including nouns, clauses, and even adjectives. These all share one important morphosyntactic characteristic: they are marked by the genitive case particle <span class=\"tibetan\" title=\"Type ID here\">གི་</span> or its variants.</p><p class=\"Paragraph\">Semantically, pre-nominal modifiers are ordered as follows:</p><p class=\"Paragraph\">Possessor &gt; Other modifiers [relative clauses] &gt; Provenance &gt; Type/Material</p><p class=\"Paragraph\">The main syntactic discrepancy for the pre-nominal modifiers is the fact that in Literary Tibetan adjectives very often occur before the noun as well as after the noun.</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "About Pre-Nominal Modifiers"

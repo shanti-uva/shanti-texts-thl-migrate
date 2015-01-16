@@ -1,9 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>Drama signifies a planned performance acting out events, and typically following a written or verbal script, though it may have varying degrees of improvisation in terms of the actual words spoken.</p>
-<p>The Open Language Archives Community (OLAC) standards also term this \"drama\".</p>
-", 
+   "body": "<p>Drama signifies a planned performance acting out events, and typically following a written or verbal script, though it may have varying degrees of improvisation in terms of the actual words spoken.</p><p>The Open Language Archives Community (OLAC) standards also term this \"drama\".</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "An Overview of the Drama Speech Type"

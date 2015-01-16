@@ -1,9 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>Abbreviated Tibetan names:</p>
-<p>སློབ་གྲྭ་ཆེ་བ།<br/> སློབ་ཆེན།</p>
-", 
+   "body": "<p>Abbreviated Tibetan names:</p><p>སློབ་གྲྭ་ཆེ་བ།<br> སློབ་ཆེན།</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "About University"

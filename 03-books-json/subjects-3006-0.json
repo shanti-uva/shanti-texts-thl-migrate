@@ -1,8 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>Any building can have these attributes: compound/freestanding.</p>
-", 
+   "body": "<p>Any building can have these attributes: compound/freestanding.</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "An Overview of Buildings"

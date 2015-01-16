@@ -1,8 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>“Sections” here refers to the building blocks of a text. The major division of a text is into Front, Body, and Back. Within each of these are sub-sections that are technically called “Chapter Level Elements” (CLEs), because they are not always Body chapters but can also be sections in the Front or Back that are akin to chapters. The following sequence of nested lists shows the different chapter-level elements and their Tibetan designations. The translations were provided by Zenkar Rinpoche.</p>
-", 
+   "body": "<p>“Sections” here refers to the building blocks of a text. The major division of a text is into Front, Body, and Back. Within each of these are sub-sections that are technically called “Chapter Level Elements” (CLEs), because they are not always Body chapters but can also be sections in the Front or Back that are akin to chapters. The following sequence of nested lists shows the different chapter-level elements and their Tibetan designations. The translations were provided by Zenkar Rinpoche.</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "An Overview of the Divisions of a Tibetan Text"

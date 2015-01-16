@@ -1,8 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>This is used to indicate the general type of source from which a given item of information was derived, rather than the specific source itself. Thus, it indicates whether this information is taken from a conversation one with someone, a text one read, and so forth.</p>
-", 
+   "body": "<p>This is used to indicate the general type of source from which a given item of information was derived, rather than the specific source itself. Thus, it indicates whether this information is taken from a conversation one with someone, a text one read, and so forth.</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "An Overview of Media Source Types"

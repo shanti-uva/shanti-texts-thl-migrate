@@ -1,8 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>This is used within the Tibetan Dictionary to specify the origins of a model sentence.</p>
-", 
+   "body": "<p>This is used within the Tibetan Dictionary to specify the origins of a model sentence.</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "An Overview of the Tibetan Dictionary Sentence Types"

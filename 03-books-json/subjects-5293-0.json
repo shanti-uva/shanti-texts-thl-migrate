@@ -1,14 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p class=\"Paragraph\">The marker <span class=\"tibetan\" title=\"Type ID here\">ན་</span> has locative (without movement) case functions:</p>
-<ul> <li><span class=\"tibetan\" title=\"Type ID here\">ལག་ན་</span> “In the hand” </li> <li><span class=\"tibetan\" title=\"Type ID here\">ས་མཚམས་ན་</span> “At the border”</li> </ul>
-<p class=\"Paragraph\">And finally, apart from its meaning of “if”<a href=\"#_ftn1\">[1]</a> (as in Spoken Tibetan), it may also mean “when”:</p>
-<ul> <li><span class=\"tibetan\" title=\"Type ID here\">མེ་ཡོག་ན་དུ་བ་འབྱུང་།</span> “If there’s fire, there’s smoke.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ས་བོན་བཏབ་ན་འབྲས་བུ་སྐྱེ།</span> “If you plant a seed, a fruit will grow.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ནད་མེད་ན་སྨན་པ་ཅིའི་ཕྱིར་བསྟེན།</span> “If there’s no illness, why consult a doctor?”</li> <li><span class=\"tibetan\" title=\"Type ID here\">རྒྱ་མཚོ་མཐོང་བ་ན་ཁྲོན་པའི་སྦལ་པ་བརྒྱལ་ནས་མགོ་གས་ཏེ་ཤི་སྐད།</span> “It is said that, when it saw the ocean, the frog in the well fainted, its head burst and it died.”</li> </ul>
-<p> </p>
-<hr size=\"1\"/>
-<p><a href=\"#_ftnref1\">[1]</a> The marker <span class=\"tibetan\" title=\"Type ID here\">ན་</span> is almost always associated with the past form of the verb (when there is such a form) or the auxiliary. There are, however, some exceptions to this rule, especially in the case of negation.</p>
-", 
+   "body": "<p class=\"Paragraph\">The marker <span class=\"tibetan\" title=\"Type ID here\">ན་</span> has locative (without movement) case functions:</p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">ལག་ན་</span> “In the hand” </li> <li><span class=\"tibetan\" title=\"Type ID here\">ས་མཚམས་ན་</span> “At the border”</li> </ul><p class=\"Paragraph\">And finally, apart from its meaning of “if”<a href=\"#_ftn1\">[1]</a> (as in Spoken Tibetan), it may also mean “when”:</p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">མེ་ཡོག་ན་དུ་བ་འབྱུང་།</span> “If there’s fire, there’s smoke.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ས་བོན་བཏབ་ན་འབྲས་བུ་སྐྱེ།</span> “If you plant a seed, a fruit will grow.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ནད་མེད་ན་སྨན་པ་ཅིའི་ཕྱིར་བསྟེན།</span> “If there’s no illness, why consult a doctor?”</li> <li><span class=\"tibetan\" title=\"Type ID here\">རྒྱ་མཚོ་མཐོང་བ་ན་ཁྲོན་པའི་སྦལ་པ་བརྒྱལ་ནས་མགོ་གས་ཏེ་ཤི་སྐད།</span> “It is said that, when it saw the ocean, the frog in the well fainted, its head burst and it died.”</li> </ul><p> </p><hr size=\"1\"><p><a href=\"#_ftnref1\">[1]</a> The marker <span class=\"tibetan\" title=\"Type ID here\">ན་</span> is almost always associated with the past form of the verb (when there is such a form) or the auxiliary. There are, however, some exceptions to this rule, especially in the case of negation.</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "About Functions of the Marker ན་"

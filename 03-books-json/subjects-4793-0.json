@@ -1,11 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p class=\"Paragraph\">As a general rule, the verb in the main clause requires an auxiliary. However, the verb in subordinate clauses is usually followed directly by the subordinator or connective.</p>
-<p class=\"Paragraph\">Moreover, auxiliaries are not used in cases where a series of actions is being enumerated:</p>
-<ul> <li><span class=\"tibetan\" title=\"Type ID here\">འབེན་གཅིག་ལ་གཏུང་བཙུགས། གཅིག་ལ་མདའ་བརྒྱབ། གཅིག་ལ་མེ་མདའ་བརྒྱབ་དགོས་རེད།</span> “(The riders) have to stick a spear into the first target, shoot an arrow into the second, and fire a gun at the third!”</li> </ul>
-<p class=\"Paragraph\">In this example, the verbs<span class=\"tibetan\" title=\"Type ID here\"> མདའ་བརྒྱབ་ </span>“to shoot an arrow” and<span class=\"tibetan\" title=\"Type ID here\"> གཏུང་བཙུགས་ </span>“to plant a spear” are not followed by auxiliaries. Only the last verb in the list has an auxiliary.</p>
-", 
+   "body": "<p class=\"Paragraph\">As a general rule, the verb in the main clause requires an auxiliary. However, the verb in subordinate clauses is usually followed directly by the subordinator or connective.</p><p class=\"Paragraph\">Moreover, auxiliaries are not used in cases where a series of actions is being enumerated:</p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">འབེན་གཅིག་ལ་གཏུང་བཙུགས། གཅིག་ལ་མདའ་བརྒྱབ། གཅིག་ལ་མེ་མདའ་བརྒྱབ་དགོས་རེད།</span> “(The riders) have to stick a spear into the first target, shoot an arrow into the second, and fire a gun at the third!”</li> </ul><p class=\"Paragraph\">In this example, the verbs<span class=\"tibetan\" title=\"Type ID here\"> མདའ་བརྒྱབ་ </span>“to shoot an arrow” and<span class=\"tibetan\" title=\"Type ID here\"> གཏུང་བཙུགས་ </span>“to plant a spear” are not followed by auxiliaries. Only the last verb in the list has an auxiliary.</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "About Omitting the Verbal Auxiliary"

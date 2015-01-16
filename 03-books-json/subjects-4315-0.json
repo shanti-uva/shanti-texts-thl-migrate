@@ -1,8 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>Difficulty level allows one to specify how difficult a given item is based upon a specified criteria. For example, in cataloging audio-video recordings, it can be used to specify how difficult the language is for a language learner.</p>
-", 
+   "body": "<p>Difficulty level allows one to specify how difficult a given item is based upon a specified criteria. For example, in cataloging audio-video recordings, it can be used to specify how difficult the language is for a language learner.</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "An Overview of Vocabulary Difficulty Level"

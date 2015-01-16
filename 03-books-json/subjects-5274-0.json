@@ -1,8 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<ul> <li><span class=\"tibetan\" title=\"Type ID here\">ང་</span>, <span class=\"tibetan\" title=\"Type ID here\">བདག་</span> (L)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ངེད་</span> (L, Elegant)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ངོས་</span> (L, Elegant)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཕྲན་</span> (L, H)</li> <li><span class=\"tibetan\" title=\"Type ID here\">གུས་པ་</span> (L, H, Masculine)</li> <li><span class=\"tibetan\" title=\"Type ID here\">གུས་མོ་</span> (L, H, Feminine)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁོ་བོ་</span> (L, Masculine)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁོ་མོ་</span> (L, Feminine)</li> <li><span class=\"tibetan\" title=\"Type ID here\">རང་ཉིད་</span>, <span class=\"tibetan\" title=\"Type ID here\">འུ་གུ་</span> (L, Archaic)</li> </ul>
-", 
+   "body": "<ul> <li><span class=\"tibetan\" title=\"Type ID here\">ང་</span>, <span class=\"tibetan\" title=\"Type ID here\">བདག་</span> (L)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ངེད་</span> (L, Elegant)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ངོས་</span> (L, Elegant)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཕྲན་</span> (L, H)</li> <li><span class=\"tibetan\" title=\"Type ID here\">གུས་པ་</span> (L, H, Masculine)</li> <li><span class=\"tibetan\" title=\"Type ID here\">གུས་མོ་</span> (L, H, Feminine)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁོ་བོ་</span> (L, Masculine)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁོ་མོ་</span> (L, Feminine)</li> <li><span class=\"tibetan\" title=\"Type ID here\">རང་ཉིད་</span>, <span class=\"tibetan\" title=\"Type ID here\">འུ་གུ་</span> (L, Archaic)</li> </ul>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "About First Person Singular (I)"

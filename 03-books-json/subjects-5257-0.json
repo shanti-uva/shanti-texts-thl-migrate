@@ -1,10 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p class=\"Paragraph\">The lexicon is one of the fields in which there are major discernible differences between Literary and Spoken Tibetan, even if the basic vocabulary is the same in both registers.</p>
-<p class=\"Paragraph\">It should not be supposed, however, that there is a clear distinction between the two: some literate Tibetans may use in their daily language words that are more characteristic of the literary register, while certain journals and texts may use colloquial terminology.</p>
-<p class=\"Paragraph\">In the lists of examples, the words marked with an (L) appear only in literary language. In the subsequent examples, words to the left of the “equals” sign (=) correspond to Literary Tibetan, while those to the right belong to the colloquial register. The few words that are not used in the literary language are marked with the sign (*L).</p>
-", 
+   "body": "<p class=\"Paragraph\">The lexicon is one of the fields in which there are major discernible differences between Literary and Spoken Tibetan, even if the basic vocabulary is the same in both registers.</p><p class=\"Paragraph\">It should not be supposed, however, that there is a clear distinction between the two: some literate Tibetans may use in their daily language words that are more characteristic of the literary register, while certain journals and texts may use colloquial terminology.</p><p class=\"Paragraph\">In the lists of examples, the words marked with an (L) appear only in literary language. In the subsequent examples, words to the left of the “equals” sign (=) correspond to Literary Tibetan, while those to the right belong to the colloquial register. The few words that are not used in the literary language are marked with the sign (*L).</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "About Differences in the Vocabulary"

@@ -1,9 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>Beijing, Tianjin, Shanghai, Chongqing (4 total). Note: the four DAM are different to the 'Provinces standard' in the following way: Although they do not have prefectures, per se, they are divided into their set of urban districts (<em>shi xia qu)</em> and their set of counties (<em>xian</em>), which have codes that would normally distinguish prefectures.  Chongqing has a third set for cities (<em>shi</em>) that are not part of Chongqing urban districts.  However, unlike Prefectures, the sets of urban districts and counties (and counties in Chongqing) in the DAMs do not appear to have separate governments.</p>
-<ul> </ul>
-", 
+   "body": "<p>Beijing, Tianjin, Shanghai, Chongqing (4 total). Note: the four DAM are different to the 'Provinces standard' in the following way: Although they do not have prefectures, per se, they are divided into their set of urban districts (<em>shi xia qu)</em> and their set of counties (<em>xian</em>), which have codes that would normally distinguish prefectures.  Chongqing has a third set for cities (<em>shi</em>) that are not part of Chongqing urban districts.  However, unlike Prefectures, the sets of urban districts and counties (and counties in Chongqing) in the DAMs do not appear to have separate governments.</p><ul> </ul>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "An Overview of Chinese Directly Administered Municipalities (DAM)"

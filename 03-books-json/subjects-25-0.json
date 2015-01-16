@@ -1,9 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>Religious Principalities are distinguished from general principalities by their leadership being abbot-princes in hierocratic lines.</p>
-<p>Examples are <span class=\"place\" title=\"Type ID here\">Labrang</span>, <span class=\"place\" title=\"Type ID here\">Lamo Dechen</span>, and <span class=\"place\" title=\"Type ID here\">Bhutan</span>. In modern Chinese surveys, these are listed as having been examples of joint politico-religious polities (<em>zheng jiao heyi</em>, presumably a reference to the Tibetan rubric for \"the union of religion and politics (<em><span class=\"tibetan\" title=\"Type ID here\">chos srid zung 'brel</span></em>)).</p>
-", 
+   "body": "<p>Religious Principalities are distinguished from general principalities by their leadership being abbot-princes in hierocratic lines.</p><p>Examples are <span class=\"place\" title=\"Type ID here\">Labrang</span>, <span class=\"place\" title=\"Type ID here\">Lamo Dechen</span>, and <span class=\"place\" title=\"Type ID here\">Bhutan</span>. In modern Chinese surveys, these are listed as having been examples of joint politico-religious polities (<em>zheng jiao heyi</em>, presumably a reference to the Tibetan rubric for \"the union of religion and politics (<em><span class=\"tibetan\" title=\"Type ID here\">chos srid zung 'brel</span></em>)).</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "An Overview of Religious Principalities in Tibet"

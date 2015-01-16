@@ -1,8 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>The recording speed determines what type of machine you need to read the tape in question. A given tape may have multiple speeds on it. These are specified in terms of inches per second (ips) and centimeters per second (cms).</p>
-", 
+   "body": "<p>The recording speed determines what type of machine you need to read the tape in question. A given tape may have multiple speeds on it. These are specified in terms of inches per second (ips) and centimeters per second (cms).</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "An Overview of Audio-Video Recording Speed"

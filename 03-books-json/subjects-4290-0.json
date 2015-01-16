@@ -1,9 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>Speech Type signifies the different types of verbal speech that exist in their format and function - conversations, lectures, interviews, and so on.</p>
-<p>The <a href=\"http://www.language-archives.org/REC/discourse.htm\" target=\"_blank\">Open Language Archives Community (OLAC) standards</a> refer to this as discourse type<span style=\"font-size: 10pt; font-family: Verdana;\">. </span></p>
-", 
+   "body": "<p>Speech Type signifies the different types of verbal speech that exist in their format and function - conversations, lectures, interviews, and so on.</p><p>The <a href=\"http://www.language-archives.org/REC/discourse.htm\" target=\"_blank\">Open Language Archives Community (OLAC) standards</a> refer to this as discourse type<span style=\"font-size: 10pt; font-family: Verdana;\">. </span></p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "An Overview of Media Speech Types"

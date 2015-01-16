@@ -1,9 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>Instructional speech provides detailed instructions on how to do something, as opposed to an academic lecture. Examples are instructions on how to bake a cake, or how to repair a motorcycle.</p>
-<p>The Open Language Archives Community (OLAC) standards instead refers to this as \"procedural discourse\".</p>
-", 
+   "body": "<p>Instructional speech provides detailed instructions on how to do something, as opposed to an academic lecture. Examples are instructions on how to bake a cake, or how to repair a motorcycle.</p><p>The Open Language Archives Community (OLAC) standards instead refers to this as \"procedural discourse\".</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "An Overview of the Instructional Speech Type"

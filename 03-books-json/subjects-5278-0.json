@@ -1,8 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཁོང་</span> (H)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁོ་</span> (Masculine)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁོ་རང་</span> (Masculine)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁོ་པ་</span> (L, Masculine)</li> <li><span class=\"tibetan\" title=\"Type ID here\">མོ་</span> (Feminine)</li> <li><span class=\"tibetan\" title=\"Type ID here\">མོ་རང་</span> (Feminine)</li> </ul>
-", 
+   "body": "<ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཁོང་</span> (H)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁོ་</span> (Masculine)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁོ་རང་</span> (Masculine)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁོ་པ་</span> (L, Masculine)</li> <li><span class=\"tibetan\" title=\"Type ID here\">མོ་</span> (Feminine)</li> <li><span class=\"tibetan\" title=\"Type ID here\">མོ་རང་</span> (Feminine)</li> </ul>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "About Third Person Singular (He, She)"

@@ -1,9 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>In historical sources, we frequently will have reference to polities about which we know very little and thus cannot classify in terms of type. In such cases, the general category of \"historical polity\" is used. It implies nothing other than that the place name in question refers to some type of polity, but that we don't know enough to classify just what type of polity it might be.</p>
-<p>We also use this feature type for grouping entries, such as \"Eastern Tibet (Kham) Historical Polities\". Such entries are used to express the perception that a series of relatively small historical polities were affiliated in terms of common geographical and cultural bases. </p>
-", 
+   "body": "<p>In historical sources, we frequently will have reference to polities about which we know very little and thus cannot classify in terms of type. In such cases, the general category of \"historical polity\" is used. It implies nothing other than that the place name in question refers to some type of polity, but that we don't know enough to classify just what type of polity it might be.</p><p>We also use this feature type for grouping entries, such as \"Eastern Tibet (Kham) Historical Polities\". Such entries are used to express the perception that a series of relatively small historical polities were affiliated in terms of common geographical and cultural bases. </p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "An Overview of Historical Polities"

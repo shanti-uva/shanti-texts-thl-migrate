@@ -1,8 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>This usually consists of the individual chapters. If there are no individual chapters, then the whole body of the text is considered a single chapter-level element.</p>
-", 
+   "body": "<p>This usually consists of the individual chapters. If there are no individual chapters, then the whole body of the text is considered a single chapter-level element.</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "An Overview of the Chapter Section"

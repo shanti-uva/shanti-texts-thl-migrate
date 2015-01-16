@@ -1,15 +1,13 @@
 {
  "nodes": [
   {
-   "body": "<p> </p>
-", 
+   "body": "<p> </p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "Destruction Ritual Using a Magic Wheel or Machine"
   }, 
   {
-   "body": "<ul> <li><a href=\"http://tbrc.org/#!rid=W14985\">‘Khrul ‘khor chen mo brgyad</a> </li> <li><a href=\"http://tbrc.org/#!rid=W18195\">Dgra bo smyo ba dang rims dbab par byed pa’i ‘phrul ‘khor ma he’i zhal can drag po’i ngar dbyangs</a> </li> <li>Gshin rje gshes kyi ‘khrul ‘khor ‘phrin las grub pa</li> <li><a href=\"http://tbrc.org/#!rid=W19109\">Mnan pa ‘khor lo nag po (?)</a> </li> <li>Mkhar do ‘phrul ‘khor rituals</li> </ul>
-", 
+   "body": "<ul> <li><a href=\"http://tbrc.org/#!rid=W14985\">‘Khrul ‘khor chen mo brgyad</a> </li> <li><a href=\"http://tbrc.org/#!rid=W18195\">Dgra bo smyo ba dang rims dbab par byed pa’i ‘phrul ‘khor ma he’i zhal can drag po’i ngar dbyangs</a> </li> <li>Gshin rje gshes kyi ‘khrul ‘khor ‘phrin las grub pa</li> <li><a href=\"http://tbrc.org/#!rid=W19109\">Mnan pa ‘khor lo nag po (?)</a> </li> <li>Mkhar do ‘phrul ‘khor rituals</li> </ul>", 
    "index": 1, 
    "parent_index": 0, 
    "title": "Example Texts"

@@ -1,9 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p class=\"Paragraph\">In the same way as certain English words are composed of a Greek root combined with a Latin root (e.g., “television”) Tibetan sometimes unites two different origins within a single word. Here are two examples:</p>
-<ul> <li><span class=\"tibetan\" title=\"Type ID here\">འཛམ་བུ་གླིང་</span> “The world.” From the Sanskrit <em>jambu</em>-<em>dvipa</em>, the name of one of the seven continents around Mt. Meru, and <span class=\"tibetan\" title=\"Type ID here\">གླིང་</span>, Tibetan for “island” (<em>dvipa </em>in Sanskrit). </li> <li><span class=\"tibetan\" title=\"Type ID here\">པཎ་ཆེན་</span> Title of the lama of Trashi Lhünpo, abbreviation of <span class=\"tibetan\" title=\"Type ID here\">པནྜི་ཏ་ཆེན་པོ་</span>. From Sanskrit <em>paṇḍita </em>and Tibetan <span class=\"tibetan\" title=\"Type ID here\">ཆེན་པོ་</span> “great.”</li> </ul>
-", 
+   "body": "<p class=\"Paragraph\">In the same way as certain English words are composed of a Greek root combined with a Latin root (e.g., “television”) Tibetan sometimes unites two different origins within a single word. Here are two examples:</p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">འཛམ་བུ་གླིང་</span> “The world.” From the Sanskrit <em>jambu</em>-<em>dvipa</em>, the name of one of the seven continents around Mt. Meru, and <span class=\"tibetan\" title=\"Type ID here\">གླིང་</span>, Tibetan for “island” (<em>dvipa </em>in Sanskrit). </li> <li><span class=\"tibetan\" title=\"Type ID here\">པཎ་ཆེན་</span> Title of the lama of Trashi Lhünpo, abbreviation of <span class=\"tibetan\" title=\"Type ID here\">པནྜི་ཏ་ཆེན་པོ་</span>. From Sanskrit <em>paṇḍita </em>and Tibetan <span class=\"tibetan\" title=\"Type ID here\">ཆེན་པོ་</span> “great.”</li> </ul>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "About Mixed Forms"

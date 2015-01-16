@@ -1,9 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>A narrative signifies a focused verbal presentation which describes temporally organized events, i.e. it tells a story of types. Types of narratives include historical, traditional, and personal narratives, myths, folktales, fables, and humorous stories.</p>
-<p>The Open Language Archives Community (OLAC) standards also term this \"narrative.\"</p>
-", 
+   "body": "<p>A narrative signifies a focused verbal presentation which describes temporally organized events, i.e. it tells a story of types. Types of narratives include historical, traditional, and personal narratives, myths, folktales, fables, and humorous stories.</p><p>The Open Language Archives Community (OLAC) standards also term this \"narrative.\"</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "An Overview of the Narrative Speech Type"

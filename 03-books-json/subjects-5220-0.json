@@ -1,9 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p class=\"Paragraph\">This particle, which is the same as that used to form the ablative case, is placed after the verb in a temporal or causal subordinate clause to link it with a following clause. It is always placed <em>directly </em>after the verb, and may not be preceded by an auxiliary. The marker <span class=\"tibetan\" title=\"Type ID here\">ནས་</span> is translated, according to the context, by the conjunctions “and” or “then,” or else by “after” or “since.”</p>
-<ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཁ་ལག་བཟས་ནས་ཡོང་གི་ཡིན།</span> “I’ll come after I’ve eaten.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ལྷ་སར་ཕེབས་ནས་ག་ཚོད་ཕྱིན་སོང་།</span> “How long has he been in Lhasa?” (Literally: “Since he came to Lhasa how much [time] has passed?”)</li> <li><span class=\"tibetan\" title=\"Type ID here\">སྔ་པོ་ལང་ནས་སློབ་གྲྭར་འགྲོ་གི་ཡོད།</span> “I get up early and go to school.”</li> </ul>
-", 
+   "body": "<p class=\"Paragraph\">This particle, which is the same as that used to form the ablative case, is placed after the verb in a temporal or causal subordinate clause to link it with a following clause. It is always placed <em>directly </em>after the verb, and may not be preceded by an auxiliary. The marker <span class=\"tibetan\" title=\"Type ID here\">ནས་</span> is translated, according to the context, by the conjunctions “and” or “then,” or else by “after” or “since.”</p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཁ་ལག་བཟས་ནས་ཡོང་གི་ཡིན།</span> “I’ll come after I’ve eaten.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ལྷ་སར་ཕེབས་ནས་ག་ཚོད་ཕྱིན་སོང་།</span> “How long has he been in Lhasa?” (Literally: “Since he came to Lhasa how much [time] has passed?”)</li> <li><span class=\"tibetan\" title=\"Type ID here\">སྔ་པོ་ལང་ནས་སློབ་གྲྭར་འགྲོ་གི་ཡོད།</span> “I get up early and go to school.”</li> </ul>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "About The Connective ནས་"

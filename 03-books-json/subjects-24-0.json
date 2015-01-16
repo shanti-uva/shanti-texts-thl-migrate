@@ -1,9 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>A \"Kingdom\" signifies a polity with genuine political independence. It contrasts to \"principalities\" which have various forms of political dependency on other polities, and contrasts to \"empires\" which have greater geographical extent and which subordinate polities that have quite distinct political systems in their own right.</p>
-<p>Examples possibly include Gungtang, Guge, Mustang, Ngawa, and Powo.</p>
-", 
+   "body": "<p>A \"Kingdom\" signifies a polity with genuine political independence. It contrasts to \"principalities\" which have various forms of political dependency on other polities, and contrasts to \"empires\" which have greater geographical extent and which subordinate polities that have quite distinct political systems in their own right.</p><p>Examples possibly include Gungtang, Guge, Mustang, Ngawa, and Powo.</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "An Overview of the Kingdom Political Feature"

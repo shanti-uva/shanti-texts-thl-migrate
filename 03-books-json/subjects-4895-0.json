@@ -1,9 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p class=\"Paragraph\">Tibetan very commonly uses the future to indicate a habitual action or process. It is only from the context that we can determine whether it signifies the future or the generic present (also called “gnomic”).</p>
-<ul> <li><span class=\"tibetan\" title=\"Type ID here\">རྒྱ་གར་དང་རྒྱ་ནག་ལ་འབྲས་བཏབ་ཀྱི་རེད། </span>“Rice is grown in India and China.” (Literally: “Rice will be grown....”)</li> <li><span class=\"tibetan\" title=\"Type ID here\">བོད་ལ་མང་ཆེ་བ་བྱ་གཏོར་རྒྱག་གི་རེད། </span>“In Tibet, most people practice sky burial.” (Literally: “will practice....”)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁ་ཤས་ཀྱིས་གླིང་ག་བཏང་གི་རེད།</span> “Some people have picnics.” (Literally: “Some people will have....”)</li> <li><span class=\"tibetan\" title=\"Type ID here\">དཔྱིད་ཀ་ཤར་དུས་ལྷ་ས་བ་མང་པོ་སྐྱིད་ཆུའི་འགྲམ་ལ་འགྲོ་གི་རེད། </span>“When the spring comes, a lot of people go to the banks of the Kyichu River.” (Literally: “people will go....”)</li> </ul>
-", 
+   "body": "<p class=\"Paragraph\">Tibetan very commonly uses the future to indicate a habitual action or process. It is only from the context that we can determine whether it signifies the future or the generic present (also called “gnomic”).</p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">རྒྱ་གར་དང་རྒྱ་ནག་ལ་འབྲས་བཏབ་ཀྱི་རེད། </span>“Rice is grown in India and China.” (Literally: “Rice will be grown....”)</li> <li><span class=\"tibetan\" title=\"Type ID here\">བོད་ལ་མང་ཆེ་བ་བྱ་གཏོར་རྒྱག་གི་རེད། </span>“In Tibet, most people practice sky burial.” (Literally: “will practice....”)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁ་ཤས་ཀྱིས་གླིང་ག་བཏང་གི་རེད།</span> “Some people have picnics.” (Literally: “Some people will have....”)</li> <li><span class=\"tibetan\" title=\"Type ID here\">དཔྱིད་ཀ་ཤར་དུས་ལྷ་ས་བ་མང་པོ་སྐྱིད་ཆུའི་འགྲམ་ལ་འགྲོ་གི་རེད། </span>“When the spring comes, a lot of people go to the banks of the Kyichu River.” (Literally: “people will go....”)</li> </ul>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "About The Auxiliary of General or Habitual Truth: གི་རེད་"

@@ -1,9 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p>Singing is words or sounds articulated in succession with musical inflections or modulations of the voice commonly known as \"song.\" Examples of singing include popular songs, operas, chants, choruses, and other such things. </p>
-<p>The Open Language Archives Community (OLAC) standards also term this \"drama.\"</p>
-", 
+   "body": "<p>Singing is words or sounds articulated in succession with musical inflections or modulations of the voice commonly known as \"song.\" Examples of singing include popular songs, operas, chants, choruses, and other such things. </p><p>The Open Language Archives Community (OLAC) standards also term this \"drama.\"</p>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "An Overview of the Singing Speech Type"

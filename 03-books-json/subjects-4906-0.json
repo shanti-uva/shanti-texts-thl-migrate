@@ -1,9 +1,7 @@
 {
  "nodes": [
   {
-   "body": "<p class=\"Paragraph\">This identifies the contemporary nation state with political control over this Tibetan territory.  The following five cover the chief traditional and refugee Tibetan settlements. However, in the case of far flung settlements, such as those in Europe or North America, as well as documentation of Tibetans while traveling in foreign lands, we will also need to include, in essence, potentially any country in the world.</p>
-<ul> <li>China (krung go, Ch. Zhongguo)</li> <li>India (rgya gar, Ch. Yindu)</li> <li>Bhutan ('brug yul, Ch. Budan)</li> <li>Nepal (bal yul, Ch. Nipoer)</li> <li>Pakistan (pa ki si tan, Ch. Bajisidan)</li> </ul>
-", 
+   "body": "<p class=\"Paragraph\">This identifies the contemporary nation state with political control over this Tibetan territory.  The following five cover the chief traditional and refugee Tibetan settlements. However, in the case of far flung settlements, such as those in Europe or North America, as well as documentation of Tibetans while traveling in foreign lands, we will also need to include, in essence, potentially any country in the world.</p><ul> <li>China (krung go, Ch. Zhongguo)</li> <li>India (rgya gar, Ch. Yindu)</li> <li>Bhutan ('brug yul, Ch. Budan)</li> <li>Nepal (bal yul, Ch. Nipoer)</li> <li>Pakistan (pa ki si tan, Ch. Bajisidan)</li> </ul>", 
    "index": 0, 
    "parent_index": -1, 
    "title": "An Overview of the Nation Feature"
