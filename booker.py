@@ -1,12 +1,13 @@
-import os, re, json, gc
+import os, re, json, gc, config
 from lxml import html
 
 class Booker:
 
-  def __init__(self,srcdir,outdir,losers):
-    self.srcdir = srcdir
-    self.outdir = outdir
-    self.losers = losers
+  def __init__(self):
+    self.srcdir = config.srcdir
+    self.infdir = config.infdir
+    self.outdir = config.outdir
+    #self.losers = config.losers
     
   def proc(self):
     for filename in os.listdir(self.srcdir):
@@ -14,16 +15,28 @@ class Booker:
       fparts       = re.split(r'[.-]',filename)
       self.domain  = fparts[0]
       self.kid     = fparts[1]
+      self.key     = self.domain + '-' + self.kid
       fdata        = open(self.srcdir+'/'+filename,'r').read()
-      doc         = []
+      doc          = []
       try:    
         doc = json.loads(fdata,encoding='utf-8')
       except:
-        print self.domain,self.kid,"not a doc"
+        print self.domain, self.kid, 'is not a doc'
         continue
       for n, desc in enumerate(doc['descriptions']):
         book = Book()
-        book.title    = desc.get('title')
+        book.title = desc.get('title') 
+        if not(book.title):
+          kdata = ''
+          kmap_info = {}
+          try:
+            kdata = open(self.infdir+'/'+self.key+'-info.json','r').read()
+            kmap_info = json.loads(kdata,encoding='utf-8')
+            book.title = "About " + kmap_info.get('feature').get('header')
+            del kdata, kmap_info
+            gc.collect()
+          except:
+            book.title = 'Untitled'
         book.date     = desc.get('created_at')
         book.authors  = desc.get('authors')
         book.body     = desc.get('content')
@@ -31,9 +44,9 @@ class Booker:
         book.domain   = self.domain
         book.desc_n   = n
         book.outdir   = self.outdir
-        book.losers   = self.losers
+        #book.losers   = self.losers
         book.make_nodes()
-        book.print_jdoc() # Maybe make this a method of Booker
+        book.print_jdoc() # Maybe make this a method of Booker?
         del book
         gc.collect()
         
@@ -106,7 +119,7 @@ class Book:
     self.nodes = pages
     
   def prune_tree(self,tree):
-    for loser in self.losers:
+    for loser in config.losers:
       els = tree.xpath(loser)
       for el in els:
         el.getparent().remove(el)

@@ -4,7 +4,7 @@
    "body": "", 
    "index": 0, 
    "parent_index": -1, 
-   "title": null
+   "title": "About Healing rituals"
   }, 
   {
    "body": "<p>Rituals designed to heal sickness.</p>
@@ -48,6 +48,6 @@
   "domain": "subjects", 
   "kid": "2170", 
   "dates": [], 
-  "title": null
+  "title": "About Healing rituals"
  }
 }
