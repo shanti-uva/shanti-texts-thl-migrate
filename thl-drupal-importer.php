@@ -1,4 +1,3 @@
-Importing books into SHANTI Texts ...
 <?php
 
 /* 
@@ -16,7 +15,9 @@ nodes = []
   body = ''
     
 */
-$min_kid = 1853; # To allow skipping successful imports
+
+#$min_kid = 1853; # To allow skipping successful imports
+$min_kid = 0;
 $filemask = 'subjects-*.json'; 
 $dir = '~/WORK/shanti-texts-thl-migrate/03-books-json';
 print "Attempting to import files from $dir/$filemask ...\n";
@@ -39,6 +40,7 @@ foreach ($filenames as $filename) {
     continue;
   }
   $key = "$domain-$kid";
+  
   $RECORD = array(); // Keep track of book's ancestor and parents when creating children
   foreach ($book->nodes as $part) {
     
@@ -67,17 +69,19 @@ foreach ($filenames as $filename) {
         foreach ($authors as $author_inf) {
           if (is_object($author_inf)) {
             $author = $author_inf->fullname;
+          }
           if (is_array($author_inf)) {
             $author = $author_inf['fullname'];
-          } else {
+          } 
+          else {
             $author = $author_inf;
           }
           if ($author != $prev_author) {
             $node->field_book_author[$node->language][0]['value'] = $author;
           }
-          $prev_author = $author;
-          print "TEST: $author\n";
-        }
+        }      
+        $prev_author = $author;
+        print "TEST: $author\n";
       }
 
       # DATE
@@ -128,8 +132,8 @@ foreach ($filenames as $filename) {
       # BOOK      
       $node->book['bid']  = 'new';
       $node->book['plid'] = 0;
-    } 
-    
+    }
+
     # IF CHILD, ADD TO BOOK
     else {
       $node->book['bid']  = $RECORD[0]['nid'];
@@ -147,4 +151,3 @@ foreach ($filenames as $filename) {
 }
 
 ?>
-All done.
