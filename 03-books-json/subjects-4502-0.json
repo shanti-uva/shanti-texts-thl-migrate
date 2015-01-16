@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"4502","authors":[{"fullname":"Brandon Dotson","id":"15"}],"title":"An Overview of the Eighteen Shares of Power in the Tibetan Empire","dates":{"created_at":"2013-09-15 04:13:31 UTC","updated_at":"2013-09-15 04:13:31 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>The Eighteen Shares of Power (<em>dbang ris bco brgyad<\/em>) is also referred to as \"The Administrative Arrangement of Territories\" (<em>yul gyi khod bshams pa<\/em>). They represent one of the earliest attempts by the Tibetan Empire to transform clan-based territory into state-based territory, or at the very least to officially ratify clan ownership of territory. This system probably started before the 7th century, though we only know of them during the 7th century when they were replaced by the \"horns\" and \"thousand-household district\" system.<br \/><br \/>[1] See p.363-364 of the D.Phil. Thesis of : Brandon Dotson, 2006, <em>Administration and Law in the Tibetan Empire: The Section on Law and State and its Old Tibetan Antecedents<\/em>, University of Oxford. Web link: https:\/\/eprints.soas.ac.uk\/3358\/1\/DotsonDPhil.pdf<\/p>","title":"An Overview of the Eighteen Shares of Power in the Tibetan Empire"}]}
-=======
-{"meta":{"domain":"subjects","kid":"4502","authors":[{"fullname":"Brandon Dotson","id":"15"}],"title":"An Overview of the Eighteen Shares of Power in the Tibetan Empire","dates":{"created_at":"2013-09-15 04:13:31 UTC","updated_at":"2013-09-15 04:13:31 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>The Eighteen Shares of Power (<em>dbang ris bco brgyad</em>) is also referred to as \"The Administrative Arrangement of Territories\" (<em>yul gyi khod bshams pa</em>). They represent one of the earliest attempts by the Tibetan Empire to transform clan-based territory into state-based territory, or at the very least to officially ratify clan ownership of territory. This system probably started before the 7th century, though we only know of them during the 7th century when they were replaced by the \"horns\" and \"thousand-household district\" system.<br /><br />[1] See p.363-364 of the D.Phil. Thesis of : Brandon Dotson, 2006, <em>Administration and Law in the Tibetan Empire: The Section on Law and State and its Old Tibetan Antecedents</em>, University of Oxford. Web link: https://eprints.soas.ac.uk/3358/1/DotsonDPhil.pdf</p>","title":"An Overview of the Eighteen Shares of Power in the Tibetan Empire"}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p>The Eighteen Shares of Power (<em>dbang ris bco brgyad</em>) is also referred to as \"The Administrative Arrangement of Territories\" (<em>yul gyi khod bshams pa</em>). They represent one of the earliest attempts by the Tibetan Empire to transform clan-based territory into state-based territory, or at the very least to officially ratify clan ownership of territory. This system probably started before the 7th century, though we only know of them during the 7th century when they were replaced by the \"horns\" and \"thousand-household district\" system.<br/><br/>[1] See p.363-364 of the D.Phil. Thesis of : Brandon Dotson, 2006, <em>Administration and Law in the Tibetan Empire: The Section on Law and State and its Old Tibetan Antecedents</em>, University of Oxford. Web link: https://eprints.soas.ac.uk/3358/1/DotsonDPhil.pdf</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "An Overview of the Eighteen Shares of Power in the Tibetan Empire"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Brandon Dotson", 
+    "id": "15"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "4502", 
+  "dates": [], 
+  "title": "An Overview of the Eighteen Shares of Power in the Tibetan Empire"
+ }
+}

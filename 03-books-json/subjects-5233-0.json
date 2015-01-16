@@ -1,5 +1,25 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"5233","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:42 UTC","updated_at":"2013-09-15 04:15:42 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">This connective means \u201calso.\u201d In Spoken Tibetan, <span class=\"tibetan\" title=\"Type ID here\">\u0f61\u0f44\u0f0b<\/span> is pronounced <span class=\"tibetan\" title=\"Type ID here\">\u0f61\u0f60\u0f72\u0f0b<\/span>. In Literary Tibetan, this connective has three possible forms, depending on the last letter of the preceding syllable.<\/p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f61\u0f44\u0f0b<\/span> is used after the consonants <span class=\"tibetan\" title=\"Type ID here\">\u0f44\u0f0b<\/span> <span class=\"tibetan\" title=\"Type ID here\">\u0f53\u0f0b<\/span> <span class=\"tibetan\" title=\"Type ID here\">\u0f58\u0f0b<\/span> <span class=\"tibetan\" title=\"Type ID here\">\u0f62\u0f0b<\/span> <span class=\"tibetan\" title=\"Type ID here\">\u0f63\u0f0b<\/span><\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f40\u0fb1\u0f44\u0f0b<\/span> is used after the consonants <span class=\"tibetan\" title=\"Type ID here\">\u0f42\u0f0b<\/span> <span class=\"tibetan\" title=\"Type ID here\">\u0f51\u0f0b<\/span> <span class=\"tibetan\" title=\"Type ID here\">\u0f56\u0f0b<\/span> <span class=\"tibetan\" title=\"Type ID here\">\u0f66\u0f0b<\/span> and the <span class=\"tibetan\" title=\"Type ID here\">\u0f51\u0f0b\u0f51\u0fb2\u0f42\u0f0b<\/span><\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f60\u0f44\u0f0b<\/span> \/ <span class=\"tibetan\" title=\"Type ID here\">\u0f61\u0f44\u0f0b<\/span> are used after vowels and <span class=\"tibetan\" title=\"Type ID here\">\u0f60\u0f0b<\/span><\/li> <\/ul><p class=\"Paragraph\">It also appears in the expression <span class=\"tibetan\" title=\"Type ID here\">\u0f61\u0f72\u0f53\u0f0b\u0f53\u0f0b\u0f61\u0f44\u0f0b<\/span>, meaning \u201cbut\u201d or \u201cnevertheless\u201d; this is pronounced <span class=\"tibetan\" title=\"Type ID here\">\u0f61\u0f72\u0f53\u0f0b\u0f53\u0f60\u0f72\u0f0b<\/span> in Spoken Tibetan.<\/p>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"5233","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:42 UTC","updated_at":"2013-09-15 04:15:42 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">This connective means “also.” In Spoken Tibetan, <span class=\"tibetan\" title=\"Type ID here\">ཡང་</span> is pronounced <span class=\"tibetan\" title=\"Type ID here\">ཡའི་</span>. In Literary Tibetan, this connective has three possible forms, depending on the last letter of the preceding syllable.</p> <ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཡང་</span> is used after the consonants <span class=\"tibetan\" title=\"Type ID here\">ང་</span> <span class=\"tibetan\" title=\"Type ID here\">ན་</span> <span class=\"tibetan\" title=\"Type ID here\">མ་</span> <span class=\"tibetan\" title=\"Type ID here\">ར་</span> <span class=\"tibetan\" title=\"Type ID here\">ལ་</span></li> <li><span class=\"tibetan\" title=\"Type ID here\">ཀྱང་</span> is used after the consonants <span class=\"tibetan\" title=\"Type ID here\">ག་</span> <span class=\"tibetan\" title=\"Type ID here\">ད་</span> <span class=\"tibetan\" title=\"Type ID here\">བ་</span> <span class=\"tibetan\" title=\"Type ID here\">ས་</span> and the <span class=\"tibetan\" title=\"Type ID here\">ད་དྲག་</span></li> <li><span class=\"tibetan\" title=\"Type ID here\">འང་</span> / <span class=\"tibetan\" title=\"Type ID here\">ཡང་</span> are used after vowels and <span class=\"tibetan\" title=\"Type ID here\">འ་</span></li> </ul> <p class=\"Paragraph\">It also appears in the expression <span class=\"tibetan\" title=\"Type ID here\">ཡིན་ན་ཡང་</span>, meaning “but” or “nevertheless”; this is pronounced <span class=\"tibetan\" title=\"Type ID here\">ཡིན་ནའི་</span> in Spoken Tibetan.</p>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p class=\"Paragraph\">This connective means “also.” In Spoken Tibetan, <span class=\"tibetan\" title=\"Type ID here\">ཡང་</span> is pronounced <span class=\"tibetan\" title=\"Type ID here\">ཡའི་</span>. In Literary Tibetan, this connective has three possible forms, depending on the last letter of the preceding syllable.</p>
+<ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཡང་</span> is used after the consonants <span class=\"tibetan\" title=\"Type ID here\">ང་</span> <span class=\"tibetan\" title=\"Type ID here\">ན་</span> <span class=\"tibetan\" title=\"Type ID here\">མ་</span> <span class=\"tibetan\" title=\"Type ID here\">ར་</span> <span class=\"tibetan\" title=\"Type ID here\">ལ་</span></li> <li><span class=\"tibetan\" title=\"Type ID here\">ཀྱང་</span> is used after the consonants <span class=\"tibetan\" title=\"Type ID here\">ག་</span> <span class=\"tibetan\" title=\"Type ID here\">ད་</span> <span class=\"tibetan\" title=\"Type ID here\">བ་</span> <span class=\"tibetan\" title=\"Type ID here\">ས་</span> and the <span class=\"tibetan\" title=\"Type ID here\">ད་དྲག་</span></li> <li><span class=\"tibetan\" title=\"Type ID here\">འང་</span> / <span class=\"tibetan\" title=\"Type ID here\">ཡང་</span> are used after vowels and <span class=\"tibetan\" title=\"Type ID here\">འ་</span></li> </ul>
+<p class=\"Paragraph\">It also appears in the expression <span class=\"tibetan\" title=\"Type ID here\">ཡིན་ན་ཡང་</span>, meaning “but” or “nevertheless”; this is pronounced <span class=\"tibetan\" title=\"Type ID here\">ཡིན་ནའི་</span> in Spoken Tibetan.</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Nicolas Tournadre", 
+    "id": "6"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "5233", 
+  "dates": [], 
+  "title": null
+ }
+}

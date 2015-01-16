@@ -1,1 +1,100 @@
-{"meta":{"domain":"places","kid":"23578","authors":[{"fullname":"\u0f5a\u0f7a\u0f0b\u0f62\u0f72\u0f44\u0f0b\u0f50\u0f62\u0f0d (Tsering Thar)","id":"80"},{"fullname":"\u0f5a\u0f7a\u0f0b\u0f62\u0f72\u0f44\u0f0b\u0f50\u0f62\u0f0d (Tsering Thar)","id":"80"}],"title":"Jingo Introduction","dates":{"created_at":"2011-12-13 02:30:11 UTC","updated_at":"2011-12-13 02:30:11 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Jingo Introduction"},{"title":"Li thang County","index":1,"parent_index":0},{"title":"(172) rJi ngo Monastery","index":2,"parent_index":1},{"title":"1. Name","index":3,"parent_index":2,"body":"<p>The monastery is also known as \u2019Jam dbyangs khang.<\/p>"},{"title":"3. History","index":4,"parent_index":2,"body":"<p>rJi ngo Monastery is said to be very ancient, and to have been founded more than a thousand years ago, but so far no evidence in support of this claim has been found. According to legend, it started out as a hermitage and was transformed into a monastery in the 14th century. The religious masters of Khro skyabs, Brag steng and rTa\u2019u visited the monastery at different times. A master from Khro skyabs is said to have enlarged the monastery. It was razed during the Cultural Revolution and was rebuilt by a group of thirty people from the local village in 1985.<\/p>"},{"title":"5. Current number of monks","index":5,"parent_index":2,"body":"<p>There are no monks in the monastery. <\/p>"},{"title":"8 \/ 9. Rituals","index":6,"parent_index":2,"body":"<p>The villagers gather at the monastery two days a month to observe the smyung gnas fast.<\/p>"},{"title":"12. Local community","index":7,"parent_index":2,"body":"<p>There are one hundred families in the brGya \u2019dres village.<\/p>"},{"title":"13. Local festivals","index":8,"parent_index":2,"body":"<p>There is a la btsas on Bo ri, the mountain behind the monastery, which is propitiated on the 15th day of the 4th month. Kha ba ston stan, another sacred mountain, (gnas ri) located behind Bo ri, is propitiated on the same date.<\/p>"},{"title":"14. Economic occupation of the local people","index":9,"parent_index":2,"body":"<p>Farmers<\/p>"},{"title":"Sources","index":10,"parent_index":2},{"title":"(1) Interviews","index":11,"parent_index":10,"body":"<p>In autumn 1997 with: \u2019Bum thar (b.1934), a lay tantric practitioner of the village, sKal bzang nor bu (b.1930), a farmer of the village, rGya mtsho (b.1934), a lay tantric practitioner of the village, Nam mkha\u2019 A rdo (b.1933), a farmer in the village, gYung drung (b.1948), a villager who works in the local government at the county seat.<\/p>"}]}
+{
+ "nodes": [
+  {
+   "body": "", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "Jingo Introduction"
+  }, 
+  {
+   "body": "", 
+   "index": 1, 
+   "parent_index": 0, 
+   "title": "Li thang County"
+  }, 
+  {
+   "body": "", 
+   "index": 2, 
+   "parent_index": 1, 
+   "title": "(172) rJi ngo Monastery"
+  }, 
+  {
+   "body": "<p>The monastery is also known as ’Jam dbyangs khang.</p>
+", 
+   "index": 3, 
+   "parent_index": 2, 
+   "title": "1. Name"
+  }, 
+  {
+   "body": "<p>rJi ngo Monastery is said to be very ancient, and to have been founded more than a thousand years ago, but so far no evidence in support of this claim has been found. According to legend, it started out as a hermitage and was transformed into a monastery in the 14th century. The religious masters of Khro skyabs, Brag steng and rTa’u visited the monastery at different times. A master from Khro skyabs is said to have enlarged the monastery. It was razed during the Cultural Revolution and was rebuilt by a group of thirty people from the local village in 1985.</p>
+", 
+   "index": 4, 
+   "parent_index": 2, 
+   "title": "3. History"
+  }, 
+  {
+   "body": "<p>There are no monks in the monastery. </p>
+", 
+   "index": 5, 
+   "parent_index": 2, 
+   "title": "5. Current number of monks"
+  }, 
+  {
+   "body": "<p>The villagers gather at the monastery two days a month to observe the smyung gnas fast.</p>
+", 
+   "index": 6, 
+   "parent_index": 2, 
+   "title": "8 / 9. Rituals"
+  }, 
+  {
+   "body": "<p>There are one hundred families in the brGya ’dres village.</p>
+", 
+   "index": 7, 
+   "parent_index": 2, 
+   "title": "12. Local community"
+  }, 
+  {
+   "body": "<p>There is a la btsas on Bo ri, the mountain behind the monastery, which is propitiated on the 15th day of the 4th month. Kha ba ston stan, another sacred mountain, (gnas ri) located behind Bo ri, is propitiated on the same date.</p>
+", 
+   "index": 8, 
+   "parent_index": 2, 
+   "title": "13. Local festivals"
+  }, 
+  {
+   "body": "<p>Farmers</p>
+", 
+   "index": 9, 
+   "parent_index": 2, 
+   "title": "14. Economic occupation of the local people "
+  }, 
+  {
+   "body": "", 
+   "index": 10, 
+   "parent_index": 2, 
+   "title": "Sources"
+  }, 
+  {
+   "body": "<p>In autumn 1997 with: ’Bum thar (b.1934), a lay tantric practitioner of the village, sKal bzang nor bu (b.1930), a farmer of the village, rGya mtsho (b.1934), a lay tantric practitioner of the village, Nam mkha’ A rdo (b.1933), a farmer in the village, gYung drung (b.1948), a villager who works in the local government at the county seat.</p>
+", 
+   "index": 11, 
+   "parent_index": 10, 
+   "title": "(1) Interviews"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "ཚེ་རིང་ཐར། (Tsering Thar)", 
+    "id": "80"
+   }, 
+   {
+    "fullname": "ཚེ་རིང་ཐར། (Tsering Thar)", 
+    "id": "80"
+   }
+  ], 
+  "domain": "places", 
+  "kid": "23578", 
+  "dates": [], 
+  "title": "Jingo Introduction"
+ }
+}

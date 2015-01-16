@@ -1,5 +1,26 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"5115","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:24 UTC","updated_at":"2013-09-15 04:15:24 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">This construction appears in several expressions consisting of the pronoun <span class=\"tibetan\" title=\"Type ID here\">\u0f42\u0f44\u0f0b<\/span> (\u201cwhat,\u201d \u201cas much\u201d) followed by an adjective or, sometimes, a verb or an adverb, usually doubled.<\/p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f42\u0f44\u0f0b\u0f58\u0f42\u0fb1\u0f7c\u0f42\u0f66\u0f0b\u0f58\u0f42\u0fb1\u0f7c\u0f42\u0f66\u0f0b<\/span> \u201cAs quickly as possible\u201d<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f42\u0f44\u0f0b\u0f61\u0f42\u0f0b\u0f61\u0f42\u0f0b<\/span> \u201cAs well as possible\u201d<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f42\u0f44\u0f0b\u0f58\u0f44\u0f0b\u0f58\u0f44\u0f0b<\/span> \u201cAs many as possible\u201d<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f42\u0f44\u0f0b\u0f42\u0f5f\u0f56\u0f0b\u0f42\u0f5f\u0f56\u0f0b<\/span> \u201cAs carefully as possible\u201d<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f42\u0f44\u0f0b\u0f61\u0f7c\u0f51\u0f0b\u0f61\u0f7c\u0f51\u0f0b<\/span> \u201cAs much as possible\u201d<\/li> <\/ul><p class=\"Paragraph\">We also find <span class=\"tibetan\" title=\"Type ID here\">\u0f42\u0f44\u0f0b<\/span> in several constructions such as:<\/p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f42\u0f44\u0f0b\u0f50\u0f74\u0f56\u0f0b\u0f45\u0f72\u0f0b\u0f50\u0f74\u0f56\u0f0b<\/span> \u201cAs much as possible\u201d<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f42\u0f44\u0f0b\u0f56\u0fb1\u0f74\u0f44\u0f0b\u0f58\u0f44\u0f0b\u0f56\u0fb1\u0f74\u0f44\u0f0b<\/span> \u201cAnyhow,\u201d \u201cindiscriminately\u201d<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f42\u0f44\u0f0b\u0f63\u0f0b\u0f42\u0f44\u0f0b\u0f60\u0f5a\u0f58\u0f66\u0f0b<\/span> \u201cAs appropriate,\u201d \u201cas convenient\u201d<\/li> <\/ul>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"5115","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:24 UTC","updated_at":"2013-09-15 04:15:24 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">This construction appears in several expressions consisting of the pronoun <span class=\"tibetan\" title=\"Type ID here\">གང་</span> (“what,” “as much”) followed by an adjective or, sometimes, a verb or an adverb, usually doubled.</p> <ul> <li><span class=\"tibetan\" title=\"Type ID here\">གང་མགྱོགས་མགྱོགས་</span> “As quickly as possible”</li> <li><span class=\"tibetan\" title=\"Type ID here\">གང་ཡག་ཡག་</span> “As well as possible”</li> <li><span class=\"tibetan\" title=\"Type ID here\">གང་མང་མང་</span> “As many as possible”</li> <li><span class=\"tibetan\" title=\"Type ID here\">གང་གཟབ་གཟབ་</span> “As carefully as possible”</li> <li><span class=\"tibetan\" title=\"Type ID here\">གང་ཡོད་ཡོད་</span> “As much as possible”</li> </ul> <p class=\"Paragraph\">We also find <span class=\"tibetan\" title=\"Type ID here\">གང་</span> in several constructions such as:</p> <ul> <li><span class=\"tibetan\" title=\"Type ID here\">གང་ཐུབ་ཅི་ཐུབ་</span> “As much as possible”</li> <li><span class=\"tibetan\" title=\"Type ID here\">གང་བྱུང་མང་བྱུང་</span> “Anyhow,” “indiscriminately”</li> <li><span class=\"tibetan\" title=\"Type ID here\">གང་ལ་གང་འཚམས་</span> “As appropriate,” “as convenient”</li> </ul>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p class=\"Paragraph\">This construction appears in several expressions consisting of the pronoun <span class=\"tibetan\" title=\"Type ID here\">གང་</span> (“what,” “as much”) followed by an adjective or, sometimes, a verb or an adverb, usually doubled.</p>
+<ul> <li><span class=\"tibetan\" title=\"Type ID here\">གང་མགྱོགས་མགྱོགས་</span> “As quickly as possible”</li> <li><span class=\"tibetan\" title=\"Type ID here\">གང་ཡག་ཡག་</span> “As well as possible”</li> <li><span class=\"tibetan\" title=\"Type ID here\">གང་མང་མང་</span> “As many as possible”</li> <li><span class=\"tibetan\" title=\"Type ID here\">གང་གཟབ་གཟབ་</span> “As carefully as possible”</li> <li><span class=\"tibetan\" title=\"Type ID here\">གང་ཡོད་ཡོད་</span> “As much as possible”</li> </ul>
+<p class=\"Paragraph\">We also find <span class=\"tibetan\" title=\"Type ID here\">གང་</span> in several constructions such as:</p>
+<ul> <li><span class=\"tibetan\" title=\"Type ID here\">གང་ཐུབ་ཅི་ཐུབ་</span> “As much as possible”</li> <li><span class=\"tibetan\" title=\"Type ID here\">གང་བྱུང་མང་བྱུང་</span> “Anyhow,” “indiscriminately”</li> <li><span class=\"tibetan\" title=\"Type ID here\">གང་ལ་གང་འཚམས་</span> “As appropriate,” “as convenient”</li> </ul>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Nicolas Tournadre", 
+    "id": "6"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "5115", 
+  "dates": [], 
+  "title": null
+ }
+}

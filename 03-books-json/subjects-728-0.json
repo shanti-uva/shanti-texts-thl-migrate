@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"728","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of the \u00dc Region","dates":{"created_at":"2013-09-15 04:05:11 UTC","updated_at":"2013-09-15 04:05:11 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>\u00dc is the eastern part of Central Tibet (\u00dctsang), which it constitutes together with its western part, Tsang (gtsang). \u00dc is the home of the heart of the old Tibetan empire in the sixth through ninth centuries, as well as the much later theocratic government run by the Geluk tradition with the Dalai Lamas nominally at their head from the seventeenth century onwards. Its early power center was the Yarlung (yar klungs) Valley from which the imperial dynasty stemmed, and still the location of most of the great imperial tombs from that period. After the disintegration of the Tibetan empire, politics were often dominated by rivalries between \u00dc and Tsang, the two political powers in Central Tibet. In this regards, the great city of Lhasa (lha sa) became the overwhelming important center of \u00dc, both politically and religiously, on the basis of its status as the old imperial capital. Because of its central political importance, the region is pervaded by important historical landmarks and major monastic centers. Of these, the most famous is Samye (bsam yas), the first monastery of Tibet built in the eighth century, and the three major government monasteries encircling Lhasa as the basis for Geluk religio-political power: Sera (se ra), Drepung ('bras spungs), and Ganden (dga' ldan).<\/p>","title":"An Overview of the \u00dc Region"}]}
-=======
-{"meta":{"domain":"subjects","kid":"728","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of the Ü Region","dates":{"created_at":"2013-09-15 04:05:11 UTC","updated_at":"2013-09-15 04:05:11 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>Ü is the eastern part of Central Tibet (Ütsang), which it constitutes together with its western part, Tsang (gtsang). Ü is the home of the heart of the old Tibetan empire in the sixth through ninth centuries, as well as the much later theocratic government run by the Geluk tradition with the Dalai Lamas nominally at their head from the seventeenth century onwards. Its early power center was the Yarlung (yar klungs) Valley from which the imperial dynasty stemmed, and still the location of most of the great imperial tombs from that period. After the disintegration of the Tibetan empire, politics were often dominated by rivalries between Ü and Tsang, the two political powers in Central Tibet. In this regards, the great city of Lhasa (lha sa) became the overwhelming important center of Ü, both politically and religiously, on the basis of its status as the old imperial capital. Because of its central political importance, the region is pervaded by important historical landmarks and major monastic centers. Of these, the most famous is Samye (bsam yas), the first monastery of Tibet built in the eighth century, and the three major government monasteries encircling Lhasa as the basis for Geluk religio-political power: Sera (se ra), Drepung ('bras spungs), and Ganden (dga' ldan).</p>","title":"An Overview of the Ü Region"}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p>Ü is the eastern part of Central Tibet (Ütsang), which it constitutes together with its western part, Tsang (gtsang). Ü is the home of the heart of the old Tibetan empire in the sixth through ninth centuries, as well as the much later theocratic government run by the Geluk tradition with the Dalai Lamas nominally at their head from the seventeenth century onwards. Its early power center was the Yarlung (yar klungs) Valley from which the imperial dynasty stemmed, and still the location of most of the great imperial tombs from that period. After the disintegration of the Tibetan empire, politics were often dominated by rivalries between Ü and Tsang, the two political powers in Central Tibet. In this regards, the great city of Lhasa (lha sa) became the overwhelming important center of Ü, both politically and religiously, on the basis of its status as the old imperial capital. Because of its central political importance, the region is pervaded by important historical landmarks and major monastic centers. Of these, the most famous is Samye (bsam yas), the first monastery of Tibet built in the eighth century, and the three major government monasteries encircling Lhasa as the basis for Geluk religio-political power: Sera (se ra), Drepung ('bras spungs), and Ganden (dga' ldan).</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "An Overview of the Ü Region"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "David Germano", 
+    "id": "2"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "728", 
+  "dates": [], 
+  "title": "An Overview of the Ü Region"
+ }
+}

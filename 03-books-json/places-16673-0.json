@@ -1,1 +1,77 @@
-{"meta":{"domain":"places","kid":"16673","authors":[],"title":"Zhalung Doring Introduction","dates":{"created_at":"2010-08-25 11:10:28 UTC","updated_at":"2010-08-25 11:10:28 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Zhalung Doring Introduction"},{"title":"II.1. Stelae and accompanying structures: Funerary and non-funerary structures","index":1,"parent_index":0},{"title":"Zhalung DoringZha lung rdo ring","index":2,"parent_index":1},{"title":"Basic site data","index":3,"parent_index":2,"body":"<ul class=\"bullet-blue\"> <li>Site name: <span class=\"popular\">Zhalung Doring<\/span><span class=\"scholar\">Zha lung rdo ring<\/span> (sp.?)<\/li> <li>Site number: C-101<\/li> <li>Site typology: II.1b <\/li> <li>Geographic coordinate (N. lat.): 31\u00ba 53.3\u0384 <\/li> <li>Geographic coordinate (E. long.): 87\u00ba 10.7\u0384 <\/li> <li>Elevation: 4630 m <\/li> <li>Administrative location (township): <span class=\"popular\">Urt\u00f6<\/span><span class=\"scholar\">\u2019Ur stod<\/span> <\/li> <li>Administrative location (county): <span class=\"popular\">Nyima<\/span><span class=\"scholar\">Nyi ma<\/span> <\/li> <li>Survey expedition: UTAE<\/li> <li>Survey date: June 17, 2001<\/li> <li>Contemporary usage: Light grazing. <\/li> <li>Identifiable Buddhist constructions: None. <\/li> <\/ul>"},{"title":"General site characteristics","index":4,"parent_index":2,"body":"<p> <span class=\"popular\">Zhalung Doring<\/span><span class=\"scholar\">Zha lung rdo ring<\/span>, the site of a pillar erected inside an enclosure, is situated in a fold in a large plain, in the middle of parallel branches of the main road running between the <span class=\"popular\">Nyima<\/span><span class=\"scholar\">Nyi ma<\/span> county seat and points west. As the monument is found in a dip in the plain, the views to the east and west are somewhat circumscribed. On the other hand, the views north and south are quite open. The sandy terrain gently declines owards the east. Unhewn pieces of reddish brown sandstone were used to build the monument. <\/p>"},{"title":"Oral tradition","index":5,"parent_index":2,"body":"<p>In this region (<span class=\"popular\">Naktsang<\/span><span class=\"scholar\">Nag tshang<\/span>), sites such as <span class=\"popular\">Zhalung Doring<\/span><span class=\"scholar\">Zha lung rdo ring<\/span> are closely associated with the ancient <span class=\"popular\">M\u00f6n<\/span><span class=\"scholar\">Mon<\/span>.<\/p>"},{"title":"Site elements","index":6,"parent_index":2},{"title":"Enclosure","index":7,"parent_index":6,"body":"<p>The enclosure is aligned in the cardinal directions, and measures 5 m (north-south) x 11.5 m (east-west). The west wall of the enclosure is largely intact, the east partly intact, and small parts of the north and south walls have survived as well. The variable-length (15 cm to 70 cm long) blocks and slabs of the double-course walls (50 cm to 60 cm thick) are level with the ground or elevated a maximum of 15 cm above it. The many stones scattered around the enclosure were probably once part of its construction (the surrounding terrain is largely free from such stones). <\/p>"},{"title":"Pillar","index":8,"parent_index":6,"body":"<p>The single tabular pillar (75 cm [height] x 1.1 m [basal girth]) is fairly well centered between the north and south walls of the enclosure. This pillar is situated 1.4 m from the inner edge of the west wall. The top of the pillar was broken off long ago, as evidenced by the heavy erosion of the fractured surface. <\/p>"},{"title":"Tomb","index":9,"parent_index":6,"body":"<p>In the vicinity of the pillar monument, a male resident of zha lung excavated a \u2018<span class=\"popular emph\">m\u00f6n dur<\/span><span class=\"scholar emph\">mon dur<\/span>\u2019 and used a femur he recovered from the tomb to make a thigh-bone trumpet (<span class=\"popular emph\">kangling<\/span><span class=\"scholar emph\">rkang gling<\/span>). <\/p>"}]}
+{
+ "nodes": [
+  {
+   "body": "", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "Zhalung Doring Introduction"
+  }, 
+  {
+   "body": "", 
+   "index": 1, 
+   "parent_index": 0, 
+   "title": "II.1. Stelae and accompanying structures: Funerary and non-funerary structures"
+  }, 
+  {
+   "body": "", 
+   "index": 2, 
+   "parent_index": 1, 
+   "title": " Zhalung DoringZha lung rdo ring "
+  }, 
+  {
+   "body": "<ul class=\"bullet-blue\"> <li>Site name: <span class=\"popular\">Zhalung Doring</span><span class=\"scholar\">Zha lung rdo ring</span> (sp.?)</li> <li>Site number: C-101</li> <li>Site typology: II.1b </li> <li>Geographic coordinate (N. lat.): 31º 53.3΄ </li> <li>Geographic coordinate (E. long.): 87º 10.7΄ </li> <li>Elevation: 4630 m </li> <li>Administrative location (township): <span class=\"popular\">Urtö</span><span class=\"scholar\">’Ur stod</span> </li> <li>Administrative location (county): <span class=\"popular\">Nyima</span><span class=\"scholar\">Nyi ma</span> </li> <li>Survey expedition: UTAE</li> <li>Survey date: June 17, 2001</li> <li>Contemporary usage: Light grazing. </li> <li>Identifiable Buddhist constructions: None. </li> </ul>
+", 
+   "index": 3, 
+   "parent_index": 2, 
+   "title": "Basic site data"
+  }, 
+  {
+   "body": "<p> <span class=\"popular\">Zhalung Doring</span><span class=\"scholar\">Zha lung rdo ring</span>, the site of a pillar erected inside an enclosure, is situated in a fold in a large plain, in the middle of parallel branches of the main road running between the <span class=\"popular\">Nyima</span><span class=\"scholar\">Nyi ma</span> county seat and points west. As the monument is found in a dip in the plain, the views to the east and west are somewhat circumscribed. On the other hand, the views north and south are quite open. The sandy terrain gently declines owards the east. Unhewn pieces of reddish brown sandstone were used to build the monument. </p>
+", 
+   "index": 4, 
+   "parent_index": 2, 
+   "title": "General site characteristics"
+  }, 
+  {
+   "body": "<p>In this region (<span class=\"popular\">Naktsang</span><span class=\"scholar\">Nag tshang</span>), sites such as <span class=\"popular\">Zhalung Doring</span><span class=\"scholar\">Zha lung rdo ring</span> are closely associated with the ancient <span class=\"popular\">Mön</span><span class=\"scholar\">Mon</span>.</p>
+", 
+   "index": 5, 
+   "parent_index": 2, 
+   "title": "Oral tradition"
+  }, 
+  {
+   "body": "", 
+   "index": 6, 
+   "parent_index": 2, 
+   "title": "Site elements"
+  }, 
+  {
+   "body": "<p>The enclosure is aligned in the cardinal directions, and measures 5 m (north-south) x 11.5 m (east-west). The west wall of the enclosure is largely intact, the east partly intact, and small parts of the north and south walls have survived as well. The variable-length (15 cm to 70 cm long) blocks and slabs of the double-course walls (50 cm to 60 cm thick) are level with the ground or elevated a maximum of 15 cm above it. The many stones scattered around the enclosure were probably once part of its construction (the surrounding terrain is largely free from such stones). </p>
+", 
+   "index": 7, 
+   "parent_index": 6, 
+   "title": "Enclosure"
+  }, 
+  {
+   "body": "<p>The single tabular pillar (75 cm [height] x 1.1 m [basal girth]) is fairly well centered between the north and south walls of the enclosure. This pillar is situated 1.4 m from the inner edge of the west wall. The top of the pillar was broken off long ago, as evidenced by the heavy erosion of the fractured surface. </p>
+", 
+   "index": 8, 
+   "parent_index": 6, 
+   "title": "Pillar"
+  }, 
+  {
+   "body": "<p>In the vicinity of the pillar monument, a male resident of zha lung excavated a ‘<span class=\"popular emph\">mön dur</span><span class=\"scholar emph\">mon dur</span>’ and used a femur he recovered from the tomb to make a thigh-bone trumpet (<span class=\"popular emph\">kangling</span><span class=\"scholar emph\">rkang gling</span>). </p>
+", 
+   "index": 9, 
+   "parent_index": 6, 
+   "title": "Tomb"
+  }
+ ], 
+ "meta": {
+  "authors": [], 
+  "domain": "places", 
+  "kid": "16673", 
+  "dates": [], 
+  "title": "Zhalung Doring Introduction"
+ }
+}

@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"5134","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:26 UTC","updated_at":"2013-09-15 04:15:26 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>The agentive particle has two case-related functions: the ergative and the instrumental. In traditional grammars, the first is referred to as the particle of \u201cthe main agent\u201d (<span class=\"tibetan\" title=\"Type ID here\">\u0f56\u0fb1\u0f7a\u0f51\u0f0b\u0f54\u0f0b\u0f54\u0f7c\u0f0b\u0f42\u0f59\u0f7c\u0f0b\u0f56\u0f7c\u0f0b<\/span>), while the second is referred to as the particle of \u201cthe secondary agent\u201d (<span class=\"tibetan\" title=\"Type ID here\">\u0f56\u0fb1\u0f7a\u0f51\u0f0b\u0f54\u0f0b\u0f54\u0f7c\u0f0b\u0f55\u0f63\u0f0b\u0f54\u0f0b<\/span>).<\/p>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"5134","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:26 UTC","updated_at":"2013-09-15 04:15:26 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>The agentive particle has two case-related functions: the ergative and the instrumental. In traditional grammars, the first is referred to as the particle of “the main agent” (<span class=\"tibetan\" title=\"Type ID here\">བྱེད་པ་པོ་གཙོ་བོ་</span>), while the second is referred to as the particle of “the secondary agent” (<span class=\"tibetan\" title=\"Type ID here\">བྱེད་པ་པོ་ཕལ་པ་</span>).</p>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p>The agentive particle has two case-related functions: the ergative and the instrumental. In traditional grammars, the first is referred to as the particle of “the main agent” (<span class=\"tibetan\" title=\"Type ID here\">བྱེད་པ་པོ་གཙོ་བོ་</span>), while the second is referred to as the particle of “the secondary agent” (<span class=\"tibetan\" title=\"Type ID here\">བྱེད་པ་པོ་ཕལ་པ་</span>).</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Nicolas Tournadre", 
+    "id": "6"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "5134", 
+  "dates": [], 
+  "title": null
+ }
+}

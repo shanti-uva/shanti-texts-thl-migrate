@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"191","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of Media Source Types","dates":{"created_at":"2013-09-15 04:03:46 UTC","updated_at":"2013-09-15 04:03:46 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>This is used to indicate the general type of source from which a given item of information was derived, rather than the specific source itself. Thus, it indicates whether this information is taken from a conversation one with someone, a text one read, and so forth.<\/p>","title":"An Overview of Media Source Types"}]}
-=======
-{"meta":{"domain":"subjects","kid":"191","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of Media Source Types","dates":{"created_at":"2013-09-15 04:03:46 UTC","updated_at":"2013-09-15 04:03:46 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>This is used to indicate the general type of source from which a given item of information was derived, rather than the specific source itself. Thus, it indicates whether this information is taken from a conversation one with someone, a text one read, and so forth.</p>","title":"An Overview of Media Source Types"}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p>This is used to indicate the general type of source from which a given item of information was derived, rather than the specific source itself. Thus, it indicates whether this information is taken from a conversation one with someone, a text one read, and so forth.</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "An Overview of Media Source Types"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "David Germano", 
+    "id": "2"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "191", 
+  "dates": [], 
+  "title": "An Overview of Media Source Types"
+ }
+}

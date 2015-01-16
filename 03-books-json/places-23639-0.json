@@ -1,1 +1,146 @@
-{"meta":{"domain":"places","kid":"23639","authors":[{"fullname":"Charles Ramble","id":"77"},{"fullname":"Charles Ramble","id":"77"},{"fullname":"Marietta Kind","id":"81"},{"fullname":"Marietta Kind","id":"81"}],"title":"Trashi Gegy\u00e9 Taten Ling Introduction","dates":{"created_at":"2011-12-13 02:30:40 UTC","updated_at":"2011-12-13 02:30:40 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Trashi Gegy\u00e9 Taten Ling Introduction"},{"title":"Dolpo (Nep. Dolpa) District","index":1,"parent_index":0},{"title":"(228) Dorpatan Monastery","index":2,"parent_index":1},{"title":"1. Name of monastery","index":3,"parent_index":2,"body":"<p>bKra his dge rgyas mtha\u2019 brtan gling<\/p>"},{"title":"2. Location","index":4,"parent_index":2,"body":"<p>Dorpatan refugee camp, Rukum District, Dhaulagiri Zone<\/p>"},{"title":"3. History","index":5,"parent_index":2,"body":"<p>Shes rab blo gros, the old abbot of sMan ri monastery in Tibet, was living for a while with other members of the Bonpo community in Kathmandu, including bsTan \u2019dzin rnam dag, shortly after coming into exile. The Red Cross began to build a refugee camp in Dorpatan in the early sixties, and after the departure of bsTan \u2019dzin rnam dag to England, Shes rab blo gros went to Dorpatan. The Dorpatan temple was created at this time. Shes rab blo gros later went to Manali in India, and the management of the temple was taken over by Tshul khrims nyi ma, a bla ma from Kre ba, north of Kyirong, in Tibet. Most of the members of the Dorpatan camp were from Kre ba. After the murder of Tshul khrims nyi ma in a celebrated incident in 1969\/1970, the temple was run by mKhan po bSod nams rgyal mtshan, from Khyung po. He died in 1995, and has been succeeded by dGe bshes bsTan \u2019dzin dar rgyas, a monk from Dolanji who was appointed to this position by the mKhan chen Sangs rgyas bstan \u2019dzin. <\/p>"},{"title":"4. Hierarchical system","index":6,"parent_index":2,"body":"<p>The monastery is small, and the hierarchical system not elaborate. There is a mkhan po, an dbu mdzad and a gnyer pa, Tshul khrims rgyal mtshan. <\/p>"},{"title":"5. Number of monks\/ priests","index":7,"parent_index":2,"body":"<p>Including the hierarchs listed above in no. 4, there are six monks, who live in the monastic quarters attached to the temple. <\/p>"},{"title":"6. The present educational system","index":8,"parent_index":2,"body":"<p>Religious education is relatively unstructured; the dge bshes sporadically teaches Tibetan to the children from the refugee camp. <\/p><p>In addition to the monastery there is a medical centre, where teaching is provided by dGe rgan Tshul khrims sangs rgyas, who came from Khyung po, in eastern Tibet, in the mid-1980s. He has about ten students, most of whom are from the local refugee community but one from Dzar, in the Muktinath Valley of Mustang District. <\/p>"},{"title":"7. Personnel and educational exchange of monks between monasteries","index":9,"parent_index":2,"body":"<p>There is a certain amount of mobility between Dorpatan, sMan ri Monastery (No.231) in Dolanji and Triten Norbutse (No.230) in Kathmandu. <\/p>"},{"title":"8. Description of daily rituals of the monastery","index":10,"parent_index":2,"body":"<p>Essentially, fumigation (bsang) and water-offering (yon chab) in the morning and bka\u2019 skyong (invocation of the protectors), with the lighting of a mchod me (votive lamp), in the evening. <\/p>"},{"title":"9. Description of annual rituals of the monastery","index":11,"parent_index":2,"body":"<p>The main annual rituals are: mNyam med dus chen (commemoration of mNyam med Shes rab rgyal mtshan) in the first month; smyung gnas in the fourth month; dgu gtor of sTag la in the ninth month. <\/p>"},{"title":"10. Daily life of an individual monk","index":12,"parent_index":2,"body":"<p>The monks do not farm or engage in much commerce, but they are much in demand for the performance of domestic rituals among the lay community. <\/p>"},{"title":"11. Books and manuscripts kept by the monastery","index":13,"parent_index":2,"body":"<p>The library consists almost entirely of Bonpo works reprinted in India.<\/p>"},{"title":"12. Economic circumstances of temples","index":14,"parent_index":2,"body":"<p>The monastery owns a number of fields, and receives an income from the lease of this land to lay farmers from the refugee community. Further support is provided by the lay population and also from Triten Norbutse (No.230) and the Bonpo community in Kathmandu. <\/p>"},{"title":"13. Number of local villages or nomads","index":15,"parent_index":2,"body":"<p>Approximately 200 people. <\/p>"},{"title":"14. Economic occupation of the local population","index":16,"parent_index":2,"body":"<p>The people migrate seasonally between Dorpatan and the south (mainly Pokhara), where they live for part of the time. In Dorpatan they grow mainly potatoes, as well as oats for livestock. Apples are now being grown in increasing quantities. <\/p><p>The potatoes are exchanged in the south for salt and rice, and this exchanged in turn in the middle hills for maize and wheat. <\/p>"}]}
+{
+ "nodes": [
+  {
+   "body": "", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "Trashi Gegyé Taten Ling Introduction"
+  }, 
+  {
+   "body": "", 
+   "index": 1, 
+   "parent_index": 0, 
+   "title": "Dolpo (Nep. Dolpa) District"
+  }, 
+  {
+   "body": "", 
+   "index": 2, 
+   "parent_index": 1, 
+   "title": "(228) Dorpatan Monastery"
+  }, 
+  {
+   "body": "<p>bKra his dge rgyas mtha’ brtan gling</p>
+", 
+   "index": 3, 
+   "parent_index": 2, 
+   "title": "1. Name of monastery"
+  }, 
+  {
+   "body": "<p>Dorpatan refugee camp, Rukum District, Dhaulagiri Zone</p>
+", 
+   "index": 4, 
+   "parent_index": 2, 
+   "title": "2. Location"
+  }, 
+  {
+   "body": "<p>Shes rab blo gros, the old abbot of sMan ri monastery in Tibet, was living for a while with other members of the Bonpo community in Kathmandu, including bsTan ’dzin rnam dag, shortly after coming into exile. The Red Cross began to build a refugee camp in Dorpatan in the early sixties, and after the departure of bsTan ’dzin rnam dag to England, Shes rab blo gros went to Dorpatan. The Dorpatan temple was created at this time. Shes rab blo gros later went to Manali in India, and the management of the temple was taken over by Tshul khrims nyi ma, a bla ma from Kre ba, north of Kyirong, in Tibet. Most of the members of the Dorpatan camp were from Kre ba. After the murder of Tshul khrims nyi ma in a celebrated incident in 1969/1970, the temple was run by mKhan po bSod nams rgyal mtshan, from Khyung po. He died in 1995, and has been succeeded by dGe bshes bsTan ’dzin dar rgyas, a monk from Dolanji who was appointed to this position by the mKhan chen Sangs rgyas bstan ’dzin. </p>
+", 
+   "index": 5, 
+   "parent_index": 2, 
+   "title": "3. History"
+  }, 
+  {
+   "body": "<p>The monastery is small, and the hierarchical system not elaborate. There is a mkhan po, an dbu mdzad and a gnyer pa, Tshul khrims rgyal mtshan. </p>
+", 
+   "index": 6, 
+   "parent_index": 2, 
+   "title": "4. Hierarchical system"
+  }, 
+  {
+   "body": "<p>Including the hierarchs listed above in no. 4, there are six monks, who live in the monastic quarters attached to the temple. </p>
+", 
+   "index": 7, 
+   "parent_index": 2, 
+   "title": "5. Number of monks/ priests"
+  }, 
+  {
+   "body": "<p>Religious education is relatively unstructured; the dge bshes sporadically teaches Tibetan to the children from the refugee camp. </p>
+<p>In addition to the monastery there is a medical centre, where teaching is provided by dGe rgan Tshul khrims sangs rgyas, who came from Khyung po, in eastern Tibet, in the mid-1980s. He has about ten students, most of whom are from the local refugee community but one from Dzar, in the Muktinath Valley of Mustang District. </p>
+", 
+   "index": 8, 
+   "parent_index": 2, 
+   "title": "6. The present educational system"
+  }, 
+  {
+   "body": "<p>There is a certain amount of mobility between Dorpatan, sMan ri Monastery (No.231) in Dolanji and Triten Norbutse (No.230) in Kathmandu. </p>
+", 
+   "index": 9, 
+   "parent_index": 2, 
+   "title": "7. Personnel and educational exchange of monks between monasteries"
+  }, 
+  {
+   "body": "<p>Essentially, fumigation (bsang) and water-offering (yon chab) in the morning and bka’ skyong (invocation of the protectors), with the lighting of a mchod me (votive lamp), in the evening. </p>
+", 
+   "index": 10, 
+   "parent_index": 2, 
+   "title": "8. Description of daily rituals of the monastery"
+  }, 
+  {
+   "body": "<p>The main annual rituals are: mNyam med dus chen (commemoration of mNyam med Shes rab rgyal mtshan) in the first month; smyung gnas in the fourth month; dgu gtor of sTag la in the ninth month. </p>
+", 
+   "index": 11, 
+   "parent_index": 2, 
+   "title": "9. Description of annual rituals of the monastery"
+  }, 
+  {
+   "body": "<p>The monks do not farm or engage in much commerce, but they are much in demand for the performance of domestic rituals among the lay community. </p>
+", 
+   "index": 12, 
+   "parent_index": 2, 
+   "title": "10. Daily life of an individual monk"
+  }, 
+  {
+   "body": "<p>The library consists almost entirely of Bonpo works reprinted in India.</p>
+", 
+   "index": 13, 
+   "parent_index": 2, 
+   "title": "11. Books and manuscripts kept by the monastery"
+  }, 
+  {
+   "body": "<p>The monastery owns a number of fields, and receives an income from the lease of this land to lay farmers from the refugee community. Further support is provided by the lay population and also from Triten Norbutse (No.230) and the Bonpo community in Kathmandu. </p>
+", 
+   "index": 14, 
+   "parent_index": 2, 
+   "title": "12. Economic circumstances of temples"
+  }, 
+  {
+   "body": "<p>Approximately 200 people. </p>
+", 
+   "index": 15, 
+   "parent_index": 2, 
+   "title": "13. Number of local villages or nomads"
+  }, 
+  {
+   "body": "<p>The people migrate seasonally between Dorpatan and the south (mainly Pokhara), where they live for part of the time. In Dorpatan they grow mainly potatoes, as well as oats for livestock. Apples are now being grown in increasing quantities. </p>
+<p>The potatoes are exchanged in the south for salt and rice, and this exchanged in turn in the middle hills for maize and wheat. </p>
+", 
+   "index": 16, 
+   "parent_index": 2, 
+   "title": "14. Economic occupation of the local population"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Charles Ramble", 
+    "id": "77"
+   }, 
+   {
+    "fullname": "Charles Ramble", 
+    "id": "77"
+   }, 
+   {
+    "fullname": "Marietta Kind", 
+    "id": "81"
+   }, 
+   {
+    "fullname": "Marietta Kind", 
+    "id": "81"
+   }
+  ], 
+  "domain": "places", 
+  "kid": "23639", 
+  "dates": [], 
+  "title": "Trashi Gegyé Taten Ling Introduction"
+ }
+}

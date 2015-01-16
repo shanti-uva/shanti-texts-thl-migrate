@@ -1,1 +1,57 @@
-{"meta":{"domain":"places","kid":"16830","authors":[],"title":"Tsanyer Mambur M\u00f6nkhang Introduction","dates":{"created_at":"2010-08-25 11:13:35 UTC","updated_at":"2010-08-25 11:13:35 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Tsanyer Mambur M\u00f6nkhang Introduction"},{"title":"II.2. Superficial structures: Primarily funerary superstructure","index":1,"parent_index":0},{"title":null,"index":2,"parent_index":1},{"title":"Basic site data","index":3,"parent_index":2,"body":"<ul class=\"bullet-blue\"> <li>Site name: <span class=\"popular\">Tsanyer Marmbur M\u00f6nkhang<\/span><span class=\"scholar\">Tsha gnyer dmar \u2019bur mon khang<\/span> <\/li> <li>Site number: D-117<\/li> <li>Site typology: II.2d <\/li> <li>Geographic coordinate (N. lat.): 32\u00ba 09.2\u0384 <\/li> <li>Geographic coordinate (E. long.): 82\u00ba 44.6\u0384<\/li> <li>Elevation: 4750 m <\/li> <li>Administrative location (township):<span class=\"popular\">Ombu<\/span><span class=\"scholar\">\u2019Om bu<\/span> <\/li> <li>Administrative location (county): <span class=\"popular\">Gegy\u00e9<\/span><span class=\"scholar\">Dge rgyas<\/span> <\/li> <li>Survey expedition: TUE<\/li> <li>Survey date: September 22, 2005<\/li> <li>Contemporary usage: Light grazing. <\/li> <li>Identifiable Buddhist constructions: None. <\/li> <\/ul>"},{"title":"General site characteristics","index":4,"parent_index":2,"body":"<p> <span class=\"popular\">Tsanyer Marmbur M\u00f6nkhang<\/span><span class=\"scholar\">Tsha gnyer dmar \u2019bur mon khang<\/span> is located in the <span class=\"popular\">Gegy\u00e9 Lhoma<\/span><span class=\"scholar\">Dge rgyas lho ma<\/span> region. The site is situated in a valley bottom, on the left side of the stream that flows through it. The terrain is level, sandy and gravelly. <span class=\"popular\">Tsanyer Marmbur M\u00f6nkhang<\/span><span class=\"scholar\">Tsha gnyer dmar \u2019bur mon khang<\/span> consists of a single heavily disturbed, quadrate funerary mound (<span class=\"popular emph\">bangso<\/span><span class=\"scholar emph\">bang so<\/span>). <\/p>"},{"title":"Oral tradition","index":5,"parent_index":2,"body":"<p>According to local sources, <span class=\"popular\">Tsanyer Marmbur M\u00f6nkhang<\/span><span class=\"scholar\">Tsha gnyer dmar \u2019bur mon khang<\/span> was constructed by the ancient <span class=\"popular\">M\u00f6n<\/span><span class=\"scholar\">Mon<\/span>.<\/p>"},{"title":"Site elements","index":6,"parent_index":2,"body":"<p>The funerary mound (11.5 m x 5 m) is elevated 30 cm to 1.2 m above the surrounding terrain. It is not well aligned in the cardinal directions. No coherent wall segments have survived. This tumulus appears to have had double-course walls that ran along the rim of the mound. Smaller stones are strewn all across its surface. Reportedly, many stones were extracted from the structure during the Chinese Cultural Revolution, in order to build retaining walls for an agricultural project. This project, to grow grain, was an abject failure. The fields hat were tilled lie near the tumulus. Just below the northeast side (side facing the valley\u2019s watercourse) of the mound there is an irregularly shaped dark-colored, metamorphic (?) pillar, 40 cm in height. On a higher bench in he vicinity there is a corral, which is said to have been constructed from a \u2018<span class=\"popular emph\">m\u00f6n khang<\/span><span class=\"scholar emph\">mon khang<\/span>\u2019, dismantled for its stones (32\u00b0 08.944\u0384 N. lat. \/ 82\u00b0 44.460\u0384 E. long.). No signs of this tomb are discernable. <\/p>"}]}
+{
+ "nodes": [
+  {
+   "body": "", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "Tsanyer Mambur Mönkhang Introduction"
+  }, 
+  {
+   "body": "", 
+   "index": 1, 
+   "parent_index": 0, 
+   "title": "II.2. Superficial structures: Primarily funerary superstructure"
+  }, 
+  {
+   "body": "", 
+   "index": 2, 
+   "parent_index": 1, 
+   "title": " Tsanyer Marmbur MönkhangTsha gnyer dmar ’bur mon khang "
+  }, 
+  {
+   "body": "<ul class=\"bullet-blue\"> <li>Site name: <span class=\"popular\">Tsanyer Marmbur Mönkhang</span><span class=\"scholar\">Tsha gnyer dmar ’bur mon khang</span> </li> <li>Site number: D-117</li> <li>Site typology: II.2d </li> <li>Geographic coordinate (N. lat.): 32º 09.2΄ </li> <li>Geographic coordinate (E. long.): 82º 44.6΄</li> <li>Elevation: 4750 m </li> <li>Administrative location (township):<span class=\"popular\">Ombu</span><span class=\"scholar\">’Om bu</span> </li> <li>Administrative location (county): <span class=\"popular\">Gegyé</span><span class=\"scholar\">Dge rgyas</span> </li> <li>Survey expedition: TUE</li> <li>Survey date: September 22, 2005</li> <li>Contemporary usage: Light grazing. </li> <li>Identifiable Buddhist constructions: None. </li> </ul>
+", 
+   "index": 3, 
+   "parent_index": 2, 
+   "title": "Basic site data"
+  }, 
+  {
+   "body": "<p> <span class=\"popular\">Tsanyer Marmbur Mönkhang</span><span class=\"scholar\">Tsha gnyer dmar ’bur mon khang</span> is located in the <span class=\"popular\">Gegyé Lhoma</span><span class=\"scholar\">Dge rgyas lho ma</span> region. The site is situated in a valley bottom, on the left side of the stream that flows through it. The terrain is level, sandy and gravelly. <span class=\"popular\">Tsanyer Marmbur Mönkhang</span><span class=\"scholar\">Tsha gnyer dmar ’bur mon khang</span> consists of a single heavily disturbed, quadrate funerary mound (<span class=\"popular emph\">bangso</span><span class=\"scholar emph\">bang so</span>). </p>
+", 
+   "index": 4, 
+   "parent_index": 2, 
+   "title": "General site characteristics"
+  }, 
+  {
+   "body": "<p>According to local sources, <span class=\"popular\">Tsanyer Marmbur Mönkhang</span><span class=\"scholar\">Tsha gnyer dmar ’bur mon khang</span> was constructed by the ancient <span class=\"popular\">Mön</span><span class=\"scholar\">Mon</span>.</p>
+", 
+   "index": 5, 
+   "parent_index": 2, 
+   "title": "Oral tradition"
+  }, 
+  {
+   "body": "<p>The funerary mound (11.5 m x 5 m) is elevated 30 cm to 1.2 m above the surrounding terrain. It is not well aligned in the cardinal directions. No coherent wall segments have survived. This tumulus appears to have had double-course walls that ran along the rim of the mound. Smaller stones are strewn all across its surface. Reportedly, many stones were extracted from the structure during the Chinese Cultural Revolution, in order to build retaining walls for an agricultural project. This project, to grow grain, was an abject failure. The fields hat were tilled lie near the tumulus. Just below the northeast side (side facing the valley’s watercourse) of the mound there is an irregularly shaped dark-colored, metamorphic (?) pillar, 40 cm in height. On a higher bench in he vicinity there is a corral, which is said to have been constructed from a ‘<span class=\"popular emph\">mön khang</span><span class=\"scholar emph\">mon khang</span>’, dismantled for its stones (32° 08.944΄ N. lat. / 82° 44.460΄ E. long.). No signs of this tomb are discernable. </p>
+", 
+   "index": 6, 
+   "parent_index": 2, 
+   "title": "Site elements"
+  }
+ ], 
+ "meta": {
+  "authors": [], 
+  "domain": "places", 
+  "kid": "16830", 
+  "dates": [], 
+  "title": "Tsanyer Mambur Mönkhang Introduction"
+ }
+}

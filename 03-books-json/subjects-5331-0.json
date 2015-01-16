@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"5331","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:55 UTC","updated_at":"2013-09-15 04:15:55 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<ul> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f58\u0f7a\u0f0b\u0f60\u0f41\u0f7c\u0f62\u0f0b<\/span> \u201cTrain\u201d (<em>huo che<\/em>). (Formed with <span class=\"tibetan\" title=\"Type ID here\">\u0f58\u0f7a\u0f0b<\/span> = <em>huo <\/em>\u201cfire\u201d and <span class=\"tibetan\" title=\"Type ID here\">\u0f60\u0f41\u0f7c\u0f62\u0f0b<\/span> = <em>che <\/em>\u201ccar.\u201d)<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f42\u0fb3\u0f7c\u0f42\u0f0b\u0f56\u0f62\u0f99\u0f53\u0f0b<\/span> \u201cCinema\u201d (<em>dian yin<\/em>). (Formed with <span class=\"tibetan\" title=\"Type ID here\">\u0f42\u0fb3\u0f7c\u0f42\u0f0b<\/span> = <em>dian <\/em>\u201celectric,\u201d <span class=\"tibetan\" title=\"Type ID here\">\u0f56\u0f62\u0f99\u0f53\u0f0b<\/span> = <em>yin <\/em>\u201cimage.\u201d)<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f42\u0fb3\u0f7c\u0f42\u0f0b\u0f40\u0fb3\u0f51\u0f0b\u0f60\u0f55\u0fb2\u0f74\u0f63\u0f0b\u0f60\u0f41\u0f7c\u0f62\u0f0b<\/span> \u201cComputer\u201d (<em>dian nao<\/em>). (Formed with <span class=\"tibetan\" title=\"Type ID here\">\u0f42\u0fb3\u0f7c\u0f42\u0f0b<\/span> = <em>dian<\/em> \u201celectric\u201d and <span class=\"tibetan\" title=\"Type ID here\">\u0f40\u0fb3\u0f51\u0f0b<\/span> = <em>nao <\/em>\u201cbrain\u201d + <span class=\"tibetan\" title=\"Type ID here\">\u0f60\u0f55\u0fb2\u0f74\u0f63\u0f0b\u0f60\u0f41\u0f7c\u0f62\u0f0b<\/span> \u201cmachine.\u201d)<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f62\u0fa1\u0f7c\u0f0b\u0f66\u0fa3\u0f74\u0f58\u0f0b<\/span> \u201cPetrol,\u201d \u201cgasoline\u201d (<em>shi you<\/em>). (Formed with <span class=\"tibetan\" title=\"Type ID here\">\u0f62\u0fa1\u0f7c\u0f0b<\/span> = <em>shi <\/em>\u201cstone\u201d and <span class=\"tibetan\" title=\"Type ID here\">\u0f66\u0fa3\u0f74\u0f58\u0f0b<\/span> = <em>you <\/em>\u201coil,\u201d cf. Latin <em>petra <\/em>+ <em>oleum <\/em>\u201cpetrol.\u201d)<\/li> <\/ul>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"5331","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:55 UTC","updated_at":"2013-09-15 04:15:55 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<ul> <li><span class=\"tibetan\" title=\"Type ID here\">མེ་འཁོར་</span> “Train” (<em>huo che</em>). (Formed with <span class=\"tibetan\" title=\"Type ID here\">མེ་</span> = <em>huo </em>“fire” and <span class=\"tibetan\" title=\"Type ID here\">འཁོར་</span> = <em>che </em>“car.”)</li> <li><span class=\"tibetan\" title=\"Type ID here\">གློག་བརྙན་</span> “Cinema” (<em>dian yin</em>). (Formed with <span class=\"tibetan\" title=\"Type ID here\">གློག་</span> = <em>dian </em>“electric,” <span class=\"tibetan\" title=\"Type ID here\">བརྙན་</span> = <em>yin </em>“image.”)</li> <li><span class=\"tibetan\" title=\"Type ID here\">གློག་ཀླད་འཕྲུལ་འཁོར་</span> “Computer” (<em>dian nao</em>). (Formed with <span class=\"tibetan\" title=\"Type ID here\">གློག་</span> = <em>dian</em> “electric” and <span class=\"tibetan\" title=\"Type ID here\">ཀླད་</span> = <em>nao </em>“brain” + <span class=\"tibetan\" title=\"Type ID here\">འཕྲུལ་འཁོར་</span> “machine.”)</li> <li><span class=\"tibetan\" title=\"Type ID here\">རྡོ་སྣུམ་</span> “Petrol,” “gasoline” (<em>shi you</em>). (Formed with <span class=\"tibetan\" title=\"Type ID here\">རྡོ་</span> = <em>shi </em>“stone” and <span class=\"tibetan\" title=\"Type ID here\">སྣུམ་</span> = <em>you </em>“oil,” cf. Latin <em>petra </em>+ <em>oleum </em>“petrol.”)</li> </ul>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<ul> <li><span class=\"tibetan\" title=\"Type ID here\">མེ་འཁོར་</span> “Train” (<em>huo che</em>). (Formed with <span class=\"tibetan\" title=\"Type ID here\">མེ་</span> = <em>huo </em>“fire” and <span class=\"tibetan\" title=\"Type ID here\">འཁོར་</span> = <em>che </em>“car.”)</li> <li><span class=\"tibetan\" title=\"Type ID here\">གློག་བརྙན་</span> “Cinema” (<em>dian yin</em>). (Formed with <span class=\"tibetan\" title=\"Type ID here\">གློག་</span> = <em>dian </em>“electric,” <span class=\"tibetan\" title=\"Type ID here\">བརྙན་</span> = <em>yin </em>“image.”)</li> <li><span class=\"tibetan\" title=\"Type ID here\">གློག་ཀླད་འཕྲུལ་འཁོར་</span> “Computer” (<em>dian nao</em>). (Formed with <span class=\"tibetan\" title=\"Type ID here\">གློག་</span> = <em>dian</em> “electric” and <span class=\"tibetan\" title=\"Type ID here\">ཀླད་</span> = <em>nao </em>“brain” + <span class=\"tibetan\" title=\"Type ID here\">འཕྲུལ་འཁོར་</span> “machine.”)</li> <li><span class=\"tibetan\" title=\"Type ID here\">རྡོ་སྣུམ་</span> “Petrol,” “gasoline” (<em>shi you</em>). (Formed with <span class=\"tibetan\" title=\"Type ID here\">རྡོ་</span> = <em>shi </em>“stone” and <span class=\"tibetan\" title=\"Type ID here\">སྣུམ་</span> = <em>you </em>“oil,” cf. Latin <em>petra </em>+ <em>oleum </em>“petrol.”)</li> </ul>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Nicolas Tournadre", 
+    "id": "6"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "5331", 
+  "dates": [], 
+  "title": null
+ }
+}

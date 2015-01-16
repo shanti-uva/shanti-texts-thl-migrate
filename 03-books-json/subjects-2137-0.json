@@ -1,5 +1,29 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"2137","authors":[{"fullname":"Jos\u00e9 I. Cabez\u00f3n","id":"7"}],"title":"Exorcism for the Pure Deities","dates":{"created_at":"2013-09-15 04:08:44 UTC","updated_at":"2014-02-27 18:58:30 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Exorcism for the Pure Deities"},{"title":"Description","index":1,"parent_index":0,"body":"<p>According to J. Valbe, \u201ca rite carried out in house of unwed mother with illegitimate child.\u201d<\/p>"}]}
-=======
-{"meta":{"domain":"subjects","kid":"2137","authors":[{"fullname":"José I. Cabezón","id":"7"}],"title":"Exorcism for the Pure Deities","dates":{"created_at":"2013-09-15 04:08:44 UTC","updated_at":"2014-02-27 18:58:30 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Exorcism for the Pure Deities"},{"title":"Description","index":1,"parent_index":0,"body":" <p>According to J. Valbe, “a rite carried out in house of unwed mother with illegitimate child.”</p>"}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "Exorcism for the Pure Deities"
+  }, 
+  {
+   "body": "<p>According to J. Valbe, “a rite carried out in house of unwed mother with illegitimate child.”</p>
+", 
+   "index": 1, 
+   "parent_index": 0, 
+   "title": "Description"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "José I. Cabezón", 
+    "id": "7"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "2137", 
+  "dates": [], 
+  "title": "Exorcism for the Pure Deities"
+ }
+}

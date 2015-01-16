@@ -1,5 +1,29 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"1866","authors":[{"fullname":"Jos\u00e9 I. Cabez\u00f3n","id":"7"}],"title":"Consecration of Pills that \"Liberate through Taste\"","dates":{"created_at":"2013-09-15 04:07:50 UTC","updated_at":"2014-01-16 19:36:22 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Consecration of Pills that \"Liberate through Taste\""},{"title":"Example Texts","index":1,"parent_index":0,"body":"<ul> <li><a href=\"http:\/\/tbrc.org\/#!rid=W8863\">Bram ze skye ba bdun pa sha la brten pa'i myong grol ril bu ji lta bar bskrun pa'i dkar chag<\/a><\/li> <li><a href=\"http:\/\/tbrc.org\/#!rid=W20595\">Dpal rdo rje sems dpa' thugs kyi sgrub pa'i myang grol ril bu'i sgrub thabs ngag 'don snying por dril ba gzhan phan mkha' khyab<\/a>\u00a0<\/li> <li>See also\u00a0<a href=\"http:\/\/tbrc.org\/#!rid=T00JR74\">myong\/myang grol ril bu<\/a><\/li> <\/ul>"}]}
-=======
-{"meta":{"domain":"subjects","kid":"1866","authors":[{"fullname":"José I. Cabezón","id":"7"}],"title":"Consecration of Pills that \"Liberate through Taste\"","dates":{"created_at":"2013-09-15 04:07:50 UTC","updated_at":"2014-01-16 19:36:22 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Consecration of Pills that \"Liberate through Taste\""},{"title":"Example Texts","index":1,"parent_index":0,"body":" <ul> <li><a href=\"http://tbrc.org/#!rid=W8863\">Bram ze skye ba bdun pa sha la brten pa'i myong grol ril bu ji lta bar bskrun pa'i dkar chag</a></li> <li><a href=\"http://tbrc.org/#!rid=W20595\">Dpal rdo rje sems dpa' thugs kyi sgrub pa'i myang grol ril bu'i sgrub thabs ngag 'don snying por dril ba gzhan phan mkha' khyab</a> </li> <li>See also <a href=\"http://tbrc.org/#!rid=T00JR74\">myong/myang grol ril bu</a></li> </ul>"}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "Consecration of Pills that "Liberate through Taste""
+  }, 
+  {
+   "body": "<ul> <li><a href=\"http://tbrc.org/#!rid=W8863\">Bram ze skye ba bdun pa sha la brten pa'i myong grol ril bu ji lta bar bskrun pa'i dkar chag</a></li> <li><a href=\"http://tbrc.org/#!rid=W20595\">Dpal rdo rje sems dpa' thugs kyi sgrub pa'i myang grol ril bu'i sgrub thabs ngag 'don snying por dril ba gzhan phan mkha' khyab</a> </li> <li>See also <a href=\"http://tbrc.org/#!rid=T00JR74\">myong/myang grol ril bu</a></li> </ul>
+", 
+   "index": 1, 
+   "parent_index": 0, 
+   "title": "Example Texts"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "José I. Cabezón", 
+    "id": "7"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "1866", 
+  "dates": [], 
+  "title": "Consecration of Pills that "Liberate through Taste""
+ }
+}

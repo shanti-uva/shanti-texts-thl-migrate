@@ -1,1 +1,20 @@
-{"meta":{"domain":"places","kid":"1","authors":["David Germano"],"title":"China","dates":{"created_at":"2009-05-21 12:04:11 UTC","updated_at":"2009-05-21 12:04:11 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"China"}]}
+{
+ "nodes": [
+  {
+   "body": "<p>China is one of the largest and most powerful of contemporary nation states in the world today. It currently includes most of cultural Tibet in five of its western provinces - Tibet Autonomous Region (western, central and northern Tibet), Qinghai (northeastern Tibet), Sichuan (eastern Tibet), Yunnan (far southeastern Tibet), and Gansu (far northeastern Tibet). </p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "China"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   "David Germano"
+  ], 
+  "domain": "places", 
+  "kid": "1", 
+  "dates": [], 
+  "title": "China"
+ }
+}

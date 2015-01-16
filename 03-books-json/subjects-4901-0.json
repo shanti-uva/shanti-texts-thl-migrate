@@ -1,5 +1,25 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"4901","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:14:26 UTC","updated_at":"2013-09-15 04:14:26 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">The copulas <span class=\"tibetan\" title=\"Type ID here\">\u0f61\u0f7c\u0f51\u0f0b<\/span>, <span class=\"tibetan\" title=\"Type ID here\">\u0f60\u0f51\u0f74\u0f42\u0f0b<\/span>, <span class=\"tibetan\" title=\"Type ID here\">\u0f61\u0f7c\u0f51\u0f0b\u0f62\u0f7a\u0f51\u0f0b<\/span>, etc. are not used in future constructions. Instead, the future forms of the full verbs <span class=\"tibetan\" title=\"Type ID here\">\u0f46\u0f42\u0f66\u0f0b<\/span> \u201cto become,\u201d <span class=\"tibetan\" title=\"Type ID here\">\u0f56\u0fb1\u0f7a\u0f51\u0f0b<\/span> \u201cto do,\u201d <span class=\"tibetan\" title=\"Type ID here\">\u0f61\u0f7c\u0f44\u0f0b <\/span>\u201cto come,\u201d<a name=\"n1\" href=\"#fn1\">[1]<\/a> and <span class=\"tibetan\" title=\"Type ID here\">\u0f56\u0f66\u0fa1\u0f51\u0f0b <\/span>\u201cto stay\u201d are used. A distinction may be made between essential and existential statements.<\/p><hr size=\"1\" \/><p><a name=\"fn1\" href=\"#n1\">[1]<\/a> Note that <span class=\"tibetan\" title=\"Type ID here\">\u0f61\u0f7c\u0f44\u0f0b<\/span> may also mean \u201cto be appropriate.\u201d<\/p>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"4901","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:14:26 UTC","updated_at":"2013-09-15 04:14:26 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">The copulas <span class=\"tibetan\" title=\"Type ID here\">ཡོད་</span>, <span class=\"tibetan\" title=\"Type ID here\">འདུག་</span>, <span class=\"tibetan\" title=\"Type ID here\">ཡོད་རེད་</span>, etc. are not used in future constructions. Instead, the future forms of the full verbs <span class=\"tibetan\" title=\"Type ID here\">ཆགས་</span> “to become,” <span class=\"tibetan\" title=\"Type ID here\">བྱེད་</span> “to do,” <span class=\"tibetan\" title=\"Type ID here\">ཡོང་ </span>“to come,”<a name=\"n1\" href=\"#fn1\">[1]</a> and <span class=\"tibetan\" title=\"Type ID here\">བསྡད་ </span>“to stay” are used. A distinction may be made between essential and existential statements.</p> <hr size=\"1\" /> <p><a name=\"fn1\" href=\"#n1\">[1]</a> Note that <span class=\"tibetan\" title=\"Type ID here\">ཡོང་</span> may also mean “to be appropriate.”</p>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p class=\"Paragraph\">The copulas <span class=\"tibetan\" title=\"Type ID here\">ཡོད་</span>, <span class=\"tibetan\" title=\"Type ID here\">འདུག་</span>, <span class=\"tibetan\" title=\"Type ID here\">ཡོད་རེད་</span>, etc. are not used in future constructions. Instead, the future forms of the full verbs <span class=\"tibetan\" title=\"Type ID here\">ཆགས་</span> “to become,” <span class=\"tibetan\" title=\"Type ID here\">བྱེད་</span> “to do,” <span class=\"tibetan\" title=\"Type ID here\">ཡོང་ </span>“to come,”<a name=\"n1\" href=\"#fn1\">[1]</a> and <span class=\"tibetan\" title=\"Type ID here\">བསྡད་ </span>“to stay” are used. A distinction may be made between essential and existential statements.</p>
+<hr size=\"1\"/>
+<p><a name=\"fn1\" href=\"#n1\">[1]</a> Note that <span class=\"tibetan\" title=\"Type ID here\">ཡོང་</span> may also mean “to be appropriate.”</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Nicolas Tournadre", 
+    "id": "6"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "4901", 
+  "dates": [], 
+  "title": null
+ }
+}

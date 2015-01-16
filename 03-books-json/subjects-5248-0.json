@@ -1,5 +1,29 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"5248","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:44 UTC","updated_at":"2013-09-15 04:15:44 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">Some volitional verbs have an imperative form. For instance:<\/p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f49\u0f53\u0f0b<\/span> becomes <span class=\"tibetan\" title=\"Type ID here\">\u0f49\u0f7c\u0f53\u0f0b<\/span> \u201cListen!\u201d<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f63\u0f44\u0f0b<\/span> becomes <span class=\"tibetan\" title=\"Type ID here\">\u0f63\u0f7c\u0f44\u0f66\u0f0b<\/span> \u201cGet up!\u201d<\/li> <\/ul><p class=\"Paragraph\">These forms are not used for the negative imperative, which instead takes the present-future form.<\/p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f58\u0f0b\u0f49\u0f53\u0f0d<\/span> \u201cDon\u2019t listen.\u201d<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f58\u0f0b\u0f5f\u0f0d<\/span> \u201cDon\u2019t eat.\u201d<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f58\u0f0b\u0f61\u0f7c\u0f44\u0f0b\u0f0d<\/span> \u201cDon\u2019t come.\u201d<\/li> <\/ul><p class=\"Paragraph\">However, there are many verbs that have no special form to denote the imperative. In such cases, the verb may be used by itself.<\/p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f42\u0f66\u0f7c\u0f63\u0f0b\u0f47\u0f0b\u0f58\u0f46\u0f7c\u0f51\u0f0d<\/span> \u201cHave some tea.\u201d<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f55\u0f62\u0f0b\u0f55\u0f7a\u0f56\u0f66\u0f0d<\/span> \u201cGo over there.\u201d<\/li> <\/ul><p class=\"Paragraph\">In most cases, the imperative (command) and optative (wish) moods are formed by using particles. The main particles are: <span class=\"tibetan\" title=\"Type ID here\">\u0f51\u0f7c\u0f0b<\/span>, <span class=\"tibetan\" title=\"Type ID here\">\u0f51\u0f44\u0f0b<\/span>, <span class=\"tibetan\" title=\"Type ID here\">\u0f68\u0f0b<\/span>, <span class=\"tibetan\" title=\"Type ID here\">\u0f64\u0f72\u0f42\u0f0b<\/span>, <span class=\"tibetan\" title=\"Type ID here\">\u0f64\u0f7c\u0f42\u0f0b<\/span>, and the construction <span class=\"tibetan\" title=\"Type ID here\">\u0f62\u0f7c\u0f42\u0f66\u0f0b\u0f42\u0f53\u0f44\u0f0b<\/span>. These are discussed in the section on \u201cimperative markers\u201d below. (xxlink)<\/p>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"5248","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:44 UTC","updated_at":"2013-09-15 04:15:44 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">Some volitional verbs have an imperative form. For instance:</p> <ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཉན་</span> becomes <span class=\"tibetan\" title=\"Type ID here\">ཉོན་</span> “Listen!”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ལང་</span> becomes <span class=\"tibetan\" title=\"Type ID here\">ལོངས་</span> “Get up!”</li> </ul> <p class=\"Paragraph\">These forms are not used for the negative imperative, which instead takes the present-future form.</p> <ul> <li><span class=\"tibetan\" title=\"Type ID here\">མ་ཉན།</span> “Don’t listen.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">མ་ཟ།</span> “Don’t eat.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">མ་ཡོང་།</span> “Don’t come.”</li> </ul> <p class=\"Paragraph\">However, there are many verbs that have no special form to denote the imperative. In such cases, the verb may be used by itself.</p> <ul> <li><span class=\"tibetan\" title=\"Type ID here\">གསོལ་ཇ་མཆོད།</span> “Have some tea.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཕར་ཕེབས།</span> “Go over there.”</li> </ul> <p class=\"Paragraph\">In most cases, the imperative (command) and optative (wish) moods are formed by using particles. The main particles are: <span class=\"tibetan\" title=\"Type ID here\">དོ་</span>, <span class=\"tibetan\" title=\"Type ID here\">དང་</span>, <span class=\"tibetan\" title=\"Type ID here\">ཨ་</span>, <span class=\"tibetan\" title=\"Type ID here\">ཤིག་</span>, <span class=\"tibetan\" title=\"Type ID here\">ཤོག་</span>, and the construction <span class=\"tibetan\" title=\"Type ID here\">རོགས་གནང་</span>. These are discussed in the section on “imperative markers” below. (xxlink)</p>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p class=\"Paragraph\">Some volitional verbs have an imperative form. For instance:</p>
+<ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཉན་</span> becomes <span class=\"tibetan\" title=\"Type ID here\">ཉོན་</span> “Listen!”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ལང་</span> becomes <span class=\"tibetan\" title=\"Type ID here\">ལོངས་</span> “Get up!”</li> </ul>
+<p class=\"Paragraph\">These forms are not used for the negative imperative, which instead takes the present-future form.</p>
+<ul> <li><span class=\"tibetan\" title=\"Type ID here\">མ་ཉན།</span> “Don’t listen.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">མ་ཟ།</span> “Don’t eat.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">མ་ཡོང་།</span> “Don’t come.”</li> </ul>
+<p class=\"Paragraph\">However, there are many verbs that have no special form to denote the imperative. In such cases, the verb may be used by itself.</p>
+<ul> <li><span class=\"tibetan\" title=\"Type ID here\">གསོལ་ཇ་མཆོད།</span> “Have some tea.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཕར་ཕེབས།</span> “Go over there.”</li> </ul>
+<p class=\"Paragraph\">In most cases, the imperative (command) and optative (wish) moods are formed by using particles. The main particles are: <span class=\"tibetan\" title=\"Type ID here\">དོ་</span>, <span class=\"tibetan\" title=\"Type ID here\">དང་</span>, <span class=\"tibetan\" title=\"Type ID here\">ཨ་</span>, <span class=\"tibetan\" title=\"Type ID here\">ཤིག་</span>, <span class=\"tibetan\" title=\"Type ID here\">ཤོག་</span>, and the construction <span class=\"tibetan\" title=\"Type ID here\">རོགས་གནང་</span>. These are discussed in the section on “imperative markers” below. (xxlink)</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Nicolas Tournadre", 
+    "id": "6"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "5248", 
+  "dates": [], 
+  "title": null
+ }
+}

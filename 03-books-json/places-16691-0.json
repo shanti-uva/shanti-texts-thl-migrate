@@ -1,1 +1,50 @@
-{"meta":{"domain":"places","kid":"16691","authors":[],"title":"Langchen Chewa Introduction","dates":{"created_at":"2010-08-25 11:10:50 UTC","updated_at":"2010-08-25 11:10:50 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Langchen Chewa Introduction"},{"title":"II.1. Stelae and accompanying structures: Funerary and non-funerary structures","index":1,"parent_index":0},{"title":"Langchen ChewaGlang chen mche ba","index":2,"parent_index":1},{"title":"Basic site data","index":3,"parent_index":2,"body":"<ul class=\"bullet-blue\"> <li>Site name: <span class=\"popular\">Langchen Chewa<\/span><span class=\"scholar\">Glang chen mche ba<\/span> <\/li> <li>English equivalent: Elephant Tusk<\/li> <li>Site number: C-26<\/li> <li>Site typology: II.1a <\/li> <li>Geographic coordinate (N. lat.): 30\u00ba 46.0\u0384 <\/li> <li>Geographic coordinate (E. long.): 81\u00ba 22.0\u0384 <\/li> <li>Elevation: 4640 m <\/li> <li>Administrative location (township): <span class=\"popular\">Barga<\/span><span class=\"scholar\">Bar ga<\/span> <\/li> <li>Administrative location (county): <span class=\"popular\">Purang<\/span><span class=\"scholar\">Spu rang<\/span> <\/li> <li>Survey expedition: HTCE<\/li> <li>Survey date: May 5, 2002<\/li> <li>Contemporary usage: Light grazing. <\/li> <li>Identifiable Buddhist constructions: There are <span class=\"popular emph\">Mani<\/span><span class=\"scholar emph\">ma \u1e47i<\/span> walls and other monastic facilities in the proximity. <\/li> <\/ul>"},{"title":"General site characteristics","index":4,"parent_index":2,"body":"<p>The isolated pillar of <span class=\"popular\">Langchen Chewa<\/span><span class=\"scholar\">Glang chen mche ba<\/span> is planted in a fold between two hills of <span class=\"popular\">J iu<\/span><span class=\"scholar\">Byi\u2019u<\/span>. Both <span class=\"popular\">Mapam Yutso<\/span><span class=\"scholar\">Ma pham g.yu mtsho<\/span> and <span class=\"popular\">Langa Tso<\/span><span class=\"scholar\">La lnga mtsho<\/span> are visible from this site. Other archaic cultural monuments clustered at <span class=\"popular\">J iu<\/span><span class=\"scholar\">Byi\u2019u<\/span>, a strategically important location, include <span class=\"popular\">Chiu Khar<\/span><span class=\"scholar\">Byi\u2019u mkhar<\/span> (A-82), <span class=\"popular\">Jiu Singp\u00e9 Khar<\/span><span class=\"scholar\">Byi\u2019u sing pa\u2019i mkhar<\/span> (B-78), <span class=\"popular\">Langchen Dopur<\/span><span class=\"scholar\">Glang chen rdo phur<\/span> (C-35), and <span class=\"popular\">Jaiu M\u00f6ndo<\/span><span class=\"scholar\">Byi\u2019u mon rdo<\/span> (D-61). The terrain is barren and gently sloping. This unevenly shaped well-worn tabular pillar is 1.6 m in height and has a basal girth of 2.1 m. The two broad sides of the pillar face north and south. The south side of the pillar is red, perhaps from old ochre applications, while the remaining sides are grayish. The pillar is tilted to the north. Although <span class=\"popular\">Langchen Chewa<\/span><span class=\"scholar\">Glang chen mche ba<\/span> is situated in close proximity to a <span class=\"popular emph\">Mani<\/span><span class=\"scholar emph\">ma \u1e47i<\/span> wall and <span class=\"popular emph\">Ch\u00f6rten<\/span><span class=\"scholar emph\">mchod rten<\/span>, no ritual activity takes place here. <\/p>"},{"title":"Oral tradition","index":5,"parent_index":2,"body":"<p>According to residents of <span class=\"popular\">J iu<\/span><span class=\"scholar\">Byi\u2019u<\/span> monastery and village, <span class=\"popular\">Langchen Chewa<\/span><span class=\"scholar\">Glang chen mche ba<\/span> was self manifested and represents the tusk of an elephant. <\/p>"}]}
+{
+ "nodes": [
+  {
+   "body": "", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "Langchen Chewa Introduction"
+  }, 
+  {
+   "body": "", 
+   "index": 1, 
+   "parent_index": 0, 
+   "title": "II.1. Stelae and accompanying structures: Funerary and non-funerary structures"
+  }, 
+  {
+   "body": "", 
+   "index": 2, 
+   "parent_index": 1, 
+   "title": " Langchen ChewaGlang chen mche ba "
+  }, 
+  {
+   "body": "<ul class=\"bullet-blue\"> <li>Site name: <span class=\"popular\">Langchen Chewa</span><span class=\"scholar\">Glang chen mche ba</span> </li> <li>English equivalent: Elephant Tusk</li> <li>Site number: C-26</li> <li>Site typology: II.1a </li> <li>Geographic coordinate (N. lat.): 30º 46.0΄ </li> <li>Geographic coordinate (E. long.): 81º 22.0΄ </li> <li>Elevation: 4640 m </li> <li>Administrative location (township): <span class=\"popular\">Barga</span><span class=\"scholar\">Bar ga</span> </li> <li>Administrative location (county): <span class=\"popular\">Purang</span><span class=\"scholar\">Spu rang</span> </li> <li>Survey expedition: HTCE</li> <li>Survey date: May 5, 2002</li> <li>Contemporary usage: Light grazing. </li> <li>Identifiable Buddhist constructions: There are <span class=\"popular emph\">Mani</span><span class=\"scholar emph\">ma ṇi</span> walls and other monastic facilities in the proximity. </li> </ul>
+", 
+   "index": 3, 
+   "parent_index": 2, 
+   "title": "Basic site data"
+  }, 
+  {
+   "body": "<p>The isolated pillar of <span class=\"popular\">Langchen Chewa</span><span class=\"scholar\">Glang chen mche ba</span> is planted in a fold between two hills of <span class=\"popular\">J iu</span><span class=\"scholar\">Byi’u</span>. Both <span class=\"popular\">Mapam Yutso</span><span class=\"scholar\">Ma pham g.yu mtsho</span> and <span class=\"popular\">Langa Tso</span><span class=\"scholar\">La lnga mtsho</span> are visible from this site. Other archaic cultural monuments clustered at <span class=\"popular\">J iu</span><span class=\"scholar\">Byi’u</span>, a strategically important location, include <span class=\"popular\">Chiu Khar</span><span class=\"scholar\">Byi’u mkhar</span> (A-82), <span class=\"popular\">Jiu Singpé Khar</span><span class=\"scholar\">Byi’u sing pa’i mkhar</span> (B-78), <span class=\"popular\">Langchen Dopur</span><span class=\"scholar\">Glang chen rdo phur</span> (C-35), and <span class=\"popular\">Jaiu Möndo</span><span class=\"scholar\">Byi’u mon rdo</span> (D-61). The terrain is barren and gently sloping. This unevenly shaped well-worn tabular pillar is 1.6 m in height and has a basal girth of 2.1 m. The two broad sides of the pillar face north and south. The south side of the pillar is red, perhaps from old ochre applications, while the remaining sides are grayish. The pillar is tilted to the north. Although <span class=\"popular\">Langchen Chewa</span><span class=\"scholar\">Glang chen mche ba</span> is situated in close proximity to a <span class=\"popular emph\">Mani</span><span class=\"scholar emph\">ma ṇi</span> wall and <span class=\"popular emph\">Chörten</span><span class=\"scholar emph\">mchod rten</span>, no ritual activity takes place here. </p>
+", 
+   "index": 4, 
+   "parent_index": 2, 
+   "title": "General site characteristics"
+  }, 
+  {
+   "body": "<p>According to residents of <span class=\"popular\">J iu</span><span class=\"scholar\">Byi’u</span> monastery and village, <span class=\"popular\">Langchen Chewa</span><span class=\"scholar\">Glang chen mche ba</span> was self manifested and represents the tusk of an elephant. </p>
+", 
+   "index": 5, 
+   "parent_index": 2, 
+   "title": "Oral tradition"
+  }
+ ], 
+ "meta": {
+  "authors": [], 
+  "domain": "places", 
+  "kid": "16691", 
+  "dates": [], 
+  "title": "Langchen Chewa Introduction"
+ }
+}

@@ -1,5 +1,25 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"4771","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:13:59 UTC","updated_at":"2013-09-15 04:13:59 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">Volitional verbs are concerned with controllable action, and are compatible with intentional auxiliaries such as <span class=\"tibetan\" title=\"Type ID here\">\u0f54\u0f0b\u0f61\u0f72\u0f53\u0f0b<\/span> and \u201cjussive\u201d suffixes that convey an order or a suggestion (such as <span class=\"tibetan\" title=\"Type ID here\">\u0f4f<\/span>\u0f0b or <span class=\"tibetan\" title=\"Type ID here\">\u0f64\u0f72\u0f42\u0f0b<\/span>). Moreover, these verbs sometimes have a special inflected form for the imperative.<\/p><p class=\"Paragraph\">Some basic examples of volitional verbs are:<\/p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f56\u0f63\u0f9f\u0f66\u0f0b\u0f54\u0f0b\u0f61\u0f72\u0f53\u0f0d <\/span>\u201cI looked.\u201d<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f63\u0f9f\u0f7c\u0f66\u0f0b\u0f64\u0f72\u0f42<\/span> \u201cLook!\u201d<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f49\u0f63\u0f0b\u0f54\u0f0b\u0f61\u0f72\u0f53\u0f0d<\/span> \u201cI went to bed.\u201d<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f49\u0f7c\u0f63\u0f0b\u0f64\u0f72\u0f42<\/span> \u201cGo to bed! Lie down!\u201d<\/li> <\/ul>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"4771","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:13:59 UTC","updated_at":"2013-09-15 04:13:59 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">Volitional verbs are concerned with controllable action, and are compatible with intentional auxiliaries such as <span class=\"tibetan\" title=\"Type ID here\">པ་ཡིན་</span> and “jussive” suffixes that convey an order or a suggestion (such as <span class=\"tibetan\" title=\"Type ID here\">ཏ</span>་ or <span class=\"tibetan\" title=\"Type ID here\">ཤིག་</span>). Moreover, these verbs sometimes have a special inflected form for the imperative.</p> <p class=\"Paragraph\">Some basic examples of volitional verbs are:</p> <ul> <li><span class=\"tibetan\" title=\"Type ID here\">བལྟས་པ་ཡིན། </span>“I looked.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ལྟོས་ཤིག</span> “Look!”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཉལ་པ་ཡིན།</span> “I went to bed.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཉོལ་ཤིག</span> “Go to bed! Lie down!”</li> </ul>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p class=\"Paragraph\">Volitional verbs are concerned with controllable action, and are compatible with intentional auxiliaries such as <span class=\"tibetan\" title=\"Type ID here\">པ་ཡིན་</span> and “jussive” suffixes that convey an order or a suggestion (such as <span class=\"tibetan\" title=\"Type ID here\">ཏ</span>་ or <span class=\"tibetan\" title=\"Type ID here\">ཤིག་</span>). Moreover, these verbs sometimes have a special inflected form for the imperative.</p>
+<p class=\"Paragraph\">Some basic examples of volitional verbs are:</p>
+<ul> <li><span class=\"tibetan\" title=\"Type ID here\">བལྟས་པ་ཡིན། </span>“I looked.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ལྟོས་ཤིག</span> “Look!”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཉལ་པ་ཡིན།</span> “I went to bed.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཉོལ་ཤིག</span> “Go to bed! Lie down!”</li> </ul>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Nicolas Tournadre", 
+    "id": "6"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "4771", 
+  "dates": [], 
+  "title": null
+ }
+}

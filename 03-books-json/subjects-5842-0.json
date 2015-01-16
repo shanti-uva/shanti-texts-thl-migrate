@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"5842","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of Magical Devices ('phrul \u2018khor; Skt., yantra)","dates":{"created_at":"2013-09-15 04:17:50 UTC","updated_at":"2013-09-15 04:17:50 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">Magical devices ('phrul 'khor, Skt. yantra) constitute a type of yogic practice focused on physical movements and postures, and often named evocatively after animals, birds, types of people, ritual implements, and the like. Different traditions stress exercises to different degrees, though usually they remain within a fairly small space of movement rather than involving broad movements across a large area. The magical-devices practices can also involve specific breathing practices and visualizations conjoined with bodily postures and movements, as well as exercises in the cultivation of awareness.<\/p>","title":"An Overview of Magical Devices ('phrul \u2018khor; Skt., yantra)"}]}
-=======
-{"meta":{"domain":"subjects","kid":"5842","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of Magical Devices ('phrul ‘khor; Skt., yantra)","dates":{"created_at":"2013-09-15 04:17:50 UTC","updated_at":"2013-09-15 04:17:50 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">Magical devices ('phrul 'khor, Skt. yantra) constitute a type of yogic practice focused on physical movements and postures, and often named evocatively after animals, birds, types of people, ritual implements, and the like. Different traditions stress exercises to different degrees, though usually they remain within a fairly small space of movement rather than involving broad movements across a large area. The magical-devices practices can also involve specific breathing practices and visualizations conjoined with bodily postures and movements, as well as exercises in the cultivation of awareness.</p>","title":"An Overview of Magical Devices ('phrul ‘khor; Skt., yantra)"}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p class=\"Paragraph\">Magical devices ('phrul 'khor, Skt. yantra) constitute a type of yogic practice focused on physical movements and postures, and often named evocatively after animals, birds, types of people, ritual implements, and the like. Different traditions stress exercises to different degrees, though usually they remain within a fairly small space of movement rather than involving broad movements across a large area. The magical-devices practices can also involve specific breathing practices and visualizations conjoined with bodily postures and movements, as well as exercises in the cultivation of awareness.</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "An Overview of Magical Devices ('phrul ‘khor; Skt., yantra)"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "David Germano", 
+    "id": "2"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "5842", 
+  "dates": [], 
+  "title": "An Overview of Magical Devices ('phrul ‘khor; Skt., yantra)"
+ }
+}

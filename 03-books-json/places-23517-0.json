@@ -1,1 +1,88 @@
-{"meta":{"domain":"places","kid":"23517","authors":[{"fullname":"\u0f5a\u0f7a\u0f0b\u0f62\u0f72\u0f44\u0f0b\u0f50\u0f62\u0f0d (Tsering Thar)","id":"80"},{"fullname":"\u0f5a\u0f7a\u0f0b\u0f62\u0f72\u0f44\u0f0b\u0f50\u0f62\u0f0d (Tsering Thar)","id":"80"}],"title":"Sekhang Khyungkar Mindr\u00f6l Rindzin Ling Introduction","dates":{"created_at":"2011-12-13 02:29:41 UTC","updated_at":"2011-12-13 02:29:41 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Sekhang Khyungkar Mindr\u00f6l Rindzin Ling Introduction"},{"title":"Reb gong","index":1,"parent_index":0},{"title":"(111) Khyung bo thang Temple","index":2,"parent_index":1},{"title":"1. Name","index":3,"parent_index":2,"body":"<p>gSas khang Khyung dkar smin grol rig \u2019dzin gling<\/p>"},{"title":"2. Location","index":4,"parent_index":2,"body":"<p>Khyung bo thang sMad pa village (latitude: 35\u00b039\u201990\u201dN, longitude: 102\u00b004\u201929\u201dE)<\/p>"},{"title":"5. Number of practitioners","index":5,"parent_index":2,"body":"<p>There are one hundred and forty Bonpo tantric practitioners in the temple.<\/p>"},{"title":"8 \/ 9. Rituals","index":6,"parent_index":2,"body":"<p>Kun bzang and Tshe dbang alternately on the 10th day of each month. Kun bzang and dBal gsas from the 21st to the 30th day of the 1st month. Kun bzang, dBal gsas and Khro bo from the 21st to the 30th day of the 3rd month. mKha\u2019 \u2019gro gsang bcod from the 15th to the 16th day of the 4th month. Kun bzang and \u2019Bum pa from the 5th to the 10th day of the 5th month. Kun bzang and sTag la from the 16th to the 21st day of the 11th month. Kun bzang, Tshe dbang, \u2019Bum pa and sTag la from the 20th to the 30th day of the 12th month.<\/p>"},{"title":"12. Local community","index":7,"parent_index":2,"body":"<p>There are two main villages, Gong skor and Phyi skor. The former comprises the following sub-villages: sTag a \u2019bum with seventeen families, Bonpo with twenty families, and dPon skor with ten families, and the latter mKhar sgo gong ma with twenty families, mKhar sgo zhol ma with ten families and lTag kha with fifteen families. These villages are considered as the lha sde of the temple.<\/p>"},{"title":"13. Local Festivals","index":8,"parent_index":2,"body":"<p>The <span xmlns:str=\"http:\/\/exslt.org\/strings\" style=\"font-style: italic;\" class=\"\">la btsas<\/span> is dedicated to the local deity dMag dpon dGra \u2019dul thogs med rtsal. It is a common <span xmlns:str=\"http:\/\/exslt.org\/strings\" style=\"font-style: italic;\" class=\"\">la btsas<\/span> for both Bonpo and Buddhists. Built according to instructions given by Bon brgya Trulku. It is located 1 km from the temple and propitiated on the 9th day of the 4th month. The <span xmlns:str=\"http:\/\/exslt.org\/strings\" style=\"font-style: italic;\" class=\"\">la btsas<\/span> of the local deity sTag shar on top of sTag shar sgang hill, which is the <span xmlns:str=\"http:\/\/exslt.org\/strings\" style=\"font-style: italic;\" class=\"\">rgyab ri<\/span> of the temple. It is 13 km from the temple and propitiated exclusively by Phyi skor village on the 11th day of the 2nd month. The <span xmlns:str=\"http:\/\/exslt.org\/strings\" style=\"font-style: italic;\" class=\"\">la btsas<\/span> of the local deity Bya khyung is located at the top of one of the three peaks known as \u2019Khyams tho spun gsum, the three \u2019Khyams tho brothers, around 67 km from the temple and propitiated on the 4th day of the 5th month. <\/p><p>There is another type of <span xmlns:str=\"http:\/\/exslt.org\/strings\" style=\"font-style: italic;\" class=\"\">la btsas<\/span> made of stones (<span xmlns:str=\"http:\/\/exslt.org\/strings\" style=\"font-style: italic;\" class=\"\">rdo \u2019bum<\/span>), associated with Phun tshogs bla ma. It is 3 km from the temple and is propitiated by Gong skor village only on the 18th day of the 2nd month.<\/p>"},{"title":"14. Economic occupation of the local people","index":9,"parent_index":2,"body":"<p>Agriculture<\/p>"}]}
+{
+ "nodes": [
+  {
+   "body": "", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "Sekhang Khyungkar Mindröl Rindzin Ling Introduction"
+  }, 
+  {
+   "body": "", 
+   "index": 1, 
+   "parent_index": 0, 
+   "title": "Reb gong "
+  }, 
+  {
+   "body": "", 
+   "index": 2, 
+   "parent_index": 1, 
+   "title": "(111) Khyung bo thang Temple"
+  }, 
+  {
+   "body": "<p>gSas khang Khyung dkar smin grol rig ’dzin gling</p>
+", 
+   "index": 3, 
+   "parent_index": 2, 
+   "title": "1. Name "
+  }, 
+  {
+   "body": "<p>Khyung bo thang sMad pa village (latitude: 35°39’90”N, longitude: 102°04’29”E)</p>
+", 
+   "index": 4, 
+   "parent_index": 2, 
+   "title": "2. Location "
+  }, 
+  {
+   "body": "<p>There are one hundred and forty Bonpo tantric practitioners in the temple.</p>
+", 
+   "index": 5, 
+   "parent_index": 2, 
+   "title": "5. Number of practitioners"
+  }, 
+  {
+   "body": "<p>Kun bzang and Tshe dbang alternately on the 10th day of each month. Kun bzang and dBal gsas from the 21st to the 30th day of the 1st month. Kun bzang, dBal gsas and Khro bo from the 21st to the 30th day of the 3rd month. mKha’ ’gro gsang bcod from the 15th to the 16th day of the 4th month. Kun bzang and ’Bum pa from the 5th to the 10th day of the 5th month. Kun bzang and sTag la from the 16th to the 21st day of the 11th month. Kun bzang, Tshe dbang, ’Bum pa and sTag la from the 20th to the 30th day of the 12th month.</p>
+", 
+   "index": 6, 
+   "parent_index": 2, 
+   "title": "8 / 9. Rituals"
+  }, 
+  {
+   "body": "<p>There are two main villages, Gong skor and Phyi skor. The former comprises the following sub-villages: sTag a ’bum with seventeen families, Bonpo with twenty families, and dPon skor with ten families, and the latter mKhar sgo gong ma with twenty families, mKhar sgo zhol ma with ten families and lTag kha with fifteen families. These villages are considered as the lha sde of the temple.</p>
+", 
+   "index": 7, 
+   "parent_index": 2, 
+   "title": "12. Local community"
+  }, 
+  {
+   "body": "<p>The <span xmlns:str=\"http://exslt.org/strings\" style=\"font-style: italic;\" class=\"\">la btsas</span> is dedicated to the local deity dMag dpon dGra ’dul thogs med rtsal. It is a common <span xmlns:str=\"http://exslt.org/strings\" style=\"font-style: italic;\" class=\"\">la btsas</span> for both Bonpo and Buddhists. Built according to instructions given by Bon brgya Trulku. It is located 1 km from the temple and propitiated on the 9th day of the 4th month. The <span xmlns:str=\"http://exslt.org/strings\" style=\"font-style: italic;\" class=\"\">la btsas</span> of the local deity sTag shar on top of sTag shar sgang hill, which is the <span xmlns:str=\"http://exslt.org/strings\" style=\"font-style: italic;\" class=\"\">rgyab ri</span> of the temple. It is 13 km from the temple and propitiated exclusively by Phyi skor village on the 11th day of the 2nd month. The <span xmlns:str=\"http://exslt.org/strings\" style=\"font-style: italic;\" class=\"\">la btsas</span> of the local deity Bya khyung is located at the top of one of the three peaks known as ’Khyams tho spun gsum, the three ’Khyams tho brothers, around 67 km from the temple and propitiated on the 4th day of the 5th month. </p>
+<p>There is another type of <span xmlns:str=\"http://exslt.org/strings\" style=\"font-style: italic;\" class=\"\">la btsas</span> made of stones (<span xmlns:str=\"http://exslt.org/strings\" style=\"font-style: italic;\" class=\"\">rdo ’bum</span>), associated with Phun tshogs bla ma. It is 3 km from the temple and is propitiated by Gong skor village only on the 18th day of the 2nd month.</p>
+", 
+   "index": 8, 
+   "parent_index": 2, 
+   "title": "13. Local Festivals"
+  }, 
+  {
+   "body": "<p>Agriculture</p>
+", 
+   "index": 9, 
+   "parent_index": 2, 
+   "title": "14. Economic occupation of the local people"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "ཚེ་རིང་ཐར། (Tsering Thar)", 
+    "id": "80"
+   }, 
+   {
+    "fullname": "ཚེ་རིང་ཐར། (Tsering Thar)", 
+    "id": "80"
+   }
+  ], 
+  "domain": "places", 
+  "kid": "23517", 
+  "dates": [], 
+  "title": "Sekhang Khyungkar Mindröl Rindzin Ling Introduction"
+ }
+}

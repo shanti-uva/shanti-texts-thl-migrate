@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"525","authors":[{"fullname":"Pema Namgyal","id":"4"}],"title":"","dates":{"created_at":"2013-09-15 04:04:38 UTC","updated_at":"2013-09-15 04:04:38 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>Alternate Tibetan name: \u0f66\u0fb3\u0f7c\u0f56\u0f0b\u0f42\u0fb3\u0f72\u0f44\u0f0b\u0f0d<\/p>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"525","authors":[{"fullname":"Pema Namgyal","id":"4"}],"title":"","dates":{"created_at":"2013-09-15 04:04:38 UTC","updated_at":"2013-09-15 04:04:38 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>Alternate Tibetan name: སློབ་གླིང་།</p>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p>Alternate Tibetan name: སློབ་གླིང་།</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Pema Namgyal", 
+    "id": "4"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "525", 
+  "dates": [], 
+  "title": null
+ }
+}

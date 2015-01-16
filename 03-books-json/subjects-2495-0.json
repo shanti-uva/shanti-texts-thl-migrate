@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"2495","authors":[{"fullname":"Jos\u00e9 I. Cabez\u00f3n","id":"7"}],"title":"","dates":{"created_at":"2013-09-15 04:09:57 UTC","updated_at":"2013-09-15 04:09:57 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>dge tshul du sgrub pa\u2019i cho ga. Ex: Dge bsnyen dang dge tshul du sgrub pa\u2019i cho ga nyer mkho kun gsal. <\/p>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"2495","authors":[{"fullname":"José I. Cabezón","id":"7"}],"title":"","dates":{"created_at":"2013-09-15 04:09:57 UTC","updated_at":"2013-09-15 04:09:57 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>dge tshul du sgrub pa’i cho ga. Ex: Dge bsnyen dang dge tshul du sgrub pa’i cho ga nyer mkho kun gsal. </p>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p>dge tshul du sgrub pa’i cho ga. Ex: Dge bsnyen dang dge tshul du sgrub pa’i cho ga nyer mkho kun gsal. </p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "José I. Cabezón", 
+    "id": "7"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "2495", 
+  "dates": [], 
+  "title": null
+ }
+}

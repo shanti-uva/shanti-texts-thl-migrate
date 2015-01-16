@@ -1,1 +1,137 @@
-{"meta":{"domain":"places","kid":"23627","authors":[{"fullname":"Charles Ramble","id":"77"},{"fullname":"Charles Ramble","id":"77"},{"fullname":"Marietta Kind","id":"81"},{"fullname":"Marietta Kind","id":"81"}],"title":"Dargy\u00e9 P\u00fcntsok Ling Introduction","dates":{"created_at":"2011-12-13 02:30:36 UTC","updated_at":"2011-12-13 02:30:36 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Dargy\u00e9 P\u00fcntsok Ling Introduction"},{"title":"Dolpo (Nep. Dolpa) District","index":1,"parent_index":0},{"title":"(221) Dar rgyas phun tshogs gling Monastery","index":2,"parent_index":1},{"title":"1. Name of monastery","index":3,"parent_index":2,"body":"<ol type=\"1\"> <li>Dar rgyas phun tshogs gling, <\/li> <li>sMer phu dgon<\/li> <\/ol>"},{"title":"2. Location","index":4,"parent_index":2,"body":"<ol type=\"1\"> <li>Fifteen minutes walk north of mDo, in the area of mDo rta srab called Srib phyogs. It is situated on the right bank of the Doro river about half an hour walk eastwards from mDo towards Tshar ka. <\/li> <li>sMer phu dgon pa, now only ruins, is situated southwest of mDo in a side valley.<\/li> <\/ol>"},{"title":"3. History","index":5,"parent_index":2,"body":"<p>Until about two years ago there were two householder bla mas at Srib phyogs, but by 2000 both had died and the Bonpo community of Dolpo is now worried about the future.<\/p>"},{"title":"4. Hierarchical system","index":6,"parent_index":2,"body":"<p>There is a bla ma, of the Ya ngal clan, called gTsug phud dbang grags. He is a sngags pa. There is also a precentor (dbu mdzad), a permanent position that is held by a brother of the main bla ma. <\/p>"},{"title":"5. Number of monks\/ priests","index":7,"parent_index":2,"body":"<p>Seventeen or eighteen sngags pa, all from the mDo rta srab area. No celibate monks. <\/p>"},{"title":"6. The present educational system","index":8,"parent_index":2,"body":"<p>The main teacher is the Bla ma gTsug phud dbang grags, who taught his son, his grandson and several other boys from the community. Some of the sngags pa teach their own sons. <\/p>"},{"title":"7. Personnel and educational exchange of monks between monasteries","index":9,"parent_index":2,"body":"<p>The grandson is now a monk in Triten Norbutse (No.230). He has been in Kathmandu for two years, after doing a three-year preliminary retreat in the village. There are no other monks from this dgon pa either in Dolanji or in Kathmandu. <\/p>"},{"title":"8. Description of daily rituals of the monastery","index":10,"parent_index":2,"body":"<p>The house of the senior bla ma is adjacent to the dgon pa. He, or other members of his family, perform the daily ceremonies. In the morning there is the offering of water (yon chab) and the fumigation (bsang), and in the evening the lighting of the butterlamp (mchod me) and the invocation of the protectors (bka\u2019 skyong). <\/p>"},{"title":"9. Description of annual rituals of the monastery","index":11,"parent_index":2,"body":"<ul xmlns:str=\"http:\/\/exslt.org\/strings\" class=\"bullet-blue\"> <li>End of first, beginning of second month: Ma tri ceremony. <\/li> <li>Sixth month: annual repainting of the dgon pa. <\/li> <li>Eighth month: collection of grain donations and settling of annual accounts. <\/li> <li>End of tenth and beginning of eleventh month: Du tri su, a five-day ceremony. <\/li> <li>End of eleventh, beginning of twelfth month: smyung gnas. Performed by the sngags pa of the temple. <\/li> <\/ul>"},{"title":"10. Daily life of an individual monk","index":12,"parent_index":2,"body":"<p>As householder-priests they are mainly occupied with secular economic activities. <\/p>"},{"title":"11. Books and manuscripts kept by the monastery","index":13,"parent_index":2,"body":"<p>Includes manuscripts of mDo gzer mig, Dri med gzi brjid, Yum etc. <\/p>"},{"title":"12. Economic circumstances of temple","index":14,"parent_index":2,"body":"<p>The dgon pa is private, belonging to the family of the bla ma, and is officially registered as such. Support is provided by the Bonpo inhabitants of the settlement (about half the households). They support the institution with annual offerings of grain to each of the priests. There is no government support, and if any additional works need to be done funds must be raised from the local community, with the priests\u2019 families being the major donors. <\/p>"},{"title":"13. Number of local villages or nomads","index":15,"parent_index":2,"body":"<p>mDo is a mixed area with Bon and Buddhist followers according to houses. There are 11 houses of Bonpo and 37 of Buddhists.<\/p>"}]}
+{
+ "nodes": [
+  {
+   "body": "", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "Dargyé Püntsok Ling Introduction"
+  }, 
+  {
+   "body": "", 
+   "index": 1, 
+   "parent_index": 0, 
+   "title": "Dolpo (Nep. Dolpa) District"
+  }, 
+  {
+   "body": "", 
+   "index": 2, 
+   "parent_index": 1, 
+   "title": "(221) Dar rgyas phun tshogs gling Monastery"
+  }, 
+  {
+   "body": "<ol type=\"1\"> <li>Dar rgyas phun tshogs gling, </li> <li>sMer phu dgon</li> </ol>
+", 
+   "index": 3, 
+   "parent_index": 2, 
+   "title": "1. Name of monastery"
+  }, 
+  {
+   "body": "<ol type=\"1\"> <li>Fifteen minutes walk north of mDo, in the area of mDo rta srab called Srib phyogs. It is situated on the right bank of the Doro river about half an hour walk eastwards from mDo towards Tshar ka. </li> <li>sMer phu dgon pa, now only ruins, is situated southwest of mDo in a side valley.</li> </ol>
+", 
+   "index": 4, 
+   "parent_index": 2, 
+   "title": "2. Location"
+  }, 
+  {
+   "body": "<p>Until about two years ago there were two householder bla mas at Srib phyogs, but by 2000 both had died and the Bonpo community of Dolpo is now worried about the future.</p>
+", 
+   "index": 5, 
+   "parent_index": 2, 
+   "title": "3. History"
+  }, 
+  {
+   "body": "<p>There is a bla ma, of the Ya ngal clan, called gTsug phud dbang grags. He is a sngags pa. There is also a precentor (dbu mdzad), a permanent position that is held by a brother of the main bla ma. </p>
+", 
+   "index": 6, 
+   "parent_index": 2, 
+   "title": "4. Hierarchical system"
+  }, 
+  {
+   "body": "<p>Seventeen or eighteen sngags pa, all from the mDo rta srab area. No celibate monks. </p>
+", 
+   "index": 7, 
+   "parent_index": 2, 
+   "title": "5. Number of monks/ priests"
+  }, 
+  {
+   "body": "<p>The main teacher is the Bla ma gTsug phud dbang grags, who taught his son, his grandson and several other boys from the community. Some of the sngags pa teach their own sons. </p>
+", 
+   "index": 8, 
+   "parent_index": 2, 
+   "title": "6. The present educational system"
+  }, 
+  {
+   "body": "<p>The grandson is now a monk in Triten Norbutse (No.230). He has been in Kathmandu for two years, after doing a three-year preliminary retreat in the village. There are no other monks from this dgon pa either in Dolanji or in Kathmandu. </p>
+", 
+   "index": 9, 
+   "parent_index": 2, 
+   "title": "7. Personnel and educational exchange of monks between monasteries"
+  }, 
+  {
+   "body": "<p>The house of the senior bla ma is adjacent to the dgon pa. He, or other members of his family, perform the daily ceremonies. In the morning there is the offering of water (yon chab) and the fumigation (bsang), and in the evening the lighting of the butterlamp (mchod me) and the invocation of the protectors (bka’ skyong). </p>
+", 
+   "index": 10, 
+   "parent_index": 2, 
+   "title": "8. Description of daily rituals of the monastery"
+  }, 
+  {
+   "body": "<ul xmlns:str=\"http://exslt.org/strings\" class=\"bullet-blue\"> <li>End of first, beginning of second month: Ma tri ceremony. </li> <li>Sixth month: annual repainting of the dgon pa. </li> <li>Eighth month: collection of grain donations and settling of annual accounts. </li> <li>End of tenth and beginning of eleventh month: Du tri su, a five-day ceremony. </li> <li>End of eleventh, beginning of twelfth month: smyung gnas. Performed by the sngags pa of the temple. </li> </ul>
+", 
+   "index": 11, 
+   "parent_index": 2, 
+   "title": "9. Description of annual rituals of the monastery"
+  }, 
+  {
+   "body": "<p>As householder-priests they are mainly occupied with secular economic activities. </p>
+", 
+   "index": 12, 
+   "parent_index": 2, 
+   "title": "10. Daily life of an individual monk"
+  }, 
+  {
+   "body": "<p>Includes manuscripts of mDo gzer mig, Dri med gzi brjid, Yum etc. </p>
+", 
+   "index": 13, 
+   "parent_index": 2, 
+   "title": "11. Books and manuscripts kept by the monastery"
+  }, 
+  {
+   "body": "<p>The dgon pa is private, belonging to the family of the bla ma, and is officially registered as such. Support is provided by the Bonpo inhabitants of the settlement (about half the households). They support the institution with annual offerings of grain to each of the priests. There is no government support, and if any additional works need to be done funds must be raised from the local community, with the priests’ families being the major donors. </p>
+", 
+   "index": 14, 
+   "parent_index": 2, 
+   "title": "12. Economic circumstances of temple"
+  }, 
+  {
+   "body": "<p>mDo is a mixed area with Bon and Buddhist followers according to houses. There are 11 houses of Bonpo and 37 of Buddhists.</p>
+", 
+   "index": 15, 
+   "parent_index": 2, 
+   "title": "13. Number of local villages or nomads"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Charles Ramble", 
+    "id": "77"
+   }, 
+   {
+    "fullname": "Charles Ramble", 
+    "id": "77"
+   }, 
+   {
+    "fullname": "Marietta Kind", 
+    "id": "81"
+   }, 
+   {
+    "fullname": "Marietta Kind", 
+    "id": "81"
+   }
+  ], 
+  "domain": "places", 
+  "kid": "23627", 
+  "dates": [], 
+  "title": "Dargyé Püntsok Ling Introduction"
+ }
+}

@@ -1,5 +1,28 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"5140","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:27 UTC","updated_at":"2013-09-15 04:15:27 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">When the agent (marked with the ergative) and the possessor of an object (marked with the genitive) refer to the same person in a single sentence (in which case they are coreferent), in most cases only the possessor is mentioned. For example, in the following sentence, the owner of the bicycle and the agent of the verb \u201cto put\u201d are the same person, and therefore only the genitive case appears, without the agentive.<\/p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f41\u0fb1\u0f7a\u0f51\u0f0b\u0f62\u0f44\u0f0b\u0f42\u0f72\u0f0b\u0f62\u0f90\u0f44\u0f0b\u0f42\u0f0b\u0f62\u0f72\u0f63\u0f0b\u0f42\u0f0b\u0f54\u0f62\u0f0b\u0f56\u0f5e\u0f42\u0f0b\u0f61\u0f7c\u0f51\u0f0d<\/span> \u201cWhere did you put your bicycle?\u201d<\/li> <\/ul><p class=\"Paragraph\">The use of the ergative instead of the genitive is possible, but this would place the stress on the action and not on ownership.<\/p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f41\u0fb1\u0f7a\u0f51\u0f0b\u0f62\u0f44\u0f0b\u0f42\u0f72\u0f66\u0f0b\u0f62\u0f92\u0f44\u0f0b\u0f42\u0f0b\u0f62\u0f72\u0f63\u0f0b\u0f42\u0f0b\u0f54\u0f62\u0f0b\u0f56\u0f5e\u0f42\u0f0b\u0f61\u0f7c\u0f51\u0f0d<\/span> \u201cWhere did you put the\/your bicycle?\u201d<\/li> <\/ul><p class=\"Paragraph\">The use of both agent and possessor would be very odd:<\/p><ul> <li>*<span class=\"tibetan\" title=\"Type ID here\">\u0f41\u0fb1\u0f7a\u0f51\u0f0b\u0f62\u0f44\u0f0b\u0f42\u0f72\u0f66\u0f0b\u0f41\u0fb1\u0f7a\u0f51\u0f0b\u0f62\u0f44\u0f0b\u0f42\u0f72\u0f0b\u0f62\u0f90\u0f44\u0f0b\u0f42\u0f0b\u0f62\u0f72\u0f63\u0f0b\u0f42\u0f0b\u0f56\u0f62\u0f0b\u0f56\u0f5e\u0f42\u0f0b\u0f61\u0f7c\u0f51\u0f0d<\/span> (Incorrect)<\/li> <\/ul>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"5140","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:27 UTC","updated_at":"2013-09-15 04:15:27 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">When the agent (marked with the ergative) and the possessor of an object (marked with the genitive) refer to the same person in a single sentence (in which case they are coreferent), in most cases only the possessor is mentioned. For example, in the following sentence, the owner of the bicycle and the agent of the verb “to put” are the same person, and therefore only the genitive case appears, without the agentive.</p> <ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཁྱེད་རང་གི་རྐང་ག་རིལ་ག་པར་བཞག་ཡོད།</span> “Where did you put your bicycle?”</li> </ul> <p class=\"Paragraph\">The use of the ergative instead of the genitive is possible, but this would place the stress on the action and not on ownership.</p> <ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཁྱེད་རང་གིས་རྒང་ག་རིལ་ག་པར་བཞག་ཡོད།</span> “Where did you put the/your bicycle?”</li> </ul> <p class=\"Paragraph\">The use of both agent and possessor would be very odd:</p> <ul> <li>*<span class=\"tibetan\" title=\"Type ID here\">ཁྱེད་རང་གིས་ཁྱེད་རང་གི་རྐང་ག་རིལ་ག་བར་བཞག་ཡོད།</span> (Incorrect)</li> </ul>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p class=\"Paragraph\">When the agent (marked with the ergative) and the possessor of an object (marked with the genitive) refer to the same person in a single sentence (in which case they are coreferent), in most cases only the possessor is mentioned. For example, in the following sentence, the owner of the bicycle and the agent of the verb “to put” are the same person, and therefore only the genitive case appears, without the agentive.</p>
+<ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཁྱེད་རང་གི་རྐང་ག་རིལ་ག་པར་བཞག་ཡོད།</span> “Where did you put your bicycle?”</li> </ul>
+<p class=\"Paragraph\">The use of the ergative instead of the genitive is possible, but this would place the stress on the action and not on ownership.</p>
+<ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཁྱེད་རང་གིས་རྒང་ག་རིལ་ག་པར་བཞག་ཡོད།</span> “Where did you put the/your bicycle?”</li> </ul>
+<p class=\"Paragraph\">The use of both agent and possessor would be very odd:</p>
+<ul> <li>*<span class=\"tibetan\" title=\"Type ID here\">ཁྱེད་རང་གིས་ཁྱེད་རང་གི་རྐང་ག་རིལ་ག་བར་བཞག་ཡོད།</span> (Incorrect)</li> </ul>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Nicolas Tournadre", 
+    "id": "6"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "5140", 
+  "dates": [], 
+  "title": null
+ }
+}

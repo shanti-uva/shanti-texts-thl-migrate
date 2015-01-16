@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"2242","authors":[{"fullname":"Jos\u00e9 I. Cabez\u00f3n","id":"7"}],"title":"","dates":{"created_at":"2013-09-15 04:09:06 UTC","updated_at":"2013-09-15 04:09:06 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>\u2018Bras spungs klu \u2018bum, 7\/8<\/p>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"2242","authors":[{"fullname":"José I. Cabezón","id":"7"}],"title":"","dates":{"created_at":"2013-09-15 04:09:06 UTC","updated_at":"2013-09-15 04:09:06 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>‘Bras spungs klu ‘bum, 7/8</p>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p>‘Bras spungs klu ‘bum, 7/8</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "José I. Cabezón", 
+    "id": "7"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "2242", 
+  "dates": [], 
+  "title": null
+ }
+}

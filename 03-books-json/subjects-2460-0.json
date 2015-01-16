@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"2460","authors":[{"fullname":"Jos\u00e9 I. Cabez\u00f3n","id":"7"}],"title":"","dates":{"created_at":"2013-09-15 04:09:49 UTC","updated_at":"2013-09-15 04:09:49 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>Ex: Bka\u2019 \u2018gyur klog pa dang kha \u2018don byed pa\u2019i rim pa (W15869), Bka\u2019 \u2018gyur gyi klog tshe kha skor phyogs gcig (W16527), Bka\u2019 \u2018gyur \u2018don pa\u2019i smon tshig (W16759). <\/p>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"2460","authors":[{"fullname":"José I. Cabezón","id":"7"}],"title":"","dates":{"created_at":"2013-09-15 04:09:49 UTC","updated_at":"2013-09-15 04:09:49 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>Ex: Bka’ ‘gyur klog pa dang kha ‘don byed pa’i rim pa (W15869), Bka’ ‘gyur gyi klog tshe kha skor phyogs gcig (W16527), Bka’ ‘gyur ‘don pa’i smon tshig (W16759). </p>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p>Ex: Bka’ ‘gyur klog pa dang kha ‘don byed pa’i rim pa (W15869), Bka’ ‘gyur gyi klog tshe kha skor phyogs gcig (W16527), Bka’ ‘gyur ‘don pa’i smon tshig (W16759). </p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "José I. Cabezón", 
+    "id": "7"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "2460", 
+  "dates": [], 
+  "title": null
+ }
+}

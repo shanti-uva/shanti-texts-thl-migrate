@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"2296","authors":[{"fullname":"Jos\u00e9 I. Cabez\u00f3n","id":"7"}],"title":"","dates":{"created_at":"2013-09-15 04:09:17 UTC","updated_at":"2013-09-15 04:09:17 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>\u2018byung ba bzhi\u2019i gtor ma. These are tormas against obstructions caused by an imbalance in the four elements of the body. Taught by Pa dam pa sangs rgyas. TBRC T1720. Healing. Also: Gtor bsngo\u2019i skor (W3201). <\/p>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"2296","authors":[{"fullname":"José I. Cabezón","id":"7"}],"title":"","dates":{"created_at":"2013-09-15 04:09:17 UTC","updated_at":"2013-09-15 04:09:17 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>‘byung ba bzhi’i gtor ma. These are tormas against obstructions caused by an imbalance in the four elements of the body. Taught by Pa dam pa sangs rgyas. TBRC T1720. Healing. Also: Gtor bsngo’i skor (W3201). </p>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p>‘byung ba bzhi’i gtor ma. These are tormas against obstructions caused by an imbalance in the four elements of the body. Taught by Pa dam pa sangs rgyas. TBRC T1720. Healing. Also: Gtor bsngo’i skor (W3201). </p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "José I. Cabezón", 
+    "id": "7"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "2296", 
+  "dates": [], 
+  "title": null
+ }
+}

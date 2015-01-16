@@ -1,5 +1,36 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"2002","authors":[{"fullname":"Jos\u00e9 I. Cabez\u00f3n","id":"7"}],"title":"Divination to Determine whether Death is Imminent","dates":{"created_at":"2013-09-15 04:08:15 UTC","updated_at":"2014-02-05 15:41:49 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Divination to Determine whether Death is Imminent"},{"title":"Description","index":1,"parent_index":0,"body":"<p>Through examination of the signs of death (\u2018chi ltas).<\/p>"},{"title":"Example Texts","index":2,"parent_index":0,"body":"<ul> <li><a href=\"http:\/\/tbrc.org\/#!rid=W814\">\u2018Chi ltas brtag pa dang tshe bsrung ba<\/a>\u00a0<\/li> <\/ul>"}]}
-=======
-{"meta":{"domain":"subjects","kid":"2002","authors":[{"fullname":"José I. Cabezón","id":"7"}],"title":"Divination to Determine whether Death is Imminent","dates":{"created_at":"2013-09-15 04:08:15 UTC","updated_at":"2014-02-05 15:41:49 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Divination to Determine whether Death is Imminent"},{"title":"Description","index":1,"parent_index":0,"body":" <p>Through examination of the signs of death (‘chi ltas).</p> "},{"title":"Example Texts","index":2,"parent_index":0,"body":" <ul> <li><a href=\"http://tbrc.org/#!rid=W814\">‘Chi ltas brtag pa dang tshe bsrung ba</a> </li> </ul>"}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "Divination to Determine whether Death is Imminent "
+  }, 
+  {
+   "body": "<p>Through examination of the signs of death (‘chi ltas).</p>
+", 
+   "index": 1, 
+   "parent_index": 0, 
+   "title": "Description"
+  }, 
+  {
+   "body": "<ul> <li><a href=\"http://tbrc.org/#!rid=W814\">‘Chi ltas brtag pa dang tshe bsrung ba</a> </li> </ul>
+", 
+   "index": 2, 
+   "parent_index": 0, 
+   "title": "Example Texts"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "José I. Cabezón", 
+    "id": "7"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "2002", 
+  "dates": [], 
+  "title": "Divination to Determine whether Death is Imminent "
+ }
+}

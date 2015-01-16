@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"818","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of the Intermediate Wheel","dates":{"created_at":"2013-09-15 04:05:25 UTC","updated_at":"2013-09-15 04:05:25 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>The second wheel is comprised of s\u016btras mainly spoken for Mah\u0101y\u0101na disciples: the teachings of the wheel of signlessness, such as the Perfection of Wisdom S\u016btras and so forth, as well as those teaching concordant topics. Some of the most famous teachings were given at Vulture's Peak (bya rgod phung po'i ri), where the Buddha taught the Perfection of Wisdom S\u016btras. The teaching is the basis of the Middle View, introducing the doctrine that all phenomena lack a truly existent nature. The texts in their rhetoric appear to teach that all phenomena do not truly exist without any caveats \u2013 the transcendental perfection of insight (shes rab kyi pha rol tu phyin pa\/ma; praj\u00f1\u0101p\u0101ramit\u0101) enables one to see the truth of emptiness, signlessness and aspirationlessness as it applies universally to all phenomena and beings.<\/p>","title":"An Overview of the Intermediate Wheel"}]}
-=======
-{"meta":{"domain":"subjects","kid":"818","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of the Intermediate Wheel","dates":{"created_at":"2013-09-15 04:05:25 UTC","updated_at":"2013-09-15 04:05:25 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>The second wheel is comprised of sūtras mainly spoken for Mahāyāna disciples: the teachings of the wheel of signlessness, such as the Perfection of Wisdom Sūtras and so forth, as well as those teaching concordant topics. Some of the most famous teachings were given at Vulture's Peak (bya rgod phung po'i ri), where the Buddha taught the Perfection of Wisdom Sūtras. The teaching is the basis of the Middle View, introducing the doctrine that all phenomena lack a truly existent nature. The texts in their rhetoric appear to teach that all phenomena do not truly exist without any caveats – the transcendental perfection of insight (shes rab kyi pha rol tu phyin pa/ma; prajñāpāramitā) enables one to see the truth of emptiness, signlessness and aspirationlessness as it applies universally to all phenomena and beings.</p>","title":"An Overview of the Intermediate Wheel"}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p>The second wheel is comprised of sūtras mainly spoken for Mahāyāna disciples: the teachings of the wheel of signlessness, such as the Perfection of Wisdom Sūtras and so forth, as well as those teaching concordant topics. Some of the most famous teachings were given at Vulture's Peak (bya rgod phung po'i ri), where the Buddha taught the Perfection of Wisdom Sūtras. The teaching is the basis of the Middle View, introducing the doctrine that all phenomena lack a truly existent nature. The texts in their rhetoric appear to teach that all phenomena do not truly exist without any caveats – the transcendental perfection of insight (shes rab kyi pha rol tu phyin pa/ma; prajñāpāramitā) enables one to see the truth of emptiness, signlessness and aspirationlessness as it applies universally to all phenomena and beings.</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "An Overview of the Intermediate Wheel"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "David Germano", 
+    "id": "2"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "818", 
+  "dates": [], 
+  "title": "An Overview of the Intermediate Wheel"
+ }
+}

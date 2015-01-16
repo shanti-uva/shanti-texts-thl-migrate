@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"920","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of the Eastern Vinaya Movement","dates":{"created_at":"2013-09-15 04:05:56 UTC","updated_at":"2013-09-15 04:05:56 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>The later dissemination (phyi dar) movement of Tibetan Buddhism in Central Tibet during the latter half of the tenth century and opening decades of the eleventh century was driven by the reimportation of monasticism from Vinaya lineages from Eastern Tibet where they had continued uninterruptedly since time of the Tibetan Empire in the ninth century. This involved the creation of a remarkable number of temples and monasteries, which were bound together in affiliated networks based largely upon the founder(s) who brought the Vinaya lineages back to their home lands from Eastern Tibet. Despite their centrality at the opening of the later dissemination period, in fact the major sectarian traditions of Tibetan Buddhism are not a direct result of these proto-sectarian affiliations of temples. Instead, most descend from major esoteric transmissions and esoteric translators, reflecting the dominant position of tantric Buddhism in Tibet.<\/p>","title":"An Overview of the Eastern Vinaya Movement"}]}
-=======
-{"meta":{"domain":"subjects","kid":"920","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of the Eastern Vinaya Movement","dates":{"created_at":"2013-09-15 04:05:56 UTC","updated_at":"2013-09-15 04:05:56 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>The later dissemination (phyi dar) movement of Tibetan Buddhism in Central Tibet during the latter half of the tenth century and opening decades of the eleventh century was driven by the reimportation of monasticism from Vinaya lineages from Eastern Tibet where they had continued uninterruptedly since time of the Tibetan Empire in the ninth century. This involved the creation of a remarkable number of temples and monasteries, which were bound together in affiliated networks based largely upon the founder(s) who brought the Vinaya lineages back to their home lands from Eastern Tibet. Despite their centrality at the opening of the later dissemination period, in fact the major sectarian traditions of Tibetan Buddhism are not a direct result of these proto-sectarian affiliations of temples. Instead, most descend from major esoteric transmissions and esoteric translators, reflecting the dominant position of tantric Buddhism in Tibet.</p>","title":"An Overview of the Eastern Vinaya Movement"}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p>The later dissemination (phyi dar) movement of Tibetan Buddhism in Central Tibet during the latter half of the tenth century and opening decades of the eleventh century was driven by the reimportation of monasticism from Vinaya lineages from Eastern Tibet where they had continued uninterruptedly since time of the Tibetan Empire in the ninth century. This involved the creation of a remarkable number of temples and monasteries, which were bound together in affiliated networks based largely upon the founder(s) who brought the Vinaya lineages back to their home lands from Eastern Tibet. Despite their centrality at the opening of the later dissemination period, in fact the major sectarian traditions of Tibetan Buddhism are not a direct result of these proto-sectarian affiliations of temples. Instead, most descend from major esoteric transmissions and esoteric translators, reflecting the dominant position of tantric Buddhism in Tibet.</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "An Overview of the Eastern Vinaya Movement"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "David Germano", 
+    "id": "2"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "920", 
+  "dates": [], 
+  "title": "An Overview of the Eastern Vinaya Movement"
+ }
+}

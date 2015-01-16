@@ -1,5 +1,18 @@
-<<<<<<< HEAD
-{"meta":{"domain":"places","kid":"3862","authors":[],"title":"","dates":{"created_at":"2009-05-21 12:04:11 UTC","updated_at":"2009-05-21 12:04:11 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":""}]}
-=======
-{"meta":{"domain":"places","kid":"3862","authors":[],"title":"","dates":{"created_at":"2009-05-21 12:04:11 UTC","updated_at":"2009-05-21 12:04:11 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"Ngari is a contemporary district in the Tibet Autonomous Region, but has a long and distinguished history as a cultural region and series of kingdoms and principalities.","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p>Ngari is a contemporary district in the Tibet Autonomous Region, but has a long and distinguished history as a cultural region and series of kingdoms and principalities.</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [], 
+  "domain": "places", 
+  "kid": "3862", 
+  "dates": [], 
+  "title": null
+ }
+}

@@ -1,5 +1,25 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"5113","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:24 UTC","updated_at":"2013-09-15 04:15:24 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">The main syntactic pattern for the use of adjectives is that they follow the noun that they modify. As a general rule, adjectives usually consist of a radical and a suffix, or else a doubled radical. The suffixes used to form adjectives include:<\/p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f54\u0f7c\u0f0b<\/span> Positive<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f54\u0f0b<\/span> Comparative<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f64\u0f7c\u0f66\u0f0b<\/span> Superlative and intensive<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f54\u0f0b\u0f63\u0f0b<\/span> Admirative<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f51\u0fb2\u0f42\u0f66\u0f0b<\/span> Excessive<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f59\u0f58\u0f0b<\/span> Attenuative<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f50\u0f42\u0f0b\u0f46\u0f7c\u0f51\u0f0b<\/span> or <span class=\"tibetan\" title=\"Type ID here\">\u0f66\u0f60\u0f72\u0f0b<\/span> Intensives<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f63\u0f7c\u0f66\u0f0b<\/span> Interrogative<\/li> <li>Various expressive suffixes<\/li> <\/ul><p class=\"Paragraph\">For a complete treatment of adjectives, see the \u201cAdjectives and Adjectival Phrases\u201d section of this Reference Grammar. (xxlink)<\/p>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"5113","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:24 UTC","updated_at":"2013-09-15 04:15:24 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">The main syntactic pattern for the use of adjectives is that they follow the noun that they modify. As a general rule, adjectives usually consist of a radical and a suffix, or else a doubled radical. The suffixes used to form adjectives include:</p> <ul> <li><span class=\"tibetan\" title=\"Type ID here\">པོ་</span> Positive</li> <li><span class=\"tibetan\" title=\"Type ID here\">པ་</span> Comparative</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཤོས་</span> Superlative and intensive</li> <li><span class=\"tibetan\" title=\"Type ID here\">པ་ལ་</span> Admirative</li> <li><span class=\"tibetan\" title=\"Type ID here\">དྲགས་</span> Excessive</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཙམ་</span> Attenuative</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཐག་ཆོད་</span> or <span class=\"tibetan\" title=\"Type ID here\">སའི་</span> Intensives</li> <li><span class=\"tibetan\" title=\"Type ID here\">ལོས་</span> Interrogative</li> <li>Various expressive suffixes</li> </ul> <p class=\"Paragraph\">For a complete treatment of adjectives, see the “Adjectives and Adjectival Phrases” section of this Reference Grammar. (xxlink)</p>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p class=\"Paragraph\">The main syntactic pattern for the use of adjectives is that they follow the noun that they modify. As a general rule, adjectives usually consist of a radical and a suffix, or else a doubled radical. The suffixes used to form adjectives include:</p>
+<ul> <li><span class=\"tibetan\" title=\"Type ID here\">པོ་</span> Positive</li> <li><span class=\"tibetan\" title=\"Type ID here\">པ་</span> Comparative</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཤོས་</span> Superlative and intensive</li> <li><span class=\"tibetan\" title=\"Type ID here\">པ་ལ་</span> Admirative</li> <li><span class=\"tibetan\" title=\"Type ID here\">དྲགས་</span> Excessive</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཙམ་</span> Attenuative</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཐག་ཆོད་</span> or <span class=\"tibetan\" title=\"Type ID here\">སའི་</span> Intensives</li> <li><span class=\"tibetan\" title=\"Type ID here\">ལོས་</span> Interrogative</li> <li>Various expressive suffixes</li> </ul>
+<p class=\"Paragraph\">For a complete treatment of adjectives, see the “Adjectives and Adjectival Phrases” section of this Reference Grammar. (xxlink)</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Nicolas Tournadre", 
+    "id": "6"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "5113", 
+  "dates": [], 
+  "title": null
+ }
+}

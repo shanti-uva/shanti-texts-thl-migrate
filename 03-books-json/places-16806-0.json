@@ -1,1 +1,77 @@
-{"meta":{"domain":"places","kid":"16806","authors":[],"title":"Tsakam Introduction","dates":{"created_at":"2010-08-25 11:13:08 UTC","updated_at":"2010-08-25 11:13:08 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Tsakam Introduction"},{"title":"II.2. Superficial structures: Primarily funerary superstructure","index":1,"parent_index":0},{"title":"TsakamTshwa skam","index":2,"parent_index":1},{"title":"Basic site data","index":3,"parent_index":2,"body":"<ul class=\"bullet-blue\"> <li>Site name: <span class=\"popular\">Tsakam<\/span><span class=\"scholar\">Tshwa skam<\/span> <\/li> <li>English equivalent: Dried Salt<\/li> <li>Site number: D-94 <\/li> <li>Site typology: II.2b <\/li> <li>Geographic coordinate (N. lat.): 33\u00ba 23.0\u0384 <\/li> <li>Geographic coordinate (E. long.): 79\u00ba 18.0\u0384 <\/li> <li>Elevation: 4400 m <\/li> <li>Administrative location (township): <span class=\"popular\">Reco<\/span><span class=\"scholar\">Re co<\/span> <\/li> <li>Administrative location (county): <span class=\"popular\">Rutok<\/span><span class=\"scholar\">Ru thog<\/span> <\/li> <li>Survey expedition: HTAE<\/li> <li>Survey date: October 4, 2003<\/li> <li>Contemporary usage: Light grazing. <\/li> <li>Identifiable Buddhist constructions: None. <\/li> <\/ul>"},{"title":"General site characteristics","index":4,"parent_index":2,"body":"<p> <span class=\"popular\">Tsakam<\/span><span class=\"scholar\">Tshwa skam<\/span> is one of three funerary sites (D-94, D-95, D-96) located in the <span class=\"popular\">Rama<\/span><span class=\"scholar\">Ra ma<\/span> valley system. It is situated on the right\/east side of the valley, not far upstream of its confluence with the main <span class=\"popular\">Reco<\/span><span class=\"scholar\">Re co<\/span>valley. The terrain is moderately sloping, open and sandy. The single funerary structure of <span class=\"popular\">Tsakam<\/span><span class=\"scholar\">Tshwa skam<\/span> is primarily made of a hard gray rock. A small portion of what are referred to as \u2018<span class=\"popular\">M\u00f6n<\/span><span class=\"scholar\">Mon<\/span>\u2019 fields is still under cultivation higher up in he <span class=\"popular\">Rama<\/span><span class=\"scholar\">Ra ma<\/span> valley (see D-96). Interspersed between he still used barley fields are many defunct parcels. The remains of retaining walls (<span class=\"popular emph\">Zhingra<\/span><span class=\"scholar emph\">zhing ra<\/span>) around these abandoned fields clearly identify them as once having been assigned to agricultural usage. <span class=\"popular\">Tsakam<\/span><span class=\"scholar\">Tshwa skam<\/span> consists of just one gray granite funerary monument. <\/p>"},{"title":"Oral tradition","index":5,"parent_index":2,"body":"<p>In <span class=\"popular\">Reco<\/span><span class=\"scholar\">Re co<\/span>, structures such as that found at <span class=\"popular\">Tsakam<\/span><span class=\"scholar\">Tshwa skam<\/span> are generally attributed to the ancient <span class=\"popular\">M\u00f6n<\/span><span class=\"scholar\">Mon<\/span>.<\/p>"},{"title":"Site elements","index":6,"parent_index":2},{"title":"Funerary Structure FS1","index":7,"parent_index":6,"body":"<p>Funerary structure FS1 (14 m x 8.7 m) is oriented to the angle of the slope, not in the cardinal directions. This poorly preserved rectangular enclosure still possesses small bits of integral walls. On its west side, the forward wall is elevated 1 m above the slope. The north side of the perimeter is elevated about 50 cm above the slope, while the east and south sides are mostly flush with the surface. The partly intact double-course perimeter walls contain variable-length (up to 70 cm long) stones. The area inside the enclosure is free of interior structural elements. On the north side of the perimeter there is a coherent wall section composed of hree or four vertical courses of stones. This evidence indicates that FS1 had a superstructure of significant height. A small shepherd\u2019s shelter was built on the southeast corner of the perimeter. Other stones are piled near the southwest corner of the structure. These structures must have been built with stones extracted from the enclosure.<\/p><p>There is an area of double-course cobble wall fragments (2.5 m in length) situated 3.5 m south of the enclosure. As only around 30 cobbles are still fixed in the ground, the design and configuration of these walls could not be determined. <\/p>"},{"title":"Affiliated sites","index":8,"parent_index":2},{"title":"sPo ba","index":9,"parent_index":8,"body":"<p>In the main <span class=\"popular\">Reco<\/span><span class=\"scholar\">Re co<\/span> valley at a location called <span class=\"popular\">Powa<\/span><span class=\"scholar\">Spo ba<\/span> (Stud Yak) there is a single funerary enclosure (33\u00b0 23.276\u0384 N. lat. \/ 79\u00b0 14.768\u0384 \/ 4380 m). Parts of its double-course granite perimeter walls (60 cm to 70 cm thick) are intact. These walls are mostly level with the ground surface. <\/p>"}]}
+{
+ "nodes": [
+  {
+   "body": "", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "Tsakam Introduction"
+  }, 
+  {
+   "body": "", 
+   "index": 1, 
+   "parent_index": 0, 
+   "title": "II.2. Superficial structures: Primarily funerary superstructure"
+  }, 
+  {
+   "body": "", 
+   "index": 2, 
+   "parent_index": 1, 
+   "title": " TsakamTshwa skam "
+  }, 
+  {
+   "body": "<ul class=\"bullet-blue\"> <li>Site name: <span class=\"popular\">Tsakam</span><span class=\"scholar\">Tshwa skam</span> </li> <li>English equivalent: Dried Salt</li> <li>Site number: D-94 </li> <li>Site typology: II.2b </li> <li>Geographic coordinate (N. lat.): 33º 23.0΄ </li> <li>Geographic coordinate (E. long.): 79º 18.0΄ </li> <li>Elevation: 4400 m </li> <li>Administrative location (township): <span class=\"popular\">Reco</span><span class=\"scholar\">Re co</span> </li> <li>Administrative location (county): <span class=\"popular\">Rutok</span><span class=\"scholar\">Ru thog</span> </li> <li>Survey expedition: HTAE</li> <li>Survey date: October 4, 2003</li> <li>Contemporary usage: Light grazing. </li> <li>Identifiable Buddhist constructions: None. </li> </ul>
+", 
+   "index": 3, 
+   "parent_index": 2, 
+   "title": "Basic site data"
+  }, 
+  {
+   "body": "<p> <span class=\"popular\">Tsakam</span><span class=\"scholar\">Tshwa skam</span> is one of three funerary sites (D-94, D-95, D-96) located in the <span class=\"popular\">Rama</span><span class=\"scholar\">Ra ma</span> valley system. It is situated on the right/east side of the valley, not far upstream of its confluence with the main <span class=\"popular\">Reco</span><span class=\"scholar\">Re co</span>valley. The terrain is moderately sloping, open and sandy. The single funerary structure of <span class=\"popular\">Tsakam</span><span class=\"scholar\">Tshwa skam</span> is primarily made of a hard gray rock. A small portion of what are referred to as ‘<span class=\"popular\">Mön</span><span class=\"scholar\">Mon</span>’ fields is still under cultivation higher up in he <span class=\"popular\">Rama</span><span class=\"scholar\">Ra ma</span> valley (see D-96). Interspersed between he still used barley fields are many defunct parcels. The remains of retaining walls (<span class=\"popular emph\">Zhingra</span><span class=\"scholar emph\">zhing ra</span>) around these abandoned fields clearly identify them as once having been assigned to agricultural usage. <span class=\"popular\">Tsakam</span><span class=\"scholar\">Tshwa skam</span> consists of just one gray granite funerary monument. </p>
+", 
+   "index": 4, 
+   "parent_index": 2, 
+   "title": "General site characteristics"
+  }, 
+  {
+   "body": "<p>In <span class=\"popular\">Reco</span><span class=\"scholar\">Re co</span>, structures such as that found at <span class=\"popular\">Tsakam</span><span class=\"scholar\">Tshwa skam</span> are generally attributed to the ancient <span class=\"popular\">Mön</span><span class=\"scholar\">Mon</span>.</p>
+", 
+   "index": 5, 
+   "parent_index": 2, 
+   "title": "Oral tradition"
+  }, 
+  {
+   "body": "", 
+   "index": 6, 
+   "parent_index": 2, 
+   "title": "Site elements"
+  }, 
+  {
+   "body": "<p>Funerary structure FS1 (14 m x 8.7 m) is oriented to the angle of the slope, not in the cardinal directions. This poorly preserved rectangular enclosure still possesses small bits of integral walls. On its west side, the forward wall is elevated 1 m above the slope. The north side of the perimeter is elevated about 50 cm above the slope, while the east and south sides are mostly flush with the surface. The partly intact double-course perimeter walls contain variable-length (up to 70 cm long) stones. The area inside the enclosure is free of interior structural elements. On the north side of the perimeter there is a coherent wall section composed of hree or four vertical courses of stones. This evidence indicates that FS1 had a superstructure of significant height. A small shepherd’s shelter was built on the southeast corner of the perimeter. Other stones are piled near the southwest corner of the structure. These structures must have been built with stones extracted from the enclosure.</p>
+<p>There is an area of double-course cobble wall fragments (2.5 m in length) situated 3.5 m south of the enclosure. As only around 30 cobbles are still fixed in the ground, the design and configuration of these walls could not be determined. </p>
+", 
+   "index": 7, 
+   "parent_index": 6, 
+   "title": "Funerary Structure FS1"
+  }, 
+  {
+   "body": "", 
+   "index": 8, 
+   "parent_index": 2, 
+   "title": "Affiliated sites"
+  }, 
+  {
+   "body": "<p>In the main <span class=\"popular\">Reco</span><span class=\"scholar\">Re co</span> valley at a location called <span class=\"popular\">Powa</span><span class=\"scholar\">Spo ba</span> (Stud Yak) there is a single funerary enclosure (33° 23.276΄ N. lat. / 79° 14.768΄ / 4380 m). Parts of its double-course granite perimeter walls (60 cm to 70 cm thick) are intact. These walls are mostly level with the ground surface. </p>
+", 
+   "index": 9, 
+   "parent_index": 8, 
+   "title": "sPo ba"
+  }
+ ], 
+ "meta": {
+  "authors": [], 
+  "domain": "places", 
+  "kid": "16806", 
+  "dates": [], 
+  "title": "Tsakam Introduction"
+ }
+}

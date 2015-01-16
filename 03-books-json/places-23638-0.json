@@ -1,1 +1,95 @@
-{"meta":{"domain":"places","kid":"23638","authors":[{"fullname":"Charles Ramble","id":"77"},{"fullname":"Charles Ramble","id":"77"},{"fullname":"Marietta Kind","id":"81"},{"fullname":"Marietta Kind","id":"81"}],"title":"Sigyel G\u00f6npa Introduction","dates":{"created_at":"2011-12-13 02:30:39 UTC","updated_at":"2011-12-13 02:30:39 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Sigyel G\u00f6npa Introduction"},{"title":"Dolpo (Nep. Dolpa) District","index":1,"parent_index":0},{"title":"(227) Srid rgyal Monastery","index":2,"parent_index":1},{"title":"1. Name","index":3,"parent_index":2,"body":"<p>Srid rgyal dgon pa<\/p>"},{"title":"2. Location","index":4,"parent_index":2,"body":"<p>Above the village of Tsha lung, five hours from Dunai on the northern side of the Bheri river, opposite Juphal, up a steep trail.<\/p>"},{"title":"Founder of the dgon pa","index":5,"parent_index":2,"body":"<p>Bla ma Tre ston Srid rgyal bzang po, a disciple of Tre ston Tshe dbang tshul khrims.<\/p>"},{"title":"Present bla ma","index":6,"parent_index":2,"body":"<p>Shes rab phun tshogs, a sngags pa who is a rare visitor to Kathmandu. No old texts are kept here.<\/p>"},{"title":"4-7. Hierarchical System, Number of monks, education system, exchange","index":7,"parent_index":2,"body":"<p>Lineage householder bla mas, from father to son. <\/p>"},{"title":"8-13. Villages","index":8,"parent_index":2,"body":"<p>The villages are Tsha lung and Kalikara.<\/p>"},{"title":"14. Occupation of the local population","index":9,"parent_index":2,"body":"<p>Agriculture, animal husbandry.<\/p>"}]}
+{
+ "nodes": [
+  {
+   "body": "", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "Sigyel Gönpa Introduction"
+  }, 
+  {
+   "body": "", 
+   "index": 1, 
+   "parent_index": 0, 
+   "title": "Dolpo (Nep. Dolpa) District"
+  }, 
+  {
+   "body": "", 
+   "index": 2, 
+   "parent_index": 1, 
+   "title": "(227) Srid rgyal Monastery"
+  }, 
+  {
+   "body": "<p>Srid rgyal dgon pa</p>
+", 
+   "index": 3, 
+   "parent_index": 2, 
+   "title": "1. Name"
+  }, 
+  {
+   "body": "<p>Above the village of Tsha lung, five hours from Dunai on the northern side of the Bheri river, opposite Juphal, up a steep trail.</p>
+", 
+   "index": 4, 
+   "parent_index": 2, 
+   "title": "2. Location"
+  }, 
+  {
+   "body": "<p>Bla ma Tre ston Srid rgyal bzang po, a disciple of Tre ston Tshe dbang tshul khrims.</p>
+", 
+   "index": 5, 
+   "parent_index": 2, 
+   "title": "Founder of the dgon pa"
+  }, 
+  {
+   "body": "<p>Shes rab phun tshogs, a sngags pa who is a rare visitor to Kathmandu. No old texts are kept here.</p>
+", 
+   "index": 6, 
+   "parent_index": 2, 
+   "title": "Present bla ma"
+  }, 
+  {
+   "body": "<p>Lineage householder bla mas, from father to son. </p>
+", 
+   "index": 7, 
+   "parent_index": 2, 
+   "title": "4-7. Hierarchical System, Number of monks, education system, exchange"
+  }, 
+  {
+   "body": "<p>The villages are Tsha lung and Kalikara.</p>
+", 
+   "index": 8, 
+   "parent_index": 2, 
+   "title": "8-13. Villages"
+  }, 
+  {
+   "body": "<p>Agriculture, animal husbandry.</p>
+", 
+   "index": 9, 
+   "parent_index": 2, 
+   "title": "14. Occupation of the local population"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Charles Ramble", 
+    "id": "77"
+   }, 
+   {
+    "fullname": "Charles Ramble", 
+    "id": "77"
+   }, 
+   {
+    "fullname": "Marietta Kind", 
+    "id": "81"
+   }, 
+   {
+    "fullname": "Marietta Kind", 
+    "id": "81"
+   }
+  ], 
+  "domain": "places", 
+  "kid": "23638", 
+  "dates": [], 
+  "title": "Sigyel Gönpa Introduction"
+ }
+}

@@ -1,1 +1,48 @@
-{"meta":{"domain":"places","kid":"23420","authors":[{"fullname":"Phuntso Tsering Sharyul","id":"79"},{"fullname":"Phuntso Tsering Sharyul","id":"79"}],"title":"Yub\u00fcn Introduction","dates":{"created_at":"2011-12-13 02:28:55 UTC","updated_at":"2011-12-13 02:28:55 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Yub\u00fcn Introduction"},{"title":"Nyi ma rdzong","index":1,"parent_index":0},{"title":"(17) gYu bun Monastery","index":2,"parent_index":1,"body":"<p>The monastery is in the eastern part of rTa sgo <span xmlns:str=\"http:\/\/exslt.org\/strings\" style=\"font-style: italic;\" class=\"\">xiang<\/span>. It is a whole day\u2019s ride on horseback from the rTa sgo <span xmlns:str=\"http:\/\/exslt.org\/strings\" style=\"font-style: italic;\" class=\"\">xiang<\/span>. The location of this Bonpo monastic community is an earthly sphere of purity in the middle of Zhang zhung.<\/p><p>More than three thousand years ago, there was a group of eighty great masters of Eternal Bon, the first ten of which, the gShen, reigned over the area. Among the ten gShen was Mu khri btsan po, the son of gNya\u2019 khri btsan po, who had a very high regard for the teachings of Eternal Bon. During Mu khri btsan po\u2019s time, the thirty-seven tantric communities (\u2019Du gnas so bdun) were established. Dwang ra gYu bun Monastery was founded in the places where the Gangs gnyan rta sgo and Dwang ra\u2019i mtsho \u2019gram of the thirty-seven communities were situated.<\/p><p>The place where the monastery is found is, moreover, one of the twenty-four sacred places mentioned in the Bonpo Ma rgyud tantra. The self-grown five jackal-headed mKha\u2019 \u2019gro can still be seen in this place, as stated in the text of the Ma rgyud tantra.<\/p><p>The <span xmlns:str=\"http:\/\/exslt.org\/strings\" style=\"font-style: italic;\" class=\"\">sPyi spungs khro bo dbang chen<\/span> states that Sad ne ga\u2019u of Zhang zhung trained himself in Dwang ra gYu bun. This implies that it was Sad ne ga\u2019u of Zhang zhung sgo pa who first established gYu bun Monastery. He is one of the thirteen masters found among the eighty adepts of the Bon tradition.<\/p><p>Sad ne ga\u2019u was born in Zhang zhung. His father was rGyal mtshan bde ba and his mother was rGyal bza\u2019 klong yang. He studied under several teachers, like A nu \u2019phrag thag, so that he was finally able to accomplish his learning.<\/p><p>He exhibited many miraculous signs in the gYu bun community, such as curing leprosy patients just by looking at them, forcing back attackers and floods, taming wild carnivorous animals so that he could use them for transportation, igniting himself, subduing wickedness, being able to cross the lake Dwang ra riding on a drum and being able to build a crystal stupa in a river.<\/p><p>After having meditated for attaining perfection, he vanished just like the light of a rainbow. After that, history tells us, many great masters appeared one after another. Although the monastery sometimes experienced periods without strong leadership, there were other times when it had several holy ones who maintained universalism and remained meditating. Among them was mTshungs med rNam dag tshul khrims, who came to the monastery around 1687. He promoted the development of the monastic community and it continued to grow through the time of his disciples, including Tshul khrims lhun grub, up until the time of the fourth master. After that the monastery was suppressed, but was taken care of and rehabilitated by sKyid gsum bla brang, who was the benefactor of the master gYung drung lha rtse.<\/p><p>In short, this monastic community was one that was outstandingly blessed, to which many excellent masters came at every stage of the early development of Bonpo teachings, and where many holy ones of Zhang zhung died, passing into the rainbow light.<\/p><p>The monastery possessed a number of important religious objects, some of which were later moved to other places: for example, Sad ne ga\u2019u\u2019s conch was taken to Thob rgyal sMan ri Monastery (No.1).<\/p><p>In the 1980s the monastery was reconstructed under the responsibility of the reincarnation bsTan \u2019dzin dbang grags. At present the monastery has one lama and twenty-two monks. <\/p>"}]}
+{
+ "nodes": [
+  {
+   "body": "", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "Yubün Introduction"
+  }, 
+  {
+   "body": "", 
+   "index": 1, 
+   "parent_index": 0, 
+   "title": "Nyi ma rdzong"
+  }, 
+  {
+   "body": "<p>The monastery is in the eastern part of rTa sgo <span xmlns:str=\"http://exslt.org/strings\" style=\"font-style: italic;\" class=\"\">xiang</span>. It is a whole day’s ride on horseback from the rTa sgo <span xmlns:str=\"http://exslt.org/strings\" style=\"font-style: italic;\" class=\"\">xiang</span>. The location of this Bonpo monastic community is an earthly sphere of purity in the middle of Zhang zhung.</p>
+<p>More than three thousand years ago, there was a group of eighty great masters of Eternal Bon, the first ten of which, the gShen, reigned over the area. Among the ten gShen was Mu khri btsan po, the son of gNya’ khri btsan po, who had a very high regard for the teachings of Eternal Bon. During Mu khri btsan po’s time, the thirty-seven tantric communities (’Du gnas so bdun) were established. Dwang ra gYu bun Monastery was founded in the places where the Gangs gnyan rta sgo and Dwang ra’i mtsho ’gram of the thirty-seven communities were situated.</p>
+<p>The place where the monastery is found is, moreover, one of the twenty-four sacred places mentioned in the Bonpo Ma rgyud tantra. The self-grown five jackal-headed mKha’ ’gro can still be seen in this place, as stated in the text of the Ma rgyud tantra.</p>
+<p>The <span xmlns:str=\"http://exslt.org/strings\" style=\"font-style: italic;\" class=\"\">sPyi spungs khro bo dbang chen</span> states that Sad ne ga’u of Zhang zhung trained himself in Dwang ra gYu bun. This implies that it was Sad ne ga’u of Zhang zhung sgo pa who first established gYu bun Monastery. He is one of the thirteen masters found among the eighty adepts of the Bon tradition.</p>
+<p>Sad ne ga’u was born in Zhang zhung. His father was rGyal mtshan bde ba and his mother was rGyal bza’ klong yang. He studied under several teachers, like A nu ’phrag thag, so that he was finally able to accomplish his learning.</p>
+<p>He exhibited many miraculous signs in the gYu bun community, such as curing leprosy patients just by looking at them, forcing back attackers and floods, taming wild carnivorous animals so that he could use them for transportation, igniting himself, subduing wickedness, being able to cross the lake Dwang ra riding on a drum and being able to build a crystal stupa in a river.</p>
+<p>After having meditated for attaining perfection, he vanished just like the light of a rainbow. After that, history tells us, many great masters appeared one after another. Although the monastery sometimes experienced periods without strong leadership, there were other times when it had several holy ones who maintained universalism and remained meditating. Among them was mTshungs med rNam dag tshul khrims, who came to the monastery around 1687. He promoted the development of the monastic community and it continued to grow through the time of his disciples, including Tshul khrims lhun grub, up until the time of the fourth master. After that the monastery was suppressed, but was taken care of and rehabilitated by sKyid gsum bla brang, who was the benefactor of the master gYung drung lha rtse.</p>
+<p>In short, this monastic community was one that was outstandingly blessed, to which many excellent masters came at every stage of the early development of Bonpo teachings, and where many holy ones of Zhang zhung died, passing into the rainbow light.</p>
+<p>The monastery possessed a number of important religious objects, some of which were later moved to other places: for example, Sad ne ga’u’s conch was taken to Thob rgyal sMan ri Monastery (No.1).</p>
+<p>In the 1980s the monastery was reconstructed under the responsibility of the reincarnation bsTan ’dzin dbang grags. At present the monastery has one lama and twenty-two monks. </p>
+", 
+   "index": 2, 
+   "parent_index": 1, 
+   "title": "(17) gYu bun Monastery"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Phuntso Tsering Sharyul", 
+    "id": "79"
+   }, 
+   {
+    "fullname": "Phuntso Tsering Sharyul", 
+    "id": "79"
+   }
+  ], 
+  "domain": "places", 
+  "kid": "23420", 
+  "dates": [], 
+  "title": "Yubün Introduction"
+ }
+}

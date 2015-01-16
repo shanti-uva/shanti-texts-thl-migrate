@@ -1,5 +1,29 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"2033","authors":[{"fullname":"Jos\u00e9 I. Cabez\u00f3n","id":"7"}],"title":"Root Empowerment","dates":{"created_at":"2013-09-15 04:08:22 UTC","updated_at":"2014-02-27 15:43:24 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Root Empowerment"},{"title":"Example Texts","index":1,"parent_index":0,"body":"<ul> <li><a href=\"http:\/\/tbrc.org\/#!rid=W18527\">Rig \u2018dzin yongs rdzogs rtsa dbang<\/a>\u00a0<\/li> <li><a href=\"http:\/\/tbrc.org\/#!rid=W20661\">Rtsa gsum dril sgrub kyi sgrub thabs phrin las smin byed rig pa\u2019i rtsa dbang rjes gnang dang bcas pa\u2019i yi ge mkha\u2019 \u2018gro thugs kyi thig le<\/a>\u00a0<\/li> <\/ul>"}]}
-=======
-{"meta":{"domain":"subjects","kid":"2033","authors":[{"fullname":"José I. Cabezón","id":"7"}],"title":"Root Empowerment","dates":{"created_at":"2013-09-15 04:08:22 UTC","updated_at":"2014-02-27 15:43:24 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Root Empowerment"},{"title":"Example Texts","index":1,"parent_index":0,"body":" <ul> <li><a href=\"http://tbrc.org/#!rid=W18527\">Rig ‘dzin yongs rdzogs rtsa dbang</a> </li> <li><a href=\"http://tbrc.org/#!rid=W20661\">Rtsa gsum dril sgrub kyi sgrub thabs phrin las smin byed rig pa’i rtsa dbang rjes gnang dang bcas pa’i yi ge mkha’ ‘gro thugs kyi thig le</a> </li> </ul>"}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "Root Empowerment"
+  }, 
+  {
+   "body": "<ul> <li><a href=\"http://tbrc.org/#!rid=W18527\">Rig ‘dzin yongs rdzogs rtsa dbang</a> </li> <li><a href=\"http://tbrc.org/#!rid=W20661\">Rtsa gsum dril sgrub kyi sgrub thabs phrin las smin byed rig pa’i rtsa dbang rjes gnang dang bcas pa’i yi ge mkha’ ‘gro thugs kyi thig le</a> </li> </ul>
+", 
+   "index": 1, 
+   "parent_index": 0, 
+   "title": "Example Texts"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "José I. Cabezón", 
+    "id": "7"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "2033", 
+  "dates": [], 
+  "title": "Root Empowerment"
+ }
+}

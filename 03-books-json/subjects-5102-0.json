@@ -1,5 +1,26 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"5102","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:22 UTC","updated_at":"2013-09-15 04:15:22 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">Like other secondary verbs, <span class=\"tibetan\" title=\"Type ID here\">\u0f5a\u0f62\u0f0b<\/span> occupies the same syntactic position as the modal verbs (after the main verb and before the auxiliary). Apart from its usual meaning of \u201cto finish,\u201d it may also have the adverbial meaning of \u201calready\u201d or \u201ccompletely,\u201d according to context. When it is used in the first person, the verb may be used without an auxiliary.<\/p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f41\u0fb2\u0f74\u0f66\u0f0b\u0f56\u0f62\u0f92\u0fb1\u0f56\u0f0b\u0f5a\u0f62\u0f0d<\/span> \u201c(I\u2019ve) already washed.\u201d<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f41\u0fb2\u0f74\u0f66\u0f0b\u0f56\u0f62\u0f92\u0fb1\u0f42\u0f0b\u0f5a\u0f62\u0f0b\u0f66\u0f7c\u0f44\u0f0b\u0f0d<\/span> \u201c(He\u2019s) already washed.\u201d<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f51\u0f7a\u0f0b\u0f53\u0f66\u0f0b\u0f53\u0f0b\u0f5a\u0f0b\u0f51\u0fb2\u0f42\u0f0b\u0f5a\u0f62\u0f0b\u0f56\u0f5e\u0f42<\/span> \u201cThen (he) was completely cured.\u201d<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f41\u0fb1\u0f7a\u0f51\u0f0b\u0f62\u0f44\u0f0b\u0f51\u0f44\u0f7c\u0f66\u0f0b\u0f53\u0f66\u0f0b\u0f66\u0fa8\u0fb1\u0f7c\u0f53\u0f0b\u0f5a\u0f62\u0f0b\u0f60\u0f51\u0f74\u0f42\u0f0b\u0f42\u0f66\u0f0d<\/span> \u201cHave you really gone completely crazy?\u201d<\/li> <\/ul><p class=\"Paragraph\"><em>Note<\/em>: Depending on the context, the adverb \u201calready\u201d may be translated by the auxiliary <span class=\"tibetan\" title=\"Type ID here\">\u0f58\u0fb1\u0f7c\u0f44\u0f0b<\/span> (\u201cto have experienced\u201d) or by the auxiliary <span class=\"tibetan\" title=\"Type ID here\">\u0f5a\u0f62\u0f0b<\/span> (\u201cto finish\u201d):<\/p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f55\u0fb1\u0f72\u0f53\u0f0b\u0f5a\u0f62\u0f0d<\/span> \u201cI\u2019ve already been there (just a while ago, so I don\u2019t need to go again).\u201d <\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f60\u0f42\u0fb2\u0f7c\u0f0b\u0f58\u0fb1\u0f7c\u0f44\u0f0b\u0f0d<\/span> \u201cI\u2019ve already been there (to India\u2013it\u2019s something I\u2019ve experienced).\u201d <\/li> <\/ul>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"5102","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:22 UTC","updated_at":"2013-09-15 04:15:22 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">Like other secondary verbs, <span class=\"tibetan\" title=\"Type ID here\">ཚར་</span> occupies the same syntactic position as the modal verbs (after the main verb and before the auxiliary). Apart from its usual meaning of “to finish,” it may also have the adverbial meaning of “already” or “completely,” according to context. When it is used in the first person, the verb may be used without an auxiliary.</p> <ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཁྲུས་བརྒྱབ་ཚར།</span> “(I’ve) already washed.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁྲུས་བརྒྱག་ཚར་སོང་།</span> “(He’s) already washed.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">དེ་ནས་ན་ཚ་དྲག་ཚར་བཞག</span> “Then (he) was completely cured.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁྱེད་རང་དངོས་ནས་སྨྱོན་ཚར་འདུག་གས།</span> “Have you really gone completely crazy?”</li> </ul> <p class=\"Paragraph\"><em>Note</em>: Depending on the context, the adverb “already” may be translated by the auxiliary <span class=\"tibetan\" title=\"Type ID here\">མྱོང་</span> (“to have experienced”) or by the auxiliary <span class=\"tibetan\" title=\"Type ID here\">ཚར་</span> (“to finish”):</p> <ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཕྱིན་ཚར།</span> “I’ve already been there (just a while ago, so I don’t need to go again).” </li> <li><span class=\"tibetan\" title=\"Type ID here\">འགྲོ་མྱོང་།</span> “I’ve already been there (to India–it’s something I’ve experienced).” </li> </ul>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p class=\"Paragraph\">Like other secondary verbs, <span class=\"tibetan\" title=\"Type ID here\">ཚར་</span> occupies the same syntactic position as the modal verbs (after the main verb and before the auxiliary). Apart from its usual meaning of “to finish,” it may also have the adverbial meaning of “already” or “completely,” according to context. When it is used in the first person, the verb may be used without an auxiliary.</p>
+<ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཁྲུས་བརྒྱབ་ཚར།</span> “(I’ve) already washed.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁྲུས་བརྒྱག་ཚར་སོང་།</span> “(He’s) already washed.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">དེ་ནས་ན་ཚ་དྲག་ཚར་བཞག</span> “Then (he) was completely cured.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁྱེད་རང་དངོས་ནས་སྨྱོན་ཚར་འདུག་གས།</span> “Have you really gone completely crazy?”</li> </ul>
+<p class=\"Paragraph\"><em>Note</em>: Depending on the context, the adverb “already” may be translated by the auxiliary <span class=\"tibetan\" title=\"Type ID here\">མྱོང་</span> (“to have experienced”) or by the auxiliary <span class=\"tibetan\" title=\"Type ID here\">ཚར་</span> (“to finish”):</p>
+<ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཕྱིན་ཚར།</span> “I’ve already been there (just a while ago, so I don’t need to go again).” </li> <li><span class=\"tibetan\" title=\"Type ID here\">འགྲོ་མྱོང་།</span> “I’ve already been there (to India–it’s something I’ve experienced).” </li> </ul>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Nicolas Tournadre", 
+    "id": "6"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "5102", 
+  "dates": [], 
+  "title": null
+ }
+}

@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"109","authors":[{"fullname":"Ben Nourse","id":"13"}],"title":"Lhasa Atlas description of \"Temple or chapel\" building type","dates":{"created_at":"2013-09-15 04:03:33 UTC","updated_at":"2013-09-15 04:03:33 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>\"Temple or chapel\" is used as a particular building type within the Lhasa Atlas by Knud Larsen and Amund Sinding-Larsen. In the \"Historical buildings in Lhasa\" table at the back of the book (pp. 165-172), buildings of the \"Temple or chapel\" type are designated with the letter \"B\" in the building type column. In the THL Place Dictionary, when a building has this feature type and the <em>Lhasa Atlas<\/em> is given as the source, it means that the building was designated with a \"B\" in the <em>Lhasa Atlas<\/em> table.<br \/><br \/>This building type is described as follows:<br \/><br \/>\"<em>B. Temple or chapel<\/em>. Example: Lukhang chapel (317).<br \/><br \/>\"Smaller temples are often built in special places for special purposes. A small number of resident caretaker monks or nuns from the overseeing monastery take turns being responsible for the temple's upkeep\" (p. 60).<br \/><br \/>Source:<br \/><br \/>Larsen, Knud and Amund Sinding-Larsen. <em>The Lhasa Atlas: Traditional Tibetan Architecture and Townscape<\/em>. London: Serindia Publications, 2001.<\/p>","title":"Lhasa Atlas description of \"Temple or chapel\" building type"}]}
-=======
-{"meta":{"domain":"subjects","kid":"109","authors":[{"fullname":"Ben Nourse","id":"13"}],"title":"Lhasa Atlas description of \"Temple or chapel\" building type","dates":{"created_at":"2013-09-15 04:03:33 UTC","updated_at":"2013-09-15 04:03:33 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>\"Temple or chapel\" is used as a particular building type within the Lhasa Atlas by Knud Larsen and Amund Sinding-Larsen. In the \"Historical buildings in Lhasa\" table at the back of the book (pp. 165-172), buildings of the \"Temple or chapel\" type are designated with the letter \"B\" in the building type column. In the THL Place Dictionary, when a building has this feature type and the <em>Lhasa Atlas</em> is given as the source, it means that the building was designated with a \"B\" in the <em>Lhasa Atlas</em> table.<br /><br />This building type is described as follows:<br /><br />\"<em>B. Temple or chapel</em>. Example: Lukhang chapel (317).<br /><br />\"Smaller temples are often built in special places for special purposes. A small number of resident caretaker monks or nuns from the overseeing monastery take turns being responsible for the temple's upkeep\" (p. 60).<br /><br />Source:<br /><br />Larsen, Knud and Amund Sinding-Larsen. <em>The Lhasa Atlas: Traditional Tibetan Architecture and Townscape</em>. London: Serindia Publications, 2001.</p>","title":"Lhasa Atlas description of \"Temple or chapel\" building type"}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p>\"Temple or chapel\" is used as a particular building type within the Lhasa Atlas by Knud Larsen and Amund Sinding-Larsen. In the \"Historical buildings in Lhasa\" table at the back of the book (pp. 165-172), buildings of the \"Temple or chapel\" type are designated with the letter \"B\" in the building type column. In the THL Place Dictionary, when a building has this feature type and the <em>Lhasa Atlas</em> is given as the source, it means that the building was designated with a \"B\" in the <em>Lhasa Atlas</em> table.<br/><br/>This building type is described as follows:<br/><br/>\"<em>B. Temple or chapel</em>. Example: Lukhang chapel (317).<br/><br/>\"Smaller temples are often built in special places for special purposes. A small number of resident caretaker monks or nuns from the overseeing monastery take turns being responsible for the temple's upkeep\" (p. 60).<br/><br/>Source:<br/><br/>Larsen, Knud and Amund Sinding-Larsen. <em>The Lhasa Atlas: Traditional Tibetan Architecture and Townscape</em>. London: Serindia Publications, 2001.</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "Lhasa Atlas description of "Temple or chapel" building type"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Ben Nourse", 
+    "id": "13"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "109", 
+  "dates": [], 
+  "title": "Lhasa Atlas description of "Temple or chapel" building type"
+ }
+}

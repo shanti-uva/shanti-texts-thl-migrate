@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"5330","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:54 UTC","updated_at":"2013-09-15 04:15:54 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<ul> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f49\u0f72\u0f0b\u0f60\u0f7c\u0f42\u0f0b<\/span> \u201cThe world\u201d (Literally: that which is beneath the sun) (<em>tian xia<\/em>). (Formed with <span class=\"tibetan\" title=\"Type ID here\">\u0f49\u0f72\u0f0b<\/span> = <em>tian<\/em> \u201cday\u201d and <span class=\"tibetan\" title=\"Type ID here\">\u0f60\u0f7c\u0f42\u0f0b<\/span> = <em>xia<\/em> \u201cunder.\u201d)<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f42\u0f66\u0f7a\u0f62\u0f0b\u0f61\u0f72\u0f42\u0f0b<\/span> \u201cGolden letter,\u201d \u201cletter from a high dignitary\u201d (<em>jin zi<\/em>). (Formed with <span class=\"tibetan\" title=\"Type ID here\">\u0f42\u0f66\u0f7a\u0f62\u0f0b<\/span> = <em>jin<\/em> \u201cgold\u201d and <span class=\"tibetan\" title=\"Type ID here\">\u0f61\u0f72\u0f42\u0f0b<\/span> = <em>zi<\/em> \u201ccharacter.\u201d) <\/li> <\/ul>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"5330","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:54 UTC","updated_at":"2013-09-15 04:15:54 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཉི་འོག་</span> “The world” (Literally: that which is beneath the sun) (<em>tian xia</em>). (Formed with <span class=\"tibetan\" title=\"Type ID here\">ཉི་</span> = <em>tian</em> “day” and <span class=\"tibetan\" title=\"Type ID here\">འོག་</span> = <em>xia</em> “under.”)</li> <li><span class=\"tibetan\" title=\"Type ID here\">གསེར་ཡིག་</span> “Golden letter,” “letter from a high dignitary” (<em>jin zi</em>). (Formed with <span class=\"tibetan\" title=\"Type ID here\">གསེར་</span> = <em>jin</em> “gold” and <span class=\"tibetan\" title=\"Type ID here\">ཡིག་</span> = <em>zi</em> “character.”) </li> </ul>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཉི་འོག་</span> “The world” (Literally: that which is beneath the sun) (<em>tian xia</em>). (Formed with <span class=\"tibetan\" title=\"Type ID here\">ཉི་</span> = <em>tian</em> “day” and <span class=\"tibetan\" title=\"Type ID here\">འོག་</span> = <em>xia</em> “under.”)</li> <li><span class=\"tibetan\" title=\"Type ID here\">གསེར་ཡིག་</span> “Golden letter,” “letter from a high dignitary” (<em>jin zi</em>). (Formed with <span class=\"tibetan\" title=\"Type ID here\">གསེར་</span> = <em>jin</em> “gold” and <span class=\"tibetan\" title=\"Type ID here\">ཡིག་</span> = <em>zi</em> “character.”) </li> </ul>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Nicolas Tournadre", 
+    "id": "6"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "5330", 
+  "dates": [], 
+  "title": null
+ }
+}

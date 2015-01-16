@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"5268","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:46 UTC","updated_at":"2013-09-15 04:15:46 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<ul> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f51\u0f58\u0f0b\u0f5a\u0f72\u0f42\u0f0b<\/span> \u201cSamaya\u201d or \u201cinitiatic bond\u201d (L), \u201chappy coincidence\u201d<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f56\u0f66\u0f7c\u0f51\u0f0b\u0f56\u0f51\u0f7a\u0f0b<\/span> \u201cMerit and happiness derived from virtue\u201d (L), \u201cluck\u201d <\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f66\u0f7a\u0f58\u0f66\u0f0b\u0f45\u0f53\u0f0b<\/span> \u201cSentient being (human or animal)\u201d (L), \u201canimal\u201d (In Labrang, in Amdo, this word has come to mean \u201call.\u201d)<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f44\u0f0b\u0f62\u0f92\u0fb1\u0f63\u0f0b<\/span> \u201cPride\u201d (L), \u201caggressivity,\u201d \u201cpride\u201d<\/li> <\/ul>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"5268","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:46 UTC","updated_at":"2013-09-15 04:15:46 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<ul> <li><span class=\"tibetan\" title=\"Type ID here\">དམ་ཚིག་</span> “Samaya” or “initiatic bond” (L), “happy coincidence”</li> <li><span class=\"tibetan\" title=\"Type ID here\">བསོད་བདེ་</span> “Merit and happiness derived from virtue” (L), “luck” </li> <li><span class=\"tibetan\" title=\"Type ID here\">སེམས་ཅན་</span> “Sentient being (human or animal)” (L), “animal” (In Labrang, in Amdo, this word has come to mean “all.”)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ང་རྒྱལ་</span> “Pride” (L), “aggressivity,” “pride”</li> </ul>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<ul> <li><span class=\"tibetan\" title=\"Type ID here\">དམ་ཚིག་</span> “Samaya” or “initiatic bond” (L), “happy coincidence”</li> <li><span class=\"tibetan\" title=\"Type ID here\">བསོད་བདེ་</span> “Merit and happiness derived from virtue” (L), “luck” </li> <li><span class=\"tibetan\" title=\"Type ID here\">སེམས་ཅན་</span> “Sentient being (human or animal)” (L), “animal” (In Labrang, in Amdo, this word has come to mean “all.”)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ང་རྒྱལ་</span> “Pride” (L), “aggressivity,” “pride”</li> </ul>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Nicolas Tournadre", 
+    "id": "6"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "5268", 
+  "dates": [], 
+  "title": null
+ }
+}

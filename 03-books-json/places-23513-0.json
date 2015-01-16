@@ -1,1 +1,88 @@
-{"meta":{"domain":"places","kid":"23513","authors":[{"fullname":"\u0f5a\u0f7a\u0f0b\u0f62\u0f72\u0f44\u0f0b\u0f50\u0f62\u0f0d (Tsering Thar)","id":"80"},{"fullname":"\u0f5a\u0f7a\u0f0b\u0f62\u0f72\u0f44\u0f0b\u0f50\u0f62\u0f0d (Tsering Thar)","id":"80"}],"title":"Sekhang Rindzin Tukj\u00e9 Jangchup Ling Introduction","dates":{"created_at":"2011-12-13 02:29:39 UTC","updated_at":"2011-12-13 02:29:39 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Sekhang Rindzin Tukj\u00e9 Jangchup Ling Introduction"},{"title":"Reb gong","index":1,"parent_index":0},{"title":"(107) Gyang ru Temple","index":2,"parent_index":1},{"title":"1. Name","index":3,"parent_index":2,"body":"<p>gSas khang Rig \u2019dzin thugs rje byang chub gling <\/p>"},{"title":"2. Location","index":4,"parent_index":2,"body":"<p>Gyang ru village (latitude: 35\u00b028\u201995\u201dN, longitude: 102\u00b003\u201985\u201dE)<\/p>"},{"title":"5. Number of practitioners","index":5,"parent_index":2,"body":"<p>There are sixty-seven Bonpo tantric practitioners in Gyang ru Temple.<\/p>"},{"title":"8 \/ 9. Rituals and ceremonies","index":6,"parent_index":2,"body":"<p>Kun bzang, Tshe dbang, dBal gsas and \u2019Bum pa, in turn, on the 10th of each month. A seven to eight-day ritual for the village in the 1st month, on a date determined beforehand by Bon brgya Trulku. dBal gsas and \u2019Bum pa, in alternation, from the 1st to the 8th day of the 5th month. Kun bzang and the ritual based on the <span xmlns:str=\"http:\/\/exslt.org\/strings\" style=\"font-style: italic;\" class=\"\">sNang srid zhi ba chen mo<\/span> for seven days starting on the 25th day of the 6th month. Kun bzang, dBal gsas and \u2019Bum pa from the 11th to the 7th day of the 11th month.<\/p>"},{"title":"12. Local community","index":7,"parent_index":2,"body":"<p>Two villages: Gyang ru gong ma with ten families and Gyang ru zhol ma with twenty-four families (two hundred and forty people altogether). The former village\u2019s tutelary deity is dBal gsas, and that of the latter \u2019Bum pa.<\/p>"},{"title":"13. Local festivals","index":8,"parent_index":2,"body":"<p>There are seven <span xmlns:str=\"http:\/\/exslt.org\/strings\" style=\"font-style: italic;\" class=\"\">la btsas<\/span> connected to the temple: <\/p><ol type=\"1\"> <li> the <span xmlns:str=\"http:\/\/exslt.org\/strings\" style=\"font-style: italic;\" class=\"\">la btsas<\/span> of sTag lung constructed by A myes Thugs rje, about 20 km from the temple; the local deity is propitiated by the Bonpo, rNying ma pa and dGe lugs pa together on the 17th day of the 6th month, (the main officiants however must be Bonpo). <\/li> <li> the <span xmlns:str=\"http:\/\/exslt.org\/strings\" style=\"font-style: italic;\" class=\"\">la btsas<\/span> of sTag lung chung ba, located about 150 metres from the one just mentioned, and likewise propitiated on the 17th day of the 6th month. <\/li> <li> the <span xmlns:str=\"http:\/\/exslt.org\/strings\" style=\"font-style: italic;\" class=\"\">la btsas<\/span> of A myes gNyan steng on A myes gNyan steng hill, 2 km behind the temple, propitiated on 25 June.<\/li> <li> the <span xmlns:str=\"http:\/\/exslt.org\/strings\" style=\"font-style: italic;\" class=\"\">la btsas<\/span> of the local deities Bon rgan, Bon chung, Nyag ga and dBu rtse in Bon brgya khog 73 km from the temple; the last four are propitiated on the 6th day of th 7th month.<\/li> <\/ol>"},{"title":"14. Economic occupation of the local people","index":9,"parent_index":2,"body":"<p>Agriculture<\/p>"}]}
+{
+ "nodes": [
+  {
+   "body": "", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "Sekhang Rindzin Tukjé Jangchup Ling Introduction"
+  }, 
+  {
+   "body": "", 
+   "index": 1, 
+   "parent_index": 0, 
+   "title": "Reb gong "
+  }, 
+  {
+   "body": "", 
+   "index": 2, 
+   "parent_index": 1, 
+   "title": "(107) Gyang ru Temple"
+  }, 
+  {
+   "body": "<p>gSas khang Rig ’dzin thugs rje byang chub gling </p>
+", 
+   "index": 3, 
+   "parent_index": 2, 
+   "title": "1. Name "
+  }, 
+  {
+   "body": "<p>Gyang ru village (latitude: 35°28’95”N, longitude: 102°03’85”E)</p>
+", 
+   "index": 4, 
+   "parent_index": 2, 
+   "title": "2. Location"
+  }, 
+  {
+   "body": "<p>There are sixty-seven Bonpo tantric practitioners in Gyang ru Temple.</p>
+", 
+   "index": 5, 
+   "parent_index": 2, 
+   "title": "5. Number of practitioners"
+  }, 
+  {
+   "body": "<p>Kun bzang, Tshe dbang, dBal gsas and ’Bum pa, in turn, on the 10th of each month. A seven to eight-day ritual for the village in the 1st month, on a date determined beforehand by Bon brgya Trulku. dBal gsas and ’Bum pa, in alternation, from the 1st to the 8th day of the 5th month. Kun bzang and the ritual based on the <span xmlns:str=\"http://exslt.org/strings\" style=\"font-style: italic;\" class=\"\">sNang srid zhi ba chen mo</span> for seven days starting on the 25th day of the 6th month. Kun bzang, dBal gsas and ’Bum pa from the 11th to the 7th day of the 11th month.</p>
+", 
+   "index": 6, 
+   "parent_index": 2, 
+   "title": "8 / 9. Rituals and ceremonies"
+  }, 
+  {
+   "body": "<p>Two villages: Gyang ru gong ma with ten families and Gyang ru zhol ma with twenty-four families (two hundred and forty people altogether). The former village’s tutelary deity is dBal gsas, and that of the latter ’Bum pa.</p>
+", 
+   "index": 7, 
+   "parent_index": 2, 
+   "title": "12. Local community"
+  }, 
+  {
+   "body": "<p>There are seven <span xmlns:str=\"http://exslt.org/strings\" style=\"font-style: italic;\" class=\"\">la btsas</span> connected to the temple: </p>
+<ol type=\"1\"> <li> the <span xmlns:str=\"http://exslt.org/strings\" style=\"font-style: italic;\" class=\"\">la btsas</span> of sTag lung constructed by A myes Thugs rje, about 20 km from the temple; the local deity is propitiated by the Bonpo, rNying ma pa and dGe lugs pa together on the 17th day of the 6th month, (the main officiants however must be Bonpo). </li> <li> the <span xmlns:str=\"http://exslt.org/strings\" style=\"font-style: italic;\" class=\"\">la btsas</span> of sTag lung chung ba, located about 150 metres from the one just mentioned, and likewise propitiated on the 17th day of the 6th month. </li> <li> the <span xmlns:str=\"http://exslt.org/strings\" style=\"font-style: italic;\" class=\"\">la btsas</span> of A myes gNyan steng on A myes gNyan steng hill, 2 km behind the temple, propitiated on 25 June.</li> <li> the <span xmlns:str=\"http://exslt.org/strings\" style=\"font-style: italic;\" class=\"\">la btsas</span> of the local deities Bon rgan, Bon chung, Nyag ga and dBu rtse in Bon brgya khog 73 km from the temple; the last four are propitiated on the 6th day of th 7th month.</li> </ol>
+", 
+   "index": 8, 
+   "parent_index": 2, 
+   "title": "13. Local festivals "
+  }, 
+  {
+   "body": "<p>Agriculture</p>
+", 
+   "index": 9, 
+   "parent_index": 2, 
+   "title": "14. Economic occupation of the local people"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "ཚེ་རིང་ཐར། (Tsering Thar)", 
+    "id": "80"
+   }, 
+   {
+    "fullname": "ཚེ་རིང་ཐར། (Tsering Thar)", 
+    "id": "80"
+   }
+  ], 
+  "domain": "places", 
+  "kid": "23513", 
+  "dates": [], 
+  "title": "Sekhang Rindzin Tukjé Jangchup Ling Introduction"
+ }
+}

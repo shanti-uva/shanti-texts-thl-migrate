@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"2387","authors":[{"fullname":"Jos\u00e9 I. Cabez\u00f3n","id":"7"}],"title":"","dates":{"created_at":"2013-09-15 04:09:34 UTC","updated_at":"2013-09-15 04:09:34 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>Weather. Ex: Srung thabs mdor bsdus phyogs gcig tu bkod pa [nas sad ser btsa\u2019 than sogs srung thabs mdor bsdus] (W3829), Dpal rdo rje 'jigs byed chen po'i sgo nas dus min gyi kha char gcod pa'i man ngag me rlung 'khyil ba dang \/ ser ba bsrung ba'i ched gzhi bdag la gtor ma gtong tshul bcas. <\/p>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"2387","authors":[{"fullname":"José I. Cabezón","id":"7"}],"title":"","dates":{"created_at":"2013-09-15 04:09:34 UTC","updated_at":"2013-09-15 04:09:34 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>Weather. Ex: Srung thabs mdor bsdus phyogs gcig tu bkod pa [nas sad ser btsa’ than sogs srung thabs mdor bsdus] (W3829), Dpal rdo rje 'jigs byed chen po'i sgo nas dus min gyi kha char gcod pa'i man ngag me rlung 'khyil ba dang / ser ba bsrung ba'i ched gzhi bdag la gtor ma gtong tshul bcas. </p>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p>Weather. Ex: Srung thabs mdor bsdus phyogs gcig tu bkod pa [nas sad ser btsa’ than sogs srung thabs mdor bsdus] (W3829), Dpal rdo rje 'jigs byed chen po'i sgo nas dus min gyi kha char gcod pa'i man ngag me rlung 'khyil ba dang / ser ba bsrung ba'i ched gzhi bdag la gtor ma gtong tshul bcas. </p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "José I. Cabezón", 
+    "id": "7"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "2387", 
+  "dates": [], 
+  "title": null
+ }
+}

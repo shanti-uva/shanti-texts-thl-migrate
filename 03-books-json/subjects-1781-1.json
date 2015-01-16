@@ -1,5 +1,25 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"1781","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:07:35 UTC","updated_at":"2013-09-15 04:07:35 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">Tibetan contains a number of adjectival and adverbial expressions consisting of four syllables. The general pattern is that the first syllable is phonologically associated with the third, whereas the second is linked to the fourth, according to the pattern: (X)(Y1)(X)(Y2).<\/p><p class=\"Paragraph\">Here are a few very common expressions:<\/p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f42\u0f44\u0f0b\u0f56\u0fb1\u0f74\u0f44\u0f0b\u0f58\u0f44\u0f0b\u0f56\u0fb1\u0f74\u0f44\u0f0b<\/span> \u201cAnyhow\u201d<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f50\u0f0b\u0f62\u0f7a\u0f0b\u0f50\u0f7c\u0f0b\u0f62\u0f7a\u0f0b<\/span> \u201cScatty,\u201d \u201cpiecemeal\u201d<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f5a\u0f0b\u0f42\u0f7a\u0f0b\u0f5a\u0f72\u0f0b\u0f42\u0f7a\u0f0b<\/span> \u201cNervous,\u201d \u201cshaky\u201d<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f5a\u0f56\u0f0b\u0f56\u0f7a\u0f0b\u0f5a\u0f74\u0f56\u0f0b\u0f56\u0f7a\u0f0b<\/span> \u201cHastily\u201d<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f5b\u0f0b\u0f62\u0f7a\u0f0b\u0f5b\u0f7c\u0f0b\u0f62\u0f7a\u0f0b<\/span> \u201cMessy\u201d<\/li> <\/ul>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"1781","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:07:35 UTC","updated_at":"2013-09-15 04:07:35 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">Tibetan contains a number of adjectival and adverbial expressions consisting of four syllables. The general pattern is that the first syllable is phonologically associated with the third, whereas the second is linked to the fourth, according to the pattern: (X)(Y1)(X)(Y2).</p> <p class=\"Paragraph\">Here are a few very common expressions:</p> <ul> <li><span class=\"tibetan\" title=\"Type ID here\">གང་བྱུང་མང་བྱུང་</span> “Anyhow”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཐ་རེ་ཐོ་རེ་</span> “Scatty,” “piecemeal”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཚ་གེ་ཚི་གེ་</span> “Nervous,” “shaky”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཚབ་བེ་ཚུབ་བེ་</span> “Hastily”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཛ་རེ་ཛོ་རེ་</span> “Messy”</li> </ul>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p class=\"Paragraph\">Tibetan contains a number of adjectival and adverbial expressions consisting of four syllables. The general pattern is that the first syllable is phonologically associated with the third, whereas the second is linked to the fourth, according to the pattern: (X)(Y1)(X)(Y2).</p>
+<p class=\"Paragraph\">Here are a few very common expressions:</p>
+<ul> <li><span class=\"tibetan\" title=\"Type ID here\">གང་བྱུང་མང་བྱུང་</span> “Anyhow”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཐ་རེ་ཐོ་རེ་</span> “Scatty,” “piecemeal”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཚ་གེ་ཚི་གེ་</span> “Nervous,” “shaky”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཚབ་བེ་ཚུབ་བེ་</span> “Hastily”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཛ་རེ་ཛོ་རེ་</span> “Messy”</li> </ul>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Nicolas Tournadre", 
+    "id": "6"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "1781", 
+  "dates": [], 
+  "title": null
+ }
+}

@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"6967","authors":[{"fullname":"Matthew Zito","id":"30"}],"title":"Knife","dates":{"created_at":"2013-09-15 04:19:52 UTC","updated_at":"2013-09-15 04:19:52 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>An instrument for cutting and chopping; knives are household tools which may also function as weapons.<\/p>","title":"Knife"}]}
-=======
-{"meta":{"domain":"subjects","kid":"6967","authors":[{"fullname":"Matthew Zito","id":"30"}],"title":"Knife","dates":{"created_at":"2013-09-15 04:19:52 UTC","updated_at":"2013-09-15 04:19:52 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>An instrument for cutting and chopping; knives are household tools which may also function as weapons.</p>","title":"Knife"}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p>An instrument for cutting and chopping; knives are household tools which may also function as weapons.</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "Knife"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Matthew Zito", 
+    "id": "30"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "6967", 
+  "dates": [], 
+  "title": "Knife"
+ }
+}

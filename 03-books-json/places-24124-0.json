@@ -1,1 +1,36 @@
-{"meta":{"domain":"places","kid":"24124","authors":[{"fullname":"Gray Tuttle","id":"24"},{"fullname":"Gray Tuttle","id":"24"}],"title":"Dz\u00f6rg\u00e9 (mdzod dge)","dates":{"created_at":"2011-07-06 07:05:09 UTC","updated_at":"2011-09-06 14:46:20 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>This area was named after <span class=\"person\" title=\"Type ID here\">Dz\u00f6rg\u00e9 Dz\u00f6pa Gend\u00fcn<\/span> (<span class=\"tibetan\" title=\"Type ID here\">mdzod dge mdzod pa dge \u2019dun<\/span>; Dz\u00f6g\u00e9 in Standard Tibetan pronunciation), who once ruled it. He descended from <span class=\"person\" title=\"Type ID here\">Ga Yesh\u00e9 Dargy\u00e9<\/span> (<span class=\"tibetan\" title=\"Type ID here\">dga\u2019 ye shes dar rgyas<\/span>), a minister of King <span class=\"person\" title=\"Type ID here\">Tri Relpachen<\/span> (<span class=\"tibetan\" title=\"Type ID here\">khri ral pa can<\/span>), who was sent to collect taxes. When this minister came to the area he decided to settle down and raise livestock because the grassland was so lush and uninhabited. He had two sons, <span class=\"person\" title=\"Type ID here\">Gatak Tupchen<\/span> (<span class=\"tibetan\" title=\"Type ID here\">dga\u2019 stag thub can<\/span>) and <span class=\"person\" title=\"Type ID here\">Gachang Tupchen<\/span> (<span class=\"tibetan\" title=\"Type ID here\">dga\u2019 spyang thub can<\/span>). <span class=\"person\" title=\"Type ID here\">Dz\u00f6pa Gend\u00fcn<\/span> (<span class=\"tibetan\" title=\"Type ID here\">mdzod pa dge \u2019dun<\/span>) was a son of Gatak Tupchen. Gachang Tupchen\u2019s descendants ruled <span class=\"place\" title=\"Type ID here\">Lower Dz\u00f6rg\u00e9<\/span> (<span class=\"tibetan\" title=\"Type ID here\">mdzod dge smad<\/span>), also known as <span class=\"place\" title=\"Type ID here\">Dz\u00f6rg\u00e9 Mewo<\/span> (<span class=\"tibetan\" title=\"Type ID here\">mdzod dge dme bo<\/span>). It\u2019s said that the ruling family of <span class=\"place\" title=\"Type ID here\">Chon\u00e9<\/span> (<span class=\"tibetan\" title=\"Type ID here\">co ne<\/span>) descended from Gachang Tupchen.<\/p><p>Now there are three major communities (<span class=\"tibetan\" title=\"Type ID here\"><em>tso sde<\/em><\/span>) that have Dz\u00f6rg\u00e9 in their names. They are the Twelve Divisions of Dz\u00f6rg\u00e9 (<span class=\"tibetan\" title=\"Type ID here\">mdzod dge shog pa bcu gnyis<\/span>), Dz\u00f6rg\u00e9 Nyima (<span class=\"tibetan\" title=\"Type ID here\">mdzod dge nyi ma<\/span>), and Lower Dz\u00f6rg\u00e9 (<span class=\"tibetan\" title=\"Type ID here\">mdzod dge smad ma<\/span>). They all can trace back their ancestral roots to Ga Yesh\u00e9 Dargy\u00e9.<\/p><p>Hortsang Jikm\u00e9 (<span class=\"tibetan\" title=\"Type ID here\">hor gtsang \u2019jigs med<\/span>) says that Kirti Monastery ruled Khagya (<span class=\"tibetan\" title=\"Type ID here\">kha gya<\/span>), B\u00f6ro (<span class=\"tibetan\" title=\"Type ID here\">\u2019bos ro<\/span>), Jangtsa (<span class=\"tibetan\" title=\"Type ID here\">skyang tsha<\/span>; Kyangtsa in Standard Tibetan pronunciation), Dringwa (<span class=\"tibetan\" title=\"Type ID here\">\u2019bring ba<\/span>), Zaru (<span class=\"tibetan\" title=\"Type ID here\">gza\u2019 ru<\/span>), and Tsongru (<span class=\"tibetan\" title=\"Type ID here\">tshong ru<\/span>), which are part of the Twelve Divisions of Dz\u00f6rg\u00e9.<\/p>","title":"Dz\u00f6rg\u00e9 (mdzod dge)"},{"title":"Reference","index":1,"parent_index":0,"body":"<p>Hor gtsang \u2019jigs med. <em>Mdo smad lo rgyus chen mo las sde tsho\u2019i skor glegs bam dang bo <\/em>[The First Volume of Communities and Tsowa (sde tsho) in The Greater History of Amdo]. Dharamsala, India: Library of Tibetan Works & Archives, 2009, 208-331.<\/p>"}]}
+{
+ "nodes": [
+  {
+   "body": "<p>This area was named after <span class=\"person\" title=\"Type ID here\">Dzörgé Dzöpa Gendün</span> (<span class=\"tibetan\" title=\"Type ID here\">mdzod dge mdzod pa dge ’dun</span>; Dzögé in Standard Tibetan pronunciation), who once ruled it. He descended from <span class=\"person\" title=\"Type ID here\">Ga Yeshé Dargyé</span> (<span class=\"tibetan\" title=\"Type ID here\">dga’ ye shes dar rgyas</span>), a minister of King <span class=\"person\" title=\"Type ID here\">Tri Relpachen</span> (<span class=\"tibetan\" title=\"Type ID here\">khri ral pa can</span>), who was sent to collect taxes. When this minister came to the area he decided to settle down and raise livestock because the grassland was so lush and uninhabited. He had two sons, <span class=\"person\" title=\"Type ID here\">Gatak Tupchen</span> (<span class=\"tibetan\" title=\"Type ID here\">dga’ stag thub can</span>) and <span class=\"person\" title=\"Type ID here\">Gachang Tupchen</span> (<span class=\"tibetan\" title=\"Type ID here\">dga’ spyang thub can</span>). <span class=\"person\" title=\"Type ID here\">Dzöpa Gendün</span> (<span class=\"tibetan\" title=\"Type ID here\">mdzod pa dge ’dun</span>) was a son of Gatak Tupchen. Gachang Tupchen’s descendants ruled <span class=\"place\" title=\"Type ID here\">Lower Dzörgé</span> (<span class=\"tibetan\" title=\"Type ID here\">mdzod dge smad</span>), also known as <span class=\"place\" title=\"Type ID here\">Dzörgé Mewo</span> (<span class=\"tibetan\" title=\"Type ID here\">mdzod dge dme bo</span>). It’s said that the ruling family of <span class=\"place\" title=\"Type ID here\">Choné</span> (<span class=\"tibetan\" title=\"Type ID here\">co ne</span>) descended from Gachang Tupchen.</p>
+<p>Now there are three major communities (<span class=\"tibetan\" title=\"Type ID here\"><em>tso sde</em></span>) that have Dzörgé in their names. They are the Twelve Divisions of Dzörgé (<span class=\"tibetan\" title=\"Type ID here\">mdzod dge shog pa bcu gnyis</span>), Dzörgé Nyima (<span class=\"tibetan\" title=\"Type ID here\">mdzod dge nyi ma</span>), and Lower Dzörgé (<span class=\"tibetan\" title=\"Type ID here\">mdzod dge smad ma</span>). They all can trace back their ancestral roots to Ga Yeshé Dargyé.</p>
+<p>Hortsang Jikmé (<span class=\"tibetan\" title=\"Type ID here\">hor gtsang ’jigs med</span>) says that Kirti Monastery ruled Khagya (<span class=\"tibetan\" title=\"Type ID here\">kha gya</span>), Böro (<span class=\"tibetan\" title=\"Type ID here\">’bos ro</span>), Jangtsa (<span class=\"tibetan\" title=\"Type ID here\">skyang tsha</span>; Kyangtsa in Standard Tibetan pronunciation), Dringwa (<span class=\"tibetan\" title=\"Type ID here\">’bring ba</span>), Zaru (<span class=\"tibetan\" title=\"Type ID here\">gza’ ru</span>), and Tsongru (<span class=\"tibetan\" title=\"Type ID here\">tshong ru</span>), which are part of the Twelve Divisions of Dzörgé.</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "Dzörgé (mdzod dge)"
+  }, 
+  {
+   "body": "<p>Hor gtsang ’jigs med. <em>Mdo smad lo rgyus chen mo las sde tsho’i skor glegs bam dang bo </em>[The First Volume of Communities and Tsowa (sde tsho) in The Greater History of Amdo]. Dharamsala, India: Library of Tibetan Works &amp; Archives, 2009, 208-331.</p>
+", 
+   "index": 1, 
+   "parent_index": 0, 
+   "title": "Reference "
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Gray Tuttle", 
+    "id": "24"
+   }, 
+   {
+    "fullname": "Gray Tuttle", 
+    "id": "24"
+   }
+  ], 
+  "domain": "places", 
+  "kid": "24124", 
+  "dates": [], 
+  "title": "Dzörgé (mdzod dge)"
+ }
+}

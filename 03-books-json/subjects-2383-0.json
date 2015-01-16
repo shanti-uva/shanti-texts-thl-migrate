@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"2383","authors":[{"fullname":"Jos\u00e9 I. Cabez\u00f3n","id":"7"}],"title":"","dates":{"created_at":"2013-09-15 04:09:34 UTC","updated_at":"2013-09-15 04:09:34 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>byis pa srung ba [TBRC T1027], bsrung ba dang za yig (footnote: Dung dkar tshig mdzod: \u201cPutting into the mouth of a newborn infant a knot blessed with the mantra of the tutelary deity or a black piece of paper onto which a mantra has been written in gold for the sake of protecting [the infant] from harm by evil spirits and demons etc.\u201d)<\/p>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"2383","authors":[{"fullname":"José I. Cabezón","id":"7"}],"title":"","dates":{"created_at":"2013-09-15 04:09:34 UTC","updated_at":"2013-09-15 04:09:34 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>byis pa srung ba [TBRC T1027], bsrung ba dang za yig (footnote: Dung dkar tshig mdzod: “Putting into the mouth of a newborn infant a knot blessed with the mantra of the tutelary deity or a black piece of paper onto which a mantra has been written in gold for the sake of protecting [the infant] from harm by evil spirits and demons etc.”)</p>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p>byis pa srung ba [TBRC T1027], bsrung ba dang za yig (footnote: Dung dkar tshig mdzod: “Putting into the mouth of a newborn infant a knot blessed with the mantra of the tutelary deity or a black piece of paper onto which a mantra has been written in gold for the sake of protecting [the infant] from harm by evil spirits and demons etc.”)</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "José I. Cabezón", 
+    "id": "7"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "2383", 
+  "dates": [], 
+  "title": null
+ }
+}

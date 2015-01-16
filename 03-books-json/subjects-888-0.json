@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"888","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of the Dakpo Kagy\u00fc Tradition","dates":{"created_at":"2013-09-15 04:05:45 UTC","updated_at":"2014-05-02 19:32:37 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>\"Dakpo\" refers to the homeland of Gampopa (sgam po pa, 1079-1153), whose disciples founded the various sects grouped together under the heading of the Dakpo Kagy\u00fc. There are different schemes for discussing the suborders of the Dakpo Kagy\u00fc, not surprising given that it represents the most subdivided sect in Tibet. The dominant scheme is to speak of \"four major Kagy\u00fc traditions,\" the last of which (Pakmo Drupa) has eight subdivisions (bka' brgyud che bzhi chung brgyad).<\/p>","title":"An Overview of the Dakpo Kagy\u00fc Tradition"}]}
-=======
-{"meta":{"domain":"subjects","kid":"888","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of the Dakpo Kagyü Tradition","dates":{"created_at":"2013-09-15 04:05:45 UTC","updated_at":"2014-05-02 19:32:37 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>\"Dakpo\" refers to the homeland of Gampopa (sgam po pa, 1079-1153), whose disciples founded the various sects grouped together under the heading of the Dakpo Kagyü. There are different schemes for discussing the suborders of the Dakpo Kagyü, not surprising given that it represents the most subdivided sect in Tibet. The dominant scheme is to speak of \"four major Kagyü traditions,\" the last of which (Pakmo Drupa) has eight subdivisions (bka' brgyud che bzhi chung brgyad).</p>","title":"An Overview of the Dakpo Kagyü Tradition"}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p>\"Dakpo\" refers to the homeland of Gampopa (sgam po pa, 1079-1153), whose disciples founded the various sects grouped together under the heading of the Dakpo Kagyü. There are different schemes for discussing the suborders of the Dakpo Kagyü, not surprising given that it represents the most subdivided sect in Tibet. The dominant scheme is to speak of \"four major Kagyü traditions,\" the last of which (Pakmo Drupa) has eight subdivisions (bka' brgyud che bzhi chung brgyad).</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "An Overview of the Dakpo Kagyü Tradition"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "David Germano", 
+    "id": "2"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "888", 
+  "dates": [], 
+  "title": "An Overview of the Dakpo Kagyü Tradition"
+ }
+}

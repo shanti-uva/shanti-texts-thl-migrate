@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"5381","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:16:04 UTC","updated_at":"2013-09-15 04:16:04 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<ul> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f63\u0f7a\u0f42\u0f66\u0f0b<\/span> = <span class=\"tibetan\" title=\"Type ID here\">\u0f61\u0f42\u0f0b\u0f54\u0f7c\u0f0b<\/span> \u201cGood\u201d <\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f58\u0fb1\u0f74\u0f62\u0f0b<\/span> = <span class=\"tibetan\" title=\"Type ID here\">\u0f58\u0f42\u0fb1\u0f7c\u0f42\u0f66\u0f0b\u0f54\u0f7c\u0f0b<\/span> \u201cQuick\u201d <\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f61\u0f72\u0f51\u0f0b\u0f51\u0f74\u0f0b\u0f60\u0f7c\u0f44\u0f0b\u0f56\u0f0b<\/span> = <span class=\"tibetan\" title=\"Type ID here\">\u0f66\u0f7a\u0f58\u0f66\u0f0b\u0f63\u0f0b\u0f60\u0f42\u0fb2\u0f7c\u0f0b\u0f54\u0f7c\u0f0b<\/span> or <span class=\"tibetan\" title=\"Type ID here\">\u0f58\u0f5b\u0f7a\u0f66\u0f0b\u0f54\u0f7c\u0f0b<\/span> \u201cBeautiful\u201d <\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f62\u0fa8\u0f51\u0f0b\u0f51\u0f74\u0f0b\u0f56\u0fb1\u0f74\u0f44\u0f0b\u0f56\u0f0b<\/span> \/ <span class=\"tibetan\" title=\"Type ID here\">\u0f58\u0f46\u0f7c\u0f42\u0f0b<\/span> = <span class=\"tibetan\" title=\"Type ID here\">\u0f62\u0fa9\u0f7a\u0f0b\u0f42\u0fb2\u0f0b<\/span> \u201cExcellent,\u201d \u201cextraordinary\u201d<\/li> <\/ul>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"5381","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:16:04 UTC","updated_at":"2013-09-15 04:16:04 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<ul> <li><span class=\"tibetan\" title=\"Type ID here\">ལེགས་</span> = <span class=\"tibetan\" title=\"Type ID here\">ཡག་པོ་</span> “Good” </li> <li><span class=\"tibetan\" title=\"Type ID here\">མྱུར་</span> = <span class=\"tibetan\" title=\"Type ID here\">མགྱོགས་པོ་</span> “Quick” </li> <li><span class=\"tibetan\" title=\"Type ID here\">ཡིད་དུ་འོང་བ་</span> = <span class=\"tibetan\" title=\"Type ID here\">སེམས་ལ་འགྲོ་པོ་</span> or <span class=\"tibetan\" title=\"Type ID here\">མཛེས་པོ་</span> “Beautiful” </li> <li><span class=\"tibetan\" title=\"Type ID here\">རྨད་དུ་བྱུང་བ་</span> / <span class=\"tibetan\" title=\"Type ID here\">མཆོག་</span> = <span class=\"tibetan\" title=\"Type ID here\">རྩེ་གྲ་</span> “Excellent,” “extraordinary”</li> </ul>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<ul> <li><span class=\"tibetan\" title=\"Type ID here\">ལེགས་</span> = <span class=\"tibetan\" title=\"Type ID here\">ཡག་པོ་</span> “Good” </li> <li><span class=\"tibetan\" title=\"Type ID here\">མྱུར་</span> = <span class=\"tibetan\" title=\"Type ID here\">མགྱོགས་པོ་</span> “Quick” </li> <li><span class=\"tibetan\" title=\"Type ID here\">ཡིད་དུ་འོང་བ་</span> = <span class=\"tibetan\" title=\"Type ID here\">སེམས་ལ་འགྲོ་པོ་</span> or <span class=\"tibetan\" title=\"Type ID here\">མཛེས་པོ་</span> “Beautiful” </li> <li><span class=\"tibetan\" title=\"Type ID here\">རྨད་དུ་བྱུང་བ་</span> / <span class=\"tibetan\" title=\"Type ID here\">མཆོག་</span> = <span class=\"tibetan\" title=\"Type ID here\">རྩེ་གྲ་</span> “Excellent,” “extraordinary”</li> </ul>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Nicolas Tournadre", 
+    "id": "6"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "5381", 
+  "dates": [], 
+  "title": null
+ }
+}

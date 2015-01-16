@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"829","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of the Internal Mantric Vehicles","dates":{"created_at":"2013-09-15 04:05:31 UTC","updated_at":"2013-09-15 04:05:31 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>Also referred to as \"internal tantras,\" these final three systems and corresponding texts are on the whole unique to the Nyingma tradition. Some Nyingma scholars as early as the fourteenth century correlated these final three systems with the three internal divisions of the \"modern\" (gsar ma pa) Unsurpassed Yoga tantras: Mah\u0101yoga tantras with the \"father\" tantras (emphasizing \"generation phase\" of tantric contemplation), Anuyoga tantras with the \"mother tantras\" (emphasizing \"perfection\/completion phase\" of tantric contemplation), and Atiyoga tantras with the \"Non-dual tantras\" (the two phases are non-dual).<\/p>","title":"An Overview of the Internal Mantric Vehicles"}]}
-=======
-{"meta":{"domain":"subjects","kid":"829","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of the Internal Mantric Vehicles","dates":{"created_at":"2013-09-15 04:05:31 UTC","updated_at":"2013-09-15 04:05:31 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>Also referred to as \"internal tantras,\" these final three systems and corresponding texts are on the whole unique to the Nyingma tradition. Some Nyingma scholars as early as the fourteenth century correlated these final three systems with the three internal divisions of the \"modern\" (gsar ma pa) Unsurpassed Yoga tantras: Mahāyoga tantras with the \"father\" tantras (emphasizing \"generation phase\" of tantric contemplation), Anuyoga tantras with the \"mother tantras\" (emphasizing \"perfection/completion phase\" of tantric contemplation), and Atiyoga tantras with the \"Non-dual tantras\" (the two phases are non-dual).</p>","title":"An Overview of the Internal Mantric Vehicles"}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p>Also referred to as \"internal tantras,\" these final three systems and corresponding texts are on the whole unique to the Nyingma tradition. Some Nyingma scholars as early as the fourteenth century correlated these final three systems with the three internal divisions of the \"modern\" (gsar ma pa) Unsurpassed Yoga tantras: Mahāyoga tantras with the \"father\" tantras (emphasizing \"generation phase\" of tantric contemplation), Anuyoga tantras with the \"mother tantras\" (emphasizing \"perfection/completion phase\" of tantric contemplation), and Atiyoga tantras with the \"Non-dual tantras\" (the two phases are non-dual).</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "An Overview of the Internal Mantric Vehicles"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "David Germano", 
+    "id": "2"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "829", 
+  "dates": [], 
+  "title": "An Overview of the Internal Mantric Vehicles"
+ }
+}

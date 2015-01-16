@@ -1,5 +1,36 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"2028","authors":[{"fullname":"Jos\u00e9 I. Cabez\u00f3n","id":"7"}],"title":"Essential Empowerment","dates":{"created_at":"2013-09-15 04:08:21 UTC","updated_at":"2014-02-27 15:32:26 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Essential Empowerment"},{"title":"Description","index":1,"parent_index":0,"body":"<p>Unelaborated. Sometimes contrasted with dbang chen.<\/p>"},{"title":"Example Texts","index":2,"parent_index":0,"body":"<ul> <li><a href=\"http:\/\/tbrc.org\/#!rid=W19044\">Don dbang bsdus pa smin byed bdud rtsi\u2019i thig pa<\/a>\u00a0<\/li> <li>See also <a href=\"http:\/\/tbrc.org\/#!rid=T1095]\">don bdang<\/a><\/li> <\/ul>"}]}
-=======
-{"meta":{"domain":"subjects","kid":"2028","authors":[{"fullname":"José I. Cabezón","id":"7"}],"title":"Essential Empowerment","dates":{"created_at":"2013-09-15 04:08:21 UTC","updated_at":"2014-02-27 15:32:26 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Essential Empowerment"},{"title":"Description","index":1,"parent_index":0,"body":" <p>Unelaborated. Sometimes contrasted with dbang chen.</p> "},{"title":"Example Texts","index":2,"parent_index":0,"body":" <ul> <li><a href=\"http://tbrc.org/#!rid=W19044\">Don dbang bsdus pa smin byed bdud rtsi’i thig pa</a> </li> <li>See also <a href=\"http://tbrc.org/#!rid=T1095]\">don bdang</a></li> </ul>"}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "Essential Empowerment"
+  }, 
+  {
+   "body": "<p>Unelaborated. Sometimes contrasted with dbang chen.</p>
+", 
+   "index": 1, 
+   "parent_index": 0, 
+   "title": "Description"
+  }, 
+  {
+   "body": "<ul> <li><a href=\"http://tbrc.org/#!rid=W19044\">Don dbang bsdus pa smin byed bdud rtsi’i thig pa</a> </li> <li>See also <a href=\"http://tbrc.org/#!rid=T1095]\">don bdang</a></li> </ul>
+", 
+   "index": 2, 
+   "parent_index": 0, 
+   "title": "Example Texts"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "José I. Cabezón", 
+    "id": "7"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "2028", 
+  "dates": [], 
+  "title": "Essential Empowerment"
+ }
+}

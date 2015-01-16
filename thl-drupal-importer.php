@@ -59,7 +59,7 @@ foreach ($filenames as $filename) {
     $node->field_book_content[$node->language][0]['value'] = $body;
     $node->field_book_content[$node->language][0]['format'] = 'ckeditor_full';
     
-    # IF PARENT, CREATE A BOOK
+    # IF NO PARENT, CREATE A BOOK
     if ($parent == -1) {
     
       # AUTHORS
@@ -67,13 +67,10 @@ foreach ($filenames as $filename) {
       if ($authors) {
         $prev_author = ''; # Remove duplicates
         foreach ($authors as $author_inf) {
-<<<<<<< HEAD
           if (is_object($author_inf)) {
             $author = $author_inf->fullname;
-=======
           if (is_array($author_inf)) {
             $author = $author_inf['fullname'];
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
           } else {
             $author = $author_inf;
           }

@@ -1,5 +1,33 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"300","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:04:00 UTC","updated_at":"2013-09-15 04:04:00 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">\u00a0In both Spoken and Literary Tibetan, the verb always comes last in a clause. This applies to the verb not only in the main clause but also in subordinate clauses (relative, causal, complementary, etc.). The simple sentence may be broken down into three components: a subject noun phrase, an object noun phrase and the verb phrase (or predicate).<a name=\"n1\" href=\"#fn1\">[1]<\/a><\/p><p class=\"Paragraph\">Usual word order is \u201csubject - object - verb\u201d (SOV). However, the object may precede the subject (OSV) in order to give special emphasis to the latter, or in the case of certain questions. The emphasis is accompanied by a particular stress on the element that is being emphasized, and by a rising intonation.<\/p><p class=\"Paragraph\">Compare:<\/p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f60\u0f51\u0f72\u0f0b\u0f51\u0f7a\u0f56\u0f0b\u0f62\u0f7a\u0f51\u0f0d <\/span>\u201cThis is a book.\u201d<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f51\u0f7a\u0f56\u0f0b\u0f60\u0f51\u0f72\u0f0b\u0f62\u0f7a\u0f51\u0f0d<\/span> \u201cIt\u2019s this book.\u201d<\/li> <\/ul><p class=\"Paragraph\"><strong>The only indispensable element in the sentence is the verb<\/strong>; the subject and object may be implied or omitted. The verb exhibits <strong>no agreement<\/strong> in terms of:<\/p><ul> <li>gender<\/li> <li>number<\/li> <li>person<\/li> <\/ul><p class=\"Paragraph\"><strong>There is no distinction between the active and the passive voice. <\/strong>The neutrality of the verb and its lack of orientation mean that passive transformations are impossible.<\/p><p class=\"Paragraph\">It is only the case particles that make it possible to distinguish between the agent and the person or thing that is acted upon. The neutrality of Tibetan verbs can be illustrated by comparison with nouns, which are intrinsically neither active nor passive. Thus the sentences \u201cLopzang corrected the book\u201d or \u201cThe book was corrected by Lopzang\u201d might be rendered as \u201c(there was) a correction (of) the book by<em> <\/em>Lopzang.\u201d<\/p><p>\u00a0<\/p><hr size=\"1\" \/><p><a name=\"fn1\" href=\"#n1\">[1]<\/a> Even though the notions of \u201csubject\u201d and \u201cobject\u201d are not really appropriate in the case of languages such as Tibetan, for the sake of convenience I retain them in my entries in the Reference Grammar.<\/p>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"300","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:04:00 UTC","updated_at":"2013-09-15 04:04:00 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\"> In both Spoken and Literary Tibetan, the verb always comes last in a clause. This applies to the verb not only in the main clause but also in subordinate clauses (relative, causal, complementary, etc.). The simple sentence may be broken down into three components: a subject noun phrase, an object noun phrase and the verb phrase (or predicate).<a name=\"n1\" href=\"#fn1\">[1]</a></p> <p class=\"Paragraph\">Usual word order is “subject - object - verb” (SOV). However, the object may precede the subject (OSV) in order to give special emphasis to the latter, or in the case of certain questions. The emphasis is accompanied by a particular stress on the element that is being emphasized, and by a rising intonation.</p> <p class=\"Paragraph\">Compare:</p> <ul> <li><span class=\"tibetan\" title=\"Type ID here\">འདི་དེབ་རེད། </span>“This is a book.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">དེབ་འདི་རེད།</span> “It’s this book.”</li> </ul> <p class=\"Paragraph\"><strong>The only indispensable element in the sentence is the verb</strong>; the subject and object may be implied or omitted. The verb exhibits <strong>no agreement</strong> in terms of:</p> <ul> <li>gender</li> <li>number</li> <li>person</li> </ul> <p class=\"Paragraph\"><strong>There is no distinction between the active and the passive voice. </strong>The neutrality of the verb and its lack of orientation mean that passive transformations are impossible.</p> <p class=\"Paragraph\">It is only the case particles that make it possible to distinguish between the agent and the person or thing that is acted upon. The neutrality of Tibetan verbs can be illustrated by comparison with nouns, which are intrinsically neither active nor passive. Thus the sentences “Lopzang corrected the book” or “The book was corrected by Lopzang” might be rendered as “(there was) a correction (of) the book by<em> </em>Lopzang.”</p> <p> </p> <hr size=\"1\" /> <p><a name=\"fn1\" href=\"#n1\">[1]</a> Even though the notions of “subject” and “object” are not really appropriate in the case of languages such as Tibetan, for the sake of convenience I retain them in my entries in the Reference Grammar.</p>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p class=\"Paragraph\"> In both Spoken and Literary Tibetan, the verb always comes last in a clause. This applies to the verb not only in the main clause but also in subordinate clauses (relative, causal, complementary, etc.). The simple sentence may be broken down into three components: a subject noun phrase, an object noun phrase and the verb phrase (or predicate).<a name=\"n1\" href=\"#fn1\">[1]</a></p>
+<p class=\"Paragraph\">Usual word order is “subject - object - verb” (SOV). However, the object may precede the subject (OSV) in order to give special emphasis to the latter, or in the case of certain questions. The emphasis is accompanied by a particular stress on the element that is being emphasized, and by a rising intonation.</p>
+<p class=\"Paragraph\">Compare:</p>
+<ul> <li><span class=\"tibetan\" title=\"Type ID here\">འདི་དེབ་རེད། </span>“This is a book.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">དེབ་འདི་རེད།</span> “It’s this book.”</li> </ul>
+<p class=\"Paragraph\"><strong>The only indispensable element in the sentence is the verb</strong>; the subject and object may be implied or omitted. The verb exhibits <strong>no agreement</strong> in terms of:</p>
+<ul> <li>gender</li> <li>number</li> <li>person</li> </ul>
+<p class=\"Paragraph\"><strong>There is no distinction between the active and the passive voice. </strong>The neutrality of the verb and its lack of orientation mean that passive transformations are impossible.</p>
+<p class=\"Paragraph\">It is only the case particles that make it possible to distinguish between the agent and the person or thing that is acted upon. The neutrality of Tibetan verbs can be illustrated by comparison with nouns, which are intrinsically neither active nor passive. Thus the sentences “Lopzang corrected the book” or “The book was corrected by Lopzang” might be rendered as “(there was) a correction (of) the book by<em> </em>Lopzang.”</p>
+<p> </p>
+<hr size=\"1\"/>
+<p><a name=\"fn1\" href=\"#n1\">[1]</a> Even though the notions of “subject” and “object” are not really appropriate in the case of languages such as Tibetan, for the sake of convenience I retain them in my entries in the Reference Grammar.</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Nicolas Tournadre", 
+    "id": "6"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "300", 
+  "dates": [], 
+  "title": null
+ }
+}

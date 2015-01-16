@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"4950","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of the Pukluk Calendar","dates":{"created_at":"2013-09-15 04:14:40 UTC","updated_at":"2013-09-15 04:14:40 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>The Pukluk (phugs lugs) astrological tradition is the normative one in Tibet currently. It is based upon work of Pukpa Lhundrub Gyatso (phugs pa lhun grub rgya mtsho), and particularly his 1447 work entitled <em>The Oral Precepts of the White Lotus<\/em> (pad dkar zhal lung).<\/p>","title":"An Overview of the Pukluk Calendar"}]}
-=======
-{"meta":{"domain":"subjects","kid":"4950","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of the Pukluk Calendar","dates":{"created_at":"2013-09-15 04:14:40 UTC","updated_at":"2013-09-15 04:14:40 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>The Pukluk (phugs lugs) astrological tradition is the normative one in Tibet currently. It is based upon work of Pukpa Lhundrub Gyatso (phugs pa lhun grub rgya mtsho), and particularly his 1447 work entitled <em>The Oral Precepts of the White Lotus</em> (pad dkar zhal lung).</p>","title":"An Overview of the Pukluk Calendar"}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p>The Pukluk (phugs lugs) astrological tradition is the normative one in Tibet currently. It is based upon work of Pukpa Lhundrub Gyatso (phugs pa lhun grub rgya mtsho), and particularly his 1447 work entitled <em>The Oral Precepts of the White Lotus</em> (pad dkar zhal lung).</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "An Overview of the Pukluk Calendar"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "David Germano", 
+    "id": "2"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "4950", 
+  "dates": [], 
+  "title": "An Overview of the Pukluk Calendar"
+ }
+}

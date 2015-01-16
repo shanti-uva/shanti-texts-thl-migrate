@@ -1,5 +1,30 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"2459","authors":[{"fullname":"Chris Hatchell","id":"11"}],"title":"","dates":{"created_at":"2013-09-15 04:09:49 UTC","updated_at":"2013-09-15 04:09:49 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":""},{"title":"Description","index":1,"parent_index":0,"body":"<p>Rituals whose main focus is the reading of scriptures, particularly the Kagyur and Tengyur.<\/p><p>distinguished from oral transmission<\/p>"}]}
-=======
-{"meta":{"domain":"subjects","kid":"2459","authors":[{"fullname":"Chris Hatchell","id":"11"}],"title":"","dates":{"created_at":"2013-09-15 04:09:49 UTC","updated_at":"2013-09-15 04:09:49 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":""},{"title":"Description","index":1,"parent_index":0,"body":" <p>Rituals whose main focus is the reading of scriptures, particularly the Kagyur and Tengyur.</p> <p>distinguished from oral transmission</p>"}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }, 
+  {
+   "body": "<p>Rituals whose main focus is the reading of scriptures, particularly the Kagyur and Tengyur.</p>
+<p>distinguished from oral transmission</p>
+", 
+   "index": 1, 
+   "parent_index": 0, 
+   "title": "Description"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Chris Hatchell", 
+    "id": "11"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "2459", 
+  "dates": [], 
+  "title": null
+ }
+}

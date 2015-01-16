@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"4851","authors":[{"fullname":"Steve Weinberger","id":"3"}],"title":"An Overview of the Back Section","dates":{"created_at":"2013-09-15 04:14:09 UTC","updated_at":"2013-09-15 04:14:09 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>A Colophon is traditionally defined as: The inscription or device formerly placed at the end of a book or manuscript and containing the title, the scribe or printer\u2019s name, date and place of printing, etc. (In early times, the colophon gave the information now given on the title page). For analytical clarity, we have separated out a number of different types of sections that we refer to as \u201ccolophons\u201d of various types, as well as a few additional sections found at the end of texts which we have labeled appropriately.<\/p>","title":"An Overview of the Back Section"}]}
-=======
-{"meta":{"domain":"subjects","kid":"4851","authors":[{"fullname":"Steve Weinberger","id":"3"}],"title":"An Overview of the Back Section","dates":{"created_at":"2013-09-15 04:14:09 UTC","updated_at":"2013-09-15 04:14:09 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>A Colophon is traditionally defined as: The inscription or device formerly placed at the end of a book or manuscript and containing the title, the scribe or printer’s name, date and place of printing, etc. (In early times, the colophon gave the information now given on the title page). For analytical clarity, we have separated out a number of different types of sections that we refer to as “colophons” of various types, as well as a few additional sections found at the end of texts which we have labeled appropriately.</p>","title":"An Overview of the Back Section"}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p>A Colophon is traditionally defined as: The inscription or device formerly placed at the end of a book or manuscript and containing the title, the scribe or printer’s name, date and place of printing, etc. (In early times, the colophon gave the information now given on the title page). For analytical clarity, we have separated out a number of different types of sections that we refer to as “colophons” of various types, as well as a few additional sections found at the end of texts which we have labeled appropriately.</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "An Overview of the Back Section"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Steve Weinberger", 
+    "id": "3"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "4851", 
+  "dates": [], 
+  "title": "An Overview of the Back Section"
+ }
+}

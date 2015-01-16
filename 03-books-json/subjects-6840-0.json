@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"6840","authors":[{"fullname":"Matthew Zito","id":"30"}],"title":"","dates":{"created_at":"2013-09-15 04:19:31 UTC","updated_at":"2013-09-15 04:19:31 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>Yak milk that has been boiled and then placed in a cool spot to become yogurt; one of the \u201cThree White Foods.\u201d<\/p>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"6840","authors":[{"fullname":"Matthew Zito","id":"30"}],"title":"","dates":{"created_at":"2013-09-15 04:19:31 UTC","updated_at":"2013-09-15 04:19:31 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>Yak milk that has been boiled and then placed in a cool spot to become yogurt; one of the “Three White Foods.”</p>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p>Yak milk that has been boiled and then placed in a cool spot to become yogurt; one of the “Three White Foods.”</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Matthew Zito", 
+    "id": "30"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "6840", 
+  "dates": [], 
+  "title": null
+ }
+}

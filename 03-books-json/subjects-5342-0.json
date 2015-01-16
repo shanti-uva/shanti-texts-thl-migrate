@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"5342","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:56 UTC","updated_at":"2013-09-15 04:15:56 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<ul> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f55\u0f0b\u0f58\u0f0b<\/span> \u201cParents\u201d (mother-father)<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f49\u0f72\u0f53\u0f0b\u0f58\u0f5a\u0f53\u0f0b<\/span> \u201cDay and night\u201d (day-night)<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f42\u0f5e\u0f74\u0f44\u0f0b\u0f66\u0f92\u0f7a\u0f62\u0f0b<\/span> \u201cEveryone\u201d (government-private)<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f63\u0fb7\u0f0b\u0f60\u0f51\u0fb2\u0f7a\u0f0b<\/span> \u201cGods and demons\u201d (gods-demons)<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f62\u0f92\u0fb1\u0f74\u0f0b\u0f60\u0f56\u0fb2\u0f66\u0f0b<\/span> \u201cCausality\u201d (cause-result)<\/li> <\/ul>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"5342","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:56 UTC","updated_at":"2013-09-15 04:15:56 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཕ་མ་</span> “Parents” (mother-father)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཉིན་མཚན་</span> “Day and night” (day-night)</li> <li><span class=\"tibetan\" title=\"Type ID here\">གཞུང་སྒེར་</span> “Everyone” (government-private)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ལྷ་འདྲེ་</span> “Gods and demons” (gods-demons)</li> <li><span class=\"tibetan\" title=\"Type ID here\">རྒྱུ་འབྲས་</span> “Causality” (cause-result)</li> </ul>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཕ་མ་</span> “Parents” (mother-father)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཉིན་མཚན་</span> “Day and night” (day-night)</li> <li><span class=\"tibetan\" title=\"Type ID here\">གཞུང་སྒེར་</span> “Everyone” (government-private)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ལྷ་འདྲེ་</span> “Gods and demons” (gods-demons)</li> <li><span class=\"tibetan\" title=\"Type ID here\">རྒྱུ་འབྲས་</span> “Causality” (cause-result)</li> </ul>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Nicolas Tournadre", 
+    "id": "6"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "5342", 
+  "dates": [], 
+  "title": null
+ }
+}

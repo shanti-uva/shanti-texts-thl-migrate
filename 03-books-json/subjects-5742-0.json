@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"5742","authors":[{"fullname":"Suzanne Bessenger","id":"22"}],"title":"","dates":{"created_at":"2013-09-15 04:17:27 UTC","updated_at":"2013-09-15 04:17:27 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>the monastic in charge of the \u2019cham dance<\/p>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"5742","authors":[{"fullname":"Suzanne Bessenger","id":"22"}],"title":"","dates":{"created_at":"2013-09-15 04:17:27 UTC","updated_at":"2013-09-15 04:17:27 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>the monastic in charge of the ’cham dance</p>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p>the monastic in charge of the ’cham dance</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Suzanne Bessenger", 
+    "id": "22"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "5742", 
+  "dates": [], 
+  "title": null
+ }
+}

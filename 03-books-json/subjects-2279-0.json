@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"2279","authors":[{"fullname":"Jos\u00e9 I. Cabez\u00f3n","id":"7"}],"title":"","dates":{"created_at":"2013-09-15 04:09:14 UTC","updated_at":"2013-09-15 04:09:14 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>sgrub gtor ram mchod gtor [The torma presented to the deity but kept permanently on the altar] Check<\/p>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"2279","authors":[{"fullname":"José I. Cabezón","id":"7"}],"title":"","dates":{"created_at":"2013-09-15 04:09:14 UTC","updated_at":"2013-09-15 04:09:14 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>sgrub gtor ram mchod gtor [The torma presented to the deity but kept permanently on the altar] Check</p>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p>sgrub gtor ram mchod gtor [The torma presented to the deity but kept permanently on the altar] Check</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "José I. Cabezón", 
+    "id": "7"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "2279", 
+  "dates": [], 
+  "title": null
+ }
+}

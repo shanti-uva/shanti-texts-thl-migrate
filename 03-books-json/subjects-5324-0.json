@@ -1,5 +1,25 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"5324","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:54 UTC","updated_at":"2013-09-15 04:15:54 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<ul> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f68\u0f0b\u0f62\u0f42\u0f0b<\/span> \u201cAlcohol\u201d (<em>arak<\/em> \u201ctoddy,\u201d \u201cpalm sap\u201d)<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f55\u0fb1\u0f74\u0f0b\u0f54\u0f0b<\/span> \u201cGown\u201d (<em>jabba<\/em>, or Turkish <em>juba<\/em>)<a href=\"#_ftn1\">[1]<\/a><\/li> <\/ul><hr size=\"1\" \/><p><a href=\"#_ftnref1\">[1]<\/a> According to Fasmer\u2019s etymological dictionary, the French word <em>jupe<\/em> is also derived from the Arabic <em>jabba<\/em>. Thus the French word <em>jupe<\/em> and the Tibetan <span class=\"tibetan\" title=\"Type ID here\">\u0f55\u0fb1\u0f74\u0f0b\u0f54\u0f0b<\/span> share a common origin. See Max Fasmer and O. N. Trubachev, <em>Etimologicheskii slovar\u2019 russkogo iazyka<\/em> (Moscow: Progress, 1986).<\/p>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"5324","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:54 UTC","updated_at":"2013-09-15 04:15:54 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཨ་རག་</span> “Alcohol” (<em>arak</em> “toddy,” “palm sap”)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཕྱུ་པ་</span> “Gown” (<em>jabba</em>, or Turkish <em>juba</em>)<a href=\"#_ftn1\">[1]</a></li> </ul> <hr size=\"1\" /> <p><a href=\"#_ftnref1\">[1]</a> According to Fasmer’s etymological dictionary, the French word <em>jupe</em> is also derived from the Arabic <em>jabba</em>. Thus the French word <em>jupe</em> and the Tibetan <span class=\"tibetan\" title=\"Type ID here\">ཕྱུ་པ་</span> share a common origin. See Max Fasmer and O. N. Trubachev, <em>Etimologicheskii slovar’ russkogo iazyka</em> (Moscow: Progress, 1986).</p>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཨ་རག་</span> “Alcohol” (<em>arak</em> “toddy,” “palm sap”)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཕྱུ་པ་</span> “Gown” (<em>jabba</em>, or Turkish <em>juba</em>)<a href=\"#_ftn1\">[1]</a></li> </ul>
+<hr size=\"1\"/>
+<p><a href=\"#_ftnref1\">[1]</a> According to Fasmer’s etymological dictionary, the French word <em>jupe</em> is also derived from the Arabic <em>jabba</em>. Thus the French word <em>jupe</em> and the Tibetan <span class=\"tibetan\" title=\"Type ID here\">ཕྱུ་པ་</span> share a common origin. See Max Fasmer and O. N. Trubachev, <em>Etimologicheskii slovar’ russkogo iazyka</em> (Moscow: Progress, 1986).</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Nicolas Tournadre", 
+    "id": "6"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "5324", 
+  "dates": [], 
+  "title": null
+ }
+}

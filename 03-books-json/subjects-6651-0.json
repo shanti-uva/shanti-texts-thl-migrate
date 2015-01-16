@@ -1,5 +1,24 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"6651","authors":[{"fullname":"David Germano","id":"2"}],"title":"","dates":{"created_at":"2013-09-15 04:19:00 UTC","updated_at":"2013-09-15 04:19:00 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>E-conferencing tools faciliate people meeting together to hold a conference of a few people to may people over the web despite being at different locations. Typical features of such systems include:<\/p><ul> <li>Talk via audio delivered over the web and\/or through separate phone calls<\/li> <li>See video of participants<\/li> <li>Separate chat window for textual exchanges, including capacity to make private messages to just one other participant for private side discussions<\/li> <li>Share one computer screen with all other participants, including allowing any other participant to \"take over\" the screen of another with his\/her mouse<\/li> <li>Record the entire session, including computer screen along with the audio of poeple's comments, to make a screencast to be consult later, or share with others who could not be at the meeting<\/li> <\/ul>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"6651","authors":[{"fullname":"David Germano","id":"2"}],"title":"","dates":{"created_at":"2013-09-15 04:19:00 UTC","updated_at":"2013-09-15 04:19:00 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>E-conferencing tools faciliate people meeting together to hold a conference of a few people to may people over the web despite being at different locations. Typical features of such systems include:</p> <ul> <li>Talk via audio delivered over the web and/or through separate phone calls</li> <li>See video of participants</li> <li>Separate chat window for textual exchanges, including capacity to make private messages to just one other participant for private side discussions</li> <li>Share one computer screen with all other participants, including allowing any other participant to \"take over\" the screen of another with his/her mouse</li> <li>Record the entire session, including computer screen along with the audio of poeple's comments, to make a screencast to be consult later, or share with others who could not be at the meeting</li> </ul>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p>E-conferencing tools faciliate people meeting together to hold a conference of a few people to may people over the web despite being at different locations. Typical features of such systems include:</p>
+<ul> <li>Talk via audio delivered over the web and/or through separate phone calls</li> <li>See video of participants</li> <li>Separate chat window for textual exchanges, including capacity to make private messages to just one other participant for private side discussions</li> <li>Share one computer screen with all other participants, including allowing any other participant to \"take over\" the screen of another with his/her mouse</li> <li>Record the entire session, including computer screen along with the audio of poeple's comments, to make a screencast to be consult later, or share with others who could not be at the meeting</li> </ul>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "David Germano", 
+    "id": "2"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "6651", 
+  "dates": [], 
+  "title": null
+ }
+}

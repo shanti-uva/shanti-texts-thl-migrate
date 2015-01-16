@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"824","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of the Vehicle of the Spiritual Heroes","dates":{"created_at":"2013-09-15 04:05:28 UTC","updated_at":"2013-09-15 04:05:28 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>This represents the non-tantric Great Vehicle.<\/p>","title":"An Overview of the Vehicle of the Spiritual Heroes"}]}
-=======
-{"meta":{"domain":"subjects","kid":"824","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of the Vehicle of the Spiritual Heroes","dates":{"created_at":"2013-09-15 04:05:28 UTC","updated_at":"2013-09-15 04:05:28 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>This represents the non-tantric Great Vehicle.</p>","title":"An Overview of the Vehicle of the Spiritual Heroes"}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p>This represents the non-tantric Great Vehicle.</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "An Overview of the Vehicle of the Spiritual Heroes"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "David Germano", 
+    "id": "2"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "824", 
+  "dates": [], 
+  "title": "An Overview of the Vehicle of the Spiritual Heroes"
+ }
+}

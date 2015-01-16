@@ -1,5 +1,29 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"1833","authors":[{"fullname":"Jos\u00e9 I. Cabez\u00f3n","id":"7"}],"title":"Ransom Ritual for Livestock","dates":{"created_at":"2013-09-15 04:07:44 UTC","updated_at":"2014-01-14 18:52:38 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Ransom Ritual for Livestock"},{"title":"Example Texts","index":1,"parent_index":0,"body":"<ul> <li><a href=\"http:\/\/tbrc.org\/#!rid=W16346\">Phyugs glud gtong thabs khyer bde sogs<\/a><\/li> <\/ul>"}]}
-=======
-{"meta":{"domain":"subjects","kid":"1833","authors":[{"fullname":"José I. Cabezón","id":"7"}],"title":"Ransom Ritual for Livestock","dates":{"created_at":"2013-09-15 04:07:44 UTC","updated_at":"2014-01-14 18:52:38 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Ransom Ritual for Livestock"},{"title":"Example Texts","index":1,"parent_index":0,"body":" <ul> <li><a href=\"http://tbrc.org/#!rid=W16346\">Phyugs glud gtong thabs khyer bde sogs</a></li> </ul>"}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "Ransom Ritual for Livestock"
+  }, 
+  {
+   "body": "<ul> <li><a href=\"http://tbrc.org/#!rid=W16346\">Phyugs glud gtong thabs khyer bde sogs</a></li> </ul>
+", 
+   "index": 1, 
+   "parent_index": 0, 
+   "title": "Example Texts"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "José I. Cabezón", 
+    "id": "7"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "1833", 
+  "dates": [], 
+  "title": "Ransom Ritual for Livestock"
+ }
+}

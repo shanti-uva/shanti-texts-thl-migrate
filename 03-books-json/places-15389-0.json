@@ -1,1 +1,27 @@
-{"meta":{"domain":"places","kid":"15389","authors":[{"fullname":"David Germano","id":"42"},{"fullname":"David Germano","id":"42"}],"title":"","dates":{"created_at":"2009-06-11 21:15:41 UTC","updated_at":"2009-06-11 21:15:41 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>The modern Tibetan diaspora mostly stems from\u00a0 the latter half of the twentieth century when China took over most areas of cultural Tibet. The largest communities are in India and Nepal, but smaller communities have also developed across the world, including in Europe and the United States. These groups have developed their own distinctive linguistic practices and cultural identities.<\/p>","title":""}]}
+{
+ "nodes": [
+  {
+   "body": "<p>The modern Tibetan diaspora mostly stems from  the latter half of the twentieth century when China took over most areas of cultural Tibet. The largest communities are in India and Nepal, but smaller communities have also developed across the world, including in Europe and the United States. These groups have developed their own distinctive linguistic practices and cultural identities.</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "David Germano", 
+    "id": "42"
+   }, 
+   {
+    "fullname": "David Germano", 
+    "id": "42"
+   }
+  ], 
+  "domain": "places", 
+  "kid": "15389", 
+  "dates": [], 
+  "title": null
+ }
+}

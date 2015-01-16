@@ -1,1 +1,41 @@
-{"meta":{"domain":"places","kid":"23535","authors":[{"fullname":"\u0f5a\u0f7a\u0f0b\u0f62\u0f72\u0f44\u0f0b\u0f50\u0f62\u0f0d (Tsering Thar)","id":"80"},{"fullname":"\u0f5a\u0f7a\u0f0b\u0f62\u0f72\u0f44\u0f0b\u0f50\u0f62\u0f0d (Tsering Thar)","id":"80"}],"title":"Drokr\u00fc P\u00f6ntsang Introduction","dates":{"created_at":"2011-12-13 02:29:48 UTC","updated_at":"2011-12-13 02:29:48 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Drokr\u00fc P\u00f6ntsang Introduction"},{"title":"Bonpo temples in sTong che","index":1,"parent_index":0},{"title":"(129) \u2019Brog ru\u2019i dPon tshang Tent Temple","index":2,"parent_index":1,"body":"<p>sTong che is a long valley of Khri ka County. There are a lot of tribes in the valley and they were originally nomads. In the past, these tribes were grouped into two parts. Some of them who remain in the valley became farmers, other who still have kept animals are of course nomads. The latter moved to Mu ge thang pasture, about two hundred km west of sTong che valley, and it is administratively belongs to Guinan County instead of Khri ka today. In local dialect, the two communities are referred to as <span xmlns:str=\"http:\/\/exslt.org\/strings\" style=\"font-style: italic;\" class=\"\">ru yul \u2019brog<\/span>, \u2018nomads and farmers.\u2019<\/p><p>dPon tshang is the family of the chieftain of the community in the valley. The family also has a nomadic part with the same name on Mu ge thang pasture. Its Tent Temple, called \u2019Brog ru\u2019i dPon tshang Tshogs ras, is usually kept in Mu ge thang. <\/p><p>The Tent Temple of \u2019Brog ru\u2019i dpon tshang and that of Bon brgya are the two largest ones in Amdo. Unfortunately I have not been able get any information regarding the history of the Tent Temple of Brog ru\u2019i dPon tshang and the dates of its annual rituals, because the people were scattered all over the place in their pasture land when I undertook fieldwork and celebration of their rituals did not coincide with my visit to this place.<\/p>"}]}
+{
+ "nodes": [
+  {
+   "body": "", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "Drokrü Pöntsang Introduction"
+  }, 
+  {
+   "body": "", 
+   "index": 1, 
+   "parent_index": 0, 
+   "title": "Bonpo temples in sTong che"
+  }, 
+  {
+   "body": "<p>sTong che is a long valley of Khri ka County. There are a lot of tribes in the valley and they were originally nomads. In the past, these tribes were grouped into two parts. Some of them who remain in the valley became farmers, other who still have kept animals are of course nomads. The latter moved to Mu ge thang pasture, about two hundred km west of sTong che valley, and it is administratively belongs to Guinan County instead of Khri ka today. In local dialect, the two communities are referred to as <span xmlns:str=\"http://exslt.org/strings\" style=\"font-style: italic;\" class=\"\">ru yul ’brog</span>, ‘nomads and farmers.’</p>
+<p>dPon tshang is the family of the chieftain of the community in the valley. The family also has a nomadic part with the same name on Mu ge thang pasture. Its Tent Temple, called ’Brog ru’i dPon tshang Tshogs ras, is usually kept in Mu ge thang. </p>
+<p>The Tent Temple of ’Brog ru’i dpon tshang and that of Bon brgya are the two largest ones in Amdo. Unfortunately I have not been able get any information regarding the history of the Tent Temple of Brog ru’i dPon tshang and the dates of its annual rituals, because the people were scattered all over the place in their pasture land when I undertook fieldwork and celebration of their rituals did not coincide with my visit to this place.</p>
+", 
+   "index": 2, 
+   "parent_index": 1, 
+   "title": "(129) ’Brog ru’i dPon tshang Tent Temple"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "ཚེ་རིང་ཐར། (Tsering Thar)", 
+    "id": "80"
+   }, 
+   {
+    "fullname": "ཚེ་རིང་ཐར། (Tsering Thar)", 
+    "id": "80"
+   }
+  ], 
+  "domain": "places", 
+  "kid": "23535", 
+  "dates": [], 
+  "title": "Drokrü Pöntsang Introduction"
+ }
+}

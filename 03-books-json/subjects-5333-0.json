@@ -1,5 +1,25 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"5333","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:55 UTC","updated_at":"2013-09-15 04:15:55 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">Modern Tibetan has produced a large number of neologisms to translate scientific or technical terms. Dictionaries of university-level mathematics, physics, and chemistry, as well as a large number of popular works, have also been published. Unfortunately, since these books are not very widely distributed, the majority of Tibetans use loanwords (from Chinese or English) according to where they live.<\/p><p class=\"Paragraph\">In the case of certain neologisms, it may happen that there are three different terms for the same object: one Literary Tibetan term and two in the spoken language. Of the latter, one is likely to be a Chinese loanword used in the TAR or the Tibetan-speaking Chinese provinces, and the other an English loan used in the diaspora.<\/p><p class=\"Paragraph\">We see this in the case of <span class=\"tibetan\" title=\"Type ID here\">\u0f66\u0fa6\u0fb2\u0f42\u0f0b\u0f62\u0f9f\u0f42\u0f66\u0f0b<\/span> \u201cstamp\u201d (literary), which is also denoted by the words <span class=\"tibetan\" title=\"Type ID here\">\u0f4f\u0f72\u0f0b\u0f40\u0f0b\u0f66\u0f72\u0f0b<\/span> (from English) and <span class=\"tibetan\" title=\"Type ID here\">\u0f61\u0f7c\u0f60\u0f7c\u0f0b\u0f55\u0f72\u0f60\u0f7c\u0f0b<\/span> (from Chinese). Similarly, <span class=\"tibetan\" title=\"Type ID here\">\u0f66\u0fa4\u0fb1\u0f72\u0f0b\u0f66\u0fa4\u0fb1\u0f7c\u0f51\u0f0b\u0f62\u0fb3\u0f44\u0f66\u0f0b\u0f60\u0f41\u0f7c\u0f62\u0f0b<\/span> \u201cbus\u201d (literary) is also called <span class=\"tibetan\" title=\"Type ID here\">\u0f40\u0f74\u0f44\u0f0b\u0f40\u0f74\u0f44\u0f0b\u0f46\u0f72\u0f60\u0f72\u0f0b\u0f41\u0fb2\u0f7a\u0f0b<\/span> (Chinese) and <span class=\"tibetan\" title=\"Type ID here\">\u0f60\u0f56\u0f60\u0f0b\u0f66\u0f7a\u0f0b<\/span> (English).<\/p>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"5333","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:55 UTC","updated_at":"2013-09-15 04:15:55 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">Modern Tibetan has produced a large number of neologisms to translate scientific or technical terms. Dictionaries of university-level mathematics, physics, and chemistry, as well as a large number of popular works, have also been published. Unfortunately, since these books are not very widely distributed, the majority of Tibetans use loanwords (from Chinese or English) according to where they live.</p> <p class=\"Paragraph\">In the case of certain neologisms, it may happen that there are three different terms for the same object: one Literary Tibetan term and two in the spoken language. Of the latter, one is likely to be a Chinese loanword used in the TAR or the Tibetan-speaking Chinese provinces, and the other an English loan used in the diaspora.</p> <p class=\"Paragraph\">We see this in the case of <span class=\"tibetan\" title=\"Type ID here\">སྦྲག་རྟགས་</span> “stamp” (literary), which is also denoted by the words <span class=\"tibetan\" title=\"Type ID here\">ཏི་ཀ་སི་</span> (from English) and <span class=\"tibetan\" title=\"Type ID here\">ཡོའོ་ཕིའོ་</span> (from Chinese). Similarly, <span class=\"tibetan\" title=\"Type ID here\">སྤྱི་སྤྱོད་རླངས་འཁོར་</span> “bus” (literary) is also called <span class=\"tibetan\" title=\"Type ID here\">ཀུང་ཀུང་ཆིའི་ཁྲེ་</span> (Chinese) and <span class=\"tibetan\" title=\"Type ID here\">འབའ་སེ་</span> (English).</p>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p class=\"Paragraph\">Modern Tibetan has produced a large number of neologisms to translate scientific or technical terms. Dictionaries of university-level mathematics, physics, and chemistry, as well as a large number of popular works, have also been published. Unfortunately, since these books are not very widely distributed, the majority of Tibetans use loanwords (from Chinese or English) according to where they live.</p>
+<p class=\"Paragraph\">In the case of certain neologisms, it may happen that there are three different terms for the same object: one Literary Tibetan term and two in the spoken language. Of the latter, one is likely to be a Chinese loanword used in the TAR or the Tibetan-speaking Chinese provinces, and the other an English loan used in the diaspora.</p>
+<p class=\"Paragraph\">We see this in the case of <span class=\"tibetan\" title=\"Type ID here\">སྦྲག་རྟགས་</span> “stamp” (literary), which is also denoted by the words <span class=\"tibetan\" title=\"Type ID here\">ཏི་ཀ་སི་</span> (from English) and <span class=\"tibetan\" title=\"Type ID here\">ཡོའོ་ཕིའོ་</span> (from Chinese). Similarly, <span class=\"tibetan\" title=\"Type ID here\">སྤྱི་སྤྱོད་རླངས་འཁོར་</span> “bus” (literary) is also called <span class=\"tibetan\" title=\"Type ID here\">ཀུང་ཀུང་ཆིའི་ཁྲེ་</span> (Chinese) and <span class=\"tibetan\" title=\"Type ID here\">འབའ་སེ་</span> (English).</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Nicolas Tournadre", 
+    "id": "6"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "5333", 
+  "dates": [], 
+  "title": null
+ }
+}

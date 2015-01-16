@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"5338","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:55 UTC","updated_at":"2013-09-15 04:15:55 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<ul> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f51\u0f74\u0f66\u0f0b\u0f66\u0f90\u0f56\u0f66\u0f0b<\/span> \u201cPeriod\u201d (time-moment)<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f63\u0f74\u0f42\u0f66\u0f0b\u0f66\u0fb2\u0f7c\u0f63\u0f0b<\/span> \u201cTradition\u201d (tradition-custom)<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f62\u0f7a\u0f0b\u0f60\u0f51\u0f74\u0f53\u0f0b<\/span> \u201cHope\u201d (hope-wish)<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f42\u0fb3\u0f74\u0f0b\u0f42\u0f5e\u0f66\u0f0b<\/span> \u201cSong\u201d (song-song)<\/li> <\/ul>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"5338","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:55 UTC","updated_at":"2013-09-15 04:15:55 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<ul> <li><span class=\"tibetan\" title=\"Type ID here\">དུས་སྐབས་</span> “Period” (time-moment)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ལུགས་སྲོལ་</span> “Tradition” (tradition-custom)</li> <li><span class=\"tibetan\" title=\"Type ID here\">རེ་འདུན་</span> “Hope” (hope-wish)</li> <li><span class=\"tibetan\" title=\"Type ID here\">གླུ་གཞས་</span> “Song” (song-song)</li> </ul>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<ul> <li><span class=\"tibetan\" title=\"Type ID here\">དུས་སྐབས་</span> “Period” (time-moment)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ལུགས་སྲོལ་</span> “Tradition” (tradition-custom)</li> <li><span class=\"tibetan\" title=\"Type ID here\">རེ་འདུན་</span> “Hope” (hope-wish)</li> <li><span class=\"tibetan\" title=\"Type ID here\">གླུ་གཞས་</span> “Song” (song-song)</li> </ul>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Nicolas Tournadre", 
+    "id": "6"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "5338", 
+  "dates": [], 
+  "title": null
+ }
+}

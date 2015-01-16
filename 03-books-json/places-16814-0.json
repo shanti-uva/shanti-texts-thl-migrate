@@ -1,1 +1,93 @@
-{"meta":{"domain":"places","kid":"16814","authors":[],"title":"Ned\u00e9 Introduction","dates":{"created_at":"2010-08-25 11:13:16 UTC","updated_at":"2010-08-25 11:13:16 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Ned\u00e9 Introduction"},{"title":"II.2. Superficial structures: Primarily funerary superstructure","index":1,"parent_index":0},{"title":null,"index":2,"parent_index":1},{"title":"Basic site data","index":3,"parent_index":2,"body":"<ul class=\"bullet-blue\"> <li>Site name: <span class=\"popular\">Ned\u00e9<\/span><span class=\"scholar\">Gnas sde<\/span> <\/li> <li>English equivalent: Holy District<\/li> <li>Site number: D-101 <\/li> <li>Site typology: II.2e <\/li> <li>Geographic coordinate (N. lat.): 30\u00ba 34.5\u0384 <\/li> <li>Geographic coordinate (E. long.): 91\u00ba 10.1\u0384 <\/li> <li>Elevation: 4400 m <\/li> <li>Administrative location (township): <span class=\"popular\">Damzhung<\/span><span class=\"scholar\">\u2019Dam gzhung<\/span> <\/li> <li>Administrative location (county): <span class=\"popular\">Damzhung<\/span><span class=\"scholar\">\u2019Dam gzhung<\/span> <\/li> <li>Survey expedition: HTWE<\/li> <li>Survey date: May 5, 2004<\/li> <li>Contemporary usage: Light grazing. <\/li> <li>Identifiable Buddhist constructions: None. <\/li> <\/ul>"},{"title":"General site characteristics","index":4,"parent_index":2,"body":"<p> <span class=\"popular\">Ned\u00e9<\/span><span class=\"scholar\">Gnas sde<\/span> is located on a ridge, rising up on the east side of the <span class=\"popular\">Trechu<\/span><span class=\"scholar\">Khre chu<\/span>. On the ridgeline there are at least five small terraced tombs with a southern aspect. These structures exhibit the same design and construction characteristics as the smaller terraced funerary structures of the far eastern <span class=\"popular\">Jangtang<\/span><span class=\"scholar\">Byang thang<\/span>. This, in itself, suggests that there were close cultural links between these regions. The terraced structures of <span class=\"popular\">Ned\u00e9<\/span><span class=\"scholar\">Gnas sde<\/span> are probably all tombs, as demonstrated by the recent excavation of funerary structure FS4 by local residents. <\/p>"},{"title":"Oral tradition","index":5,"parent_index":2,"body":"<p>According to local sources, <span class=\"popular\">Ned\u00e9<\/span><span class=\"scholar\">Gnas sde<\/span> is an ancient burial ground.<\/p>"},{"title":"Site elements","index":6,"parent_index":2,"body":"<p>Funerary structures FS1 to FS4 form a single line of structures on the edge of the hillside (4400 m). They are all situated at the same elevation. The uphill flanks of these structures are flush with the slope while their downhill flanks are elevated around 1 m above the slope.<\/p>"},{"title":"Funerary Structure FS1","index":7,"parent_index":6,"body":"<p>Funerary structure FS1 (7 m x 4.5 m) has a top fully bounded by masonry that exhibits no particular design pattern (30\u00b0 34.485\u0384 N. lat. \/ 91\u00b0 10.148\u0384 E. long.).<\/p>"},{"title":"Funerary Structure FS2","index":8,"parent_index":6,"body":"<p>Funerary structure FS2 (5.5 m x 7 m) also has a verge lined in masonry of no particular design (34.483\u0384 \/ 90.149\u0384). The stones appear to have been laid in a haphazard fashion.<\/p>"},{"title":"Funerary Structure FS3","index":9,"parent_index":6,"body":"<p>Funerary structure FS3 (3.6 m x 4) has a verge partially lined with stones (34,483\u0384 \/ 10.154\u0384).<\/p>"},{"title":"Funerary Structure FS4","index":10,"parent_index":6,"body":"<p>In recent years, funerary structure FS4 has been excavated to a depth of 1 m by local residents in their quest for valuable artifacts and building materials (stones are used to build corrals and other structures.) (34.477\u0384 \/ 10.161\u0384). This excavation penetrated to the bottom of the structure. The stones were hauled away by truck as evidenced by deep tire tracks that still scar the hillside. It is reported that human bones and ceramic shards were found inside FS4. No traces of these objects remain visible at the site. Many stones (up to 80 cm long) were left in a pile beside where FS4 once stood. It appears from local testimonies, that the subsurface architecture of FS4 consisted of a stone-lined burial chamber. This rock laden structure contrasts with the adjoining slopes, which are free of stones. <\/p>"},{"title":"Funerary Structure FS5","index":11,"parent_index":6,"body":"<p>Funerary structure FS5 is situated approximately 5 m below the FS1 to FS4 line of tombs (30.476\u0384 \/ 10.139\u0384). Only some of the stones forming its verge are still in situ. FS5 is level with the uphill slope and elevated about 1 m above the downhill slope. It is quite possible that there is another terraced funerary structure next o FS5 but it has been totally engulfed by <span class=\"popular emph\">drama<\/span><span class=\"scholar emph\">gra ma<\/span> brush (34.475\u0384 \/ 10.150\u0384). <\/p><p>There is another possible funerary mound on the same ridgeline, but it is too degraded to positively identify hrough visual means (34.334\u0384 \/ 10.246\u0384 \/ 4370 m). <\/p>"}]}
+{
+ "nodes": [
+  {
+   "body": "", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "Nedé Introduction"
+  }, 
+  {
+   "body": "", 
+   "index": 1, 
+   "parent_index": 0, 
+   "title": "II.2. Superficial structures: Primarily funerary superstructure"
+  }, 
+  {
+   "body": "", 
+   "index": 2, 
+   "parent_index": 1, 
+   "title": " NedéGnas sde "
+  }, 
+  {
+   "body": "<ul class=\"bullet-blue\"> <li>Site name: <span class=\"popular\">Nedé</span><span class=\"scholar\">Gnas sde</span> </li> <li>English equivalent: Holy District</li> <li>Site number: D-101 </li> <li>Site typology: II.2e </li> <li>Geographic coordinate (N. lat.): 30º 34.5΄ </li> <li>Geographic coordinate (E. long.): 91º 10.1΄ </li> <li>Elevation: 4400 m </li> <li>Administrative location (township): <span class=\"popular\">Damzhung</span><span class=\"scholar\">’Dam gzhung</span> </li> <li>Administrative location (county): <span class=\"popular\">Damzhung</span><span class=\"scholar\">’Dam gzhung</span> </li> <li>Survey expedition: HTWE</li> <li>Survey date: May 5, 2004</li> <li>Contemporary usage: Light grazing. </li> <li>Identifiable Buddhist constructions: None. </li> </ul>
+", 
+   "index": 3, 
+   "parent_index": 2, 
+   "title": "Basic site data"
+  }, 
+  {
+   "body": "<p> <span class=\"popular\">Nedé</span><span class=\"scholar\">Gnas sde</span> is located on a ridge, rising up on the east side of the <span class=\"popular\">Trechu</span><span class=\"scholar\">Khre chu</span>. On the ridgeline there are at least five small terraced tombs with a southern aspect. These structures exhibit the same design and construction characteristics as the smaller terraced funerary structures of the far eastern <span class=\"popular\">Jangtang</span><span class=\"scholar\">Byang thang</span>. This, in itself, suggests that there were close cultural links between these regions. The terraced structures of <span class=\"popular\">Nedé</span><span class=\"scholar\">Gnas sde</span> are probably all tombs, as demonstrated by the recent excavation of funerary structure FS4 by local residents. </p>
+", 
+   "index": 4, 
+   "parent_index": 2, 
+   "title": "General site characteristics"
+  }, 
+  {
+   "body": "<p>According to local sources, <span class=\"popular\">Nedé</span><span class=\"scholar\">Gnas sde</span> is an ancient burial ground.</p>
+", 
+   "index": 5, 
+   "parent_index": 2, 
+   "title": "Oral tradition"
+  }, 
+  {
+   "body": "<p>Funerary structures FS1 to FS4 form a single line of structures on the edge of the hillside (4400 m). They are all situated at the same elevation. The uphill flanks of these structures are flush with the slope while their downhill flanks are elevated around 1 m above the slope.</p>
+", 
+   "index": 6, 
+   "parent_index": 2, 
+   "title": "Site elements"
+  }, 
+  {
+   "body": "<p>Funerary structure FS1 (7 m x 4.5 m) has a top fully bounded by masonry that exhibits no particular design pattern (30° 34.485΄ N. lat. / 91° 10.148΄ E. long.).</p>
+", 
+   "index": 7, 
+   "parent_index": 6, 
+   "title": "Funerary Structure FS1"
+  }, 
+  {
+   "body": "<p>Funerary structure FS2 (5.5 m x 7 m) also has a verge lined in masonry of no particular design (34.483΄ / 90.149΄). The stones appear to have been laid in a haphazard fashion.</p>
+", 
+   "index": 8, 
+   "parent_index": 6, 
+   "title": "Funerary Structure FS2"
+  }, 
+  {
+   "body": "<p>Funerary structure FS3 (3.6 m x 4) has a verge partially lined with stones (34,483΄ / 10.154΄).</p>
+", 
+   "index": 9, 
+   "parent_index": 6, 
+   "title": "Funerary Structure FS3"
+  }, 
+  {
+   "body": "<p>In recent years, funerary structure FS4 has been excavated to a depth of 1 m by local residents in their quest for valuable artifacts and building materials (stones are used to build corrals and other structures.) (34.477΄ / 10.161΄). This excavation penetrated to the bottom of the structure. The stones were hauled away by truck as evidenced by deep tire tracks that still scar the hillside. It is reported that human bones and ceramic shards were found inside FS4. No traces of these objects remain visible at the site. Many stones (up to 80 cm long) were left in a pile beside where FS4 once stood. It appears from local testimonies, that the subsurface architecture of FS4 consisted of a stone-lined burial chamber. This rock laden structure contrasts with the adjoining slopes, which are free of stones. </p>
+", 
+   "index": 10, 
+   "parent_index": 6, 
+   "title": "Funerary Structure FS4"
+  }, 
+  {
+   "body": "<p>Funerary structure FS5 is situated approximately 5 m below the FS1 to FS4 line of tombs (30.476΄ / 10.139΄). Only some of the stones forming its verge are still in situ. FS5 is level with the uphill slope and elevated about 1 m above the downhill slope. It is quite possible that there is another terraced funerary structure next o FS5 but it has been totally engulfed by <span class=\"popular emph\">drama</span><span class=\"scholar emph\">gra ma</span> brush (34.475΄ / 10.150΄). </p>
+<p>There is another possible funerary mound on the same ridgeline, but it is too degraded to positively identify hrough visual means (34.334΄ / 10.246΄ / 4370 m). </p>
+", 
+   "index": 11, 
+   "parent_index": 6, 
+   "title": "Funerary Structure FS5"
+  }
+ ], 
+ "meta": {
+  "authors": [], 
+  "domain": "places", 
+  "kid": "16814", 
+  "dates": [], 
+  "title": "Nedé Introduction"
+ }
+}

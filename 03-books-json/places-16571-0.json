@@ -1,1 +1,50 @@
-{"meta":{"domain":"places","kid":"16571","authors":[],"title":"Dziden Chungwa Introduction","dates":{"created_at":"2010-08-11 20:46:22 UTC","updated_at":"2010-08-12 16:53:51 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Dziden Chungwa Introduction"},{"title":"I.1. Residential Structures Occupying Summits: Fortresses, breastworks, religious buildings, palaces, and related edifices","index":1,"parent_index":0},{"title":"Dziden ChungbaBrdzi gdan chung ba","index":2,"parent_index":1},{"title":"Basic site data","index":3,"parent_index":2,"body":"<ul class=\"bullet-blue\"> <li>Site name: <span class=\"popular\">Dziden Chungba<\/span><span class=\"scholar\">Brdzi gdan chung ba<\/span> <\/li> <li>English equivalent: Lesser Scent Block<\/li> <li>Site number: A-137<\/li> <li>Site typology: I.1c <\/li> <li>Geographic coordinate (N. lat.): 32\u00ba 24.4\u0384 <\/li> <li>Geographic coordinate (E. long.): 80\u00ba 44.0\u0384 <\/li> <li>Elevation: 4880 m<\/li> <li>Administrative location (township): <span class=\"popular\">G\u00f6tsang M\u00e9<\/span><span class=\"scholar\">Rgod tshang smad<\/span> <\/li> <li>Administrative location (county): <span class=\"popular\">Gar<\/span><span class=\"scholar\">Sgar<\/span> <\/li> <li>Survey expedition: THE<\/li> <li>Survey date: May 25, 2006<\/li> <li>Contemporary usage: None.<\/li> <li>Identifiable Buddhist constructions: None. <\/li> <\/ul>"},{"title":"General site characteristics","index":4,"parent_index":2,"body":"<p>The minor fortifications of <span class=\"popular\">Dziden Chungba<\/span><span class=\"scholar\">Brdzi gdan chung ba<\/span> are found on a pyramidal limestone mount that divides the upper <span class=\"popular\">Dziden<\/span><span class=\"scholar\">Brdzi gdan<\/span> valley into two branches. This hidden location appears to have been constructed as a defensive refuge against attacks emanating from the valley below. <span class=\"popular\">Dziden Chungba<\/span><span class=\"scholar\">Brdzi gdan chung ba<\/span>, a place only of local importance, could only have accommodated a relatively small number of personnel. The core of the site consists of three highly dissolute wall fragments. Built at the base of crags, these walls extend for 30 m along the top of a small saddle. They appear to have been a frontline defensive feature for those stationed in the crags above. The random-work dry-mortar walls are constructed from uncut chunks of variable-length light-colored limestone. All that remains of the west wall is a small fragment (2 m long, 1.5 m high, 1 m thick). The central wall is 7.5 m long, around 50 cm high and 1.1 m wide. The east wall fragment (4 m long) is highly deteriorated. Above this series of three walls there are tiny races of other defensive walls in the crags. They reach a maximum height of 80 cm. On the north side of the saddle at the base of the crags there is what appears to be the foundation of a small defensive feature (1.5 m x 1.2). It is situated about 20 m higher than the three main walls. <\/p>"},{"title":"Oral tradition","index":5,"parent_index":2,"body":"<p>Local residents call <span class=\"popular\">Dziden Chungba<\/span><span class=\"scholar\">Brdzi gdan chung ba<\/span> an ancient <span class=\"popular\">M\u00f6n<\/span><span class=\"scholar\">Mon<\/span> installation. <\/p>"}]}
+{
+ "nodes": [
+  {
+   "body": "", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "Dziden Chungwa Introduction"
+  }, 
+  {
+   "body": "", 
+   "index": 1, 
+   "parent_index": 0, 
+   "title": "I.1. Residential Structures Occupying Summits: Fortresses, breastworks, religious buildings, palaces, and related edifices"
+  }, 
+  {
+   "body": "", 
+   "index": 2, 
+   "parent_index": 1, 
+   "title": " Dziden ChungbaBrdzi gdan chung ba "
+  }, 
+  {
+   "body": "<ul class=\"bullet-blue\"> <li>Site name: <span class=\"popular\">Dziden Chungba</span><span class=\"scholar\">Brdzi gdan chung ba</span> </li> <li>English equivalent: Lesser Scent Block</li> <li>Site number: A-137</li> <li>Site typology: I.1c </li> <li>Geographic coordinate (N. lat.): 32º 24.4΄ </li> <li>Geographic coordinate (E. long.): 80º 44.0΄ </li> <li>Elevation: 4880 m</li> <li>Administrative location (township): <span class=\"popular\">Götsang Mé</span><span class=\"scholar\">Rgod tshang smad</span> </li> <li>Administrative location (county): <span class=\"popular\">Gar</span><span class=\"scholar\">Sgar</span> </li> <li>Survey expedition: THE</li> <li>Survey date: May 25, 2006</li> <li>Contemporary usage: None.</li> <li>Identifiable Buddhist constructions: None. </li> </ul>
+", 
+   "index": 3, 
+   "parent_index": 2, 
+   "title": "Basic site data"
+  }, 
+  {
+   "body": "<p>The minor fortifications of <span class=\"popular\">Dziden Chungba</span><span class=\"scholar\">Brdzi gdan chung ba</span> are found on a pyramidal limestone mount that divides the upper <span class=\"popular\">Dziden</span><span class=\"scholar\">Brdzi gdan</span> valley into two branches. This hidden location appears to have been constructed as a defensive refuge against attacks emanating from the valley below. <span class=\"popular\">Dziden Chungba</span><span class=\"scholar\">Brdzi gdan chung ba</span>, a place only of local importance, could only have accommodated a relatively small number of personnel. The core of the site consists of three highly dissolute wall fragments. Built at the base of crags, these walls extend for 30 m along the top of a small saddle. They appear to have been a frontline defensive feature for those stationed in the crags above. The random-work dry-mortar walls are constructed from uncut chunks of variable-length light-colored limestone. All that remains of the west wall is a small fragment (2 m long, 1.5 m high, 1 m thick). The central wall is 7.5 m long, around 50 cm high and 1.1 m wide. The east wall fragment (4 m long) is highly deteriorated. Above this series of three walls there are tiny races of other defensive walls in the crags. They reach a maximum height of 80 cm. On the north side of the saddle at the base of the crags there is what appears to be the foundation of a small defensive feature (1.5 m x 1.2). It is situated about 20 m higher than the three main walls. </p>
+", 
+   "index": 4, 
+   "parent_index": 2, 
+   "title": "General site characteristics"
+  }, 
+  {
+   "body": "<p>Local residents call <span class=\"popular\">Dziden Chungba</span><span class=\"scholar\">Brdzi gdan chung ba</span> an ancient <span class=\"popular\">Mön</span><span class=\"scholar\">Mon</span> installation. </p>
+", 
+   "index": 5, 
+   "parent_index": 2, 
+   "title": "Oral tradition"
+  }
+ ], 
+ "meta": {
+  "authors": [], 
+  "domain": "places", 
+  "kid": "16571", 
+  "dates": [], 
+  "title": "Dziden Chungwa Introduction"
+ }
+}

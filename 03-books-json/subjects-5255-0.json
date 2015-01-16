@@ -1,5 +1,24 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"5255","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:44 UTC","updated_at":"2013-09-15 04:15:44 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">In general, non-volitional verbs cannot take an imperative. However, the verb may be followed by the expression <span class=\"tibetan\" title=\"Type ID here\">\u0f54\u0f62\u0f0b\u0f56\u0fb1\u0f7a\u0f51\u0f0b<\/span> which means \u201cto see to it that.\u201d<\/p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f58\u0f0b\u0f56\u0f62\u0f97\u0f7a\u0f51\u0f0b\u0f54\u0f62\u0f0b\u0f56\u0fb1\u0f7a\u0f51\u0f0b\u0f68\u0f0d<\/span> \u201cDon\u2019t forget!\u201d (\u201cSee to it that you don\u2019t forget.\u201d)<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f66\u0fa4\u0f74\u0f0b\u0f42\u0f74\u0f0b\u0f58\u0f0b\u0f64\u0f7c\u0f62\u0f0b\u0f54\u0f62\u0f0b\u0f56\u0fb1\u0f7a\u0f51\u0f0b\u0f51\u0f0d<\/span> \u201cDon\u2019t lose the child!\u201d<\/li> <\/ul>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"5255","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:44 UTC","updated_at":"2013-09-15 04:15:44 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">In general, non-volitional verbs cannot take an imperative. However, the verb may be followed by the expression <span class=\"tibetan\" title=\"Type ID here\">པར་བྱེད་</span> which means “to see to it that.”</p> <ul> <li><span class=\"tibetan\" title=\"Type ID here\">མ་བརྗེད་པར་བྱེད་ཨ།</span> “Don’t forget!” (“See to it that you don’t forget.”)</li> <li><span class=\"tibetan\" title=\"Type ID here\">སྤུ་གུ་མ་ཤོར་པར་བྱེད་ད།</span> “Don’t lose the child!”</li> </ul>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p class=\"Paragraph\">In general, non-volitional verbs cannot take an imperative. However, the verb may be followed by the expression <span class=\"tibetan\" title=\"Type ID here\">པར་བྱེད་</span> which means “to see to it that.”</p>
+<ul> <li><span class=\"tibetan\" title=\"Type ID here\">མ་བརྗེད་པར་བྱེད་ཨ།</span> “Don’t forget!” (“See to it that you don’t forget.”)</li> <li><span class=\"tibetan\" title=\"Type ID here\">སྤུ་གུ་མ་ཤོར་པར་བྱེད་ད།</span> “Don’t lose the child!”</li> </ul>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Nicolas Tournadre", 
+    "id": "6"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "5255", 
+  "dates": [], 
+  "title": null
+ }
+}

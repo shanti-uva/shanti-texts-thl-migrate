@@ -1,5 +1,24 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"5096","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:22 UTC","updated_at":"2013-09-15 04:15:22 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">These mean \u201cto have had the opportunity to\u201d and \u201cto have been able to.\u201d The preceding verb must be in the present-future.<\/p><ul> <li><span class=\"tibetan\" title=\"\\\">\u0f41\u0f0b\u0f56\u0f4f\u0f42\u0f66\u0f0b\u0f55\u0f74\u0f63\u0f0b\u0f62\u0f92\u0fb1\u0f74\u0f0b(\u0f60\u0f56\u0f74\u0f63\u0f0b\u0f62\u0f92\u0fb1\u0f74\u0f0b)\u0f58\u0f0b\u0f56\u0fb1\u0f74\u0f44\u0f0b\u0f0d<\/span> \u201cI didn\u2019t get a chance to offer a <em>khatak<\/em>.\u201d<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f41\u0f7c\u0f44\u0f0b\u0f63\u0f0b\u0f51\u0f40\u0f60\u0f0b\u0f58\u0f7c\u0f63\u0f0b\u0f5e\u0f74\u0f0b\u0f62\u0f92\u0fb1\u0f74\u0f0b\u0f56\u0fb1\u0f74\u0f44\u0f0b\u0f66\u0f7c\u0f44\u0f0b\u0f44\u0f66\u0f0d<\/span> \u201cWas he able to talk to her?\u201d<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f63\u0f9f\u0f0b\u0f66\u0f90\u0f7c\u0f62\u0f0b\u0f56\u0fb1\u0f7a\u0f51\u0f0b\u0f61\u0f42\u0f0b\u0f56\u0fb1\u0f74\u0f44\u0f0b\u0f0d<\/span> \u201cI was able to do some sightseeing.\u201d<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f42\u0f53\u0f66\u0f0b\u0f58\u0f47\u0f63\u0f0b\u0f63\u0f0b\u0f60\u0f42\u0fb2\u0f7c\u0f0b\u0f62\u0f92\u0fb1\u0f74\u0f0b\u0f56\u0fb1\u0f74\u0f44\u0f0b\u0f44\u0f66\u0f0b\u0f0d<\/span> \u201cHave you been able to make a pilgrimage?\u201d<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f42\u0f49\u0f72\u0f51\u0f0b\u0f49\u0f63\u0f0b\u0f62\u0f92\u0fb1\u0f74\u0f0b\u0f58\u0f0b\u0f56\u0fb1\u0f74\u0f44\u0f0b\u0f0d<\/span> \u201cI was unable to go to sleep.\u201d<\/li> <\/ul>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"5096","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:22 UTC","updated_at":"2013-09-15 04:15:22 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">These mean “to have had the opportunity to” and “to have been able to.” The preceding verb must be in the present-future.</p> <ul> <li><span class=\"tibetan\" title=\"\\\">ཁ་བཏགས་ཕུལ་རྒྱུ་(འབུལ་རྒྱུ་)མ་བྱུང་།</span> “I didn’t get a chance to offer a <em>khatak</em>.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁོང་ལ་དཀའ་མོལ་ཞུ་རྒྱུ་བྱུང་སོང་ངས།</span> “Was he able to talk to her?”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ལྟ་སྐོར་བྱེད་ཡག་བྱུང་།</span> “I was able to do some sightseeing.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">གནས་མཇལ་ལ་འགྲོ་རྒྱུ་བྱུང་ངས་།</span> “Have you been able to make a pilgrimage?”</li> <li><span class=\"tibetan\" title=\"Type ID here\">གཉིད་ཉལ་རྒྱུ་མ་བྱུང་།</span> “I was unable to go to sleep.”</li> </ul>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p class=\"Paragraph\">These mean “to have had the opportunity to” and “to have been able to.” The preceding verb must be in the present-future.</p>
+<ul> <li><span class=\"tibetan\" title=\"\\">ཁ་བཏགས་ཕུལ་རྒྱུ་(འབུལ་རྒྱུ་)མ་བྱུང་།</span> “I didn’t get a chance to offer a <em>khatak</em>.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁོང་ལ་དཀའ་མོལ་ཞུ་རྒྱུ་བྱུང་སོང་ངས།</span> “Was he able to talk to her?”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ལྟ་སྐོར་བྱེད་ཡག་བྱུང་།</span> “I was able to do some sightseeing.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">གནས་མཇལ་ལ་འགྲོ་རྒྱུ་བྱུང་ངས་།</span> “Have you been able to make a pilgrimage?”</li> <li><span class=\"tibetan\" title=\"Type ID here\">གཉིད་ཉལ་རྒྱུ་མ་བྱུང་།</span> “I was unable to go to sleep.”</li> </ul>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Nicolas Tournadre", 
+    "id": "6"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "5096", 
+  "dates": [], 
+  "title": null
+ }
+}

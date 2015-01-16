@@ -1,1 +1,130 @@
-{"meta":{"domain":"places","kid":"23408","authors":[{"fullname":"Dondrup Lhagyal","id":"78"},{"fullname":"Dondrup Lhagyal","id":"78"}],"title":"Pelri Kh\u00fcyangwen Dechen Gang Introduction","dates":{"created_at":"2011-12-13 02:28:49 UTC","updated_at":"2011-12-13 02:28:49 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Pelri Kh\u00fcyangwen Dechen Gang Introduction"},{"title":"Bonpo monasteries and temples in Central Tibet","index":1,"parent_index":0},{"title":"(5) bDe chen sgang Hermitage","index":2,"parent_index":1},{"title":"1. Name of the hermitage","index":3,"parent_index":2,"body":"<p>dPal ri khud yang dben bde chen sgang <\/p>"},{"title":"2. Location","index":4,"parent_index":2,"body":"<p>After driving 480 kilometres from Shigatse, one reaches Mount Mu la, whence a further drive of thirty kilometres takes one to La phu village. The hermitage is located near the village. Travellers on foot usually stay one night in Tingri, then reach the hermitage early the next day.<\/p>"},{"title":"3. History","index":5,"parent_index":2,"body":"<p>bDe chen sgang was originally a hermitage established by the recluse sPa ston dPal mchog (b.1040) of the sacred Bonpo family known as sPa, whose seat was found in La phug village. Later, the hermitage was extended into a monastery by sPa dPal ldan bzang po and then became an important centre of learning for Bonpo followers in Western Tibet. The monastery produced several monk-scholars: for example, Tre ston rGyal mtshan dpal who had compiled a type of encyclopedia, in the monastery, of Bon and Buddhist doctrines, entitled Bon <span xmlns:str=\"http:\/\/exslt.org\/strings\" style=\"font-style: italic;\" class=\"\">sgo gsal byed<\/span> and the well-known historian, sPa bsTan rgyal bzang po, who wrote several works in the same place in the 15th century. Later, a branch of the sPa family migrated to Ye tha, in the Hor region, northern Tibet, where it became prosperous, and as a result the monastery at La phug declined and became once again a hermitage. It is still a small hermitage where a few married religious practitioners (<span xmlns:str=\"http:\/\/exslt.org\/strings\" style=\"font-style: italic;\" class=\"\">ser khyim<\/span>) reside.<\/p>"},{"title":"4. Headship of the hermitage","index":6,"parent_index":2,"body":"<p>The hermitage has no one leading it.<\/p>"},{"title":"5. Current number of residents","index":7,"parent_index":2,"body":"<p>One monk and four <span xmlns:str=\"http:\/\/exslt.org\/strings\" style=\"font-style: italic;\" class=\"\">ser khyim<\/span> <\/p>"},{"title":"6. Current education","index":8,"parent_index":2,"body":"<p>The only monk has gone to study in gYung drung gling Monastery (No.2). He is expected to return and teach other people.<\/p>"},{"title":"8. Daily rituals","index":9,"parent_index":2,"body":"<p>These consist of performing frequent religious services dedicated to the tutelary and protective deities in the <span xmlns:str=\"http:\/\/exslt.org\/strings\" style=\"font-style: italic;\" class=\"\">sgrub khang<\/span> sanctuary.<\/p>"},{"title":"9. Annual rituals","index":10,"parent_index":2,"body":"<p>The hermitage cannot afford to hold any religious assemblies and is not expected to do so.<\/p><p>Apart from going out to recite scriptures and prayers, the <span xmlns:str=\"http:\/\/exslt.org\/strings\" style=\"font-style: italic;\" class=\"\">ser khyim<\/span> live with their families most of the time.<\/p>"},{"title":"10. Books held in the hermitage","index":11,"parent_index":2,"body":"<p>There is a set of the <em xmlns:str=\"http:\/\/exslt.org\/strings\">bKa\u2019 \u2019gyur <\/em>published by Ayung Lama and sKal bzang phun tshogs in Chengdu, 1985-87.<\/p>"},{"title":"11. Income and expenses","index":12,"parent_index":2,"body":"<p>The meagre income of the hermitage is used for its renovation.<\/p>"},{"title":"12. Local community","index":13,"parent_index":2,"body":"<p>The local village is called La phug, where followers of Bon and Buddhism live together.<\/p>"},{"title":"13. Local festivals","index":14,"parent_index":2,"body":"<p>The villagers propitiate local deities and erect propitiatory flags on the mountain behind the hermitage on the 3rd day of the first month and the 14th of the fifth month.<\/p>"},{"title":"14. Occupation of the local people","index":15,"parent_index":2,"body":"<p>A semi-agricultural and semi-nomad settlement.<\/p>"}]}
+{
+ "nodes": [
+  {
+   "body": "", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "Pelri Khüyangwen Dechen Gang Introduction"
+  }, 
+  {
+   "body": "", 
+   "index": 1, 
+   "parent_index": 0, 
+   "title": "Bonpo monasteries and temples in Central Tibet "
+  }, 
+  {
+   "body": "", 
+   "index": 2, 
+   "parent_index": 1, 
+   "title": "(5) bDe chen sgang Hermitage"
+  }, 
+  {
+   "body": "<p>dPal ri khud yang dben bde chen sgang </p>
+", 
+   "index": 3, 
+   "parent_index": 2, 
+   "title": "1. Name of the hermitage"
+  }, 
+  {
+   "body": "<p>After driving 480 kilometres from Shigatse, one reaches Mount Mu la, whence a further drive of thirty kilometres takes one to La phu village. The hermitage is located near the village. Travellers on foot usually stay one night in Tingri, then reach the hermitage early the next day.</p>
+", 
+   "index": 4, 
+   "parent_index": 2, 
+   "title": "2. Location "
+  }, 
+  {
+   "body": "<p>bDe chen sgang was originally a hermitage established by the recluse sPa ston dPal mchog (b.1040) of the sacred Bonpo family known as sPa, whose seat was found in La phug village. Later, the hermitage was extended into a monastery by sPa dPal ldan bzang po and then became an important centre of learning for Bonpo followers in Western Tibet. The monastery produced several monk-scholars: for example, Tre ston rGyal mtshan dpal who had compiled a type of encyclopedia, in the monastery, of Bon and Buddhist doctrines, entitled Bon <span xmlns:str=\"http://exslt.org/strings\" style=\"font-style: italic;\" class=\"\">sgo gsal byed</span> and the well-known historian, sPa bsTan rgyal bzang po, who wrote several works in the same place in the 15th century. Later, a branch of the sPa family migrated to Ye tha, in the Hor region, northern Tibet, where it became prosperous, and as a result the monastery at La phug declined and became once again a hermitage. It is still a small hermitage where a few married religious practitioners (<span xmlns:str=\"http://exslt.org/strings\" style=\"font-style: italic;\" class=\"\">ser khyim</span>) reside.</p>
+", 
+   "index": 5, 
+   "parent_index": 2, 
+   "title": "3. History "
+  }, 
+  {
+   "body": "<p>The hermitage has no one leading it.</p>
+", 
+   "index": 6, 
+   "parent_index": 2, 
+   "title": "4. Headship of the hermitage"
+  }, 
+  {
+   "body": "<p>One monk and four <span xmlns:str=\"http://exslt.org/strings\" style=\"font-style: italic;\" class=\"\">ser khyim</span> </p>
+", 
+   "index": 7, 
+   "parent_index": 2, 
+   "title": "5. Current number of residents"
+  }, 
+  {
+   "body": "<p>The only monk has gone to study in gYung drung gling Monastery (No.2). He is expected to return and teach other people.</p>
+", 
+   "index": 8, 
+   "parent_index": 2, 
+   "title": "6. Current education"
+  }, 
+  {
+   "body": "<p>These consist of performing frequent religious services dedicated to the tutelary and protective deities in the <span xmlns:str=\"http://exslt.org/strings\" style=\"font-style: italic;\" class=\"\">sgrub khang</span> sanctuary.</p>
+", 
+   "index": 9, 
+   "parent_index": 2, 
+   "title": "8. Daily rituals"
+  }, 
+  {
+   "body": "<p>The hermitage cannot afford to hold any religious assemblies and is not expected to do so.</p>
+<p>Apart from going out to recite scriptures and prayers, the <span xmlns:str=\"http://exslt.org/strings\" style=\"font-style: italic;\" class=\"\">ser khyim</span> live with their families most of the time.</p>
+", 
+   "index": 10, 
+   "parent_index": 2, 
+   "title": "9. Annual rituals"
+  }, 
+  {
+   "body": "<p>There is a set of the <em xmlns:str=\"http://exslt.org/strings\">bKa’ ’gyur </em>published by Ayung Lama and sKal bzang phun tshogs in Chengdu, 1985-87.</p>
+", 
+   "index": 11, 
+   "parent_index": 2, 
+   "title": "10. Books held in the hermitage "
+  }, 
+  {
+   "body": "<p>The meagre income of the hermitage is used for its renovation.</p>
+", 
+   "index": 12, 
+   "parent_index": 2, 
+   "title": "11. Income and expenses"
+  }, 
+  {
+   "body": "<p>The local village is called La phug, where followers of Bon and Buddhism live together.</p>
+", 
+   "index": 13, 
+   "parent_index": 2, 
+   "title": "12. Local community"
+  }, 
+  {
+   "body": "<p>The villagers propitiate local deities and erect propitiatory flags on the mountain behind the hermitage on the 3rd day of the first month and the 14th of the fifth month.</p>
+", 
+   "index": 14, 
+   "parent_index": 2, 
+   "title": "13. Local festivals"
+  }, 
+  {
+   "body": "<p>A semi-agricultural and semi-nomad settlement.</p>
+", 
+   "index": 15, 
+   "parent_index": 2, 
+   "title": "14. Occupation of the local people"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Dondrup Lhagyal", 
+    "id": "78"
+   }, 
+   {
+    "fullname": "Dondrup Lhagyal", 
+    "id": "78"
+   }
+  ], 
+  "domain": "places", 
+  "kid": "23408", 
+  "dates": [], 
+  "title": "Pelri Khüyangwen Dechen Gang Introduction"
+ }
+}

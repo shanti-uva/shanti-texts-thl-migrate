@@ -1,5 +1,36 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"1992","authors":[{"fullname":"Jos\u00e9 I. Cabez\u00f3n","id":"7"}],"title":"Divination Using the Elements","dates":{"created_at":"2013-09-15 04:08:14 UTC","updated_at":"2014-02-03 21:41:32 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Divination Using the Elements"},{"title":"Description","index":1,"parent_index":0,"body":"<p>A form of Chinese divination.<\/p>"},{"title":"Example Texts","index":2,"parent_index":0,"body":"<ul> <li><a href=\"http:\/\/tbrc.org\/#!rid=W29569\">\u2018Byung rtsis man ngag zla ba\u2019i \u2018od zer<\/a>\u00a0<\/li> <\/ul>"}]}
-=======
-{"meta":{"domain":"subjects","kid":"1992","authors":[{"fullname":"José I. Cabezón","id":"7"}],"title":"Divination Using the Elements","dates":{"created_at":"2013-09-15 04:08:14 UTC","updated_at":"2014-02-03 21:41:32 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Divination Using the Elements"},{"title":"Description","index":1,"parent_index":0,"body":" <p>A form of Chinese divination.</p> "},{"title":"Example Texts","index":2,"parent_index":0,"body":" <ul> <li><a href=\"http://tbrc.org/#!rid=W29569\">‘Byung rtsis man ngag zla ba’i ‘od zer</a> </li> </ul>"}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "Divination Using the Elements"
+  }, 
+  {
+   "body": "<p>A form of Chinese divination.</p>
+", 
+   "index": 1, 
+   "parent_index": 0, 
+   "title": "Description"
+  }, 
+  {
+   "body": "<ul> <li><a href=\"http://tbrc.org/#!rid=W29569\">‘Byung rtsis man ngag zla ba’i ‘od zer</a> </li> </ul>
+", 
+   "index": 2, 
+   "parent_index": 0, 
+   "title": "Example Texts"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "José I. Cabezón", 
+    "id": "7"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "1992", 
+  "dates": [], 
+  "title": "Divination Using the Elements"
+ }
+}

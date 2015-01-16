@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"915","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of the Jonang Tradition","dates":{"created_at":"2013-09-15 04:05:55 UTC","updated_at":"2013-09-15 04:05:55 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>The Jonang (jo nang) tradition originated in the fourteenth century with Sherap Gyeltsen (shes rab rgyal mtshan) from D\u00f6lpo (dol po) and his monastery Jomonang (jo mo nang).<\/p>","title":"An Overview of the Jonang Tradition"}]}
-=======
-{"meta":{"domain":"subjects","kid":"915","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of the Jonang Tradition","dates":{"created_at":"2013-09-15 04:05:55 UTC","updated_at":"2013-09-15 04:05:55 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>The Jonang (jo nang) tradition originated in the fourteenth century with Sherap Gyeltsen (shes rab rgyal mtshan) from Dölpo (dol po) and his monastery Jomonang (jo mo nang).</p>","title":"An Overview of the Jonang Tradition"}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p>The Jonang (jo nang) tradition originated in the fourteenth century with Sherap Gyeltsen (shes rab rgyal mtshan) from Dölpo (dol po) and his monastery Jomonang (jo mo nang).</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "An Overview of the Jonang Tradition"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "David Germano", 
+    "id": "2"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "915", 
+  "dates": [], 
+  "title": "An Overview of the Jonang Tradition"
+ }
+}

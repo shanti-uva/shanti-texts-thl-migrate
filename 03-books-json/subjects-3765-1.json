@@ -1,5 +1,25 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"3765","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:12:11 UTC","updated_at":"2013-09-15 04:12:11 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">Generally speaking, adjectives strongly resemble verbs and may even be \u201cconjugated\u201d with certain auxiliary verbs. Adjectives usually consist of a radical and a suffix, or else a doubled radical.<\/p><p class=\"Paragraph\">There are a number of suffixes that specify the degree of the adjective. These include:<\/p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f54\u0f7c\u0f0b<\/span> Positive<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f54\u0f0b<\/span> Comparative<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f64\u0f7c\u0f66\u0f0b<\/span> Superlative and intensive<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f54\u0f0b\u0f63\u0f0b<\/span> Admirative<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f51\u0fb2\u0f42\u0f66\u0f0b<\/span> Excessive<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f59\u0f58\u0f0b<\/span> Attenuative<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f50\u0f42\u0f0b\u0f46\u0f7c\u0f51\u0f0b<\/span> or <span class=\"tibetan\" title=\"Type ID here\">\u0f66\u0f60\u0f72\u0f0b<\/span> Intensives<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f63\u0f7c\u0f66\u0f0b<\/span> Interrogative<\/li> <li>Expressive suffixes<\/li> <\/ul>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"3765","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:12:11 UTC","updated_at":"2013-09-15 04:12:11 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">Generally speaking, adjectives strongly resemble verbs and may even be “conjugated” with certain auxiliary verbs. Adjectives usually consist of a radical and a suffix, or else a doubled radical.</p> <p class=\"Paragraph\">There are a number of suffixes that specify the degree of the adjective. These include:</p> <ul> <li><span class=\"tibetan\" title=\"Type ID here\">པོ་</span> Positive</li> <li><span class=\"tibetan\" title=\"Type ID here\">པ་</span> Comparative</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཤོས་</span> Superlative and intensive</li> <li><span class=\"tibetan\" title=\"Type ID here\">པ་ལ་</span> Admirative</li> <li><span class=\"tibetan\" title=\"Type ID here\">དྲགས་</span> Excessive</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཙམ་</span> Attenuative</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཐག་ཆོད་</span> or <span class=\"tibetan\" title=\"Type ID here\">སའི་</span> Intensives</li> <li><span class=\"tibetan\" title=\"Type ID here\">ལོས་</span> Interrogative</li> <li>Expressive suffixes</li> </ul>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p class=\"Paragraph\">Generally speaking, adjectives strongly resemble verbs and may even be “conjugated” with certain auxiliary verbs. Adjectives usually consist of a radical and a suffix, or else a doubled radical.</p>
+<p class=\"Paragraph\">There are a number of suffixes that specify the degree of the adjective. These include:</p>
+<ul> <li><span class=\"tibetan\" title=\"Type ID here\">པོ་</span> Positive</li> <li><span class=\"tibetan\" title=\"Type ID here\">པ་</span> Comparative</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཤོས་</span> Superlative and intensive</li> <li><span class=\"tibetan\" title=\"Type ID here\">པ་ལ་</span> Admirative</li> <li><span class=\"tibetan\" title=\"Type ID here\">དྲགས་</span> Excessive</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཙམ་</span> Attenuative</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཐག་ཆོད་</span> or <span class=\"tibetan\" title=\"Type ID here\">སའི་</span> Intensives</li> <li><span class=\"tibetan\" title=\"Type ID here\">ལོས་</span> Interrogative</li> <li>Expressive suffixes</li> </ul>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Nicolas Tournadre", 
+    "id": "6"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "3765", 
+  "dates": [], 
+  "title": null
+ }
+}

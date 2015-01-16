@@ -1,1 +1,27 @@
-{"meta":{"domain":"places","kid":"15413","authors":[{"fullname":"Mark Turin","id":"16"},{"fullname":"Mark Turin","id":"16"}],"title":"","dates":{"created_at":"2009-06-11 10:13:49 UTC","updated_at":"2009-06-11 10:13:49 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>The Chepang are an ethnic group of Nepal who speak a Tibeto-Burman language of the same name. According to the 2001 census of Nepal, 36,807 people speak Chepang as a mother tongue and there are 52,237 ethnic Chepang.<\/p>","title":""}]}
+{
+ "nodes": [
+  {
+   "body": "<p>The Chepang are an ethnic group of Nepal who speak a Tibeto-Burman language of the same name. According to the 2001 census of Nepal, 36,807 people speak Chepang as a mother tongue and there are 52,237 ethnic Chepang.</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Mark Turin", 
+    "id": "16"
+   }, 
+   {
+    "fullname": "Mark Turin", 
+    "id": "16"
+   }
+  ], 
+  "domain": "places", 
+  "kid": "15413", 
+  "dates": [], 
+  "title": null
+ }
+}

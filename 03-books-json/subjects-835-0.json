@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"835","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of the Vehicles of Causation","dates":{"created_at":"2013-09-15 04:05:33 UTC","updated_at":"2013-09-15 04:05:33 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>Snellgrove identifies these four as \"folk religion,\" which everyone practices in Tibet, but is not given a formal identity as a \"vehicle\" by the modernist groups.<\/p>","title":"An Overview of the Vehicles of Causation"}]}
-=======
-{"meta":{"domain":"subjects","kid":"835","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of the Vehicles of Causation","dates":{"created_at":"2013-09-15 04:05:33 UTC","updated_at":"2013-09-15 04:05:33 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>Snellgrove identifies these four as \"folk religion,\" which everyone practices in Tibet, but is not given a formal identity as a \"vehicle\" by the modernist groups.</p>","title":"An Overview of the Vehicles of Causation"}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p>Snellgrove identifies these four as \"folk religion,\" which everyone practices in Tibet, but is not given a formal identity as a \"vehicle\" by the modernist groups.</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "An Overview of the Vehicles of Causation"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "David Germano", 
+    "id": "2"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "835", 
+  "dates": [], 
+  "title": "An Overview of the Vehicles of Causation"
+ }
+}

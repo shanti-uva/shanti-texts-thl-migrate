@@ -1,1 +1,45 @@
-{"meta":{"domain":"places","kid":"23419","authors":[{"fullname":"Phuntso Tsering Sharyul","id":"79"},{"fullname":"Phuntso Tsering Sharyul","id":"79"}],"title":"Ombu Samten Ling Introduction","dates":{"created_at":"2011-12-13 02:28:54 UTC","updated_at":"2011-12-13 02:28:54 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Ombu Samten Ling Introduction"},{"title":"Nyi ma rdzong","index":1,"parent_index":0},{"title":"(16) \u2019Om bu bSam gtan gling Monastery","index":2,"parent_index":1,"body":"<p> \u2019Om bu bSam gtan gling is in \u2019Om bu <span xmlns:str=\"http:\/\/exslt.org\/strings\" style=\"font-style: italic;\" class=\"\">xiang<\/span>, seventy-six kilometres south-west of Nyi ma rdzong. This <span xmlns:str=\"http:\/\/exslt.org\/strings\" style=\"font-style: italic;\" class=\"\">xiang<\/span> lies on the northern side of the lake Dwang ra g-yu mtsho.<\/p><p>The monastery was established by bSod nams g-yung drung around 1890. He is regarded as one of the Thirteen Spiritual Leaders of Lake Dwang ra (Dwang ra g-yu mtsho\u2019i \u2019gro \u2019dren bcu gsum) and belonged to the lineage of Guru. This lineage is traced back to Guru gYung drung phun tshogs, from which it descends to bZod pa and down to the Guru \u2019Od zer, who is the fourth in the line.<\/p><p>The main religious objects are the sacred statues of Bla chen Dran pa nam mkha\u2019 with his twin sons. It is said that there used to be an important old manuscript called Bya rgod mchu bris (\u201cwritten with the beak of vulture\u201d).<\/p><p>Every year in the first Tibetan month, a large-scale, prescribed service of the <span xmlns:str=\"http:\/\/exslt.org\/strings\" style=\"font-style: italic;\" class=\"\">bum sgrub<\/span> ritual is held, during which the monks meditate mainly on the deity Khro bo. Otherwise, services on a smaller scale are performed frequently.<\/p><p>In the old days there used to be more than twenty monks, but now there are no more than ten monks and one lama; the present condition of the monastery is not as good as it was previously.<\/p><p>Some degree of restoration was carried Guru \u2019Od zer. The main source of income, to maintain the monks and the lama, is donations from each household and the performance of religious services in the village.<\/p><p>rGya rgod <span xmlns:str=\"http:\/\/exslt.org\/strings\" style=\"font-style: italic;\" class=\"\">xiang<\/span> lies thirteen kilometres away. The road is convenient for driving between the two <span xmlns:str=\"http:\/\/exslt.org\/strings\" style=\"font-style: italic;\" class=\"\">xiang<\/span>, \u2019Om bu and rGya rgod, and rGya rgod <span xmlns:str=\"http:\/\/exslt.org\/strings\" style=\"font-style: italic;\" class=\"\">xiang<\/span> has good facilities for travellers. We met more than one hundred pilgrims who were on their way to Ser zhig Monastery (No.19) or Mount rTa sgo, and we took many pictures of each other.<\/p>"}]}
+{
+ "nodes": [
+  {
+   "body": "", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "Ombu Samten Ling Introduction"
+  }, 
+  {
+   "body": "", 
+   "index": 1, 
+   "parent_index": 0, 
+   "title": "Nyi ma rdzong"
+  }, 
+  {
+   "body": "<p> ’Om bu bSam gtan gling is in ’Om bu <span xmlns:str=\"http://exslt.org/strings\" style=\"font-style: italic;\" class=\"\">xiang</span>, seventy-six kilometres south-west of Nyi ma rdzong. This <span xmlns:str=\"http://exslt.org/strings\" style=\"font-style: italic;\" class=\"\">xiang</span> lies on the northern side of the lake Dwang ra g-yu mtsho.</p>
+<p>The monastery was established by bSod nams g-yung drung around 1890. He is regarded as one of the Thirteen Spiritual Leaders of Lake Dwang ra (Dwang ra g-yu mtsho’i ’gro ’dren bcu gsum) and belonged to the lineage of Guru. This lineage is traced back to Guru gYung drung phun tshogs, from which it descends to bZod pa and down to the Guru ’Od zer, who is the fourth in the line.</p>
+<p>The main religious objects are the sacred statues of Bla chen Dran pa nam mkha’ with his twin sons. It is said that there used to be an important old manuscript called Bya rgod mchu bris (“written with the beak of vulture”).</p>
+<p>Every year in the first Tibetan month, a large-scale, prescribed service of the <span xmlns:str=\"http://exslt.org/strings\" style=\"font-style: italic;\" class=\"\">bum sgrub</span> ritual is held, during which the monks meditate mainly on the deity Khro bo. Otherwise, services on a smaller scale are performed frequently.</p>
+<p>In the old days there used to be more than twenty monks, but now there are no more than ten monks and one lama; the present condition of the monastery is not as good as it was previously.</p>
+<p>Some degree of restoration was carried Guru ’Od zer. The main source of income, to maintain the monks and the lama, is donations from each household and the performance of religious services in the village.</p>
+<p>rGya rgod <span xmlns:str=\"http://exslt.org/strings\" style=\"font-style: italic;\" class=\"\">xiang</span> lies thirteen kilometres away. The road is convenient for driving between the two <span xmlns:str=\"http://exslt.org/strings\" style=\"font-style: italic;\" class=\"\">xiang</span>, ’Om bu and rGya rgod, and rGya rgod <span xmlns:str=\"http://exslt.org/strings\" style=\"font-style: italic;\" class=\"\">xiang</span> has good facilities for travellers. We met more than one hundred pilgrims who were on their way to Ser zhig Monastery (No.19) or Mount rTa sgo, and we took many pictures of each other.</p>
+", 
+   "index": 2, 
+   "parent_index": 1, 
+   "title": "(16) ’Om bu bSam gtan gling Monastery"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Phuntso Tsering Sharyul", 
+    "id": "79"
+   }, 
+   {
+    "fullname": "Phuntso Tsering Sharyul", 
+    "id": "79"
+   }
+  ], 
+  "domain": "places", 
+  "kid": "23419", 
+  "dates": [], 
+  "title": "Ombu Samten Ling Introduction"
+ }
+}

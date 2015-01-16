@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"4504","authors":[{"fullname":"Brandon Dotson","id":"15"}],"title":"An Overview of the Political Council in the Tibetan Empire","dates":{"created_at":"2013-09-15 04:13:32 UTC","updated_at":"2013-09-15 04:13:32 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>In the absence of any fixed, stationary capital of the Tibetan Empire, the political council met in the summer and winter at various sites throughout Central Tibet, and it was here that Tibet\u2019s ministers conducted the business of politics and administration. Here ministers made decisions concerning land legislation, taxation, troop conscription, and the promotion or replacement of officials.<\/p>","title":"An Overview of the Political Council in the Tibetan Empire"}]}
-=======
-{"meta":{"domain":"subjects","kid":"4504","authors":[{"fullname":"Brandon Dotson","id":"15"}],"title":"An Overview of the Political Council in the Tibetan Empire","dates":{"created_at":"2013-09-15 04:13:32 UTC","updated_at":"2013-09-15 04:13:32 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>In the absence of any fixed, stationary capital of the Tibetan Empire, the political council met in the summer and winter at various sites throughout Central Tibet, and it was here that Tibet’s ministers conducted the business of politics and administration. Here ministers made decisions concerning land legislation, taxation, troop conscription, and the promotion or replacement of officials.</p>","title":"An Overview of the Political Council in the Tibetan Empire"}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p>In the absence of any fixed, stationary capital of the Tibetan Empire, the political council met in the summer and winter at various sites throughout Central Tibet, and it was here that Tibet’s ministers conducted the business of politics and administration. Here ministers made decisions concerning land legislation, taxation, troop conscription, and the promotion or replacement of officials.</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "An Overview of the Political Council in the Tibetan Empire"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Brandon Dotson", 
+    "id": "15"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "4504", 
+  "dates": [], 
+  "title": "An Overview of the Political Council in the Tibetan Empire"
+ }
+}

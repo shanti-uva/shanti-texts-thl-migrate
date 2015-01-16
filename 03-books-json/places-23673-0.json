@@ -1,1 +1,27 @@
-{"meta":{"domain":"places","kid":"23673","authors":[{"fullname":"Yudru Tsomu","id":"52"},{"fullname":"Yudru Tsomu","id":"52"}],"title":"An Overview of Gyeltang","dates":{"created_at":"2011-07-13 16:54:03 UTC","updated_at":"2011-07-13 16:54:03 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>In the mid-thirteenth century the Yuan dynasty appointed two governors (<em><span class=\"tibetan\" title=\"Type ID here\">sde pa<\/span><\/em>) to rule the Gyeltang (<em><span class=\"tibetan\" title=\"Type ID here\">rgyal thang<\/span><\/em>) region. In the mid-fourteenth century the Naxi king S\u00f6nam Rapten (<em><span class=\"tibetan\" title=\"Type ID here\">bsod nams rab brtan<\/span><\/em>) conquered most of southern Kham, including the Gyeltang region, and his kingdom ruled the region for two-hundred years (until it was overthrown by Gushri Khan\u2019s troops). Subsequently, the central Tibetan Ganden Palace (<em><span class=\"tibetan\" title=\"Type ID here\">dga\u2019 ldan pho brang<\/span><\/em>) established a new government in Gyeltang, whose administrative structure included two <em>depa<\/em>, five <em>zhal ngo<\/em> (<em><span class=\"tibetan\" title=\"Type ID here\">zhal ngo<\/span><\/em>), five <em>longp\u00f6n<\/em> (<em><span class=\"tibetan\" title=\"Type ID here\">blong dpon<\/span><\/em>), and sixteen <em>dep\u00f6n<\/em> (<em><span class=\"tibetan\" title=\"Type ID here\">sde dpon<\/span><\/em>). In the early eighteenth century, the Qing replaced the indigenous leaders with government-appointed officials in the region. Initially, the Gyeltang region was placed under the jurisdiction of the Batang Depa (<em><span class=\"tibetan\" title=\"Type ID here\">\u2019ba\u2019 thang sde pa<\/span><\/em>), but in 1727 the Qing placed the region under the jurisdiction of Lijiang Prefecture in Yunnan Province.<\/p>","title":"An Overview of Gyeltang"}]}
+{
+ "nodes": [
+  {
+   "body": "<p>In the mid-thirteenth century the Yuan dynasty appointed two governors (<em><span class=\"tibetan\" title=\"Type ID here\">sde pa</span></em>) to rule the Gyeltang (<em><span class=\"tibetan\" title=\"Type ID here\">rgyal thang</span></em>) region. In the mid-fourteenth century the Naxi king Sönam Rapten (<em><span class=\"tibetan\" title=\"Type ID here\">bsod nams rab brtan</span></em>) conquered most of southern Kham, including the Gyeltang region, and his kingdom ruled the region for two-hundred years (until it was overthrown by Gushri Khan’s troops). Subsequently, the central Tibetan Ganden Palace (<em><span class=\"tibetan\" title=\"Type ID here\">dga’ ldan pho brang</span></em>) established a new government in Gyeltang, whose administrative structure included two <em>depa</em>, five <em>zhal ngo</em> (<em><span class=\"tibetan\" title=\"Type ID here\">zhal ngo</span></em>), five <em>longpön</em> (<em><span class=\"tibetan\" title=\"Type ID here\">blong dpon</span></em>), and sixteen <em>depön</em> (<em><span class=\"tibetan\" title=\"Type ID here\">sde dpon</span></em>). In the early eighteenth century, the Qing replaced the indigenous leaders with government-appointed officials in the region. Initially, the Gyeltang region was placed under the jurisdiction of the Batang Depa (<em><span class=\"tibetan\" title=\"Type ID here\">’ba’ thang sde pa</span></em>), but in 1727 the Qing placed the region under the jurisdiction of Lijiang Prefecture in Yunnan Province.</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "An Overview of Gyeltang"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Yudru Tsomu", 
+    "id": "52"
+   }, 
+   {
+    "fullname": "Yudru Tsomu", 
+    "id": "52"
+   }
+  ], 
+  "domain": "places", 
+  "kid": "23673", 
+  "dates": [], 
+  "title": "An Overview of Gyeltang"
+ }
+}

@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"4873","authors":[{"fullname":"Steve Weinberger","id":"3"}],"title":"An Overview of the Closing Section","dates":{"created_at":"2013-09-15 04:14:18 UTC","updated_at":"2013-09-15 04:14:18 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>This comprises everything from the end of the final chapter through to and including the title followed by rdzogs so. This is often labeled a \u201ccolophon,\u201d but we have chosen to separate it out as a \u201cclosing section\u201d since it is distinct from the following sections and at times contains considerably more information than merely the title. For Tengyur texts this often includes a statement indicating who wrote the text. Example: \u0f66\u0f74\u0f58\u0f0b\u0f45\u0f74\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f5a\u0f72\u0f42\u0f0b\u0f63\u0f7a\u0f60\u0f74\u0f62\u0f0b\u0f56\u0fb1\u0f66\u0f0b\u0f54\u0f0b\u0f66\u0fb3\u0f7c\u0f56\u0f0b\u0f51\u0f54\u0f7c\u0f53\u0f0b\u0f46\u0f7a\u0f53\u0f0b\u0f54\u0f7c\u0f0b\u0f51\u0f56\u0fb1\u0f72\u0f42\u0f0b\u0f42\u0f49\u0f72\u0f7a\u0f53\u0f0b\u0f42\u0fb1\u0f72\u0f66\u0f0b\u0f58\u0f5b\u0f51\u0f0b\u0f54\u0f0b\u0f62\u0fab\u0f7c\u0f42\u0f66\u0f0b\u0f66\u0f7c\u0f0d\u0f0d Note: the closing section will often include data about who wrote the text. This is not an author's colophon unless it says something like \"I, so-and-so, wrote this at such-and-such place, at such-and-such time, at the request of so-and-so\" etc. The presence of any such parts of the statement identify the section as an author's colophon. <a href=\"http:\/\/www.thlib.org\/tools\/#wiki=\/access\/wiki\/site\/c06fa8cf-c49c-4ebc-007f-482de5382105\/more%20issues%20related%20to%20closing%20sections.html\">More Issues Related to Closing Sections<\/a>.<\/p>","title":"An Overview of the Closing Section"}]}
-=======
-{"meta":{"domain":"subjects","kid":"4873","authors":[{"fullname":"Steve Weinberger","id":"3"}],"title":"An Overview of the Closing Section","dates":{"created_at":"2013-09-15 04:14:18 UTC","updated_at":"2013-09-15 04:14:18 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>This comprises everything from the end of the final chapter through to and including the title followed by rdzogs so. This is often labeled a “colophon,” but we have chosen to separate it out as a “closing section” since it is distinct from the following sections and at times contains considerably more information than merely the title. For Tengyur texts this often includes a statement indicating who wrote the text. Example: སུམ་ཅུ་པའི་ཚིག་ལེའུར་བྱས་པ་སློབ་དཔོན་ཆེན་པོ་དབྱིག་གཉིེན་གྱིས་མཛད་པ་རྫོགས་སོ།། Note: the closing section will often include data about who wrote the text. This is not an author's colophon unless it says something like \"I, so-and-so, wrote this at such-and-such place, at such-and-such time, at the request of so-and-so\" etc. The presence of any such parts of the statement identify the section as an author's colophon. <a href=\"http://www.thlib.org/tools/#wiki=/access/wiki/site/c06fa8cf-c49c-4ebc-007f-482de5382105/more%20issues%20related%20to%20closing%20sections.html\">More Issues Related to Closing Sections</a>.</p>","title":"An Overview of the Closing Section"}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p>This comprises everything from the end of the final chapter through to and including the title followed by rdzogs so. This is often labeled a “colophon,” but we have chosen to separate it out as a “closing section” since it is distinct from the following sections and at times contains considerably more information than merely the title. For Tengyur texts this often includes a statement indicating who wrote the text. Example: སུམ་ཅུ་པའི་ཚིག་ལེའུར་བྱས་པ་སློབ་དཔོན་ཆེན་པོ་དབྱིག་གཉིེན་གྱིས་མཛད་པ་རྫོགས་སོ།། Note: the closing section will often include data about who wrote the text. This is not an author's colophon unless it says something like \"I, so-and-so, wrote this at such-and-such place, at such-and-such time, at the request of so-and-so\" etc. The presence of any such parts of the statement identify the section as an author's colophon. <a href=\"http://www.thlib.org/tools/#wiki=/access/wiki/site/c06fa8cf-c49c-4ebc-007f-482de5382105/more%20issues%20related%20to%20closing%20sections.html\">More Issues Related to Closing Sections</a>.</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "An Overview of the Closing Section"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Steve Weinberger", 
+    "id": "3"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "4873", 
+  "dates": [], 
+  "title": "An Overview of the Closing Section"
+ }
+}

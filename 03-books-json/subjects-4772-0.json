@@ -1,5 +1,32 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"4772","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:14:00 UTC","updated_at":"2013-09-15 04:14:00 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">Non-volitional verbs imply non-controllable processes that do not depend on the subject\u2019s volition, and are compatible neither with intentional auxiliaries nor with imperative markers. With non-volitional verbs, non-intentional auxiliaries such as<span class=\"tibetan\" title=\"Type ID here\"> \u0f56\u0fb1\u0f74\u0f44\u0f0b <\/span>or <span class=\"tibetan\" title=\"Type ID here\">\u0f66\u0f7c\u0f44\u0f0b <\/span>must be used.<\/p><p class=\"Paragraph\">Some basic examples of non-volitional verbs are:<\/p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f58\u0f50\u0f7c\u0f44\u0f0b\u0f56\u0fb1\u0f74\u0f44\u0f0b\u0f0d <\/span>\u201cI saw.\u201d<\/li> <\/ul><ul> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f51\u0fb2\u0f42\u0f0b\u0f56\u0fb1\u0f74\u0f44\u0f0b\u0f0d<\/span> \u201cI recovered.\u201d<\/li> <\/ul><ul> <\/ul><p class=\"Paragraph\">The following forms are incorrect because they combine a non-volitional verb with an intentional auxiliary:<\/p><ul> <li>*<span class=\"tibetan\" title=\"Type ID here\">\u0f58\u0f50\u0f7c\u0f44\u0f0b\u0f54\u0f0b\u0f61\u0f72\u0f53<\/span>\u0f0b<\/li> <li>*<span class=\"tibetan\" title=\"Type ID here\">\u0f51\u0fb2\u0f42\u0f0b\u0f54\u0f0b\u0f61\u0f72\u0f53\u0f0b<\/span><\/li> <\/ul><p class=\"Paragraph\">The following imperatives are also incorrect:<\/p><ul> <li>*<span class=\"tibetan\" title=\"Type ID here\">\u0f58\u0f50\u0f7c\u0f44\u0f0b\u0f64\u0f72\u0f42<\/span><\/li> <li>*<span class=\"tibetan\" title=\"Type ID here\">\u0f51\u0fb2\u0f42\u0f0b\u0f64\u0f72\u0f42<\/span><\/li> <\/ul><p class=\"Paragraph\">There are, however, some non-volitional verbs that imply a certain degree of control, such as \u201cto lose\u201d or \u201cto go to sleep\u201d; it is possible to make imperative forms of these verbs.<\/p>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"4772","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:14:00 UTC","updated_at":"2013-09-15 04:14:00 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">Non-volitional verbs imply non-controllable processes that do not depend on the subject’s volition, and are compatible neither with intentional auxiliaries nor with imperative markers. With non-volitional verbs, non-intentional auxiliaries such as<span class=\"tibetan\" title=\"Type ID here\"> བྱུང་ </span>or <span class=\"tibetan\" title=\"Type ID here\">སོང་ </span>must be used.</p> <p class=\"Paragraph\">Some basic examples of non-volitional verbs are:</p> <ul> <li><span class=\"tibetan\" title=\"Type ID here\">མཐོང་བྱུང་། </span>“I saw.”</li> </ul> <ul> <li><span class=\"tibetan\" title=\"Type ID here\">དྲག་བྱུང་།</span> “I recovered.”</li> </ul> <ul> </ul> <p class=\"Paragraph\">The following forms are incorrect because they combine a non-volitional verb with an intentional auxiliary:</p> <ul> <li>*<span class=\"tibetan\" title=\"Type ID here\">མཐོང་པ་ཡིན</span>་</li> <li>*<span class=\"tibetan\" title=\"Type ID here\">དྲག་པ་ཡིན་</span></li> </ul> <p class=\"Paragraph\">The following imperatives are also incorrect:</p> <ul> <li>*<span class=\"tibetan\" title=\"Type ID here\">མཐོང་ཤིག</span></li> <li>*<span class=\"tibetan\" title=\"Type ID here\">དྲག་ཤིག</span></li> </ul> <p class=\"Paragraph\">There are, however, some non-volitional verbs that imply a certain degree of control, such as “to lose” or “to go to sleep”; it is possible to make imperative forms of these verbs.</p>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p class=\"Paragraph\">Non-volitional verbs imply non-controllable processes that do not depend on the subject’s volition, and are compatible neither with intentional auxiliaries nor with imperative markers. With non-volitional verbs, non-intentional auxiliaries such as<span class=\"tibetan\" title=\"Type ID here\"> བྱུང་ </span>or <span class=\"tibetan\" title=\"Type ID here\">སོང་ </span>must be used.</p>
+<p class=\"Paragraph\">Some basic examples of non-volitional verbs are:</p>
+<ul> <li><span class=\"tibetan\" title=\"Type ID here\">མཐོང་བྱུང་། </span>“I saw.”</li> </ul>
+<ul> <li><span class=\"tibetan\" title=\"Type ID here\">དྲག་བྱུང་།</span> “I recovered.”</li> </ul>
+<ul> </ul>
+<p class=\"Paragraph\">The following forms are incorrect because they combine a non-volitional verb with an intentional auxiliary:</p>
+<ul> <li>*<span class=\"tibetan\" title=\"Type ID here\">མཐོང་པ་ཡིན</span>་</li> <li>*<span class=\"tibetan\" title=\"Type ID here\">དྲག་པ་ཡིན་</span></li> </ul>
+<p class=\"Paragraph\">The following imperatives are also incorrect:</p>
+<ul> <li>*<span class=\"tibetan\" title=\"Type ID here\">མཐོང་ཤིག</span></li> <li>*<span class=\"tibetan\" title=\"Type ID here\">དྲག་ཤིག</span></li> </ul>
+<p class=\"Paragraph\">There are, however, some non-volitional verbs that imply a certain degree of control, such as “to lose” or “to go to sleep”; it is possible to make imperative forms of these verbs.</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Nicolas Tournadre", 
+    "id": "6"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "4772", 
+  "dates": [], 
+  "title": null
+ }
+}

@@ -1,1 +1,55 @@
-{"meta":{"domain":"places","kid":"23534","authors":[{"fullname":"\u0f5a\u0f7a\u0f0b\u0f62\u0f72\u0f44\u0f0b\u0f50\u0f62\u0f0d (Tsering Thar)","id":"80"},{"fullname":"\u0f5a\u0f7a\u0f0b\u0f62\u0f72\u0f44\u0f0b\u0f50\u0f62\u0f0d (Tsering Thar)","id":"80"}],"title":"Arik Tongkor Sekhang Introduction","dates":{"created_at":"2011-12-13 02:29:48 UTC","updated_at":"2011-12-13 02:29:48 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Arik Tongkor Sekhang Introduction"},{"title":"Bonpo temples in sTong che","index":1,"parent_index":0},{"title":"(128) \u2019Brog ru stong skor Temple","index":2,"parent_index":1,"body":"<p> A rig stong skor gsas khang is located in 118 km northewest of Chabcha, the county town of Gonghe. The local people call it simply Ma ni khang.<\/p><blockquote xmlns:str=\"http:\/\/exslt.org\/strings\"> <p>It is said that sTong skor, which was a large tribe, spread from the sTong skor tribe of sTong che valley to Khri ka. In the past, these people were adherents of Bon. Almost all of them were converted to Buddhism. Only seven families remained Bonpo to this day.<\/p> <\/blockquote><p>In 1989 for the first time a temple was founded for the people. There are five lay tantrics in the temple where two annual rituals are performed: rNam rgyal stong mchod and sPyi \u2019dul. The performance of the first takes place from the 1st to 5th of the fifth month. This is performed by some monks from Dung dkar Monastery (No.132) which is situated in the same county, and the second is performed for a few days in the tenth month. <\/p><p>The people in sTong skor practise both agriculture and pastoralism.<\/p>"},{"title":"Source","index":3,"parent_index":2},{"title":"(1) Interviews","index":4,"parent_index":3,"body":"<p>In autumn of 1996: sTag thar rgyal, a Bonpo lay trantric in the tribe<\/p>"}]}
+{
+ "nodes": [
+  {
+   "body": "", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "Arik Tongkor Sekhang Introduction"
+  }, 
+  {
+   "body": "", 
+   "index": 1, 
+   "parent_index": 0, 
+   "title": "Bonpo temples in sTong che"
+  }, 
+  {
+   "body": "<p> A rig stong skor gsas khang is located in 118 km northewest of Chabcha, the county town of Gonghe. The local people call it simply Ma ni khang.</p>
+<blockquote xmlns:str=\"http://exslt.org/strings\"> <p>It is said that sTong skor, which was a large tribe, spread from the sTong skor tribe of sTong che valley to Khri ka. In the past, these people were adherents of Bon. Almost all of them were converted to Buddhism. Only seven families remained Bonpo to this day.</p> </blockquote>
+<p>In 1989 for the first time a temple was founded for the people. There are five lay tantrics in the temple where two annual rituals are performed: rNam rgyal stong mchod and sPyi ’dul. The performance of the first takes place from the 1st to 5th of the fifth month. This is performed by some monks from Dung dkar Monastery (No.132) which is situated in the same county, and the second is performed for a few days in the tenth month. </p>
+<p>The people in sTong skor practise both agriculture and pastoralism.</p>
+", 
+   "index": 2, 
+   "parent_index": 1, 
+   "title": "(128) ’Brog ru stong skor Temple"
+  }, 
+  {
+   "body": "", 
+   "index": 3, 
+   "parent_index": 2, 
+   "title": "Source"
+  }, 
+  {
+   "body": "<p>In autumn of 1996: sTag thar rgyal, a Bonpo lay trantric in the tribe</p>
+", 
+   "index": 4, 
+   "parent_index": 3, 
+   "title": "(1) Interviews"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "ཚེ་རིང་ཐར། (Tsering Thar)", 
+    "id": "80"
+   }, 
+   {
+    "fullname": "ཚེ་རིང་ཐར། (Tsering Thar)", 
+    "id": "80"
+   }
+  ], 
+  "domain": "places", 
+  "kid": "23534", 
+  "dates": [], 
+  "title": "Arik Tongkor Sekhang Introduction"
+ }
+}

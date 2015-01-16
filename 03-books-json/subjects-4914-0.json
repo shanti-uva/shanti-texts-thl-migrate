@@ -1,5 +1,24 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"4914","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of Chinese Urban Districts","dates":{"created_at":"2013-09-15 04:14:31 UTC","updated_at":"2013-09-15 04:14:31 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">Usually a municipality large enough to contain a prefectural-level capital city will be divided into a number of urban districts (<em>shi xia qu<\/em>).\u00a0<\/p><p class=\"Paragraph\">The individually named urban districts are like counties (<em>xian<\/em>) in that they may contain both types of townships (<em>xiang<\/em> and <em>zhen<\/em>), although the inner city ones are usually divided into streets (<em>jie<\/em>).\u00a0 I think some contain all three, but it is very difficult to discover what the situation is for many cities (<em>shi<\/em>) and their urban disctricts, as sometimes the inner core urban districts are tightly demarcated around the built up area, while in other cases they are newly absorbed counties that contain a lot of rural towns and villages.<\/p>","title":"An Overview of Chinese Urban Districts"}]}
-=======
-{"meta":{"domain":"subjects","kid":"4914","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of Chinese Urban Districts","dates":{"created_at":"2013-09-15 04:14:31 UTC","updated_at":"2013-09-15 04:14:31 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">Usually a municipality large enough to contain a prefectural-level capital city will be divided into a number of urban districts (<em>shi xia qu</em>). </p> <p class=\"Paragraph\">The individually named urban districts are like counties (<em>xian</em>) in that they may contain both types of townships (<em>xiang</em> and <em>zhen</em>), although the inner city ones are usually divided into streets (<em>jie</em>).  I think some contain all three, but it is very difficult to discover what the situation is for many cities (<em>shi</em>) and their urban disctricts, as sometimes the inner core urban districts are tightly demarcated around the built up area, while in other cases they are newly absorbed counties that contain a lot of rural towns and villages.</p>","title":"An Overview of Chinese Urban Districts"}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p class=\"Paragraph\">Usually a municipality large enough to contain a prefectural-level capital city will be divided into a number of urban districts (<em>shi xia qu</em>). </p>
+<p class=\"Paragraph\">The individually named urban districts are like counties (<em>xian</em>) in that they may contain both types of townships (<em>xiang</em> and <em>zhen</em>), although the inner city ones are usually divided into streets (<em>jie</em>).  I think some contain all three, but it is very difficult to discover what the situation is for many cities (<em>shi</em>) and their urban disctricts, as sometimes the inner core urban districts are tightly demarcated around the built up area, while in other cases they are newly absorbed counties that contain a lot of rural towns and villages.</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "An Overview of Chinese Urban Districts"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "David Germano", 
+    "id": "2"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "4914", 
+  "dates": [], 
+  "title": "An Overview of Chinese Urban Districts"
+ }
+}

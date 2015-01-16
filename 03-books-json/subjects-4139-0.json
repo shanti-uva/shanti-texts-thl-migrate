@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"4139","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of the Macfarlane-Thak Collection","dates":{"created_at":"2013-09-15 04:12:53 UTC","updated_at":"2013-09-15 04:12:53 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>Alan Macfarlane's images from the Thak in Nepal. Images courtesy of Mark Turin.<\/p>","title":"An Overview of the Macfarlane-Thak Collection"}]}
-=======
-{"meta":{"domain":"subjects","kid":"4139","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of the Macfarlane-Thak Collection","dates":{"created_at":"2013-09-15 04:12:53 UTC","updated_at":"2013-09-15 04:12:53 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>Alan Macfarlane's images from the Thak in Nepal. Images courtesy of Mark Turin.</p>","title":"An Overview of the Macfarlane-Thak Collection"}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p>Alan Macfarlane's images from the Thak in Nepal. Images courtesy of Mark Turin.</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "An Overview of the Macfarlane-Thak Collection"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "David Germano", 
+    "id": "2"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "4139", 
+  "dates": [], 
+  "title": "An Overview of the Macfarlane-Thak Collection"
+ }
+}

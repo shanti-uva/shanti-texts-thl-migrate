@@ -1,5 +1,24 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"5231","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:41 UTC","updated_at":"2013-09-15 04:15:41 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">The expression <span class=\"tibetan\" title=\"Type ID here\">\u0f54\u0f0b\u0f51\u0f0b\u0f42\u0f0b<\/span> is derived from the form <span class=\"tibetan\" title=\"Type ID here\">\u0f54\u0f0b\u0f51\u0f7a\u0f0b\u0f42\u0f0b<\/span>, which consists of the nominalizer <span class=\"tibetan\" title=\"Type ID here\">\u0f54\u0f0b<\/span> and the demonstrative <span class=\"tibetan\" title=\"Type ID here\">\u0f51\u0f7a\u0f0b\u0f42\u0f0b<\/span> \u201cjust that\u201d or \u201cjust there.\u201d This expression, which is always attached to a verb in the past tense, means \u201cto have just\u201d or \u201cas soon as.\u201d In Literary Tibetan, it is replaced by <span class=\"tibetan\" title=\"Type ID here\">\u0f58\u0f0b\u0f50\u0f42\u0f0b<\/span> or <span class=\"tibetan\" title=\"Type ID here\">\u0f54\u0f0b\u0f51\u0f44\u0f0b<\/span>.<\/p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f41\u0f0b\u0f63\u0f42\u0f0b\u0f56\u0f5f\u0f66\u0f0b\u0f54\u0f0b\u0f51\u0f0b\u0f42\u0f0b\u0f61\u0f7c\u0f44\u0f0b\u0f54\u0f0b\u0f61\u0f72\u0f53\u0f0d<\/span> \u201cI came as soon as I\u2019d eaten.\u201d<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f5a\u0f7a\u0f0b\u0f62\u0f72\u0f44\u0f0b\u0f66\u0fb3\u0f7a\u0f56\u0f66\u0f0b\u0f54\u0f0b\u0f51\u0f0b\u0f42\u0f0b\u0f62\u0f7a\u0f51\u0f0d<\/span> \u201cTsering has just arrived.\u201d<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f44\u0f0b\u0f5a\u0f7c\u0f0b\u0f66\u0fa6\u0f0b\u0f42\u0f74\u0f62\u0f0b\u0f53\u0f44\u0f0b\u0f63\u0f0b\u0f66\u0fb3\u0f7a\u0f56\u0f66\u0f0b\u0f54\u0f0b\u0f51\u0f0b\u0f42\u0f0b\u0f47\u0f0b\u0f5a\u0f0b\u0f54\u0f7c\u0f0b\u0f56\u0f4f\u0f74\u0f44\u0f66\u0f0b\u0f54\u0f0b\u0f61\u0f72\u0f53\u0f0d<\/span> \u201cAs soon as we got into the tent, we drank some hot tea.\u201d<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f47\u0f7c\u0f0b\u0f41\u0f44\u0f0b\u0f42\u0f5f\u0f72\u0f58\u0f0b\u0f66\u0f92\u0f7c\u0f0b\u0f55\u0fb1\u0f7a\u0f0b\u0f54\u0f0b\u0f51\u0f0b\u0f42\u0f0b\u0f62\u0f7a\u0f51\u0f0d<\/span> \u201cThe Jokhang has just been opened.\u201d<\/li> <\/ul>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"5231","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:41 UTC","updated_at":"2013-09-15 04:15:41 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">The expression <span class=\"tibetan\" title=\"Type ID here\">པ་ད་ག་</span> is derived from the form <span class=\"tibetan\" title=\"Type ID here\">པ་དེ་ག་</span>, which consists of the nominalizer <span class=\"tibetan\" title=\"Type ID here\">པ་</span> and the demonstrative <span class=\"tibetan\" title=\"Type ID here\">དེ་ག་</span> “just that” or “just there.” This expression, which is always attached to a verb in the past tense, means “to have just” or “as soon as.” In Literary Tibetan, it is replaced by <span class=\"tibetan\" title=\"Type ID here\">མ་ཐག་</span> or <span class=\"tibetan\" title=\"Type ID here\">པ་དང་</span>.</p> <ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཁ་ལག་བཟས་པ་ད་ག་ཡོང་པ་ཡིན།</span> “I came as soon as I’d eaten.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཚེ་རིང་སླེབས་པ་ད་ག་རེད།</span> “Tsering has just arrived.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ང་ཚོ་སྦ་གུར་ནང་ལ་སླེབས་པ་ད་ག་ཇ་ཚ་པོ་བཏུངས་པ་ཡིན།</span> “As soon as we got into the tent, we drank some hot tea.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཇོ་ཁང་གཟིམ་སྒོ་ཕྱེ་པ་ད་ག་རེད།</span> “The Jokhang has just been opened.”</li> </ul>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p class=\"Paragraph\">The expression <span class=\"tibetan\" title=\"Type ID here\">པ་ད་ག་</span> is derived from the form <span class=\"tibetan\" title=\"Type ID here\">པ་དེ་ག་</span>, which consists of the nominalizer <span class=\"tibetan\" title=\"Type ID here\">པ་</span> and the demonstrative <span class=\"tibetan\" title=\"Type ID here\">དེ་ག་</span> “just that” or “just there.” This expression, which is always attached to a verb in the past tense, means “to have just” or “as soon as.” In Literary Tibetan, it is replaced by <span class=\"tibetan\" title=\"Type ID here\">མ་ཐག་</span> or <span class=\"tibetan\" title=\"Type ID here\">པ་དང་</span>.</p>
+<ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཁ་ལག་བཟས་པ་ད་ག་ཡོང་པ་ཡིན།</span> “I came as soon as I’d eaten.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཚེ་རིང་སླེབས་པ་ད་ག་རེད།</span> “Tsering has just arrived.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ང་ཚོ་སྦ་གུར་ནང་ལ་སླེབས་པ་ད་ག་ཇ་ཚ་པོ་བཏུངས་པ་ཡིན།</span> “As soon as we got into the tent, we drank some hot tea.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཇོ་ཁང་གཟིམ་སྒོ་ཕྱེ་པ་ད་ག་རེད།</span> “The Jokhang has just been opened.”</li> </ul>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Nicolas Tournadre", 
+    "id": "6"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "5231", 
+  "dates": [], 
+  "title": null
+ }
+}

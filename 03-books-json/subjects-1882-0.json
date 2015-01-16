@@ -1,5 +1,29 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"1882","authors":[{"fullname":"Jos\u00e9 I. Cabez\u00f3n","id":"7"}],"title":"Ritual for \"Cheating Death\"","dates":{"created_at":"2013-09-15 04:07:54 UTC","updated_at":"2014-01-29 16:17:31 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Ritual for \"Cheating Death\""},{"title":"Example Texts","index":1,"parent_index":0,"body":"<ul> <li><a href=\"http:\/\/tbrc.org\/#!rid=W2804\">Bzang spyod \u2018chi bslu bya tshul<\/a><\/li> <li>See also '<a href=\"http:\/\/tbrc.org\/#!rid=T846\">chi bslu<\/a><\/li> <\/ul>"}]}
-=======
-{"meta":{"domain":"subjects","kid":"1882","authors":[{"fullname":"José I. Cabezón","id":"7"}],"title":"Ritual for \"Cheating Death\"","dates":{"created_at":"2013-09-15 04:07:54 UTC","updated_at":"2014-01-29 16:17:31 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Ritual for \"Cheating Death\""},{"title":"Example Texts","index":1,"parent_index":0,"body":" <ul> <li><a href=\"http://tbrc.org/#!rid=W2804\">Bzang spyod ‘chi bslu bya tshul</a></li> <li>See also '<a href=\"http://tbrc.org/#!rid=T846\">chi bslu</a></li> </ul>"}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "Ritual for "Cheating Death""
+  }, 
+  {
+   "body": "<ul> <li><a href=\"http://tbrc.org/#!rid=W2804\">Bzang spyod ‘chi bslu bya tshul</a></li> <li>See also '<a href=\"http://tbrc.org/#!rid=T846\">chi bslu</a></li> </ul>
+", 
+   "index": 1, 
+   "parent_index": 0, 
+   "title": "Example Texts"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "José I. Cabezón", 
+    "id": "7"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "1882", 
+  "dates": [], 
+  "title": "Ritual for "Cheating Death""
+ }
+}

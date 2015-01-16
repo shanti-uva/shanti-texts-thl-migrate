@@ -1,1 +1,70 @@
-{"meta":{"domain":"places","kid":"16644","authors":[],"title":"Gurchen Doring Introduction","dates":{"created_at":"2010-08-25 11:09:51 UTC","updated_at":"2010-08-25 11:09:51 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Gurchen Doring Introduction"},{"title":"II.1. Stelae and accompanying structures: Funerary and non-funerary structures","index":1,"parent_index":0},{"title":"Gurchen DoringGur chen rdo ring","index":2,"parent_index":1},{"title":"Basic site data","index":3,"parent_index":2,"body":"<ul class=\"bullet-blue\"> <li>Site name: <span class=\"popular\">Gurchen Doring<\/span><span class=\"scholar\">Gur chen rdo ring<\/span> <\/li> <li>English equivalent: Great Tent Long-stones <\/li> <li>Site number: C-83<\/li> <li>Site typology: II.1b <\/li> <li>Geographic coordinate (N. lat.): 29\u00ba 50.1\u0384 <\/li> <li>Geographic coordinate (E. long.): 83\u00ba 54.0\u0384 <\/li> <li>Elevation: 4880 m <\/li> <li>Administrative location (county): <span class=\"popular\">Drongpa<\/span><span class=\"scholar\">\u2019Brong pa<\/span> <\/li> <li>Survey expedition: UTAE<\/li> <li>Survey date: April 12, 2001<\/li> <li>Contemporary usage: Light grazing. <\/li> <li>Identifiable Buddhist constructions: None. <\/li> <\/ul>"},{"title":"General site characteristics","index":4,"parent_index":2,"body":"<p> <span class=\"popular\">Gurchen Doring<\/span><span class=\"scholar\">Gur chen rdo ring<\/span> is located in a basin with views that are most open in a downhill or westerly direction. This orientation is at odds with most other sites of this typology, which generally have the most expansive vistas in the east. The very slightly sloping errain is sandy with a sparse covering of turf. There are two main pillars firmly planted near the inner edge of he west wall of the enclosure. <\/p>"},{"title":"Oral tradition","index":5,"parent_index":2,"body":"<p>According to <span class=\"popular\">Menla<\/span><span class=\"scholar\">Sman bla<\/span>, an elderly resident of the area, and others, sites such as <span class=\"popular\">Gurchen Doring<\/span><span class=\"scholar\">Gur chen rdo ring<\/span> are ancient <span class=\"popular\">M\u00f6n<\/span><span class=\"scholar\">Mon<\/span> funerary sites and some of them are associated with human remains. <\/p>"},{"title":"Site elements","index":6,"parent_index":2},{"title":"Enclosure","index":7,"parent_index":6,"body":"<p>The enclosure is aligned in the cardinal directions, and measures 8.8 m (east-west) x 7 m (north-south). Significant parts of all four walls of the enclosure are intact. As in most examples of the typology, these double-course walls (around 70 cm thick) consist of a single layer of stones embedded in the ground. The stones (up to 50 cm long) of the enclosing walls are flush with the surrounding terrain or elevated above it to a maximum height of 15 cm.<\/p>"},{"title":"Pillars","index":8,"parent_index":6,"body":"<p>Both of the main pillars are partially covered in orange climax lichen. The north pillar is four-sided, beige in color and fairly well centered in the enclosure (1 m [height] x 1.4 m [basal girth]). This pillar is slightly inclined. North of the north pillar there is a tiny specimen around 20 cm in height. The south pillar is hree-sided and tan in color (85 cm x 1 m). <\/p>"}]}
+{
+ "nodes": [
+  {
+   "body": "", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "Gurchen Doring Introduction"
+  }, 
+  {
+   "body": "", 
+   "index": 1, 
+   "parent_index": 0, 
+   "title": "II.1. Stelae and accompanying structures: Funerary and non-funerary structures"
+  }, 
+  {
+   "body": "", 
+   "index": 2, 
+   "parent_index": 1, 
+   "title": " Gurchen DoringGur chen rdo ring "
+  }, 
+  {
+   "body": "<ul class=\"bullet-blue\"> <li>Site name: <span class=\"popular\">Gurchen Doring</span><span class=\"scholar\">Gur chen rdo ring</span> </li> <li>English equivalent: Great Tent Long-stones </li> <li>Site number: C-83</li> <li>Site typology: II.1b </li> <li>Geographic coordinate (N. lat.): 29º 50.1΄ </li> <li>Geographic coordinate (E. long.): 83º 54.0΄ </li> <li>Elevation: 4880 m </li> <li>Administrative location (county): <span class=\"popular\">Drongpa</span><span class=\"scholar\">’Brong pa</span> </li> <li>Survey expedition: UTAE</li> <li>Survey date: April 12, 2001</li> <li>Contemporary usage: Light grazing. </li> <li>Identifiable Buddhist constructions: None. </li> </ul>
+", 
+   "index": 3, 
+   "parent_index": 2, 
+   "title": "Basic site data"
+  }, 
+  {
+   "body": "<p> <span class=\"popular\">Gurchen Doring</span><span class=\"scholar\">Gur chen rdo ring</span> is located in a basin with views that are most open in a downhill or westerly direction. This orientation is at odds with most other sites of this typology, which generally have the most expansive vistas in the east. The very slightly sloping errain is sandy with a sparse covering of turf. There are two main pillars firmly planted near the inner edge of he west wall of the enclosure. </p>
+", 
+   "index": 4, 
+   "parent_index": 2, 
+   "title": "General site characteristics"
+  }, 
+  {
+   "body": "<p>According to <span class=\"popular\">Menla</span><span class=\"scholar\">Sman bla</span>, an elderly resident of the area, and others, sites such as <span class=\"popular\">Gurchen Doring</span><span class=\"scholar\">Gur chen rdo ring</span> are ancient <span class=\"popular\">Mön</span><span class=\"scholar\">Mon</span> funerary sites and some of them are associated with human remains. </p>
+", 
+   "index": 5, 
+   "parent_index": 2, 
+   "title": "Oral tradition"
+  }, 
+  {
+   "body": "", 
+   "index": 6, 
+   "parent_index": 2, 
+   "title": "Site elements"
+  }, 
+  {
+   "body": "<p>The enclosure is aligned in the cardinal directions, and measures 8.8 m (east-west) x 7 m (north-south). Significant parts of all four walls of the enclosure are intact. As in most examples of the typology, these double-course walls (around 70 cm thick) consist of a single layer of stones embedded in the ground. The stones (up to 50 cm long) of the enclosing walls are flush with the surrounding terrain or elevated above it to a maximum height of 15 cm.</p>
+", 
+   "index": 7, 
+   "parent_index": 6, 
+   "title": "Enclosure"
+  }, 
+  {
+   "body": "<p>Both of the main pillars are partially covered in orange climax lichen. The north pillar is four-sided, beige in color and fairly well centered in the enclosure (1 m [height] x 1.4 m [basal girth]). This pillar is slightly inclined. North of the north pillar there is a tiny specimen around 20 cm in height. The south pillar is hree-sided and tan in color (85 cm x 1 m). </p>
+", 
+   "index": 8, 
+   "parent_index": 6, 
+   "title": "Pillars"
+  }
+ ], 
+ "meta": {
+  "authors": [], 
+  "domain": "places", 
+  "kid": "16644", 
+  "dates": [], 
+  "title": "Gurchen Doring Introduction"
+ }
+}

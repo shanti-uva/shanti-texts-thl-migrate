@@ -1,5 +1,29 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"2132","authors":[{"fullname":"Jos\u00e9 I. Cabez\u00f3n","id":"7"}],"title":"Exorcism of Enemies, Invasion","dates":{"created_at":"2013-09-15 04:08:43 UTC","updated_at":"2014-02-27 19:24:18 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Exorcism of Enemies, Invasion"},{"title":"Example Texts","index":1,"parent_index":0,"body":"<ul> <li>Dregs pa lcam sring mi kha dgra bzlog<\/li> <li><a href=\"http:\/\/tbrc.org\/#!rid=W16189\">Rdo rje shugs la brten pa'i kla klo'i dmag bzlog<\/a>\u00a0<\/li> <\/ul>"}]}
-=======
-{"meta":{"domain":"subjects","kid":"2132","authors":[{"fullname":"José I. Cabezón","id":"7"}],"title":"Exorcism of Enemies, Invasion","dates":{"created_at":"2013-09-15 04:08:43 UTC","updated_at":"2014-02-27 19:24:18 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Exorcism of Enemies, Invasion"},{"title":"Example Texts","index":1,"parent_index":0,"body":" <ul> <li>Dregs pa lcam sring mi kha dgra bzlog</li> <li><a href=\"http://tbrc.org/#!rid=W16189\">Rdo rje shugs la brten pa'i kla klo'i dmag bzlog</a> </li> </ul>"}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "Exorcism of Enemies, Invasion"
+  }, 
+  {
+   "body": "<ul> <li>Dregs pa lcam sring mi kha dgra bzlog</li> <li><a href=\"http://tbrc.org/#!rid=W16189\">Rdo rje shugs la brten pa'i kla klo'i dmag bzlog</a> </li> </ul>
+", 
+   "index": 1, 
+   "parent_index": 0, 
+   "title": "Example Texts"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "José I. Cabezón", 
+    "id": "7"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "2132", 
+  "dates": [], 
+  "title": "Exorcism of Enemies, Invasion"
+ }
+}

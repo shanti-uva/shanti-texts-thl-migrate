@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"894","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of the Taklung Kagy\u00fc Tradition","dates":{"created_at":"2013-09-15 04:05:48 UTC","updated_at":"2013-09-15 04:05:48 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>The Taklung Kagy\u00fc (stag lungs bka' brgyud) order was named after Taklung (stag lung) monastery founded in 1180 by Taklung Tangpa Trashipel (stag lung thang pa bkra shis dpal, 1142-1210).<\/p>","title":"An Overview of the Taklung Kagy\u00fc Tradition"}]}
-=======
-{"meta":{"domain":"subjects","kid":"894","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of the Taklung Kagyü Tradition","dates":{"created_at":"2013-09-15 04:05:48 UTC","updated_at":"2013-09-15 04:05:48 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>The Taklung Kagyü (stag lungs bka' brgyud) order was named after Taklung (stag lung) monastery founded in 1180 by Taklung Tangpa Trashipel (stag lung thang pa bkra shis dpal, 1142-1210).</p>","title":"An Overview of the Taklung Kagyü Tradition"}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p>The Taklung Kagyü (stag lungs bka' brgyud) order was named after Taklung (stag lung) monastery founded in 1180 by Taklung Tangpa Trashipel (stag lung thang pa bkra shis dpal, 1142-1210).</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "An Overview of the Taklung Kagyü Tradition"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "David Germano", 
+    "id": "2"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "894", 
+  "dates": [], 
+  "title": "An Overview of the Taklung Kagyü Tradition"
+ }
+}

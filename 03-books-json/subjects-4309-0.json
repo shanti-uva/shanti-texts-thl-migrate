@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"4309","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of Audio-Video Quality","dates":{"created_at":"2013-09-15 04:13:13 UTC","updated_at":"2013-09-15 04:13:13 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>Quality can be used in many fields to specify the quality of something according to a specific trait. For example, in cataloging audio-video recordings, it is used to specify the technical quality of the audio, the technical quality of the video picture, and the content quality of the actual recordings.<\/p>","title":"An Overview of Audio-Video Quality"}]}
-=======
-{"meta":{"domain":"subjects","kid":"4309","authors":[{"fullname":"David Germano","id":"2"}],"title":"An Overview of Audio-Video Quality","dates":{"created_at":"2013-09-15 04:13:13 UTC","updated_at":"2013-09-15 04:13:13 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>Quality can be used in many fields to specify the quality of something according to a specific trait. For example, in cataloging audio-video recordings, it is used to specify the technical quality of the audio, the technical quality of the video picture, and the content quality of the actual recordings.</p>","title":"An Overview of Audio-Video Quality"}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p>Quality can be used in many fields to specify the quality of something according to a specific trait. For example, in cataloging audio-video recordings, it is used to specify the technical quality of the audio, the technical quality of the video picture, and the content quality of the actual recordings.</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "An Overview of Audio-Video Quality"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "David Germano", 
+    "id": "2"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "4309", 
+  "dates": [], 
+  "title": "An Overview of Audio-Video Quality"
+ }
+}

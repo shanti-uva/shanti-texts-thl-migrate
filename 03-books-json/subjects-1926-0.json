@@ -1,5 +1,43 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"1926","authors":[{"fullname":"Jos\u00e9 I. Cabez\u00f3n","id":"7"}],"title":"Dh\u0101ra\u1e47\u012b-Related Ritual","dates":{"created_at":"2013-09-15 04:08:03 UTC","updated_at":"2014-01-31 18:35:26 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Dh\u0101ra\u1e47\u012b-Related Ritual"},{"title":"Description","index":1,"parent_index":0,"body":"<p>A ritual which uses magical verbal formulas called <em>dh\u0101ra\u1e47\u012b<\/em>. This Knowledge Map category is used for rituals in which the main focus is the recitation of <em>dh\u0101ra\u1e47\u012b; <\/em>rituals in which <em>dh\u0101ra\u1e47\u012b <\/em>play a minor role should be listed under their own categories.<\/p>"},{"title":"Related Terms","index":2,"parent_index":0,"body":"<ul> <li>gzungs sgrub<\/li> <\/ul>"},{"title":"Example Texts","index":3,"parent_index":0,"body":"<ul> <li><a href=\"http:\/\/tbrc.org\/#!rid=W24270\">dpal rdo rje rnam par 'joms pa'i gzungs kyi cho ga<\/a>\u00a0<\/li> <li><a href=\"http:\/\/tbrc.org\/#!rid=W10549\">mi 'khrug pa'i gzungs chog thar pa'i lcags kyu<\/a>\u00a0<\/li> <li><a href=\"http:\/\/tbrc.org\/#!rid=W21348\">gtsug tor dri med kyi gzungs bklag pa dang mchod rten bzhengs pa'i cho ga'i lag len khrigs chags su bkod pa<\/a>\u00a0<\/li> <li>See also <a href=\"http:\/\/tbrc.org\/#!rid=T1699\">gzungs chog<\/a>, <a href=\"http:\/\/tbrc.org\/#!rid=T1381\">gzhungs sgrub<\/a>, <a href=\"http:\/\/tbrc.org\/#!rid=T933\">gzungs sngags<\/a><\/li> <\/ul>"}]}
-=======
-{"meta":{"domain":"subjects","kid":"1926","authors":[{"fullname":"José I. Cabezón","id":"7"}],"title":"Dhāraṇī-Related Ritual","dates":{"created_at":"2013-09-15 04:08:03 UTC","updated_at":"2014-01-31 18:35:26 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Dhāraṇī-Related Ritual"},{"title":"Description","index":1,"parent_index":0,"body":" <p>A ritual which uses magical verbal formulas called <em>dhāraṇī</em>. This Knowledge Map category is used for rituals in which the main focus is the recitation of <em>dhāraṇī; </em>rituals in which <em>dhāraṇī </em>play a minor role should be listed under their own categories.</p> "},{"title":"Related Terms","index":2,"parent_index":0,"body":" <ul> <li>gzungs sgrub</li> </ul> "},{"title":"Example Texts","index":3,"parent_index":0,"body":" <ul> <li><a href=\"http://tbrc.org/#!rid=W24270\">dpal rdo rje rnam par 'joms pa'i gzungs kyi cho ga</a> </li> <li><a href=\"http://tbrc.org/#!rid=W10549\">mi 'khrug pa'i gzungs chog thar pa'i lcags kyu</a> </li> <li><a href=\"http://tbrc.org/#!rid=W21348\">gtsug tor dri med kyi gzungs bklag pa dang mchod rten bzhengs pa'i cho ga'i lag len khrigs chags su bkod pa</a> </li> <li>See also <a href=\"http://tbrc.org/#!rid=T1699\">gzungs chog</a>, <a href=\"http://tbrc.org/#!rid=T1381\">gzhungs sgrub</a>, <a href=\"http://tbrc.org/#!rid=T933\">gzungs sngags</a></li> </ul>"}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": " Dhāraṇī-Related Ritual"
+  }, 
+  {
+   "body": "<p>A ritual which uses magical verbal formulas called <em>dhāraṇī</em>. This Knowledge Map category is used for rituals in which the main focus is the recitation of <em>dhāraṇī; </em>rituals in which <em>dhāraṇī </em>play a minor role should be listed under their own categories.</p>
+", 
+   "index": 1, 
+   "parent_index": 0, 
+   "title": "Description"
+  }, 
+  {
+   "body": "<ul> <li>gzungs sgrub</li> </ul>
+", 
+   "index": 2, 
+   "parent_index": 0, 
+   "title": "Related Terms"
+  }, 
+  {
+   "body": "<ul> <li><a href=\"http://tbrc.org/#!rid=W24270\">dpal rdo rje rnam par 'joms pa'i gzungs kyi cho ga</a> </li> <li><a href=\"http://tbrc.org/#!rid=W10549\">mi 'khrug pa'i gzungs chog thar pa'i lcags kyu</a> </li> <li><a href=\"http://tbrc.org/#!rid=W21348\">gtsug tor dri med kyi gzungs bklag pa dang mchod rten bzhengs pa'i cho ga'i lag len khrigs chags su bkod pa</a> </li> <li>See also <a href=\"http://tbrc.org/#!rid=T1699\">gzungs chog</a>, <a href=\"http://tbrc.org/#!rid=T1381\">gzhungs sgrub</a>, <a href=\"http://tbrc.org/#!rid=T933\">gzungs sngags</a></li> </ul>
+", 
+   "index": 3, 
+   "parent_index": 0, 
+   "title": "Example Texts"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "José I. Cabezón", 
+    "id": "7"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "1926", 
+  "dates": [], 
+  "title": " Dhāraṇī-Related Ritual"
+ }
+}

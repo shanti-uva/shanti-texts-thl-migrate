@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"4861","authors":[{"fullname":"Steve Weinberger","id":"3"}],"title":"An Overview of the Purpose Section","dates":{"created_at":"2013-09-15 04:14:13 UTC","updated_at":"2013-09-15 04:14:13 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>Lit. \u201cpromise to compose,\u201d this is a verse stating the author\u2019s intention in composing this work.<\/p>","title":"An Overview of the Purpose Section"}]}
-=======
-{"meta":{"domain":"subjects","kid":"4861","authors":[{"fullname":"Steve Weinberger","id":"3"}],"title":"An Overview of the Purpose Section","dates":{"created_at":"2013-09-15 04:14:13 UTC","updated_at":"2013-09-15 04:14:13 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>Lit. “promise to compose,” this is a verse stating the author’s intention in composing this work.</p>","title":"An Overview of the Purpose Section"}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p>Lit. “promise to compose,” this is a verse stating the author’s intention in composing this work.</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "An Overview of the Purpose Section"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Steve Weinberger", 
+    "id": "3"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "4861", 
+  "dates": [], 
+  "title": "An Overview of the Purpose Section"
+ }
+}

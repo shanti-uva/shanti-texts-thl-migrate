@@ -1,1 +1,70 @@
-{"meta":{"domain":"places","kid":"16512","authors":[],"title":"Tochu Khar Introduction","dates":{"created_at":"2010-08-12 13:20:04 UTC","updated_at":"2010-08-12 16:53:52 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Tochu Khar Introduction"},{"title":"I.1. Residential Structures Occupying Summits: Fortresses, breastworks, religious buildings, palaces, and related edifices","index":1,"parent_index":0},{"title":"mtho chu mhkar","index":2,"parent_index":1},{"title":"Basic site data","index":3,"parent_index":2,"body":"<ul class=\"bullet-blue\"> <li>Site name: mtho chu mhkar <\/li> <li>English equivalent: Lofty River Castle<\/li> <li>Site number: A-79<\/li> <li>Site typology: I.1a <\/li> <li>Geographic coordinate (N. lat.): 29\u00ba 38.4\u0384 <\/li> <li>Geographic coordinate (E. long.): 84\u00ba 21.1\u0384<\/li> <li>Elevation: 4830 m.<\/li> <li>Administrative location (township): <span class=\"popular\">Darma<\/span><span class=\"scholar\">Dar ma<\/span> <\/li> <li>Administrative location (county): <span class=\"popular\">Drongpa<\/span><span class=\"scholar\">\u2019Brong pa<\/span> <\/li> <li>Survey expedition: HTCE<\/li> <li>Survey date: April 23, 2002<\/li> <li>Contemporary usage: None.<\/li> <li>Identifiable Buddhist constructions: <span class=\"popular emph\">Mani<\/span><span class=\"scholar emph\">ma \u1e47i<\/span> mantras have been recently carved into the formation.<\/li> <\/ul>"},{"title":"General site characteristics","index":4,"parent_index":2,"body":"<p>A tower-like ruin situated in the <span class=\"popular\">To Chu<\/span><span class=\"scholar\">Mtho chu<\/span>valley has been assigned the name <span class=\"popular\">Tochu Khar<\/span><span class=\"scholar\">Mtho chu mkhar<\/span> for the purposes of this study. This archaeological site appears to be innominate. It is situated on the western edge of the <span class=\"popular\">To Chu<\/span><span class=\"scholar\">Mtho chu<\/span> valley approximately 2 km above its mouth. The main edifice of the site is still about 5 m tall, and it is planted on top of a rock outcrop, adding another 10 m to 15 m to its elevation. This structure appears to have consisted of three stories, the tallest all-stone edifice documented to date in Upper Tibet. The walls of the tower taper slightly inward, in the manner of traditional Central Tibetan monumental architecture. The walls at the base of the building are around 1 m thick and about 75 cm thick in the upper sections. The remains of a smaller residential structure are also found on the site. It would appear that <span class=\"popular\">Tochu Khar<\/span><span class=\"scholar\">Mtho chu mkhar<\/span> was a fortified habitation, which belonged to high-ranking members of the archaic horizon society. Its location is not particularly well insulated from attack, so it seems plausible that it existed within a residential web of temporary shelters. <\/p>"},{"title":"Oral tradition","index":5,"parent_index":2,"body":"<p>Local <span class=\"popular emph\">drok pa<\/span><span class=\"scholar emph\">\u2019brog pa<\/span> ascribe <span class=\"popular\">Tochu Khar<\/span><span class=\"scholar\">Mtho chu mkhar<\/span> to the ancient <span class=\"popular\">M\u00f6n<\/span><span class=\"scholar\">Mon<\/span>.<\/p>"},{"title":"Site elements","index":6,"parent_index":2},{"title":"Tower","index":7,"parent_index":6,"body":"<p>The tower is built of light-gray sedimentary stone and red and tan sandstone cut into variable-sized blocks (20 cm to 1 m long), averaging about 40 cm in length. The random-work courses were mud mortared but much of the adhesive has washed out from the walls. What mortar remains is heavily impacted and covered in lichen. The modified square ground plan has an indenture on one side and measures 7 m x 4.4 m x 4.4 m x 3.6 m on each of its four main faces. The two walls of the cut-away section measure 1.5 m x 1.6 m. The current maximum exterior elevation of the structure is approximately 5 m, but in order to accommodate a roof it was at least marginally aller. The ingression is in the south, the indented side of the edifice. The integral portal has a height of 1m and a width of 80 cm. It accesses a vestibule that runs the entire north-south length of the structure. The all-stone corbelled roof over the vestibule is still fully intact. On its rear west side there is access to the second floor, which is set 1.2 m higher. This level is divided into two rooms by a 75-cm thick partition wall. Two stone floor joists, more than 1.5 m in length, are still in place. In the south room some of the corbels are in situ as well. Directly below these two rooms there may have been a basement but, if so, it has either collapsed or been sealed off by rubble. The vestibule also accesses an upper room directly above it, which appears to have constituted part of the third level of the tower. <\/p>"},{"title":"Outlying structures","index":8,"parent_index":6,"body":"<p>Below the entrance, at the southeast base of the outcrop, are the remains of another all-stone habitational structure. Its walls have been reduced to 1.1 m or less in height. This structure was built against a cliff; its hree freestanding walls measure 1.5 m, 3 m and 2.5 m. There is much rubble from these walls lying at the base of the structure. Above this carcass there appears to be the remains of a buttressed stairway, which accessed he entrance to the tower. <\/p>"}]}
+{
+ "nodes": [
+  {
+   "body": "", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "Tochu Khar Introduction"
+  }, 
+  {
+   "body": "", 
+   "index": 1, 
+   "parent_index": 0, 
+   "title": "I.1. Residential Structures Occupying Summits: Fortresses, breastworks, religious buildings, palaces, and related edifices"
+  }, 
+  {
+   "body": "", 
+   "index": 2, 
+   "parent_index": 1, 
+   "title": " mtho chu mhkar "
+  }, 
+  {
+   "body": "<ul class=\"bullet-blue\"> <li>Site name: mtho chu mhkar </li> <li>English equivalent: Lofty River Castle</li> <li>Site number: A-79</li> <li>Site typology: I.1a </li> <li>Geographic coordinate (N. lat.): 29º 38.4΄ </li> <li>Geographic coordinate (E. long.): 84º 21.1΄</li> <li>Elevation: 4830 m.</li> <li>Administrative location (township): <span class=\"popular\">Darma</span><span class=\"scholar\">Dar ma</span> </li> <li>Administrative location (county): <span class=\"popular\">Drongpa</span><span class=\"scholar\">’Brong pa</span> </li> <li>Survey expedition: HTCE</li> <li>Survey date: April 23, 2002</li> <li>Contemporary usage: None.</li> <li>Identifiable Buddhist constructions: <span class=\"popular emph\">Mani</span><span class=\"scholar emph\">ma ṇi</span> mantras have been recently carved into the formation.</li> </ul>
+", 
+   "index": 3, 
+   "parent_index": 2, 
+   "title": "Basic site data"
+  }, 
+  {
+   "body": "<p>A tower-like ruin situated in the <span class=\"popular\">To Chu</span><span class=\"scholar\">Mtho chu</span>valley has been assigned the name <span class=\"popular\">Tochu Khar</span><span class=\"scholar\">Mtho chu mkhar</span> for the purposes of this study. This archaeological site appears to be innominate. It is situated on the western edge of the <span class=\"popular\">To Chu</span><span class=\"scholar\">Mtho chu</span> valley approximately 2 km above its mouth. The main edifice of the site is still about 5 m tall, and it is planted on top of a rock outcrop, adding another 10 m to 15 m to its elevation. This structure appears to have consisted of three stories, the tallest all-stone edifice documented to date in Upper Tibet. The walls of the tower taper slightly inward, in the manner of traditional Central Tibetan monumental architecture. The walls at the base of the building are around 1 m thick and about 75 cm thick in the upper sections. The remains of a smaller residential structure are also found on the site. It would appear that <span class=\"popular\">Tochu Khar</span><span class=\"scholar\">Mtho chu mkhar</span> was a fortified habitation, which belonged to high-ranking members of the archaic horizon society. Its location is not particularly well insulated from attack, so it seems plausible that it existed within a residential web of temporary shelters. </p>
+", 
+   "index": 4, 
+   "parent_index": 2, 
+   "title": "General site characteristics"
+  }, 
+  {
+   "body": "<p>Local <span class=\"popular emph\">drok pa</span><span class=\"scholar emph\">’brog pa</span> ascribe <span class=\"popular\">Tochu Khar</span><span class=\"scholar\">Mtho chu mkhar</span> to the ancient <span class=\"popular\">Mön</span><span class=\"scholar\">Mon</span>.</p>
+", 
+   "index": 5, 
+   "parent_index": 2, 
+   "title": "Oral tradition"
+  }, 
+  {
+   "body": "", 
+   "index": 6, 
+   "parent_index": 2, 
+   "title": "Site elements"
+  }, 
+  {
+   "body": "<p>The tower is built of light-gray sedimentary stone and red and tan sandstone cut into variable-sized blocks (20 cm to 1 m long), averaging about 40 cm in length. The random-work courses were mud mortared but much of the adhesive has washed out from the walls. What mortar remains is heavily impacted and covered in lichen. The modified square ground plan has an indenture on one side and measures 7 m x 4.4 m x 4.4 m x 3.6 m on each of its four main faces. The two walls of the cut-away section measure 1.5 m x 1.6 m. The current maximum exterior elevation of the structure is approximately 5 m, but in order to accommodate a roof it was at least marginally aller. The ingression is in the south, the indented side of the edifice. The integral portal has a height of 1m and a width of 80 cm. It accesses a vestibule that runs the entire north-south length of the structure. The all-stone corbelled roof over the vestibule is still fully intact. On its rear west side there is access to the second floor, which is set 1.2 m higher. This level is divided into two rooms by a 75-cm thick partition wall. Two stone floor joists, more than 1.5 m in length, are still in place. In the south room some of the corbels are in situ as well. Directly below these two rooms there may have been a basement but, if so, it has either collapsed or been sealed off by rubble. The vestibule also accesses an upper room directly above it, which appears to have constituted part of the third level of the tower. </p>
+", 
+   "index": 7, 
+   "parent_index": 6, 
+   "title": "Tower"
+  }, 
+  {
+   "body": "<p>Below the entrance, at the southeast base of the outcrop, are the remains of another all-stone habitational structure. Its walls have been reduced to 1.1 m or less in height. This structure was built against a cliff; its hree freestanding walls measure 1.5 m, 3 m and 2.5 m. There is much rubble from these walls lying at the base of the structure. Above this carcass there appears to be the remains of a buttressed stairway, which accessed he entrance to the tower. </p>
+", 
+   "index": 8, 
+   "parent_index": 6, 
+   "title": "Outlying structures"
+  }
+ ], 
+ "meta": {
+  "authors": [], 
+  "domain": "places", 
+  "kid": "16512", 
+  "dates": [], 
+  "title": "Tochu Khar Introduction"
+ }
+}

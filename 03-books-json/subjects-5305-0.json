@@ -1,5 +1,26 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"5305","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:51 UTC","updated_at":"2013-09-15 04:15:51 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">In the classical language and in modern literary texts, reported speech is usually marked by the syllable <span class=\"tibetan\" title=\"Type ID here\">\u0f5e\u0f7a\u0f66\u0f0b<\/span> at the end of a quotation, or by its variant form <span class=\"tibetan\" title=\"Type ID here\">\u0f45\u0f7a\u0f66\u0f0b<\/span> (the variant <span class=\"tibetan\" title=\"Type ID here\">\u0f64\u0f7a\u0f66\u0f0b<\/span> is archaic).<a href=\"#_ftn1\">[1]<\/a> It functions like its oral homologue <span class=\"tibetan\" title=\"Type ID here\">\u0f5f\u0f7a\u0f0b<\/span> and comes immediately before the verb of speech. Although this marker is usually used for direct speech, it may also be used to introduce reported speech. There is no structural (or syntactic) difference between the two types of speech. The ways in which reported speech is introduced vary in Classical Tibetan and, apart from <span class=\"tibetan\" title=\"Type ID here\">\u0f5e\u0f7a\u0f66\u0f0b<\/span>, there are several other ways of ending a quotation, although these are used less frequently. The most common are as follows:<\/p><p>\u00a0<\/p><hr size=\"1\" \/><p><a href=\"#_ftnref1\">[1]<\/a> Concerning the use of variants, see the table in the section on \u201ccase\u201d in this Reference Grammar. (xxlink table Variant Written Forms)<\/p>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"5305","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:51 UTC","updated_at":"2013-09-15 04:15:51 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p class=\"Paragraph\">In the classical language and in modern literary texts, reported speech is usually marked by the syllable <span class=\"tibetan\" title=\"Type ID here\">ཞེས་</span> at the end of a quotation, or by its variant form <span class=\"tibetan\" title=\"Type ID here\">ཅེས་</span> (the variant <span class=\"tibetan\" title=\"Type ID here\">ཤེས་</span> is archaic).<a href=\"#_ftn1\">[1]</a> It functions like its oral homologue <span class=\"tibetan\" title=\"Type ID here\">ཟེ་</span> and comes immediately before the verb of speech. Although this marker is usually used for direct speech, it may also be used to introduce reported speech. There is no structural (or syntactic) difference between the two types of speech. The ways in which reported speech is introduced vary in Classical Tibetan and, apart from <span class=\"tibetan\" title=\"Type ID here\">ཞེས་</span>, there are several other ways of ending a quotation, although these are used less frequently. The most common are as follows:</p> <p> </p> <hr size=\"1\" /> <p><a href=\"#_ftnref1\">[1]</a> Concerning the use of variants, see the table in the section on “case” in this Reference Grammar. (xxlink table Variant Written Forms)</p>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p class=\"Paragraph\">In the classical language and in modern literary texts, reported speech is usually marked by the syllable <span class=\"tibetan\" title=\"Type ID here\">ཞེས་</span> at the end of a quotation, or by its variant form <span class=\"tibetan\" title=\"Type ID here\">ཅེས་</span> (the variant <span class=\"tibetan\" title=\"Type ID here\">ཤེས་</span> is archaic).<a href=\"#_ftn1\">[1]</a> It functions like its oral homologue <span class=\"tibetan\" title=\"Type ID here\">ཟེ་</span> and comes immediately before the verb of speech. Although this marker is usually used for direct speech, it may also be used to introduce reported speech. There is no structural (or syntactic) difference between the two types of speech. The ways in which reported speech is introduced vary in Classical Tibetan and, apart from <span class=\"tibetan\" title=\"Type ID here\">ཞེས་</span>, there are several other ways of ending a quotation, although these are used less frequently. The most common are as follows:</p>
+<p> </p>
+<hr size=\"1\"/>
+<p><a href=\"#_ftnref1\">[1]</a> Concerning the use of variants, see the table in the section on “case” in this Reference Grammar. (xxlink table Variant Written Forms)</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Nicolas Tournadre", 
+    "id": "6"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "5305", 
+  "dates": [], 
+  "title": null
+ }
+}

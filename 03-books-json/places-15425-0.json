@@ -1,1 +1,27 @@
-{"meta":{"domain":"places","kid":"15425","authors":[{"fullname":"Mark Turin","id":"16"},{"fullname":"Mark Turin","id":"16"}],"title":"","dates":{"created_at":"2009-06-11 15:11:51 UTC","updated_at":"2009-06-11 15:11:51 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>The Limbu are the second most numerous tribe of the indigenous Kiranti group, and live along the easternmost section of the Himalayas between the Arun River in Nepal and the border of Sikkim state, India. According to the 2001 census of Nepal, there are 359,379 ethnic Limbu who account for 1.58 percent of Nepal\u2019s total population, of whom 333,633 speak the Limbu language as a mother tongue. Limbu villages are found 2,500 to 4,000 feet (800 to 1,200 m) above sea level and consist of 30\u2013100 stone houses surrounded by dry-cultivated fields. Divided into patrilineal clans, the families were traditionally led by a headman, or subba, who is often a returned Gurkha soldier. Maintaining a self-sufficient economy, the Limbu grow rice, wheat, and corn (maize) on terraced and irrigated fields; land is planted once a year. In addition, buffalo are kept, and goats, chickens, and sheep are raised for meat. Although influenced by Buddhism from Tibet as well as by rituals from nearby lamaseries, the Limbu observe a traditional religion.<\/p>","title":""}]}
+{
+ "nodes": [
+  {
+   "body": "<p>The Limbu are the second most numerous tribe of the indigenous Kiranti group, and live along the easternmost section of the Himalayas between the Arun River in Nepal and the border of Sikkim state, India. According to the 2001 census of Nepal, there are 359,379 ethnic Limbu who account for 1.58 percent of Nepal’s total population, of whom 333,633 speak the Limbu language as a mother tongue. Limbu villages are found 2,500 to 4,000 feet (800 to 1,200 m) above sea level and consist of 30–100 stone houses surrounded by dry-cultivated fields. Divided into patrilineal clans, the families were traditionally led by a headman, or subba, who is often a returned Gurkha soldier. Maintaining a self-sufficient economy, the Limbu grow rice, wheat, and corn (maize) on terraced and irrigated fields; land is planted once a year. In addition, buffalo are kept, and goats, chickens, and sheep are raised for meat. Although influenced by Buddhism from Tibet as well as by rituals from nearby lamaseries, the Limbu observe a traditional religion.</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Mark Turin", 
+    "id": "16"
+   }, 
+   {
+    "fullname": "Mark Turin", 
+    "id": "16"
+   }
+  ], 
+  "domain": "places", 
+  "kid": "15425", 
+  "dates": [], 
+  "title": null
+ }
+}

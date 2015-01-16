@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"6712","authors":[{"fullname":"Rinchenkhar","id":"25"}],"title":"","dates":{"created_at":"2013-09-15 04:19:06 UTC","updated_at":"2013-09-15 04:19:06 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>\u0f66\u0f7c\u0f42\u0f0b\u0f54\u0f7c\u0f66\u0f0b\u0f63\u0f74\u0f42\u0f0b\u0f63\u0fa4\u0f42\u0f66\u0f0b\u0f63\u0f66\u0f0b\u0f56\u0f5f\u0f7c\u0f66\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f66\u0f7c\u0f42\u0f0b\u0f62\u0f72\u0f42\u0f66\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f62\u0fa9\u0f42\u0f0b\u0f54\u0f0b\u0f63\u0f0b\u0f5f\u0f7a\u0f62\u0f0d<\/p>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"6712","authors":[{"fullname":"Rinchenkhar","id":"25"}],"title":"","dates":{"created_at":"2013-09-15 04:19:06 UTC","updated_at":"2013-09-15 04:19:06 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<p>སོག་པོས་ལུག་ལྤགས་ལས་བཟོས་པའི་སོག་རིགས་ཀྱི་རྩག་པ་ལ་ཟེར།</p>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<p>སོག་པོས་ལུག་ལྤགས་ལས་བཟོས་པའི་སོག་རིགས་ཀྱི་རྩག་པ་ལ་ཟེར།</p>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Rinchenkhar", 
+    "id": "25"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "6712", 
+  "dates": [], 
+  "title": null
+ }
+}

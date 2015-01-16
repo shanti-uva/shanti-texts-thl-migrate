@@ -1,1 +1,95 @@
-{"meta":{"domain":"places","kid":"23499","authors":[{"fullname":"\u0f5a\u0f7a\u0f0b\u0f62\u0f72\u0f44\u0f0b\u0f50\u0f62\u0f0d (Tsering Thar)","id":"80"},{"fullname":"\u0f5a\u0f7a\u0f0b\u0f62\u0f72\u0f44\u0f0b\u0f50\u0f62\u0f0d (Tsering Thar)","id":"80"}],"title":"Samdrup Introduction","dates":{"created_at":"2011-12-13 02:29:32 UTC","updated_at":"2011-12-13 02:29:32 UTC"}},"nodes":[{"index":0,"parent_index":-1,"title":"Samdrup Introduction"},{"title":"The bo County","index":1,"parent_index":0},{"title":"(93) Nags gong Monastery","index":2,"parent_index":1},{"title":"1. Name","index":3,"parent_index":2,"body":"<p>The monastery\u2019s real name is bSam \u2019grub, but since it is located at the foot of Nags gong village it is locally known as Nags gong or Nags gong bSam \u2019grub dgon.<\/p>"},{"title":"2. Location","index":4,"parent_index":2,"body":"<p>Nags gong Monastery is located on north bank of the \u2019A zha river in \u2019A zha valley, about 90 km southeast of the county town (latitude: 33\u00b048\u201918\u201dN, longitude 103\u00b041\u201958\u201dE).<\/p>"},{"title":"3. History","index":5,"parent_index":2,"body":"<p>The monastery was founded in ca. 875 A.D. by sKyang \u2019phags Nyi ma rgyal \u2019mtshan and is now a branch monastery of dGu skyang Monastery (No.196), the main seat of dGu skyang Nyi ma rgyal mtshan. Prior to 1959, the monastery comprised one assembly hall, and living quarters consisting of thirty-nine cells accomodating fifty monks (<span xmlns:str=\"http:\/\/exslt.org\/strings\" style=\"font-style: italic;\" class=\"\">DBSJ<\/span>, p.101; <span xmlns:str=\"http:\/\/exslt.org\/strings\" style=\"font-style: italic;\" class=\"\">TLPY,<\/span> p.69). It was rebuilt in 1991. At present it comprises one assembly hall, the residence of the head lama, and ten cells.<\/p><p>When I visited the monastery, the assembly hall was under construction, but all the monks were away performing a ritual at a private home. I found the head lama of the monastery in Pe gseb village. He was born in 1968. He is not considered an incarnation but was chosen a few years ago by the monks. Since he has been busy with rebuilding the monastery, he has had little time to study and knows almost nothing of the monastery\u2019s history, even though he is considered the most learned person in the area.<\/p>"},{"title":"5. Current number of monks","index":6,"parent_index":2,"body":"<p>The monastery has twelve monks, five or six of whom live outside the monastery with their families.<\/p>"},{"title":"6. Current education","index":7,"parent_index":2,"body":"<p>The head of the monastery is a young monk called bSod nams ye she. Since all the monks are very young, they study mainly Tibetan and ritual practice under the head master.<\/p>"},{"title":"8 \/ 9. Rituals","index":8,"parent_index":2,"body":"<p>The monks go to dGu skyang to perform the <span xmlns:str=\"http:\/\/exslt.org\/strings\" style=\"font-style: italic;\" class=\"\">\u2019cham<\/span> dance with the monks there on the 13th day of the 3rd month. Occasionally, they also perform funerary rites and rituals for health, fortune, abundant crops etc, in private homes at the behest of the families. <\/p>"},{"title":"12. Local community","index":9,"parent_index":2,"body":"<p>The local lay community of the monastery consists of five villages: Nags gong with twenty families, Pe gseb with thirty-eight families, Gro mang with twenty-two families, dNgul ba with twelve families and sTag dpung with ten families (one hundred and three people in total).<\/p>"},{"title":"14. Occupation of the local people","index":10,"parent_index":2,"body":"<p>Farming<\/p>"}]}
+{
+ "nodes": [
+  {
+   "body": "", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": "Samdrup Introduction"
+  }, 
+  {
+   "body": "", 
+   "index": 1, 
+   "parent_index": 0, 
+   "title": "The bo County"
+  }, 
+  {
+   "body": "", 
+   "index": 2, 
+   "parent_index": 1, 
+   "title": "(93) Nags gong Monastery"
+  }, 
+  {
+   "body": "<p>The monastery’s real name is bSam ’grub, but since it is located at the foot of Nags gong village it is locally known as Nags gong or Nags gong bSam ’grub dgon.</p>
+", 
+   "index": 3, 
+   "parent_index": 2, 
+   "title": "1. Name "
+  }, 
+  {
+   "body": "<p>Nags gong Monastery is located on north bank of the ’A zha river in ’A zha valley, about 90 km southeast of the county town (latitude: 33°48’18”N, longitude 103°41’58”E).</p>
+", 
+   "index": 4, 
+   "parent_index": 2, 
+   "title": "2. Location"
+  }, 
+  {
+   "body": "<p>The monastery was founded in ca. 875 A.D. by sKyang ’phags Nyi ma rgyal ’mtshan and is now a branch monastery of dGu skyang Monastery (No.196), the main seat of dGu skyang Nyi ma rgyal mtshan. Prior to 1959, the monastery comprised one assembly hall, and living quarters consisting of thirty-nine cells accomodating fifty monks (<span xmlns:str=\"http://exslt.org/strings\" style=\"font-style: italic;\" class=\"\">DBSJ</span>, p.101; <span xmlns:str=\"http://exslt.org/strings\" style=\"font-style: italic;\" class=\"\">TLPY,</span> p.69). It was rebuilt in 1991. At present it comprises one assembly hall, the residence of the head lama, and ten cells.</p>
+<p>When I visited the monastery, the assembly hall was under construction, but all the monks were away performing a ritual at a private home. I found the head lama of the monastery in Pe gseb village. He was born in 1968. He is not considered an incarnation but was chosen a few years ago by the monks. Since he has been busy with rebuilding the monastery, he has had little time to study and knows almost nothing of the monastery’s history, even though he is considered the most learned person in the area.</p>
+", 
+   "index": 5, 
+   "parent_index": 2, 
+   "title": "3. History"
+  }, 
+  {
+   "body": "<p>The monastery has twelve monks, five or six of whom live outside the monastery with their families.</p>
+", 
+   "index": 6, 
+   "parent_index": 2, 
+   "title": "5. Current number of monks "
+  }, 
+  {
+   "body": "<p>The head of the monastery is a young monk called bSod nams ye she. Since all the monks are very young, they study mainly Tibetan and ritual practice under the head master.</p>
+", 
+   "index": 7, 
+   "parent_index": 2, 
+   "title": "6. Current education"
+  }, 
+  {
+   "body": "<p>The monks go to dGu skyang to perform the <span xmlns:str=\"http://exslt.org/strings\" style=\"font-style: italic;\" class=\"\">’cham</span> dance with the monks there on the 13th day of the 3rd month. Occasionally, they also perform funerary rites and rituals for health, fortune, abundant crops etc, in private homes at the behest of the families. </p>
+", 
+   "index": 8, 
+   "parent_index": 2, 
+   "title": "8 / 9. Rituals "
+  }, 
+  {
+   "body": "<p>The local lay community of the monastery consists of five villages: Nags gong with twenty families, Pe gseb with thirty-eight families, Gro mang with twenty-two families, dNgul ba with twelve families and sTag dpung with ten families (one hundred and three people in total).</p>
+", 
+   "index": 9, 
+   "parent_index": 2, 
+   "title": "12. Local community"
+  }, 
+  {
+   "body": "<p>Farming</p>
+", 
+   "index": 10, 
+   "parent_index": 2, 
+   "title": "14. Occupation of the local people"
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "ཚེ་རིང་ཐར། (Tsering Thar)", 
+    "id": "80"
+   }, 
+   {
+    "fullname": "ཚེ་རིང་ཐར། (Tsering Thar)", 
+    "id": "80"
+   }
+  ], 
+  "domain": "places", 
+  "kid": "23499", 
+  "dates": [], 
+  "title": "Samdrup Introduction"
+ }
+}

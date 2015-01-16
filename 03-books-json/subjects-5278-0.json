@@ -1,5 +1,23 @@
-<<<<<<< HEAD
-{"meta":{"domain":"subjects","kid":"5278","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:48 UTC","updated_at":"2013-09-15 04:15:48 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<ul> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f41\u0f7c\u0f44\u0f0b<\/span> (H)<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f41\u0f7c\u0f0b<\/span> (Masculine)<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f41\u0f7c\u0f0b\u0f62\u0f44\u0f0b<\/span> (Masculine)<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f41\u0f7c\u0f0b\u0f54\u0f0b<\/span> (L, Masculine)<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f58\u0f7c\u0f0b<\/span> (Feminine)<\/li> <li><span class=\"tibetan\" title=\"Type ID here\">\u0f58\u0f7c\u0f0b\u0f62\u0f44\u0f0b<\/span> (Feminine)<\/li> <\/ul>","title":""}]}
-=======
-{"meta":{"domain":"subjects","kid":"5278","authors":[{"fullname":"Nicolas Tournadre","id":"6"}],"title":"","dates":{"created_at":"2013-09-15 04:15:48 UTC","updated_at":"2013-09-15 04:15:48 UTC"}},"nodes":[{"index":0,"parent_index":-1,"body":"<ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཁོང་</span> (H)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁོ་</span> (Masculine)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁོ་རང་</span> (Masculine)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁོ་པ་</span> (L, Masculine)</li> <li><span class=\"tibetan\" title=\"Type ID here\">མོ་</span> (Feminine)</li> <li><span class=\"tibetan\" title=\"Type ID here\">མོ་རང་</span> (Feminine)</li> </ul>","title":""}]}
->>>>>>> 4c0b74464f758c8a053ce596f9f96a998047b424
+{
+ "nodes": [
+  {
+   "body": "<ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཁོང་</span> (H)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁོ་</span> (Masculine)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁོ་རང་</span> (Masculine)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁོ་པ་</span> (L, Masculine)</li> <li><span class=\"tibetan\" title=\"Type ID here\">མོ་</span> (Feminine)</li> <li><span class=\"tibetan\" title=\"Type ID here\">མོ་རང་</span> (Feminine)</li> </ul>
+", 
+   "index": 0, 
+   "parent_index": -1, 
+   "title": null
+  }
+ ], 
+ "meta": {
+  "authors": [
+   {
+    "fullname": "Nicolas Tournadre", 
+    "id": "6"
+   }
+  ], 
+  "domain": "subjects", 
+  "kid": "5278", 
+  "dates": [], 
+  "title": null
+ }
+}
