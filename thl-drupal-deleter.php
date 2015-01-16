@@ -1,7 +1,7 @@
 <?php
 
-$min = 66643;
-$max = 67039;
+$min = 67040;
+$max = 68917;
 print "Deleting nodes from $min to $max ...\n";
 for ($nid = $min; $nid <= $max; $nid++) {
   print $nid;
