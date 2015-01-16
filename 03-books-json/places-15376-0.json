@@ -14,6 +14,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-03-25 11:27:46 UTC", 
+  "domain": "places", 
+  "kid": "15376", 
   "authors": [
    {
     "fullname": "Gray Tuttle", 
@@ -24,9 +27,6 @@
     "id": "24"
    }
   ], 
-  "domain": "places", 
-  "kid": "15376", 
-  "dates": [], 
   "title": "An Introduction to Gyelrong "
  }
 }

@@ -14,15 +14,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:07:46 UTC", 
+  "domain": "subjects", 
+  "kid": "1842", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "1842", 
-  "dates": [], 
   "title": "General Confession of Breaking the Three Vows"
  }
 }

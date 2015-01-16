@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:15:43 UTC", 
+  "domain": "subjects", 
+  "kid": "5245", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5245", 
-  "dates": [], 
   "title": "About Table: Common Interrogatives"
  }
 }

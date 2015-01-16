@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:08:57 UTC", 
+  "domain": "subjects", 
+  "kid": "2197", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2197", 
-  "dates": [], 
   "title": "About Destruction-mantra collections"
  }
 }

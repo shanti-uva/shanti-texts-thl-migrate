@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:17:22 UTC", 
+  "domain": "subjects", 
+  "kid": "5727", 
   "authors": [
    {
     "fullname": "Suzanne Bessenger", 
     "id": "22"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5727", 
-  "dates": [], 
   "title": "About Assistant Treasurer"
  }
 }

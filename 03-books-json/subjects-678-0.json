@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:05:02 UTC", 
+  "domain": "subjects", 
+  "kid": "678", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "678", 
-  "dates": [], 
   "title": "An Overview of the Lakha Dialect"
  }
 }

@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2009-06-11 15:11:51 UTC", 
+  "domain": "places", 
+  "kid": "15425", 
   "authors": [
    {
     "fullname": "Mark Turin", 
@@ -18,9 +21,6 @@
     "id": "16"
    }
   ], 
-  "domain": "places", 
-  "kid": "15425", 
-  "dates": [], 
   "title": "About Limbu"
  }
 }

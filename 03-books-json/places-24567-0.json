@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-11-10 19:54:25 UTC", 
+  "domain": "places", 
+  "kid": "24567", 
   "authors": [
    {
     "fullname": "Lionel Caplan", 
@@ -18,9 +21,6 @@
     "id": "82"
    }
   ], 
-  "domain": "places", 
-  "kid": "24567", 
-  "dates": [], 
   "title": "Description of Bhurti"
  }
 }

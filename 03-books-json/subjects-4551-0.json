@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:13:37 UTC", 
+  "domain": "subjects", 
+  "kid": "4551", 
   "authors": [
    {
     "fullname": "Lionel Caplan", 
     "id": "16"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "4551", 
-  "dates": [], 
   "title": "An Overview of the Caplan Collection"
  }
 }

@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2009-06-12 09:10:27 UTC", 
+  "domain": "places", 
+  "kid": "15438", 
   "authors": [
    {
     "fullname": "Mark Turin", 
@@ -18,9 +21,6 @@
     "id": "16"
    }
   ], 
-  "domain": "places", 
-  "kid": "15438", 
-  "dates": [], 
   "title": "About Sunuwar"
  }
 }

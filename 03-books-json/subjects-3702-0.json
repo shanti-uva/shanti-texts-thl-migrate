@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:12:04 UTC", 
+  "domain": "subjects", 
+  "kid": "3702", 
   "authors": [
    {
     "fullname": "Pema Namgyal", 
     "id": "4"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "3702", 
-  "dates": [], 
   "title": "About military school"
  }
 }

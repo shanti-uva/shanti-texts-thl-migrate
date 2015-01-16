@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:14:36 UTC", 
+  "domain": "subjects", 
+  "kid": "4924", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "4924", 
-  "dates": [], 
   "title": "Overview of Physical Structures and Organizational Events"
  }
 }

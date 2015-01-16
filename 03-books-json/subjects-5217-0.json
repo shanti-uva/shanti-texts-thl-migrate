@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:15:39 UTC", 
+  "domain": "subjects", 
+  "kid": "5217", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5217", 
-  "dates": [], 
   "title": "About The Construction ལས་ + Verb: “More Than”"
  }
 }

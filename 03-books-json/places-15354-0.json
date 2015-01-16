@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2009-06-08 17:45:06 UTC", 
+  "domain": "places", 
+  "kid": "15354", 
   "authors": [
    {
     "fullname": "David Germano", 
@@ -18,9 +21,6 @@
     "id": "42"
    }
   ], 
-  "domain": "places", 
-  "kid": "15354", 
-  "dates": [], 
   "title": "About Tsang"
  }
 }

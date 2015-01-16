@@ -104,6 +104,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:30:40 UTC", 
+  "domain": "places", 
+  "kid": "23639", 
   "authors": [
    {
     "fullname": "Charles Ramble", 
@@ -122,9 +125,6 @@
     "id": "81"
    }
   ], 
-  "domain": "places", 
-  "kid": "23639", 
-  "dates": [], 
   "title": "Trashi Gegyé Taten Ling Introduction"
  }
 }

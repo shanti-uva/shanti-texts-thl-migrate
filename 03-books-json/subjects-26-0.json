@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:03:21 UTC", 
+  "domain": "subjects", 
+  "kid": "26", 
   "authors": [
    {
     "fullname": "David Germano", 
@@ -18,9 +21,6 @@
     "id": "10"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "26", 
-  "dates": [], 
   "title": "An Overview of Agricultural Estates"
  }
 }

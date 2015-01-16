@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2009-06-11 10:07:23 UTC", 
+  "domain": "places", 
+  "kid": "15411", 
   "authors": [
    {
     "fullname": "Mark Turin", 
@@ -18,9 +21,6 @@
     "id": "16"
    }
   ], 
-  "domain": "places", 
-  "kid": "15411", 
-  "dates": [], 
   "title": "About Chamling"
  }
 }

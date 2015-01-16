@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2010-02-25 19:38:43 UTC", 
+  "domain": "places", 
+  "kid": "15374", 
   "authors": [
    {
     "fullname": "Gray Tuttle", 
@@ -18,9 +21,6 @@
     "id": "24"
    }
   ], 
-  "domain": "places", 
-  "kid": "15374", 
-  "dates": [], 
   "title": "An Introduction to Repgong"
  }
 }

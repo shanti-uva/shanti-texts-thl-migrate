@@ -158,6 +158,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:30:45 UTC", 
+  "domain": "places", 
+  "kid": "23632", 
   "authors": [
    {
     "fullname": "Charles Ramble", 
@@ -176,9 +179,6 @@
     "id": "81"
    }
   ], 
-  "domain": "places", 
-  "kid": "23632", 
-  "dates": [], 
   "title": "Yungdrung Chukmo Introduction"
  }
 }

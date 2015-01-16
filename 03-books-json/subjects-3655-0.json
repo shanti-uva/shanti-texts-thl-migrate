@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:11:59 UTC", 
+  "domain": "subjects", 
+  "kid": "3655", 
   "authors": [
    {
     "fullname": "Pema Namgyal", 
     "id": "4"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "3655", 
-  "dates": [], 
   "title": "About agricultural school"
  }
 }

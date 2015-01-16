@@ -20,15 +20,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:09:11 UTC", 
+  "domain": "subjects", 
+  "kid": "2266", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2266", 
-  "dates": [], 
   "title": "About "Red" offering"
  }
 }

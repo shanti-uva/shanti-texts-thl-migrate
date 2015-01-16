@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-11-14 15:18:33 UTC", 
+  "domain": "places", 
+  "kid": "24568", 
   "authors": [
    {
     "fullname": "Lionel Caplan", 
@@ -18,9 +21,6 @@
     "id": "82"
    }
   ], 
-  "domain": "places", 
-  "kid": "24568", 
-  "dates": [], 
   "title": "Description of the Indreni Settlement Cluster"
  }
 }

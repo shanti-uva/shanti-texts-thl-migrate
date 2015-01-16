@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2009-06-12 09:33:43 UTC", 
+  "domain": "places", 
+  "kid": "15446", 
   "authors": [
    {
     "fullname": "Mark Turin", 
@@ -18,9 +21,6 @@
     "id": "16"
    }
   ], 
-  "domain": "places", 
-  "kid": "15446", 
-  "dates": [], 
   "title": "About Yakkha"
  }
 }

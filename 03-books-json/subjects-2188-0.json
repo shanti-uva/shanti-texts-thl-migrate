@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:08:55 UTC", 
+  "domain": "subjects", 
+  "kid": "2188", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2188", 
-  "dates": [], 
   "title": "About For making long-life pills"
  }
 }

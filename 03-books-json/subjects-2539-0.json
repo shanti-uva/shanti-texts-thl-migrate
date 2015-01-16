@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:10:05 UTC", 
+  "domain": "subjects", 
+  "kid": "2539", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2539", 
-  "dates": [], 
   "title": "About 1. the primary feast offering"
  }
 }

@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:13:34 UTC", 
+  "domain": "subjects", 
+  "kid": "4533", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "4533", 
-  "dates": [], 
   "title": "An Overview of the Sakya-Mongol Yuan State"
  }
 }

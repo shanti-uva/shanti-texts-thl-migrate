@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:19:06 UTC", 
+  "domain": "subjects", 
+  "kid": "6712", 
   "authors": [
    {
     "fullname": "Rinchenkhar", 
     "id": "25"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "6712", 
-  "dates": [], 
   "title": "About Mongolian Robe"
  }
 }

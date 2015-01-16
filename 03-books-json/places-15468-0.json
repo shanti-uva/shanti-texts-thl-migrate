@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2010-02-03 08:36:05 UTC", 
+  "domain": "places", 
+  "kid": "15468", 
   "authors": [
    {
     "fullname": "Georges Dreyfus", 
@@ -18,9 +21,6 @@
     "id": "27"
    }
   ], 
-  "domain": "places", 
-  "kid": "15468", 
-  "dates": [], 
   "title": "An Introduction to Drepung Monastery"
  }
 }

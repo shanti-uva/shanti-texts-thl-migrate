@@ -32,6 +32,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:29:24 UTC", 
+  "domain": "places", 
+  "kid": "23480", 
   "authors": [
    {
     "fullname": "Phuntso Tsering Sharyul", 
@@ -42,9 +45,6 @@
     "id": "79"
    }
   ], 
-  "domain": "places", 
-  "kid": "23480", 
-  "dates": [], 
   "title": "Langu Introduction"
  }
 }

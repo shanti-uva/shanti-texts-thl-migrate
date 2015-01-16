@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:09:42 UTC", 
+  "domain": "subjects", 
+  "kid": "2422", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2422", 
-  "dates": [], 
   "title": "About Wind"
  }
 }

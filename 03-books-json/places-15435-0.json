@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2009-06-12 08:58:23 UTC", 
+  "domain": "places", 
+  "kid": "15435", 
   "authors": [
    {
     "fullname": "Mark Turin", 
@@ -18,9 +21,6 @@
     "id": "16"
    }
   ], 
-  "domain": "places", 
-  "kid": "15435", 
-  "dates": [], 
   "title": "About Sampang"
  }
 }

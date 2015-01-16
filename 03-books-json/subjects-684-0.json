@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:05:03 UTC", 
+  "domain": "subjects", 
+  "kid": "684", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "684", 
-  "dates": [], 
   "title": "An Overview of the Southeast Kokonor Amdo Dialect"
  }
 }

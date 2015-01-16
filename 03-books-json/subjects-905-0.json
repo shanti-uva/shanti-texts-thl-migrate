@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:05:52 UTC", 
+  "domain": "subjects", 
+  "kid": "905", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "905", 
-  "dates": [], 
   "title": "An Overview of the Zhijé Tradition"
  }
 }

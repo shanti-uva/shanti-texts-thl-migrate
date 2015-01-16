@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:06:14 UTC", 
+  "domain": "subjects", 
+  "kid": "1063", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "1063", 
-  "dates": [], 
   "title": "An Overview of HIstorical Political Titles"
  }
 }

@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:15:21 UTC", 
+  "domain": "subjects", 
+  "kid": "5089", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5089", 
-  "dates": [], 
   "title": "About Claiming and Pretending: Modal Constructions of the Type ཁག་བྱེད་"
  }
 }

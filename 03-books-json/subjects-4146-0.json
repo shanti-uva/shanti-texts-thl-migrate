@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:12:56 UTC", 
+  "domain": "subjects", 
+  "kid": "4146", 
   "authors": [
    {
     "fullname": "John Vincent Bellezza", 
     "id": "14"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "4146", 
-  "dates": [], 
   "title": "An Overview of the Residential Structure in an Other Location Feature"
  }
 }

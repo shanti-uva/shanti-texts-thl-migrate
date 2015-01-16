@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2009-06-12 09:01:13 UTC", 
+  "domain": "places", 
+  "kid": "15436", 
   "authors": [
    {
     "fullname": "Mark Turin", 
@@ -18,9 +21,6 @@
     "id": "16"
    }
   ], 
-  "domain": "places", 
-  "kid": "15436", 
-  "dates": [], 
   "title": "About Santhali"
  }
 }

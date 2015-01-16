@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:13:14 UTC", 
+  "domain": "subjects", 
+  "kid": "4321", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "4321", 
-  "dates": [], 
   "title": "An Overview of the Singing Speech Type"
  }
 }

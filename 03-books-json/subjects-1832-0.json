@@ -14,15 +14,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:07:43 UTC", 
+  "domain": "subjects", 
+  "kid": "1832", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "1832", 
-  "dates": [], 
   "title": "Ritual for Healing Animal Disease"
  }
 }

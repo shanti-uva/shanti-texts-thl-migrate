@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:17:46 UTC", 
+  "domain": "subjects", 
+  "kid": "5823", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5823", 
-  "dates": [], 
   "title": "An Overview of Compassion Meditations"
  }
 }

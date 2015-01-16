@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:05:06 UTC", 
+  "domain": "subjects", 
+  "kid": "698", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "698", 
-  "dates": [], 
   "title": "An Overview of the Töké Dialect"
  }
 }

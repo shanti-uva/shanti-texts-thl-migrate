@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:05:01 UTC", 
+  "domain": "subjects", 
+  "kid": "671", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "671", 
-  "dates": [], 
   "title": "An Overview of the Nyamké Dialect"
  }
 }

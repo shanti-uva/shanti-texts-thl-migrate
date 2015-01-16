@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:14:19 UTC", 
+  "domain": "subjects", 
+  "kid": "4876", 
   "authors": [
    {
     "fullname": "Steve Weinberger", 
     "id": "3"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "4876", 
-  "dates": [], 
   "title": "An Overview of the Translator’s Colophon Section"
  }
 }

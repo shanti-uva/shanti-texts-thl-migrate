@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:17:48 UTC", 
+  "domain": "subjects", 
+  "kid": "5831", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5831", 
-  "dates": [], 
   "title": "About Guru Yoga"
  }
 }

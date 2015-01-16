@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-07-13 16:55:23 UTC", 
+  "domain": "places", 
+  "kid": "23688", 
   "authors": [
    {
     "fullname": "Yudru Tsomu", 
@@ -18,9 +21,6 @@
     "id": "52"
    }
   ], 
-  "domain": "places", 
-  "kid": "23688", 
-  "dates": [], 
   "title": "An Overview of Dzelung Tö"
  }
 }

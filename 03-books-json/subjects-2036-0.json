@@ -20,15 +20,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:08:22 UTC", 
+  "domain": "subjects", 
+  "kid": "2036", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2036", 
-  "dates": [], 
   "title": "Empowerment Symbolism Explanatory Text"
  }
 }

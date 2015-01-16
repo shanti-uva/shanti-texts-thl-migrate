@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:08:59 UTC", 
+  "domain": "subjects", 
+  "kid": "2208", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2208", 
-  "dates": [], 
   "title": "About Release from the gods"
  }
 }

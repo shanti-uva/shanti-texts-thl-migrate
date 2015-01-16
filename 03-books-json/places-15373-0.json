@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2009-06-09 18:10:20 UTC", 
+  "domain": "places", 
+  "kid": "15373", 
   "authors": [
    {
     "fullname": "Toni Huber", 
@@ -18,9 +21,6 @@
     "id": "15"
    }
   ], 
-  "domain": "places", 
-  "kid": "15373", 
-  "dates": [], 
   "title": "Brief Overview of Labrang"
  }
 }

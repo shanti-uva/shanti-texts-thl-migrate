@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:03:33 UTC", 
+  "domain": "subjects", 
+  "kid": "109", 
   "authors": [
    {
     "fullname": "Ben Nourse", 
     "id": "13"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "109", 
-  "dates": [], 
   "title": "Lhasa Atlas description of "Temple or chapel" building type"
  }
 }

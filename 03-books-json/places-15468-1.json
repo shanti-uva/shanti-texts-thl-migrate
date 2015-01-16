@@ -20,6 +20,9 @@
   }
  ], 
  "meta": {
+  "date": "2010-08-13 17:00:43 UTC", 
+  "domain": "places", 
+  "kid": "15468", 
   "authors": [
    {
     "fullname": "ཆོས་འཕེལ། (Chömpel) ", 
@@ -30,9 +33,6 @@
     "id": "43"
    }
   ], 
-  "domain": "places", 
-  "kid": "15468", 
-  "dates": [], 
   "title": "འབྲས་སྤུངས།"
  }
 }

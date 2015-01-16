@@ -104,6 +104,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:28:49 UTC", 
+  "domain": "places", 
+  "kid": "23409", 
   "authors": [
    {
     "fullname": "Dondrup Lhagyal", 
@@ -114,9 +117,6 @@
     "id": "78"
    }
   ], 
-  "domain": "places", 
-  "kid": "23409", 
-  "dates": [], 
   "title": "Zangri Gön Introduction"
  }
 }

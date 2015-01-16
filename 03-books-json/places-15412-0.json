@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2009-06-11 10:10:19 UTC", 
+  "domain": "places", 
+  "kid": "15412", 
   "authors": [
    {
     "fullname": "Mark Turin", 
@@ -18,9 +21,6 @@
     "id": "16"
    }
   ], 
-  "domain": "places", 
-  "kid": "15412", 
-  "dates": [], 
   "title": "About Chantyal"
  }
 }

@@ -14,6 +14,9 @@
   }
  ], 
  "meta": {
+  "date": "2010-08-30 15:03:08 UTC", 
+  "domain": "places", 
+  "kid": "16961", 
   "authors": [
    {
     "fullname": "Iuchi Maho", 
@@ -24,9 +27,6 @@
     "id": "50"
    }
   ], 
-  "domain": "places", 
-  "kid": "16961", 
-  "dates": [], 
   "title": "Abbatial Succession of Lo Monastery (གདན་རབས།)"
  }
 }

@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:13:28 UTC", 
+  "domain": "subjects", 
+  "kid": "4482", 
   "authors": [
    {
     "fullname": "Thubten Phuntsok", 
     "id": "12"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "4482", 
-  "dates": [], 
   "title": "About Rgyal po"
  }
 }

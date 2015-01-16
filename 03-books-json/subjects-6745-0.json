@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:19:14 UTC", 
+  "domain": "subjects", 
+  "kid": "6745", 
   "authors": [
    {
     "fullname": "Rinchenkhar", 
     "id": "25"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "6745", 
-  "dates": [], 
   "title": "About Pajama"
  }
 }

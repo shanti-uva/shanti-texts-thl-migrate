@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:06:00 UTC", 
+  "domain": "subjects", 
+  "kid": "937", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "937", 
-  "dates": [], 
   "title": "An Overview of Hinduism"
  }
 }

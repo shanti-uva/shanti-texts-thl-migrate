@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:12:31 UTC", 
+  "domain": "subjects", 
+  "kid": "3979", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "3979", 
-  "dates": [], 
   "title": "An Overview of the Newman-2002-Digital Collection"
  }
 }

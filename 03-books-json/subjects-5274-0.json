@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:15:47 UTC", 
+  "domain": "subjects", 
+  "kid": "5274", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5274", 
-  "dates": [], 
   "title": "About First Person Singular (I)"
  }
 }

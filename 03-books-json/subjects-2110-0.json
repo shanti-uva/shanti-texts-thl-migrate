@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:08:39 UTC", 
+  "domain": "subjects", 
+  "kid": "2110", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2110", 
-  "dates": [], 
   "title": "About Exorcism using torma"
  }
 }

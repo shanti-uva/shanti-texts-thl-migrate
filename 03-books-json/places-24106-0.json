@@ -56,6 +56,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-06-13 12:56:44 UTC", 
+  "domain": "places", 
+  "kid": "24106", 
   "authors": [
    {
     "fullname": "Gray Tuttle", 
@@ -66,9 +69,6 @@
     "id": "24"
    }
   ], 
-  "domain": "places", 
-  "kid": "24106", 
-  "dates": [], 
   "title": "An Overview of Amdo (Northeastern Tibet) Historical Polities"
  }
 }

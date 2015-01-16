@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2009-06-11 10:13:49 UTC", 
+  "domain": "places", 
+  "kid": "15413", 
   "authors": [
    {
     "fullname": "Mark Turin", 
@@ -18,9 +21,6 @@
     "id": "16"
    }
   ], 
-  "domain": "places", 
-  "kid": "15413", 
-  "dates": [], 
   "title": "About Chepang"
  }
 }

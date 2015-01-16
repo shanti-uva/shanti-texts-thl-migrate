@@ -14,6 +14,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-10-28 23:39:09 UTC", 
+  "domain": "places", 
+  "kid": "5225", 
   "authors": [
    {
     "fullname": "David Germano", 
@@ -24,9 +27,6 @@
     "id": "42"
    }
   ], 
-  "domain": "places", 
-  "kid": "5225", 
-  "dates": [], 
   "title": "The Contemporary Location of the Kham Tibetan Culture Region"
  }
 }

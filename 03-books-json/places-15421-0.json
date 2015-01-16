@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2009-06-11 14:58:04 UTC", 
+  "domain": "places", 
+  "kid": "15421", 
   "authors": [
    {
     "fullname": "Mark Turin", 
@@ -18,9 +21,6 @@
     "id": "16"
    }
   ], 
-  "domain": "places", 
-  "kid": "15421", 
-  "dates": [], 
   "title": "About Khaling"
  }
 }

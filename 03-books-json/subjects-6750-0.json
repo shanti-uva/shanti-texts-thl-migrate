@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:19:14 UTC", 
+  "domain": "subjects", 
+  "kid": "6750", 
   "authors": [
    {
     "fullname": "Rinchenkhar", 
     "id": "25"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "6750", 
-  "dates": [], 
   "title": "About Ras som Shoes"
  }
 }

@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-16 17:20:07 UTC", 
+  "domain": "subjects", 
+  "kid": "6780", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "6780", 
-  "dates": [], 
   "title": "An Overview of the External and Internal Cycle"
  }
 }

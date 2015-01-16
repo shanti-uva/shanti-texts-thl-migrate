@@ -14,15 +14,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:07:54 UTC", 
+  "domain": "subjects", 
+  "kid": "1881", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "1881", 
-  "dates": [], 
   "title": "Ritual for Determining the Length of One's Life"
  }
 }

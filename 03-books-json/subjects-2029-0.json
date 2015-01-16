@@ -20,15 +20,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:08:21 UTC", 
+  "domain": "subjects", 
+  "kid": "2029", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2029", 
-  "dates": [], 
   "title": "Fire Empowerment"
  }
 }

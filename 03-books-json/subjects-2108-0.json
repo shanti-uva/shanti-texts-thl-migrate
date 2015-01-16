@@ -14,15 +14,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:08:38 UTC", 
+  "domain": "subjects", 
+  "kid": "2108", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2108", 
-  "dates": [], 
   "title": "Kriyaytantra Preliminary Rites"
  }
 }

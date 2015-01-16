@@ -56,6 +56,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-07-15 07:52:32 UTC", 
+  "domain": "places", 
+  "kid": "24071", 
   "authors": [
    {
     "fullname": "Jann Ronis", 
@@ -66,9 +69,6 @@
     "id": "32"
    }
   ], 
-  "domain": "places", 
-  "kid": "24071", 
-  "dates": [], 
   "title": "An Overview of Kham (Eastern Tibet) Historical Polities"
  }
 }

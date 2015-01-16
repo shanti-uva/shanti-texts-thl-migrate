@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:04:27 UTC", 
+  "domain": "subjects", 
+  "kid": "481", 
   "authors": [
    {
     "fullname": "Thubten Phuntsok", 
@@ -18,9 +21,6 @@
     "id": "13"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "481", 
-  "dates": [], 
   "title": "About The Bönpo Translations of the Commentarial Treatises"
  }
 }

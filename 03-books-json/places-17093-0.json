@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2010-07-22 07:09:47 UTC", 
+  "domain": "places", 
+  "kid": "17093", 
   "authors": [
    {
     "fullname": "Jann Ronis", 
@@ -18,9 +21,6 @@
     "id": "32"
    }
   ], 
-  "domain": "places", 
-  "kid": "17093", 
-  "dates": [], 
   "title": "Dzokchen Monastery"
  }
 }

@@ -44,6 +44,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-07-04 09:29:54 UTC", 
+  "domain": "places", 
+  "kid": "24107", 
   "authors": [
    {
     "fullname": "Gray Tuttle", 
@@ -62,9 +65,6 @@
     "id": "42"
    }
   ], 
-  "domain": "places", 
-  "kid": "24107", 
-  "dates": [], 
   "title": "A Chronology of Tibetan Polities"
  }
 }

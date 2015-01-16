@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:09:08 UTC", 
+  "domain": "subjects", 
+  "kid": "2251", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2251", 
-  "dates": [], 
   "title": "About Cleansing offering [by burning juniper]"
  }
 }

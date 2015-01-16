@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:15:49 UTC", 
+  "domain": "subjects", 
+  "kid": "5290", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5290", 
-  "dates": [], 
   "title": "About The Oblique"
  }
 }

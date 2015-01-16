@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:05:17 UTC", 
+  "domain": "subjects", 
+  "kid": "767", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "767", 
-  "dates": [], 
   "title": "An Overview of the Chantyal/Chantel Region"
  }
 }

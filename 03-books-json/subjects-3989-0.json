@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:12:33 UTC", 
+  "domain": "subjects", 
+  "kid": "3989", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "3989", 
-  "dates": [], 
   "title": "An Overview of the John Bellezza Collection"
  }
 }

@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:10:50 UTC", 
+  "domain": "subjects", 
+  "kid": "2988", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2988", 
-  "dates": [], 
   "title": "An Introduction to Buddhist Sacred Mountains"
  }
 }

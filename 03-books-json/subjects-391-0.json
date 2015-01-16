@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:04:12 UTC", 
+  "domain": "subjects", 
+  "kid": "391", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "391", 
-  "dates": [], 
   "title": "About Miscellaneous Works"
  }
 }

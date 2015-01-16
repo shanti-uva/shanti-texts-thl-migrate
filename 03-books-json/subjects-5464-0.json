@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:16:24 UTC", 
+  "domain": "subjects", 
+  "kid": "5464", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5464", 
-  "dates": [], 
   "title": "An Overview of the Chaplain Religious Title"
  }
 }

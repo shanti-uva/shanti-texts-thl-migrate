@@ -512,6 +512,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:31:06 UTC", 
+  "domain": "places", 
+  "kid": "1070", 
   "authors": [
    {
     "fullname": "ཚེ་རིང་ཐར། (Tsering Thar)", 
@@ -522,9 +525,6 @@
     "id": "80"
    }
   ], 
-  "domain": "places", 
-  "kid": "1070", 
-  "dates": [], 
   "title": "Chuchen Introduction"
  }
 }

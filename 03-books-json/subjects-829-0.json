@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:05:31 UTC", 
+  "domain": "subjects", 
+  "kid": "829", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "829", 
-  "dates": [], 
   "title": "An Overview of the Internal Mantric Vehicles"
  }
 }

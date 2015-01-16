@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:15:21 UTC", 
+  "domain": "subjects", 
+  "kid": "5092", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5092", 
-  "dates": [], 
   "title": "About The Modal Verb ཆོག་ “To Be Allowed,” “May,” or “Can”"
  }
 }

@@ -14,15 +14,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:08:22 UTC", 
+  "domain": "subjects", 
+  "kid": "2033", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2033", 
-  "dates": [], 
   "title": "Root Empowerment"
  }
 }

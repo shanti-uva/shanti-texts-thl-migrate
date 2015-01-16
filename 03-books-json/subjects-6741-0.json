@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:19:13 UTC", 
+  "domain": "subjects", 
+  "kid": "6741", 
   "authors": [
    {
     "fullname": "Rinchenkhar", 
     "id": "25"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "6741", 
-  "dates": [], 
   "title": "About Leather Jacket"
  }
 }

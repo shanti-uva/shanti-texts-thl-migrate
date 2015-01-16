@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:14:11 UTC", 
+  "domain": "subjects", 
+  "kid": "4855", 
   "authors": [
    {
     "fullname": "Steve Weinberger", 
     "id": "3"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "4855", 
-  "dates": [], 
   "title": "An Overview of the Author’s Homage Section"
  }
 }

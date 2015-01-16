@@ -7,7 +7,6 @@ class Booker:
     self.srcdir = config.srcdir
     self.infdir = config.infdir
     self.outdir = config.outdir
-    #self.losers = config.losers
     
   def proc(self):
     for filename in os.listdir(self.srcdir):
@@ -95,8 +94,8 @@ class Book:
     
     for el in tree.xpath(myxpath):
 
-      m = re.findall(r'^h(\d)',el.tag)
       elclass = el.get('class')
+      m = re.findall(r'^h(\d)',el.tag)
       if (m):
         page_index += 1
         level = int(m[0])
@@ -131,7 +130,7 @@ class Book:
         'title':    self.title,
         'domain':   self.domain,
         'kid':      self.kid,
-        'dates':    self.dates,
+        'date':     self.date,
         'authors':  self.authors
       },
       'nodes':      self.nodes

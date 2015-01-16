@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2009-05-21 12:04:11 UTC", 
+  "domain": "places", 
+  "kid": "433", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
@@ -18,9 +21,6 @@
     "id": "54"
    }
   ], 
-  "domain": "places", 
-  "kid": "433", 
-  "dates": [], 
   "title": "An Overview of Sera Monastery"
  }
 }

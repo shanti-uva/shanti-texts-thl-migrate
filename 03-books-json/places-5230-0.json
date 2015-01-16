@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2009-05-21 12:04:11 UTC", 
+  "domain": "places", 
+  "kid": "5230", 
   "authors": [
    {
     "fullname": "Tashi Dekyid", 
@@ -18,9 +21,6 @@
     "id": "57"
    }
   ], 
-  "domain": "places", 
-  "kid": "5230", 
-  "dates": [], 
   "title": "An Overview of Tsemé Village"
  }
 }

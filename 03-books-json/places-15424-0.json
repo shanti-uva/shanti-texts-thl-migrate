@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2009-06-11 15:09:26 UTC", 
+  "domain": "places", 
+  "kid": "15424", 
   "authors": [
    {
     "fullname": "Mark Turin", 
@@ -18,9 +21,6 @@
     "id": "16"
    }
   ], 
-  "domain": "places", 
-  "kid": "15424", 
-  "dates": [], 
   "title": "About Lepcha"
  }
 }

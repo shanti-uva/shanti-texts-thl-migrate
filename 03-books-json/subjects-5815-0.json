@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:17:44 UTC", 
+  "domain": "subjects", 
+  "kid": "5815", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5815", 
-  "dates": [], 
   "title": "An Overview of Sutra-Based Meditative Systems and Techniques"
  }
 }

@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:13:06 UTC", 
+  "domain": "subjects", 
+  "kid": "4173", 
   "authors": [
    {
     "fullname": "Steve Weinberger", 
     "id": "3"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "4173", 
-  "dates": [], 
   "title": "An Overview of the Petroglyph Feature"
  }
 }

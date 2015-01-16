@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2009-06-08 18:06:47 UTC", 
+  "domain": "places", 
+  "kid": "15356", 
   "authors": [
    {
     "fullname": "David Germano", 
@@ -18,9 +21,6 @@
     "id": "42"
    }
   ], 
-  "domain": "places", 
-  "kid": "15356", 
-  "dates": [], 
   "title": "About Lhasa"
  }
 }

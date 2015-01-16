@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:03:46 UTC", 
+  "domain": "subjects", 
+  "kid": "191", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "191", 
-  "dates": [], 
   "title": "An Overview of Media Source Types"
  }
 }

@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:04:57 UTC", 
+  "domain": "subjects", 
+  "kid": "650", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "650", 
-  "dates": [], 
   "title": "An Overview of the Basum Language"
  }
 }

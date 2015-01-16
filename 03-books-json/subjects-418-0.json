@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:04:15 UTC", 
+  "domain": "subjects", 
+  "kid": "418", 
   "authors": [
    {
     "fullname": "Andrew Quintman", 
     "id": "29"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "418", 
-  "dates": [], 
   "title": "About Guide to Painting"
  }
 }

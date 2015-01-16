@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:13:11 UTC", 
+  "domain": "subjects", 
+  "kid": "4291", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "4291", 
-  "dates": [], 
   "title": "An Overview of the Conversation Speech Type"
  }
 }

@@ -26,15 +26,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:07:48 UTC", 
+  "domain": "subjects", 
+  "kid": "1854", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "1854", 
-  "dates": [], 
   "title": "Consecration"
  }
 }

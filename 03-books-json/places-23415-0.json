@@ -80,6 +80,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:28:52 UTC", 
+  "domain": "places", 
+  "kid": "23415", 
   "authors": [
    {
     "fullname": "Phuntso Tsering Sharyul", 
@@ -90,9 +93,6 @@
     "id": "79"
    }
   ], 
-  "domain": "places", 
-  "kid": "23415", 
-  "dates": [], 
   "title": "Sokting Ngubön Gön Norbu Ling Introduction"
  }
 }

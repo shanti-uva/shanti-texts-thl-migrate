@@ -14,15 +14,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:08:29 UTC", 
+  "domain": "subjects", 
+  "kid": "2065", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2065", 
-  "dates": [], 
   "title": "Yogatantra Preliminary Rites"
  }
 }

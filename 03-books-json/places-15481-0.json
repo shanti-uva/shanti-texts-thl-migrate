@@ -32,6 +32,9 @@
   }
  ], 
  "meta": {
+  "date": "2010-05-22 05:45:49 UTC", 
+  "domain": "places", 
+  "kid": "15481", 
   "authors": [
    {
     "fullname": "Kurtis Schaeffer", 
@@ -42,9 +45,6 @@
     "id": "2"
    }
   ], 
-  "domain": "places", 
-  "kid": "15481", 
-  "dates": [], 
   "title": "The Mongol Empire and Tibet in the Thirteenth and Fourteenth Centuries"
  }
 }

@@ -20,15 +20,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:08:00 UTC", 
+  "domain": "subjects", 
+  "kid": "1913", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "1913", 
-  "dates": [], 
   "title": "Destruction Ritual Using an Effigy"
  }
 }

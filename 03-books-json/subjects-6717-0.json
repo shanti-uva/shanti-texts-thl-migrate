@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:19:07 UTC", 
+  "domain": "subjects", 
+  "kid": "6717", 
   "authors": [
    {
     "fullname": "Rinchenkhar", 
     "id": "25"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "6717", 
-  "dates": [], 
   "title": "About Apron"
  }
 }

@@ -14,15 +14,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:08:01 UTC", 
+  "domain": "subjects", 
+  "kid": "1917", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "1917", 
-  "dates": [], 
   "title": "Destruction Ritual Using a Zor (gtor ma)"
  }
 }

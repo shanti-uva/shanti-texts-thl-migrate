@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:05:56 UTC", 
+  "domain": "subjects", 
+  "kid": "918", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "918", 
-  "dates": [], 
   "title": "An Overview of Other Tibetan Buddhist Sects"
  }
 }

@@ -62,6 +62,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:28:51 UTC", 
+  "domain": "places", 
+  "kid": "23413", 
   "authors": [
    {
     "fullname": "Phuntso Tsering Sharyul", 
@@ -72,9 +75,6 @@
     "id": "79"
    }
   ], 
-  "domain": "places", 
-  "kid": "23413", 
-  "dates": [], 
   "title": "Chamdo Gön Pel Shenten Yungdrung Dechen Ling Introduction"
  }
 }

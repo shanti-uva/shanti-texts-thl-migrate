@@ -14,15 +14,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:09:49 UTC", 
+  "domain": "subjects", 
+  "kid": "2459", 
   "authors": [
    {
     "fullname": "Chris Hatchell", 
     "id": "11"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2459", 
-  "dates": [], 
   "title": "About Scripture related rituals"
  }
 }

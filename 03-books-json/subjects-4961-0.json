@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:14:46 UTC", 
+  "domain": "subjects", 
+  "kid": "4961", 
   "authors": [
    {
     "fullname": "David Newman", 
     "id": "8"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "4961", 
-  "dates": [], 
   "title": "An Overview of Chinese Autonomous Prefectures"
  }
 }

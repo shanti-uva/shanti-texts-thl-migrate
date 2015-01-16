@@ -74,6 +74,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:30:41 UTC", 
+  "domain": "places", 
+  "kid": "23641", 
   "authors": [
    {
     "fullname": "Charles Ramble", 
@@ -92,9 +95,6 @@
     "id": "81"
    }
   ], 
-  "domain": "places", 
-  "kid": "23641", 
-  "dates": [], 
   "title": "Böngön Penden Triten Norbutsé Introduction"
  }
 }

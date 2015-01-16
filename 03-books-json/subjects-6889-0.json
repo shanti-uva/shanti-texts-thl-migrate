@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:19:36 UTC", 
+  "domain": "subjects", 
+  "kid": "6889", 
   "authors": [
    {
     "fullname": "Ben Nourse", 
     "id": "13"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "6889", 
-  "dates": [], 
   "title": "Lhasa Atlas description of "Tenement or Residential yard" building type"
  }
 }

@@ -98,6 +98,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:28:48 UTC", 
+  "domain": "places", 
+  "kid": "23406", 
   "authors": [
    {
     "fullname": "Dondrup Lhagyal", 
@@ -108,9 +111,6 @@
     "id": "78"
    }
   ], 
-  "domain": "places", 
-  "kid": "23406", 
-  "dates": [], 
   "title": "Darding Rigyel Gön Introduction"
  }
 }

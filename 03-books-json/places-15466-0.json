@@ -26,6 +26,9 @@
   }
  ], 
  "meta": {
+  "date": "2010-01-23 23:59:59 UTC", 
+  "domain": "places", 
+  "kid": "15466", 
   "authors": [
    {
     "fullname": "Kurtis Schaeffer", 
@@ -36,9 +39,6 @@
     "id": "2"
    }
   ], 
-  "domain": "places", 
-  "kid": "15466", 
-  "dates": [], 
   "title": "An Introduction to the Ganden Palace Polity"
  }
 }

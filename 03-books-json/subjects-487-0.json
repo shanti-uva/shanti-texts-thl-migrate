@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:04:29 UTC", 
+  "domain": "subjects", 
+  "kid": "487", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "487", 
-  "dates": [], 
   "title": "About Introductory Psychology Textbook"
  }
 }

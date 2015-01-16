@@ -20,15 +20,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:08:58 UTC", 
+  "domain": "subjects", 
+  "kid": "2203", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2203", 
-  "dates": [], 
   "title": "About Military rituals"
  }
 }

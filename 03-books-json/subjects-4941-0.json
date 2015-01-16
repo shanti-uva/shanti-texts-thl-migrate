@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:14:39 UTC", 
+  "domain": "subjects", 
+  "kid": "4941", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "4941", 
-  "dates": [], 
   "title": "The Significance of Official Residents"
  }
 }

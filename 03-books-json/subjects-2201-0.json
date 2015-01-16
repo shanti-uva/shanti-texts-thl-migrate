@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:08:58 UTC", 
+  "domain": "subjects", 
+  "kid": "2201", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2201", 
-  "dates": [], 
   "title": "About Tantric incantations"
  }
 }

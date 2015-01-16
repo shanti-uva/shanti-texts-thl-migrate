@@ -6,10 +6,9 @@ Data Model for Book JSON:
 
 meta
   authors = []
+    fullname = ''
   title = ''
-  dates
-    created_at = ''
-    updated_at = ''
+  date
 nodes = []
   title = ''
   index = 0
@@ -47,8 +46,6 @@ foreach ($filenames as $filename) {
     $index    = $part->index;
     $parent   = $part->parent_index;
     $body     = $part->body;
-    #$authors  = $part->authors; # This is an array
-    #$date     = $part->dates[0]; # This may not be correct
     
     # CREATE NODE, ADD TITLE AND CONTENT
     $node = new stdClass(); // We create a new node object
@@ -85,7 +82,7 @@ foreach ($filenames as $filename) {
 
       # DATE
       # Source date format example: 2009-05-21 12:04:11 UTC
-      $date = $book->meta->dates->created_at;
+      $date = $book->meta->date;
       $date = preg_replace("/\s+UTC/",'',$date);
       if (preg_match("/(\d{4})-\d{2}-\d{2} \d{2}:\d{2}:\d{2}/", $date, $matches)) {
         $node->field_book_date[$node->language][0]['value'] = $date; 

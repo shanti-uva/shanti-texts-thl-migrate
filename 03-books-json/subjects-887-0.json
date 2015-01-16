@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:05:44 UTC", 
+  "domain": "subjects", 
+  "kid": "887", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "887", 
-  "dates": [], 
   "title": "An Overview of the Kagyü Tradition"
  }
 }

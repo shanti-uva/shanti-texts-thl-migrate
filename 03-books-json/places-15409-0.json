@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2009-06-11 09:47:52 UTC", 
+  "domain": "places", 
+  "kid": "15409", 
   "authors": [
    {
     "fullname": "Mark Turin", 
@@ -18,9 +21,6 @@
     "id": "16"
    }
   ], 
-  "domain": "places", 
-  "kid": "15409", 
-  "dates": [], 
   "title": "About Bote"
  }
 }

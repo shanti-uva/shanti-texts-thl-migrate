@@ -26,6 +26,9 @@
   }
  ], 
  "meta": {
+  "date": "2010-02-06 09:25:13 UTC", 
+  "domain": "places", 
+  "kid": "15472", 
   "authors": [
    {
     "fullname": "Paul Nietupski", 
@@ -36,9 +39,6 @@
     "id": "28"
    }
   ], 
-  "domain": "places", 
-  "kid": "15472", 
-  "dates": [], 
   "title": "An Introduction to Labrang Monastery"
  }
 }

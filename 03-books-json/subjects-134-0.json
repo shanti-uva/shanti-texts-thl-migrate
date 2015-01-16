@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:03:37 UTC", 
+  "domain": "subjects", 
+  "kid": "134", 
   "authors": [
    {
     "fullname": "Kurtis Schaeffer", 
     "id": "23"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "134", 
-  "dates": [], 
   "title": "An Overview of Annals as a Genre in Tibetan Literature"
  }
 }

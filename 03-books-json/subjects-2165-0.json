@@ -26,15 +26,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:08:50 UTC", 
+  "domain": "subjects", 
+  "kid": "2165", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2165", 
-  "dates": [], 
   "title": "About Fasting rituals"
  }
 }

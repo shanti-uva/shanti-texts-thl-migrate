@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:15:41 UTC", 
+  "domain": "subjects", 
+  "kid": "5229", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5229", 
-  "dates": [], 
   "title": "About མ་གཏོགས་: “Except,” “Unless,” “Apart From,” “Only”"
  }
 }

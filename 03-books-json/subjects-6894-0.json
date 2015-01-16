@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:19:37 UTC", 
+  "domain": "subjects", 
+  "kid": "6894", 
   "authors": [
    {
     "fullname": "Ben Nourse", 
     "id": "13"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "6894", 
-  "dates": [], 
   "title": "Lhasa Atlas and Tibet Heritage Fund material type"
  }
 }

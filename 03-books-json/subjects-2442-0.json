@@ -20,15 +20,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:09:46 UTC", 
+  "domain": "subjects", 
+  "kid": "2442", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2442", 
-  "dates": [], 
   "title": "About Reading of dhāraṇī, mantra, and scriptures"
  }
 }

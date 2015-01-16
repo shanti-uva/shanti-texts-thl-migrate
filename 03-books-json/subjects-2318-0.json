@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:09:22 UTC", 
+  "domain": "subjects", 
+  "kid": "2318", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2318", 
-  "dates": [], 
   "title": "About Pill-shaped torma [e.g., used in Gtor ma brgya rtsa]"
  }
 }

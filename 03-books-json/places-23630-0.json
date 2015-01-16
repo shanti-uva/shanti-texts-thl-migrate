@@ -122,6 +122,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:30:37 UTC", 
+  "domain": "places", 
+  "kid": "23630", 
   "authors": [
    {
     "fullname": "Charles Ramble", 
@@ -140,9 +143,6 @@
     "id": "81"
    }
   ], 
-  "domain": "places", 
-  "kid": "23630", 
-  "dates": [], 
   "title": "Pel Shenten Tasung Tsoling Gönpa Introduction"
  }
 }

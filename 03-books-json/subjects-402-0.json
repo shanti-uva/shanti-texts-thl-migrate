@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:04:13 UTC", 
+  "domain": "subjects", 
+  "kid": "402", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "402", 
-  "dates": [], 
   "title": "About Polemical Literature"
  }
 }

@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:05:59 UTC", 
+  "domain": "subjects", 
+  "kid": "936", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "936", 
-  "dates": [], 
   "title": "An Overview of Sūtra, Tantra, and Phyag chen"
  }
 }

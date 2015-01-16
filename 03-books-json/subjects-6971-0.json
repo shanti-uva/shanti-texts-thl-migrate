@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-23 20:33:15 UTC", 
+  "domain": "subjects", 
+  "kid": "6971", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "6971", 
-  "dates": [], 
   "title": "An Overview of the Three Piths"
  }
 }

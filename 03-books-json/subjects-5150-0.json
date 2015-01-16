@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:15:28 UTC", 
+  "domain": "subjects", 
+  "kid": "5150", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5150", 
-  "dates": [], 
   "title": "About The Nominalizer པ་"
  }
 }

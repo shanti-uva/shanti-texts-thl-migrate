@@ -14,6 +14,9 @@
   }
  ], 
  "meta": {
+  "date": "2009-12-05 14:22:57 UTC", 
+  "domain": "places", 
+  "kid": "5226", 
   "authors": [
    {
     "fullname": "David Germano", 
@@ -24,9 +27,6 @@
     "id": "42"
    }
   ], 
-  "domain": "places", 
-  "kid": "5226", 
-  "dates": [], 
   "title": "An Introduction to Tibet"
  }
 }

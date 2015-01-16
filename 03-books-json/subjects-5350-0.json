@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:15:57 UTC", 
+  "domain": "subjects", 
+  "kid": "5350", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5350", 
-  "dates": [], 
   "title": "About Compounds that are Difficult to Analyze without a Historical Perspective"
  }
 }

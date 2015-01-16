@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:09:51 UTC", 
+  "domain": "subjects", 
+  "kid": "2468", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2468", 
-  "dates": [], 
   "title": "About Inciting and sending the guardian deity [to destroy the enemy]"
  }
 }

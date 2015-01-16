@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:15:53 UTC", 
+  "domain": "subjects", 
+  "kid": "5320", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5320", 
-  "dates": [], 
   "title": "About From Mongolian"
  }
 }

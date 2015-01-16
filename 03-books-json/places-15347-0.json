@@ -56,6 +56,9 @@
   }
  ], 
  "meta": {
+  "date": "2009-05-30 08:33:21 UTC", 
+  "domain": "places", 
+  "kid": "15347", 
   "authors": [
    {
     "fullname": "Tashi Rabgey", 
@@ -66,9 +69,6 @@
     "id": "5"
    }
   ], 
-  "domain": "places", 
-  "kid": "15347", 
-  "dates": [], 
   "title": "An Overview of Chungba"
  }
 }

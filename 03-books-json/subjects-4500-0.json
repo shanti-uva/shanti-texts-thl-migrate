@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:13:30 UTC", 
+  "domain": "subjects", 
+  "kid": "4500", 
   "authors": [
    {
     "fullname": "Brandon Dotson", 
     "id": "15"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "4500", 
-  "dates": [], 
   "title": "An Overview of Thousand-Household Districts in the Tibetan Empire"
  }
 }

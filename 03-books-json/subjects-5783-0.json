@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:17:40 UTC", 
+  "domain": "subjects", 
+  "kid": "5783", 
   "authors": [
    {
     "fullname": "Suzanne Bessenger", 
     "id": "22"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5783", 
-  "dates": [], 
   "title": "About Monk (Ordination Status Unspecified)"
  }
 }

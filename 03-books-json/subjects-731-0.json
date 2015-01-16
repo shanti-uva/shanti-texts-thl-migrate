@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:05:11 UTC", 
+  "domain": "subjects", 
+  "kid": "731", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "731", 
-  "dates": [], 
   "title": "An Overview of the Golok Nomadic Area"
  }
 }

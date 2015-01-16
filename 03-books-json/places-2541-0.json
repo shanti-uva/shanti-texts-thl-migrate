@@ -74,6 +74,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:30:51 UTC", 
+  "domain": "places", 
+  "kid": "2541", 
   "authors": [
    {
     "fullname": "Phuntso Tsering Sharyul", 
@@ -84,9 +87,6 @@
     "id": "79"
    }
   ], 
-  "domain": "places", 
-  "kid": "2541", 
-  "dates": [], 
   "title": "Biru Introduction"
  }
 }

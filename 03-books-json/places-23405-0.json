@@ -98,6 +98,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:28:47 UTC", 
+  "domain": "places", 
+  "kid": "23405", 
   "authors": [
    {
     "fullname": "Dondrup Lhagyal", 
@@ -108,9 +111,6 @@
     "id": "78"
    }
   ], 
-  "domain": "places", 
-  "kid": "23405", 
-  "dates": [], 
   "title": "Ralak Yungdrung Ling Introduction"
  }
 }

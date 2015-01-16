@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2009-06-08 18:05:08 UTC", 
+  "domain": "places", 
+  "kid": "15355", 
   "authors": [
    {
     "fullname": "David Germano", 
@@ -18,9 +21,6 @@
     "id": "42"
    }
   ], 
-  "domain": "places", 
-  "kid": "15355", 
-  "dates": [], 
   "title": "About Ü"
  }
 }

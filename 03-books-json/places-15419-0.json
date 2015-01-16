@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2009-06-11 14:45:25 UTC", 
+  "domain": "places", 
+  "kid": "15419", 
   "authors": [
    {
     "fullname": "Mark Turin", 
@@ -18,9 +21,6 @@
     "id": "16"
    }
   ], 
-  "domain": "places", 
-  "kid": "15419", 
-  "dates": [], 
   "title": "About Jero"
  }
 }

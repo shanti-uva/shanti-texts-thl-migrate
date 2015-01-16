@@ -56,6 +56,9 @@
   }
  ], 
  "meta": {
+  "date": "2010-11-01 18:16:28 UTC", 
+  "domain": "places", 
+  "kid": "15372", 
   "authors": [
    {
     "fullname": "Sarah Jacoby", 
@@ -66,9 +69,6 @@
     "id": "53"
    }
   ], 
-  "domain": "places", 
-  "kid": "15372", 
-  "dates": [], 
   "title": "An Overview of Golok"
  }
 }

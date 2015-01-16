@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:04:38 UTC", 
+  "domain": "subjects", 
+  "kid": "525", 
   "authors": [
    {
     "fullname": "Pema Namgyal", 
     "id": "4"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "525", 
-  "dates": [], 
   "title": "About College"
  }
 }

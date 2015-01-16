@@ -122,6 +122,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:29:54 UTC", 
+  "domain": "places", 
+  "kid": "23547", 
   "authors": [
    {
     "fullname": "ཚེ་རིང་ཐར། (Tsering Thar)", 
@@ -132,9 +135,6 @@
     "id": "80"
    }
   ], 
-  "domain": "places", 
-  "kid": "23547", 
-  "dates": [], 
   "title": "Penzhöl Bönling Yungdrung Gön Introduction"
  }
 }

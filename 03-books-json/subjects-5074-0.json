@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:15:19 UTC", 
+  "domain": "subjects", 
+  "kid": "5074", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5074", 
-  "dates": [], 
   "title": "About Self-Corrective Auxiliaries"
  }
 }

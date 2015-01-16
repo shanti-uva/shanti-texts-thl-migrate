@@ -20,15 +20,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:08:03 UTC", 
+  "domain": "subjects", 
+  "kid": "1927", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "1927", 
-  "dates": [], 
   "title": "Dhāraṇī Recital"
  }
 }

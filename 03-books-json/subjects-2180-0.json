@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:08:53 UTC", 
+  "domain": "subjects", 
+  "kid": "2180", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2180", 
-  "dates": [], 
   "title": "About Long life empowerments"
  }
 }

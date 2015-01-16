@@ -26,15 +26,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:07:44 UTC", 
+  "domain": "subjects", 
+  "kid": "1835", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "1835", 
-  "dates": [], 
   "title": "Bodhicitta-generation Ritual"
  }
 }

@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:05:33 UTC", 
+  "domain": "subjects", 
+  "kid": "835", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "835", 
-  "dates": [], 
   "title": "An Overview of the Vehicles of Causation"
  }
 }

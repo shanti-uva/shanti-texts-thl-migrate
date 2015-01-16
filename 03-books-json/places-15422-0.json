@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2009-06-11 15:02:32 UTC", 
+  "domain": "places", 
+  "kid": "15422", 
   "authors": [
    {
     "fullname": "Mark Turin", 
@@ -18,9 +21,6 @@
     "id": "16"
    }
   ], 
-  "domain": "places", 
-  "kid": "15422", 
-  "dates": [], 
   "title": "About Kulung"
  }
 }

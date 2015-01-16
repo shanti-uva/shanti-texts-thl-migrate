@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:17:14 UTC", 
+  "domain": "subjects", 
+  "kid": "5704", 
   "authors": [
    {
     "fullname": "Suzanne Bessenger", 
     "id": "22"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5704", 
-  "dates": [], 
   "title": "About General Controller"
  }
 }

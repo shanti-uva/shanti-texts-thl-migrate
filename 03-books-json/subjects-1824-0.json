@@ -14,15 +14,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:07:42 UTC", 
+  "domain": "subjects", 
+  "kid": "1824", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "1824", 
-  "dates": [], 
   "title": "Stones and Pebbles (Alchemical Ritual)"
  }
 }

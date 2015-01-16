@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:17:49 UTC", 
+  "domain": "subjects", 
+  "kid": "5839", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5839", 
-  "dates": [], 
   "title": "An Overview of Specific Practices"
  }
 }

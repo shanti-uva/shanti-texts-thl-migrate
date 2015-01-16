@@ -14,6 +14,9 @@
   }
  ], 
  "meta": {
+  "date": "2010-07-25 15:51:15 UTC", 
+  "domain": "places", 
+  "kid": "17421", 
   "authors": [
    {
     "fullname": "Jann Ronis", 
@@ -24,9 +27,6 @@
     "id": "32"
    }
   ], 
-  "domain": "places", 
-  "kid": "17421", 
-  "dates": [], 
   "title": "Katok Monastery"
  }
 }

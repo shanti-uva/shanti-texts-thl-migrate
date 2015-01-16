@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:13:11 UTC", 
+  "domain": "subjects", 
+  "kid": "4290", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "4290", 
-  "dates": [], 
   "title": "An Overview of Media Speech Types"
  }
 }

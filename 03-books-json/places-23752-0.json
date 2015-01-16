@@ -14,6 +14,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-04-12 11:25:34 UTC", 
+  "domain": "places", 
+  "kid": "23752", 
   "authors": [
    {
     "fullname": "Gray Tuttle", 
@@ -24,9 +27,6 @@
     "id": "24"
    }
   ], 
-  "domain": "places", 
-  "kid": "23752", 
-  "dates": [], 
   "title": "An Introduction to Ngawa Cultural Region"
  }
 }

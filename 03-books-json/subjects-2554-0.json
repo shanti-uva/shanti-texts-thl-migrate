@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:10:08 UTC", 
+  "domain": "subjects", 
+  "kid": "2554", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2554", 
-  "dates": [], 
   "title": "About “Six Session” rituals"
  }
 }

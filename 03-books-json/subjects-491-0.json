@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:04:29 UTC", 
+  "domain": "subjects", 
+  "kid": "491", 
   "authors": [
    {
     "fullname": "Steve Weinberger", 
     "id": "3"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "491", 
-  "dates": [], 
   "title": "About Stages of the Path"
  }
 }

@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:07:33 UTC", 
+  "domain": "subjects", 
+  "kid": "1726", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "1726", 
-  "dates": [], 
   "title": "About Personal Pronouns"
  }
 }

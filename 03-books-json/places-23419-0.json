@@ -20,6 +20,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:28:54 UTC", 
+  "domain": "places", 
+  "kid": "23419", 
   "authors": [
    {
     "fullname": "Phuntso Tsering Sharyul", 
@@ -30,9 +33,6 @@
     "id": "79"
    }
   ], 
-  "domain": "places", 
-  "kid": "23419", 
-  "dates": [], 
   "title": "Ombu Samten Ling Introduction"
  }
 }

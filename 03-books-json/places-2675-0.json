@@ -200,6 +200,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:30:50 UTC", 
+  "domain": "places", 
+  "kid": "2675", 
   "authors": [
    {
     "fullname": "Phuntso Tsering Sharyul", 
@@ -210,9 +213,6 @@
     "id": "79"
    }
   ], 
-  "domain": "places", 
-  "kid": "2675", 
-  "dates": [], 
   "title": "Nyenrong Introduction"
  }
 }

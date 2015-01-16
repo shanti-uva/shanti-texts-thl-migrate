@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:09:02 UTC", 
+  "domain": "subjects", 
+  "kid": "2221", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2221", 
-  "dates": [], 
   "title": "About Food"
  }
 }

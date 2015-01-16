@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:09:45 UTC", 
+  "domain": "subjects", 
+  "kid": "2439", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2439", 
-  "dates": [], 
   "title": "About Purification "
  }
 }

@@ -26,6 +26,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:28:56 UTC", 
+  "domain": "places", 
+  "kid": "23422", 
   "authors": [
    {
     "fullname": "Phuntso Tsering Sharyul", 
@@ -36,9 +39,6 @@
     "id": "79"
    }
   ], 
-  "domain": "places", 
-  "kid": "23422", 
-  "dates": [], 
   "title": "Tago Serzhik Introduction"
  }
 }

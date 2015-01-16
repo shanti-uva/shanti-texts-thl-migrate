@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:04:28 UTC", 
+  "domain": "subjects", 
+  "kid": "486", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "486", 
-  "dates": [], 
   "title": "About Introductory Logic Textbook"
  }
 }

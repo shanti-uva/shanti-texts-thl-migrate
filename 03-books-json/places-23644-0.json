@@ -80,6 +80,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:30:42 UTC", 
+  "domain": "places", 
+  "kid": "23644", 
   "authors": [
    {
     "fullname": "Charles Ramble", 
@@ -98,9 +101,6 @@
     "id": "81"
    }
   ], 
-  "domain": "places", 
-  "kid": "23644", 
-  "dates": [], 
   "title": "Zhu Yungdrung Kündrak Ling Introduction"
  }
 }

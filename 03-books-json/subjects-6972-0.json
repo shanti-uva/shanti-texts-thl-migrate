@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-23 20:42:26 UTC", 
+  "domain": "subjects", 
+  "kid": "6972", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "6972", 
-  "dates": [], 
   "title": "An Overview of the Crown Pith"
  }
 }

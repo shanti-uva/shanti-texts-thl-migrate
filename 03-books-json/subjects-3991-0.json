@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:12:33 UTC", 
+  "domain": "subjects", 
+  "kid": "3991", 
   "authors": [
    {
     "fullname": "John Vincent Bellezza", 
     "id": "14"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "3991", 
-  "dates": [], 
   "title": "Overview"
  }
 }

@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:05:24 UTC", 
+  "domain": "subjects", 
+  "kid": "806", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "806", 
-  "dates": [], 
   "title": "An Overview of Mādhyamaka"
  }
 }

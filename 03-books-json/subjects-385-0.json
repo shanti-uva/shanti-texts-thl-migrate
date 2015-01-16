@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:04:11 UTC", 
+  "domain": "subjects", 
+  "kid": "385", 
   "authors": [
    {
     "fullname": "Thubten Phuntsok", 
@@ -18,9 +21,6 @@
     "id": "13"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "385", 
-  "dates": [], 
   "title": "About Return from Death Narrative"
  }
 }

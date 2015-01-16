@@ -38,6 +38,9 @@
   }
  ], 
  "meta": {
+  "date": "2010-02-04 15:47:18 UTC", 
+  "domain": "places", 
+  "kid": "15470", 
   "authors": [
    {
     "fullname": "Pakpa Dondrup", 
@@ -56,9 +59,6 @@
     "id": "42"
    }
   ], 
-  "domain": "places", 
-  "kid": "15470", 
-  "dates": [], 
   "title": "An Introduction to Wendu Township"
  }
 }

@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-10-28 18:07:27 UTC", 
+  "domain": "places", 
+  "kid": "13735", 
   "authors": [
    {
     "fullname": "David Germano", 
@@ -18,9 +21,6 @@
     "id": "42"
    }
   ], 
-  "domain": "places", 
-  "kid": "13735", 
-  "dates": [], 
   "title": "World Culture: “Peoples”, “Cultures”, and “Cultural Regions”"
  }
 }

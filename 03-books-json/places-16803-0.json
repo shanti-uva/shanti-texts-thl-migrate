@@ -140,6 +140,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-02-09 16:22:23 UTC", 
+  "domain": "places", 
+  "kid": "16803", 
   "authors": [
    {
     "fullname": "John Vincent Bellezza", 
@@ -150,9 +153,6 @@
     "id": "39"
    }
   ], 
-  "domain": "places", 
-  "kid": "16803", 
-  "dates": [], 
   "title": "Tsokgi Möndur Introduction"
  }
 }

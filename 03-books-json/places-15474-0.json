@@ -56,6 +56,9 @@
   }
  ], 
  "meta": {
+  "date": "2010-07-22 11:13:12 UTC", 
+  "domain": "places", 
+  "kid": "15474", 
   "authors": [
    {
     "fullname": "Cameron Warner", 
@@ -66,9 +69,6 @@
     "id": "29"
    }
   ], 
-  "domain": "places", 
-  "kid": "15474", 
-  "dates": [], 
   "title": "Jokhang"
  }
 }

@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2009-06-12 09:18:36 UTC", 
+  "domain": "places", 
+  "kid": "15441", 
   "authors": [
    {
     "fullname": "Mark Turin", 
@@ -18,9 +21,6 @@
     "id": "16"
    }
   ], 
-  "domain": "places", 
-  "kid": "15441", 
-  "dates": [], 
   "title": "About Thangmi"
  }
 }

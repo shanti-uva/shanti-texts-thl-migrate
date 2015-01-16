@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:17:04 UTC", 
+  "domain": "subjects", 
+  "kid": "5676", 
   "authors": [
    {
     "fullname": "Suzanne Bessenger", 
     "id": "22"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5676", 
-  "dates": [], 
   "title": "About Throne Holder (Elected/Appointed )"
  }
 }

@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:16:14 UTC", 
+  "domain": "subjects", 
+  "kid": "5407", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5407", 
-  "dates": [], 
   "title": "About Reconstruction"
  }
 }

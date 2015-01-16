@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:03:22 UTC", 
+  "domain": "subjects", 
+  "kid": "27", 
   "authors": [
    {
     "fullname": "David Germano", 
@@ -18,9 +21,6 @@
     "id": "10"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "27", 
-  "dates": [], 
   "title": "An Overview of Nomadic Tribal Areas in Tibet"
  }
 }

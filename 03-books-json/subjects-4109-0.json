@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:12:50 UTC", 
+  "domain": "subjects", 
+  "kid": "4109", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "4109", 
-  "dates": [], 
   "title": "An Overview of the First Administrative Unit"
  }
 }

@@ -14,6 +14,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-06-12 15:02:29 UTC", 
+  "domain": "places", 
+  "kid": "24111", 
   "authors": [
    {
     "fullname": "Kurtis Schaeffer", 
@@ -24,9 +27,6 @@
     "id": "2"
    }
   ], 
-  "domain": "places", 
-  "kid": "24111", 
-  "dates": [], 
   "title": "The Pakmodru Polity"
  }
 }

@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:19:06 UTC", 
+  "domain": "subjects", 
+  "kid": "6710", 
   "authors": [
    {
     "fullname": "Rinchenkhar", 
     "id": "25"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "6710", 
-  "dates": [], 
   "title": "About Fur Robe"
  }
 }

@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:15:27 UTC", 
+  "domain": "subjects", 
+  "kid": "5138", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5138", 
-  "dates": [], 
   "title": "About Types of Verbs That Use the Ergative"
  }
 }

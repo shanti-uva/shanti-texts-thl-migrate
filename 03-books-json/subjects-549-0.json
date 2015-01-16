@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:04:46 UTC", 
+  "domain": "subjects", 
+  "kid": "549", 
   "authors": [
    {
     "fullname": "Nicolas Sihlé", 
     "id": "27"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "549", 
-  "dates": [], 
   "title": "About Village"
  }
 }

@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:09:33 UTC", 
+  "domain": "subjects", 
+  "kid": "2377", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2377", 
-  "dates": [], 
   "title": "About Using a skull cup"
  }
 }

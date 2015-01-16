@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:09:16 UTC", 
+  "domain": "subjects", 
+  "kid": "2292", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2292", 
-  "dates": [], 
   "title": "About Departing torma"
  }
 }

@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:10:06 UTC", 
+  "domain": "subjects", 
+  "kid": "2541", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2541", 
-  "dates": [], 
   "title": "About 3. the liberation offering"
  }
 }

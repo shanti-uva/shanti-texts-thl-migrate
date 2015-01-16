@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:04:20 UTC", 
+  "domain": "subjects", 
+  "kid": "442", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "442", 
-  "dates": [], 
   "title": "About Fire Offering "
  }
 }

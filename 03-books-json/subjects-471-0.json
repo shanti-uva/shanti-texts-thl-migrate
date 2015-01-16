@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:04:25 UTC", 
+  "domain": "subjects", 
+  "kid": "471", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "471", 
-  "dates": [], 
   "title": "About Experience-driven Guidance"
  }
 }

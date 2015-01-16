@@ -20,15 +20,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:08:14 UTC", 
+  "domain": "subjects", 
+  "kid": "1992", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "1992", 
-  "dates": [], 
   "title": "Divination Using the Elements"
  }
 }

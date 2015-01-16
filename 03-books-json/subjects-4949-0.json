@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:14:40 UTC", 
+  "domain": "subjects", 
+  "kid": "4949", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "4949", 
-  "dates": [], 
   "title": "An Overview of Tibetan Calendar Systems"
  }
 }

@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:09:39 UTC", 
+  "domain": "subjects", 
+  "kid": "2410", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2410", 
-  "dates": [], 
   "title": "About Eating the letters [of mantras]"
  }
 }

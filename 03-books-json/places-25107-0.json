@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2012-11-16 08:52:04 UTC", 
+  "domain": "places", 
+  "kid": "25107", 
   "authors": [
    {
     "fullname": "རྡོ་རྗེ་དོན་གྲུབ། (Dorjé Döndrup)", 
@@ -18,9 +21,6 @@
     "id": "93"
    }
   ], 
-  "domain": "places", 
-  "kid": "25107", 
-  "dates": [], 
   "title": "An Overview of Jampa Bumling"
  }
 }

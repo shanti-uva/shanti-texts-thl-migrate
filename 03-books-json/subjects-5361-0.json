@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:15:59 UTC", 
+  "domain": "subjects", 
+  "kid": "5361", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5361", 
-  "dates": [], 
   "title": "About Subject of an Intransitive Verb: “Who,” “Which”"
  }
 }

@@ -62,6 +62,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:29:37 UTC", 
+  "domain": "places", 
+  "kid": "23509", 
   "authors": [
    {
     "fullname": "ཚེ་རིང་ཐར། (Tsering Thar)", 
@@ -72,9 +75,6 @@
     "id": "80"
    }
   ], 
-  "domain": "places", 
-  "kid": "23509", 
-  "dates": [], 
   "title": "Sekhang Tekchen Bönkhor Lhündrup Ling Introduction"
  }
 }

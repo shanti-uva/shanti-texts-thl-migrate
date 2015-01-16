@@ -110,6 +110,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:30:00 UTC", 
+  "domain": "places", 
+  "kid": "23557", 
   "authors": [
    {
     "fullname": "ཚེ་རིང་ཐར། (Tsering Thar)", 
@@ -120,9 +123,6 @@
     "id": "80"
    }
   ], 
-  "domain": "places", 
-  "kid": "23557", 
-  "dates": [], 
   "title": "Gyelzhing Introduction"
  }
 }

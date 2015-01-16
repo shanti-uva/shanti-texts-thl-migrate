@@ -116,6 +116,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:30:23 UTC", 
+  "domain": "places", 
+  "kid": "23602", 
   "authors": [
    {
     "fullname": "ཚེ་རིང་ཐར། (Tsering Thar)", 
@@ -126,9 +129,6 @@
     "id": "80"
    }
   ], 
-  "domain": "places", 
-  "kid": "23602", 
-  "dates": [], 
   "title": "Gurwa Kyangtsang Gön Namgyel Kündrak Ling Introduction"
  }
 }

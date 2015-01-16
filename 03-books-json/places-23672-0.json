@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-07-13 16:54:01 UTC", 
+  "domain": "places", 
+  "kid": "23672", 
   "authors": [
    {
     "fullname": "Yudru Tsomu", 
@@ -18,9 +21,6 @@
     "id": "52"
    }
   ], 
-  "domain": "places", 
-  "kid": "23672", 
-  "dates": [], 
   "title": "An Overview of Muli"
  }
 }

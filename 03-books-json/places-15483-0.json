@@ -74,6 +74,9 @@
   }
  ], 
  "meta": {
+  "date": "2010-05-22 22:27:03 UTC", 
+  "domain": "places", 
+  "kid": "15483", 
   "authors": [
    {
     "fullname": "Brandon Dotson", 
@@ -84,9 +87,6 @@
     "id": "17"
    }
   ], 
-  "domain": "places", 
-  "kid": "15483", 
-  "dates": [], 
   "title": "The Administrative Organization of the Tibetan Empire"
  }
 }

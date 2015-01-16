@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:15:22 UTC", 
+  "domain": "subjects", 
+  "kid": "5096", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5096", 
-  "dates": [], 
   "title": "About The Auxiliaries རྒྱུ་བྱུང་ and ཡག་བྱུང་"
  }
 }

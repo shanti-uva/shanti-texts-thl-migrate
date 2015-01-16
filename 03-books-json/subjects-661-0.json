@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:04:59 UTC", 
+  "domain": "subjects", 
+  "kid": "661", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "661", 
-  "dates": [], 
   "title": "An Overview of the Kyirong Dialect"
  }
 }

@@ -56,6 +56,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:29:38 UTC", 
+  "domain": "places", 
+  "kid": "23512", 
   "authors": [
    {
     "fullname": "ཚེ་རིང་ཐར། (Tsering Thar)", 
@@ -66,9 +69,6 @@
     "id": "80"
    }
   ], 
-  "domain": "places", 
-  "kid": "23512", 
-  "dates": [], 
   "title": "Sekhang Gyelten Yeshé Gyatso Ling Introduction"
  }
 }

@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:13:30 UTC", 
+  "domain": "subjects", 
+  "kid": "4499", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "4499", 
-  "dates": [], 
   "title": "An Overview of Specific Administrative Hierarchies for Historical Polities"
  }
 }

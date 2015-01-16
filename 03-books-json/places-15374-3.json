@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-11-09 14:08:31 UTC", 
+  "domain": "places", 
+  "kid": "15374", 
   "authors": [
    {
     "fullname": "Dudul Dorjay", 
@@ -18,9 +21,6 @@
     "id": "76"
    }
   ], 
-  "domain": "places", 
-  "kid": "15374", 
-  "dates": [], 
   "title": "རེབ་གོང་གི་སྐོར་མདོར་བསྡུས།"
  }
 }

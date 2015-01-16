@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2010-10-11 12:00:40 UTC", 
+  "domain": "places", 
+  "kid": "17447", 
   "authors": [
    {
     "fullname": "Jann Ronis", 
@@ -18,9 +21,6 @@
     "id": "32"
    }
   ], 
-  "domain": "places", 
-  "kid": "17447", 
-  "dates": [], 
   "title": "Pelyül Monastery"
  }
 }

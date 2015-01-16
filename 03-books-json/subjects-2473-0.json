@@ -26,15 +26,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:09:52 UTC", 
+  "domain": "subjects", 
+  "kid": "2473", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2473", 
-  "dates": [], 
   "title": "About Transmission rituals"
  }
 }

@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:13:14 UTC", 
+  "domain": "subjects", 
+  "kid": "4320", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "4320", 
-  "dates": [], 
   "title": "An Overview of the Report Speech Type"
  }
 }

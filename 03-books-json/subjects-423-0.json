@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:04:16 UTC", 
+  "domain": "subjects", 
+  "kid": "423", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "423", 
-  "dates": [], 
   "title": "About Sacred Site Guide"
  }
 }

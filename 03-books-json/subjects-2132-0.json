@@ -14,15 +14,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:08:43 UTC", 
+  "domain": "subjects", 
+  "kid": "2132", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2132", 
-  "dates": [], 
   "title": "Exorcism of Enemies, Invasion"
  }
 }

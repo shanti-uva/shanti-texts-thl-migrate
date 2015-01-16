@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:04:08 UTC", 
+  "domain": "subjects", 
+  "kid": "363", 
   "authors": [
    {
     "fullname": "Thubten Phuntsok", 
     "id": "12"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "363", 
-  "dates": [], 
   "title": "About klu"
  }
 }

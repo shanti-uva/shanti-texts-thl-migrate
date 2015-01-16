@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-07-07 11:50:22 UTC", 
+  "domain": "places", 
+  "kid": "24126", 
   "authors": [
    {
     "fullname": "Gray Tuttle", 
@@ -18,9 +21,6 @@
     "id": "24"
    }
   ], 
-  "domain": "places", 
-  "kid": "24126", 
-  "dates": [], 
   "title": "Amchok Monastery (a mchog dgon pa)"
  }
 }

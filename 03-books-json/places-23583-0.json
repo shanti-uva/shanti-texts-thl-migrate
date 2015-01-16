@@ -20,6 +20,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:30:13 UTC", 
+  "domain": "places", 
+  "kid": "23583", 
   "authors": [
    {
     "fullname": "ཚེ་རིང་ཐར། (Tsering Thar)", 
@@ -30,9 +33,6 @@
     "id": "80"
    }
   ], 
-  "domain": "places", 
-  "kid": "23583", 
-  "dates": [], 
   "title": "Dripsip Introduction"
  }
 }

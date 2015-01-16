@@ -32,6 +32,9 @@
   }
  ], 
  "meta": {
+  "date": "2010-08-07 17:47:48 UTC", 
+  "domain": "places", 
+  "kid": "1098", 
   "authors": [
    {
     "fullname": "Derong Tsering Döndrup (སྡེ་རོང་ཚེ་རིང་དོན་གྲུབ།; 泽仁邓珠)", 
@@ -42,9 +45,6 @@
     "id": "49"
    }
   ], 
-  "domain": "places", 
-  "kid": "1098", 
-  "dates": [], 
   "title": "历史需要铭记，接力没有终点: 《得荣县文史资料》读后感 (History Must Keep This in Mind: The Race Has No Finish Line: Response to the Derong County Essay)"
  }
 }

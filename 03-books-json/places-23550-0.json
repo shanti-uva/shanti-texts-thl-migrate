@@ -80,6 +80,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:29:56 UTC", 
+  "domain": "places", 
+  "kid": "23550", 
   "authors": [
    {
     "fullname": "ཚེ་རིང་ཐར། (Tsering Thar)", 
@@ -90,9 +93,6 @@
     "id": "80"
    }
   ], 
-  "domain": "places", 
-  "kid": "23550", 
-  "dates": [], 
   "title": "Rapgyel Introduction"
  }
 }

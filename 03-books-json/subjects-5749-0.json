@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:17:30 UTC", 
+  "domain": "subjects", 
+  "kid": "5749", 
   "authors": [
    {
     "fullname": "Suzanne Bessenger", 
     "id": "22"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5749", 
-  "dates": [], 
   "title": "About Kitchen Attendant"
  }
 }

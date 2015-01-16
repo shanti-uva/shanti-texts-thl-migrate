@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:14:31 UTC", 
+  "domain": "subjects", 
+  "kid": "4913", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "4913", 
-  "dates": [], 
   "title": "An Overview of Chinese Directly Administered Municipalities (DAM)"
  }
 }

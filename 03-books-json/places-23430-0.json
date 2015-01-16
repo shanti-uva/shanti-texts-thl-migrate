@@ -26,6 +26,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:29:00 UTC", 
+  "domain": "places", 
+  "kid": "23430", 
   "authors": [
    {
     "fullname": "Phuntso Tsering Sharyul", 
@@ -36,9 +39,6 @@
     "id": "79"
    }
   ], 
-  "domain": "places", 
-  "kid": "23430", 
-  "dates": [], 
   "title": "Yeta Lungkar Gön Shenten Rinchen Ling Introduction"
  }
 }

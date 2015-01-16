@@ -116,6 +116,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:30:31 UTC", 
+  "domain": "places", 
+  "kid": "23618", 
   "authors": [
    {
     "fullname": "ཚེ་རིང་ཐར། (Tsering Thar)", 
@@ -126,9 +129,6 @@
     "id": "80"
    }
   ], 
-  "domain": "places", 
-  "kid": "23618", 
-  "dates": [], 
   "title": "Khöpo Yungdrung Dargyé Ling Introduction"
  }
 }

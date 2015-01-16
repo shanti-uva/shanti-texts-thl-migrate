@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:14:14 UTC", 
+  "domain": "subjects", 
+  "kid": "4863", 
   "authors": [
    {
     "fullname": "Steve Weinberger", 
     "id": "3"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "4863", 
-  "dates": [], 
   "title": "An Overview of the Ordinary Introductory Scene Section"
  }
 }

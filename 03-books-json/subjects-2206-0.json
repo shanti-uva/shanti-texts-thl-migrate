@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:08:59 UTC", 
+  "domain": "subjects", 
+  "kid": "2206", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2206", 
-  "dates": [], 
   "title": "About Rituals for averting war or for routing an enemy"
  }
 }

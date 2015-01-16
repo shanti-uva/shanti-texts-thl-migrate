@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:16:59 UTC", 
+  "domain": "subjects", 
+  "kid": "5663", 
   "authors": [
    {
     "fullname": "Suzanne Bessenger", 
     "id": "22"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5663", 
-  "dates": [], 
   "title": "About Caretaker"
  }
 }

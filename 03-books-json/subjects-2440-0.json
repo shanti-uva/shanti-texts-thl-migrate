@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:09:45 UTC", 
+  "domain": "subjects", 
+  "kid": "2440", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2440", 
-  "dates": [], 
   "title": "About Burnt juniper/ fumigation"
  }
 }

@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:14:00 UTC", 
+  "domain": "subjects", 
+  "kid": "4775", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "4775", 
-  "dates": [], 
   "title": "About The Essential Copulas: རེད་, ཡིན་, རེད་བཞག་"
  }
 }

@@ -74,6 +74,9 @@
   }
  ], 
  "meta": {
+  "date": "2010-02-21 08:49:04 UTC", 
+  "domain": "places", 
+  "kid": "15472", 
   "authors": [
    {
     "fullname": "Paul Nietupski", 
@@ -84,9 +87,6 @@
     "id": "28"
    }
   ], 
-  "domain": "places", 
-  "kid": "15472", 
-  "dates": [], 
   "title": "Labrang Monastery’s Corporate Estates (labrang)"
  }
 }

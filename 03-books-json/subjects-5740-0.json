@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:17:27 UTC", 
+  "domain": "subjects", 
+  "kid": "5740", 
   "authors": [
    {
     "fullname": "Suzanne Bessenger", 
     "id": "22"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5740", 
-  "dates": [], 
   "title": "About Assistant Sacristan"
  }
 }

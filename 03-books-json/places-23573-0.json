@@ -122,6 +122,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:30:08 UTC", 
+  "domain": "places", 
+  "kid": "23573", 
   "authors": [
    {
     "fullname": "ཚེ་རིང་ཐར། (Tsering Thar)", 
@@ -132,9 +135,6 @@
     "id": "80"
    }
   ], 
-  "domain": "places", 
-  "kid": "23573", 
-  "dates": [], 
   "title": "Drogön Yungdrung Dündül Ling Introduction"
  }
 }

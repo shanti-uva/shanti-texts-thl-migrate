@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:15:18 UTC", 
+  "domain": "subjects", 
+  "kid": "5073", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5073", 
-  "dates": [], 
   "title": "About Hearsay and Other Forms of Reported Speech"
  }
 }

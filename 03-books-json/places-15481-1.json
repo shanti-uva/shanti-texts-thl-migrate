@@ -32,6 +32,9 @@
   }
  ], 
  "meta": {
+  "date": "2010-05-19 18:56:02 UTC", 
+  "domain": "places", 
+  "kid": "15481", 
   "authors": [
    {
     "fullname": "Kurtis Schaeffer", 
@@ -42,9 +45,6 @@
     "id": "2"
    }
   ], 
-  "domain": "places", 
-  "kid": "15481", 
-  "dates": [], 
   "title": "An Introduction to Sakya Polity"
  }
 }

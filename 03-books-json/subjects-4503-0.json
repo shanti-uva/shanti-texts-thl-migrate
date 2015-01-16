@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:13:32 UTC", 
+  "domain": "subjects", 
+  "kid": "4503", 
   "authors": [
    {
     "fullname": "Brandon Dotson", 
     "id": "15"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "4503", 
-  "dates": [], 
   "title": "An Overview of the Royal Court in the Tibetan Empire"
  }
 }

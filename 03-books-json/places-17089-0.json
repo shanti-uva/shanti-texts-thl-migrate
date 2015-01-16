@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2010-07-25 14:47:12 UTC", 
+  "domain": "places", 
+  "kid": "17089", 
   "authors": [
    {
     "fullname": "Jann Ronis", 
@@ -18,9 +21,6 @@
     "id": "32"
    }
   ], 
-  "domain": "places", 
-  "kid": "17089", 
-  "dates": [], 
   "title": "Dzongsar Trashi Lhatsé Monastery"
  }
 }

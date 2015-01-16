@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:14:08 UTC", 
+  "domain": "subjects", 
+  "kid": "4848", 
   "authors": [
    {
     "fullname": "David Germano", 
@@ -26,9 +29,6 @@
     "id": "21"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "4848", 
-  "dates": [], 
   "title": "An Overview of the Divisions of a Tibetan Text"
  }
 }

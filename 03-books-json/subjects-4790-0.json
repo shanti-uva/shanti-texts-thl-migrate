@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:14:02 UTC", 
+  "domain": "subjects", 
+  "kid": "4790", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "4790", 
-  "dates": [], 
   "title": "About The Notion of Verb Aspect"
  }
 }

@@ -38,15 +38,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:07:59 UTC", 
+  "domain": "subjects", 
+  "kid": "1908", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "1908", 
-  "dates": [], 
   "title": "Destruction Ritual"
  }
 }

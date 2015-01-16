@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:13:54 UTC", 
+  "domain": "subjects", 
+  "kid": "4719", 
   "authors": [
    {
     "fullname": "David Germano", 
@@ -18,9 +21,6 @@
     "id": "10"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "4719", 
-  "dates": [], 
   "title": "An Overview of Mongol Yuan-Sakya Myriarchies"
  }
 }

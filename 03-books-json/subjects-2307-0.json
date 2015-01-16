@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:09:19 UTC", 
+  "domain": "subjects", 
+  "kid": "2307", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2307", 
-  "dates": [], 
   "title": "About Session-torma [presented during each session to the deity]"
  }
 }

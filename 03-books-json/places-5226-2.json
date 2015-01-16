@@ -50,6 +50,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-10-28 23:12:28 UTC", 
+  "domain": "places", 
+  "kid": "5226", 
   "authors": [
    {
     "fullname": "David Germano", 
@@ -60,9 +63,6 @@
     "id": "42"
    }
   ], 
-  "domain": "places", 
-  "kid": "5226", 
-  "dates": [], 
   "title": "The Cultural Regions in Tibet"
  }
 }

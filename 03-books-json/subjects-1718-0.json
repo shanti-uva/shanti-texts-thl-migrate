@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:07:32 UTC", 
+  "domain": "subjects", 
+  "kid": "1718", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "1718", 
-  "dates": [], 
   "title": "About Common Noun"
  }
 }

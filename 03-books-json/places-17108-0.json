@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2010-10-11 11:00:37 UTC", 
+  "domain": "places", 
+  "kid": "17108", 
   "authors": [
    {
     "fullname": "Jann Ronis", 
@@ -18,9 +21,6 @@
     "id": "32"
    }
   ], 
-  "domain": "places", 
-  "kid": "17108", 
-  "dates": [], 
   "title": "Pelpung Monastery"
  }
 }

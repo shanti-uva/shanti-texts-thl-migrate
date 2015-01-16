@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:12:34 UTC", 
+  "domain": "subjects", 
+  "kid": "3997", 
   "authors": [
    {
     "fullname": "John Vincent Bellezza", 
     "id": "14"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "3997", 
-  "dates": [], 
   "title": "An Overview of the John Bellezza TILE Expedition"
  }
 }

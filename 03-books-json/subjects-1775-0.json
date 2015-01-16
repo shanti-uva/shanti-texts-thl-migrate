@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:07:34 UTC", 
+  "domain": "subjects", 
+  "kid": "1775", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "1775", 
-  "dates": [], 
   "title": "About Compound Verbs"
  }
 }

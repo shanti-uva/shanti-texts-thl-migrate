@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:19:00 UTC", 
+  "domain": "subjects", 
+  "kid": "6647", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "6647", 
-  "dates": [], 
   "title": "About Clickers"
  }
 }

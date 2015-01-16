@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-05-11 15:34:34 UTC", 
+  "domain": "places", 
+  "kid": "23753", 
   "authors": [
    {
     "fullname": "Gray Tuttle", 
@@ -18,9 +21,6 @@
     "id": "24"
    }
   ], 
-  "domain": "places", 
-  "kid": "23753", 
-  "dates": [], 
   "title": "Introduction to the Mé Kingdom of Ngawa"
  }
 }

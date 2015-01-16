@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:14:26 UTC", 
+  "domain": "subjects", 
+  "kid": "4904", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "4904", 
-  "dates": [], 
   "title": "About Egophoric"
  }
 }

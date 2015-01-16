@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-07-13 16:53:57 UTC", 
+  "domain": "places", 
+  "kid": "23671", 
   "authors": [
    {
     "fullname": "Jann Ronis", 
@@ -18,9 +21,6 @@
     "id": "32"
    }
   ], 
-  "domain": "places", 
-  "kid": "23671", 
-  "dates": [], 
   "title": "An Overview of Lingtsang"
  }
 }

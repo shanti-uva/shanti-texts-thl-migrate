@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:03:57 UTC", 
+  "domain": "subjects", 
+  "kid": "286", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "286", 
-  "dates": [], 
   "title": "About the Tibetan Grammatical Functions Knowledge Map"
  }
 }

@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:17:33 UTC", 
+  "domain": "subjects", 
+  "kid": "5759", 
   "authors": [
    {
     "fullname": "Suzanne Bessenger", 
     "id": "22"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5759", 
-  "dates": [], 
   "title": "About Assistant Chanter"
  }
 }

@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:16:37 UTC", 
+  "domain": "subjects", 
+  "kid": "5543", 
   "authors": [
    {
     "fullname": "Steve Weinberger", 
     "id": "3"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5543", 
-  "dates": [], 
   "title": "About Householder Priest"
  }
 }

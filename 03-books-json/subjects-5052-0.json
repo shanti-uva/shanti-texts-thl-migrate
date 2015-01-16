@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:15:16 UTC", 
+  "domain": "subjects", 
+  "kid": "5052", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5052", 
-  "dates": [], 
   "title": "An Overview of Mongol Yuan-Sakya Provinces"
  }
 }

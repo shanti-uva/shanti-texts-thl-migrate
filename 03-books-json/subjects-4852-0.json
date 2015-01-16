@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:14:10 UTC", 
+  "domain": "subjects", 
+  "kid": "4852", 
   "authors": [
    {
     "fullname": "Steve Weinberger", 
     "id": "3"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "4852", 
-  "dates": [], 
   "title": "An Overview of the Title Page Section"
  }
 }

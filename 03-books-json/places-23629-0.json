@@ -74,6 +74,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:30:37 UTC", 
+  "domain": "places", 
+  "kid": "23629", 
   "authors": [
    {
     "fullname": "Charles Ramble", 
@@ -92,9 +95,6 @@
     "id": "81"
    }
   ], 
-  "domain": "places", 
-  "kid": "23629", 
-  "dates": [], 
   "title": "Samling Introduction"
  }
 }

@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2009-06-11 14:17:49 UTC", 
+  "domain": "places", 
+  "kid": "15417", 
   "authors": [
    {
     "fullname": "Mark Turin", 
@@ -18,9 +21,6 @@
     "id": "16"
    }
   ], 
-  "domain": "places", 
-  "kid": "15417", 
-  "dates": [], 
   "title": "About Gurung"
  }
 }

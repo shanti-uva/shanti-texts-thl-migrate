@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:15:40 UTC", 
+  "domain": "subjects", 
+  "kid": "5225", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5225", 
-  "dates": [], 
   "title": "About The Connective གོང་ལ་"
  }
 }

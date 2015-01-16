@@ -14,6 +14,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-10-28 23:36:35 UTC", 
+  "domain": "places", 
+  "kid": "15348", 
   "authors": [
    {
     "fullname": "David Germano", 
@@ -24,9 +27,6 @@
     "id": "42"
    }
   ], 
-  "domain": "places", 
-  "kid": "15348", 
-  "dates": [], 
   "title": "The Contemporary Location of the Amdo Tibetan Culture Region"
  }
 }

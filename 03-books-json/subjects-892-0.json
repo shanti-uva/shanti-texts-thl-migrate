@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:05:47 UTC", 
+  "domain": "subjects", 
+  "kid": "892", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "892", 
-  "dates": [], 
   "title": "An Overview of the Pakdru Kagyü Tradition"
  }
 }

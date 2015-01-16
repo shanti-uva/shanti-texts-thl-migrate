@@ -20,15 +20,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:08:23 UTC", 
+  "domain": "subjects", 
+  "kid": "2040", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2040", 
-  "dates": [], 
   "title": "Ritual Text Related to the (Site) Deity"
  }
 }

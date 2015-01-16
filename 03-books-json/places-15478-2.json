@@ -14,6 +14,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-03-23 21:28:49 UTC", 
+  "domain": "places", 
+  "kid": "15478", 
   "authors": [
    {
     "fullname": "Gray Tuttle", 
@@ -24,9 +27,6 @@
     "id": "24"
    }
   ], 
-  "domain": "places", 
-  "kid": "15478", 
-  "dates": [], 
   "title": "A Brief History of Buddhism in Pari"
  }
 }

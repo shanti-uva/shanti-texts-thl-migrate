@@ -38,15 +38,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:08:50 UTC", 
+  "domain": "subjects", 
+  "kid": "2166", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2166", 
-  "dates": [], 
   "title": "About Good luck rituals"
  }
 }

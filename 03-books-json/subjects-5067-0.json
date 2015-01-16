@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:15:18 UTC", 
+  "domain": "subjects", 
+  "kid": "5067", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5067", 
-  "dates": [], 
   "title": "About Determinatives"
  }
 }

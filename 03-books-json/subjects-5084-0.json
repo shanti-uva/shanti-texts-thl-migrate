@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:15:20 UTC", 
+  "domain": "subjects", 
+  "kid": "5084", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5084", 
-  "dates": [], 
   "title": "About Table: The Different Mediatory Moods According to Tense-Aspect "
  }
 }

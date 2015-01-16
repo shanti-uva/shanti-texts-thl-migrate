@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2009-06-09 18:26:19 UTC", 
+  "domain": "places", 
+  "kid": "15375", 
   "authors": [
    {
     "fullname": "Toni Huber", 
@@ -18,9 +21,6 @@
     "id": "15"
    }
   ], 
-  "domain": "places", 
-  "kid": "15375", 
-  "dates": [], 
   "title": "About Sharwa and Tewo Agrarian Communities"
  }
 }

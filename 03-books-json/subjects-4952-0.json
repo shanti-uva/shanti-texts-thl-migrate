@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:14:41 UTC", 
+  "domain": "subjects", 
+  "kid": "4952", 
   "authors": [
    {
     "fullname": "David Newman", 
     "id": "8"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "4952", 
-  "dates": [], 
   "title": "An Overview of Chinese Cities and Municipalities"
  }
 }

@@ -62,6 +62,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:30:39 UTC", 
+  "domain": "places", 
+  "kid": "23638", 
   "authors": [
    {
     "fullname": "Charles Ramble", 
@@ -80,9 +83,6 @@
     "id": "81"
    }
   ], 
-  "domain": "places", 
-  "kid": "23638", 
-  "dates": [], 
   "title": "Sigyel Gönpa Introduction"
  }
 }

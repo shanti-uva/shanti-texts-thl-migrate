@@ -20,15 +20,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:08:44 UTC", 
+  "domain": "subjects", 
+  "kid": "2134", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2134", 
-  "dates": [], 
   "title": "Exorcism of Bad-mouthing"
  }
 }

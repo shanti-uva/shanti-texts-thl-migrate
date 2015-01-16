@@ -62,6 +62,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-05-16 16:05:14 UTC", 
+  "domain": "places", 
+  "kid": "23751", 
   "authors": [
    {
     "fullname": "Sonam Tsering", 
@@ -72,9 +75,6 @@
     "id": "31"
    }
   ], 
-  "domain": "places", 
-  "kid": "23751", 
-  "dates": [], 
   "title": "The Historical Polity of Repgong"
  }
 }

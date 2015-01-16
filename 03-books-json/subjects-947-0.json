@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:06:01 UTC", 
+  "domain": "subjects", 
+  "kid": "947", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "947", 
-  "dates": [], 
   "title": "An Introduction to Bibliographic Classifications"
  }
 }

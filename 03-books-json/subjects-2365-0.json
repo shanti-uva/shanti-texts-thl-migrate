@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:09:31 UTC", 
+  "domain": "subjects", 
+  "kid": "2365", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2365", 
-  "dates": [], 
   "title": "About To a specific lama and his previous incarnations"
  }
 }

@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:19:11 UTC", 
+  "domain": "subjects", 
+  "kid": "6733", 
   "authors": [
    {
     "fullname": "Rinchenkhar", 
     "id": "25"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "6733", 
-  "dates": [], 
   "title": "About Bu Lham Shoe"
  }
 }

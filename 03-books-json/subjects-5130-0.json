@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:15:26 UTC", 
+  "domain": "subjects", 
+  "kid": "5130", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5130", 
-  "dates": [], 
   "title": "About Table: Variant Written Forms of Grammatical Cases and Morphemes"
  }
 }

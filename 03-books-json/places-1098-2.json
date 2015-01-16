@@ -26,6 +26,9 @@
   }
  ], 
  "meta": {
+  "date": "2010-08-07 14:43:51 UTC", 
+  "domain": "places", 
+  "kid": "1098", 
   "authors": [
    {
     "fullname": "Derong Tsering Döndrup (སྡེ་རོང་ཚེ་རིང་དོན་གྲུབ།; 泽仁邓珠)", 
@@ -36,9 +39,6 @@
     "id": "49"
    }
   ], 
-  "domain": "places", 
-  "kid": "1098", 
-  "dates": [], 
   "title": "话说得荣，过年习俗: 准备年货，向佛神祭祀供品 (On Derong’s New Year’s Celebration Customs: Preparing Goods for the New Year Celebration, Offering Ritual Goods to the Buddha)"
  }
 }

@@ -14,6 +14,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-10-20 19:21:04 UTC", 
+  "domain": "places", 
+  "kid": "22253", 
   "authors": [
    {
     "fullname": "Kurtis Schaeffer", 
@@ -24,9 +27,6 @@
     "id": "2"
    }
   ], 
-  "domain": "places", 
-  "kid": "22253", 
-  "dates": [], 
   "title": "An Introduction to Zhalu Monastery"
  }
 }

@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:15:25 UTC", 
+  "domain": "subjects", 
+  "kid": "5128", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5128", 
-  "dates": [], 
   "title": "About Table: Use of the Case Markers"
  }
 }

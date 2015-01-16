@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:08:49 UTC", 
+  "domain": "subjects", 
+  "kid": "2160", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2160", 
-  "dates": [], 
   "title": "About Lütor"
  }
 }

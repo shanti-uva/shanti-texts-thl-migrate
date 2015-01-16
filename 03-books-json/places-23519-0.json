@@ -62,6 +62,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:29:42 UTC", 
+  "domain": "places", 
+  "kid": "23519", 
   "authors": [
    {
     "fullname": "ཚེ་རིང་ཐར། (Tsering Thar)", 
@@ -72,9 +75,6 @@
     "id": "80"
    }
   ], 
-  "domain": "places", 
-  "kid": "23519", 
-  "dates": [], 
   "title": "Sekhang Sangchen Mindröl Penden Ling Introduction"
  }
 }

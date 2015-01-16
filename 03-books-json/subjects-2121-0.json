@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:08:41 UTC", 
+  "domain": "subjects", 
+  "kid": "2121", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2121", 
-  "dates": [], 
   "title": "About For the harvest"
  }
 }

@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:03:42 UTC", 
+  "domain": "subjects", 
+  "kid": "160", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "160", 
-  "dates": [], 
   "title": "About Song"
  }
 }

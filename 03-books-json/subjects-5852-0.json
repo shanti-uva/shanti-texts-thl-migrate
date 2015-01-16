@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:17:52 UTC", 
+  "domain": "subjects", 
+  "kid": "5852", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5852", 
-  "dates": [], 
   "title": "An Overview of Letting be (cog bzhag?)"
  }
 }

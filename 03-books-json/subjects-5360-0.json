@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:15:59 UTC", 
+  "domain": "subjects", 
+  "kid": "5360", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5360", 
-  "dates": [], 
   "title": "About The “Self-Corrective” Existential Verbs ཡོད་པ་རེད་, ཡོད་པ་ཡིན་པ་རེད་"
  }
 }

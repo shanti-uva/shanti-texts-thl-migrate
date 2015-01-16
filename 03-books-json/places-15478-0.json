@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2010-05-16 12:23:34 UTC", 
+  "domain": "places", 
+  "kid": "15478", 
   "authors": [
    {
     "fullname": "Tsehuajia", 
@@ -18,9 +21,6 @@
     "id": "37"
    }
   ], 
-  "domain": "places", 
-  "kid": "15478", 
-  "dates": [], 
   "title": "An Introduction to Huaré (dpa' ris, Pari)"
  }
 }

@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2009-06-12 09:40:59 UTC", 
+  "domain": "places", 
+  "kid": "15448", 
   "authors": [
    {
     "fullname": "Mark Turin", 
@@ -18,9 +21,6 @@
     "id": "16"
    }
   ], 
-  "domain": "places", 
-  "kid": "15448", 
-  "dates": [], 
   "title": "About Yholmo"
  }
 }

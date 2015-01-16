@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:15:44 UTC", 
+  "domain": "subjects", 
+  "kid": "5254", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5254", 
-  "dates": [], 
   "title": "About The Expression རོགས་གནང་"
  }
 }

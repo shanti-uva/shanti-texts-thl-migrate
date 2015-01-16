@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:19:50 UTC", 
+  "domain": "subjects", 
+  "kid": "6961", 
   "authors": [
    {
     "fullname": "Matthew Zito", 
     "id": "30"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "6961", 
-  "dates": [], 
   "title": "About Handleless knife"
  }
 }

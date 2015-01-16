@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-01-04 03:36:06 UTC", 
+  "domain": "places", 
+  "kid": "1063", 
   "authors": [
    {
     "fullname": "David Germano", 
@@ -26,9 +29,6 @@
     "id": "59"
    }
   ], 
-  "domain": "places", 
-  "kid": "1063", 
-  "dates": [], 
   "title": "An Overview of the Ngawa Autonomous Prefecture"
  }
 }

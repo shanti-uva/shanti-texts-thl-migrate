@@ -44,6 +44,9 @@
   }
  ], 
  "meta": {
+  "date": "2010-02-25 18:46:34 UTC", 
+  "domain": "places", 
+  "kid": "24353", 
   "authors": [
    {
     "fullname": "Gray Tuttle", 
@@ -54,9 +57,6 @@
     "id": "24"
    }
   ], 
-  "domain": "places", 
-  "kid": "24353", 
-  "dates": [], 
   "title": "The Kingdom of Choné"
  }
 }

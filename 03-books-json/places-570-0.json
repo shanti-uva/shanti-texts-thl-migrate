@@ -38,6 +38,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:30:55 UTC", 
+  "domain": "places", 
+  "kid": "570", 
   "authors": [
    {
     "fullname": "Phuntso Tsering Sharyul", 
@@ -48,9 +51,6 @@
     "id": "79"
    }
   ], 
-  "domain": "places", 
-  "kid": "570", 
-  "dates": [], 
   "title": "Pashö Introduction"
  }
 }

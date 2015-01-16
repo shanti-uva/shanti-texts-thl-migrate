@@ -14,15 +14,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:07:44 UTC", 
+  "domain": "subjects", 
+  "kid": "1833", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "1833", 
-  "dates": [], 
   "title": "Ransom Ritual for Livestock"
  }
 }

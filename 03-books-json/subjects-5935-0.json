@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:18:07 UTC", 
+  "domain": "subjects", 
+  "kid": "5935", 
   "authors": [
    {
     "fullname": "Steve Weinberger", 
     "id": "3"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5935", 
-  "dates": [], 
   "title": "About Cave Temple"
  }
 }

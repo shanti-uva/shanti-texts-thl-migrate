@@ -32,6 +32,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:29:48 UTC", 
+  "domain": "places", 
+  "kid": "23534", 
   "authors": [
    {
     "fullname": "ཚེ་རིང་ཐར། (Tsering Thar)", 
@@ -42,9 +45,6 @@
     "id": "80"
    }
   ], 
-  "domain": "places", 
-  "kid": "23534", 
-  "dates": [], 
   "title": "Arik Tongkor Sekhang Introduction"
  }
 }

@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:03:20 UTC", 
+  "domain": "subjects", 
+  "kid": "20", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "20", 
-  "dates": [], 
   "title": "An Introduction to the Thesaurus of Geographical Features"
  }
 }

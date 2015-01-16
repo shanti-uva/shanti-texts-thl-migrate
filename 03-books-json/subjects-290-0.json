@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:03:58 UTC", 
+  "domain": "subjects", 
+  "kid": "290", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "290", 
-  "dates": [], 
   "title": "About Connectives"
  }
 }

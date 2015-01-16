@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:15:26 UTC", 
+  "domain": "subjects", 
+  "kid": "5136", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5136", 
-  "dates": [], 
   "title": "About The Instrumental"
  }
 }

@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:13:28 UTC", 
+  "domain": "subjects", 
+  "kid": "4483", 
   "authors": [
    {
     "fullname": "Chris Bell", 
     "id": "5"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "4483", 
-  "dates": [], 
   "title": "About Eight Classes of Deities and Spirits"
  }
 }

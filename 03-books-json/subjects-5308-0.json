@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:15:52 UTC", 
+  "domain": "subjects", 
+  "kid": "5308", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5308", 
-  "dates": [], 
   "title": "About Relative Clauses and Nominalization"
  }
 }

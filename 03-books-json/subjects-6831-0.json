@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:19:29 UTC", 
+  "domain": "subjects", 
+  "kid": "6831", 
   "authors": [
    {
     "fullname": "Matthew Zito", 
     "id": "30"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "6831", 
-  "dates": [], 
   "title": "About Wool sack"
  }
 }

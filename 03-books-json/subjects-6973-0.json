@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-10-01 21:59:15 UTC", 
+  "domain": "subjects", 
+  "kid": "6973", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "6973", 
-  "dates": [], 
   "title": "About Transcendent Pith"
  }
 }

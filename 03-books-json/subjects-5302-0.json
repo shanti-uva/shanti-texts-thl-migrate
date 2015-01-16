@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:15:51 UTC", 
+  "domain": "subjects", 
+  "kid": "5302", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5302", 
-  "dates": [], 
   "title": "About Resultative Auxiliaries with Non-Volitional Verbs"
  }
 }

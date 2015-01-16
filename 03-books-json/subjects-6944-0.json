@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:19:47 UTC", 
+  "domain": "subjects", 
+  "kid": "6944", 
   "authors": [
    {
     "fullname": "Matthew Zito", 
     "id": "30"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "6944", 
-  "dates": [], 
   "title": "About Arrow"
  }
 }

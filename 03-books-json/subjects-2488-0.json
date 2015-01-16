@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:09:55 UTC", 
+  "domain": "subjects", 
+  "kid": "2488", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2488", 
-  "dates": [], 
   "title": "About Entry into rainy season retreat"
  }
 }

@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-10-28 18:15:20 UTC", 
+  "domain": "places", 
+  "kid": "13740", 
   "authors": [
    {
     "fullname": "David Germano", 
@@ -18,9 +21,6 @@
     "id": "42"
    }
   ], 
-  "domain": "places", 
-  "kid": "13740", 
-  "dates": [], 
   "title": "Asia as a Cultural Region"
  }
 }

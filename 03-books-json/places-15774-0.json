@@ -704,6 +704,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:31:07 UTC", 
+  "domain": "places", 
+  "kid": "15774", 
   "authors": [
    {
     "fullname": "ཚེ་རིང་ཐར། (Tsering Thar)", 
@@ -714,9 +717,6 @@
     "id": "80"
    }
   ], 
-  "domain": "places", 
-  "kid": "15774", 
-  "dates": [], 
   "title": "Mewa Introduction"
  }
 }

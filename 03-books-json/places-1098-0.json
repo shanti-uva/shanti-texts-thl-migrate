@@ -134,6 +134,9 @@
   }
  ], 
  "meta": {
+  "date": "2010-08-07 14:25:05 UTC", 
+  "domain": "places", 
+  "kid": "1098", 
   "authors": [
    {
     "fullname": "Derong Tsering Döndrup (སྡེ་རོང་ཚེ་རིང་དོན་གྲུབ།; 泽仁邓珠)", 
@@ -144,9 +147,6 @@
     "id": "49"
    }
   ], 
-  "domain": "places", 
-  "kid": "1098", 
-  "dates": [], 
   "title": "神奇的得荣、可爱的故乡 (Mysterious Derong, Lovely Homeland )"
  }
 }

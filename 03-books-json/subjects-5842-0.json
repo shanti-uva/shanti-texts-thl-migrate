@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:17:50 UTC", 
+  "domain": "subjects", 
+  "kid": "5842", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5842", 
-  "dates": [], 
   "title": "An Overview of Magical Devices ('phrul ‘khor; Skt., yantra)"
  }
 }

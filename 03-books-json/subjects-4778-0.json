@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:14:00 UTC", 
+  "domain": "subjects", 
+  "kid": "4778", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "4778", 
-  "dates": [], 
   "title": "About The “Revelatory” Copula རེད་བཞག་ and its Negation རེད་མི་འདུག་"
  }
 }

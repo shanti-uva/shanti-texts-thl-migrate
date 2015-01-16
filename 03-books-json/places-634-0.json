@@ -56,6 +56,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:30:54 UTC", 
+  "domain": "places", 
+  "kid": "634", 
   "authors": [
    {
     "fullname": "Phuntso Tsering Sharyul", 
@@ -66,9 +69,6 @@
     "id": "79"
    }
   ], 
-  "domain": "places", 
-  "kid": "634", 
-  "dates": [], 
   "title": "Lhorong Introduction"
  }
 }

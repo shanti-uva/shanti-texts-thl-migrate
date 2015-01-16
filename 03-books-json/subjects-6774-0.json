@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:19:19 UTC", 
+  "domain": "subjects", 
+  "kid": "6774", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "6774", 
-  "dates": [], 
   "title": "An Overview of the Eighteen Mind Series Texts"
  }
 }

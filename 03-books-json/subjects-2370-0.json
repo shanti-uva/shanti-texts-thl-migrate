@@ -20,15 +20,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:09:32 UTC", 
+  "domain": "subjects", 
+  "kid": "2370", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2370", 
-  "dates": [], 
   "title": "About Prosperity rituals"
  }
 }

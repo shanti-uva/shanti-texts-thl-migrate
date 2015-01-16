@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-10-28 18:21:52 UTC", 
+  "domain": "places", 
+  "kid": "15404", 
   "authors": [
    {
     "fullname": "Mark Turin", 
@@ -26,9 +29,6 @@
     "id": "42"
    }
   ], 
-  "domain": "places", 
-  "kid": "15404", 
-  "dates": [], 
   "title": "Southern Himalayas"
  }
 }

@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-11-14 14:39:13 UTC", 
+  "domain": "places", 
+  "kid": "807", 
   "authors": [
    {
     "fullname": "Lionel Caplan", 
@@ -18,9 +21,6 @@
     "id": "82"
    }
   ], 
-  "domain": "places", 
-  "kid": "807", 
-  "dates": [], 
   "title": "Ilam District in 1964-1965"
  }
 }

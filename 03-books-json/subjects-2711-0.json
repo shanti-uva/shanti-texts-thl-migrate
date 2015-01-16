@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:10:26 UTC", 
+  "domain": "subjects", 
+  "kid": "2711", 
   "authors": [
    {
     "fullname": "David Germano", 
     "id": "2"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2711", 
-  "dates": [], 
   "title": "An Overview of the Pönchen Title"
  }
 }

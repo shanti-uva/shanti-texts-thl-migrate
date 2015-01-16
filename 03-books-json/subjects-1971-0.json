@@ -14,15 +14,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:08:09 UTC", 
+  "domain": "subjects", 
+  "kid": "1971", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "1971", 
-  "dates": [], 
   "title": "Divination Using a Rosary"
  }
 }

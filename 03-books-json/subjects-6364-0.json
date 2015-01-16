@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:18:49 UTC", 
+  "domain": "subjects", 
+  "kid": "6364", 
   "authors": [
    {
     "fullname": "Rinchenkhar", 
     "id": "25"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "6364", 
-  "dates": [], 
   "title": "About Lamb skin hat"
  }
 }

@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:09:12 UTC", 
+  "domain": "subjects", 
+  "kid": "2269", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2269", 
-  "dates": [], 
   "title": "About Three whites and three sweets"
  }
 }

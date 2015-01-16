@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:09:40 UTC", 
+  "domain": "subjects", 
+  "kid": "2416", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2416", 
-  "dates": [], 
   "title": "About Wealth"
  }
 }

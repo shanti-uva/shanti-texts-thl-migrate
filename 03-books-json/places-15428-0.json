@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2009-06-11 15:21:41 UTC", 
+  "domain": "places", 
+  "kid": "15428", 
   "authors": [
    {
     "fullname": "Mark Turin", 
@@ -18,9 +21,6 @@
     "id": "16"
    }
   ], 
-  "domain": "places", 
-  "kid": "15428", 
-  "dates": [], 
   "title": "About Mewahang"
  }
 }

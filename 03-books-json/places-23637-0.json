@@ -50,6 +50,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:30:39 UTC", 
+  "domain": "places", 
+  "kid": "23637", 
   "authors": [
    {
     "fullname": "Charles Ramble", 
@@ -68,9 +71,6 @@
     "id": "81"
    }
   ], 
-  "domain": "places", 
-  "kid": "23637", 
-  "dates": [], 
   "title": "Yungdrung Drondül Ling Gönpa Introduction"
  }
 }

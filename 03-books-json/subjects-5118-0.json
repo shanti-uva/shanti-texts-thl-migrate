@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:15:24 UTC", 
+  "domain": "subjects", 
+  "kid": "5118", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5118", 
-  "dates": [], 
   "title": "About Adjectives Used as Pre-Nominal Modifiers"
  }
 }

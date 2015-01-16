@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:04:00 UTC", 
+  "domain": "subjects", 
+  "kid": "301", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "301", 
-  "dates": [], 
   "title": "An Introduction to the Language Tree"
  }
 }

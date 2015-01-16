@@ -32,15 +32,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:09:26 UTC", 
+  "domain": "subjects", 
+  "kid": "2337", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2337", 
-  "dates": [], 
   "title": "About Prayers"
  }
 }

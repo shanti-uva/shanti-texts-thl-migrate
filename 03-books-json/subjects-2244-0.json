@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:09:07 UTC", 
+  "domain": "subjects", 
+  "kid": "2244", 
   "authors": [
    {
     "fullname": "José I. Cabezón", 
     "id": "7"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "2244", 
-  "dates": [], 
   "title": "About 7.  The Ganden Feast of the Twenty-fifth"
  }
 }

@@ -20,6 +20,9 @@
   }
  ], 
  "meta": {
+  "date": "2011-12-13 02:29:05 UTC", 
+  "domain": "places", 
+  "kid": "23442", 
   "authors": [
    {
     "fullname": "Phuntso Tsering Sharyul", 
@@ -30,9 +33,6 @@
     "id": "79"
    }
   ], 
-  "domain": "places", 
-  "kid": "23442", 
-  "dates": [], 
   "title": "Möngyel Labrang Introduction"
  }
 }

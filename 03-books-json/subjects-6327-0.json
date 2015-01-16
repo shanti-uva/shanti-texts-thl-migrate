@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:18:45 UTC", 
+  "domain": "subjects", 
+  "kid": "6327", 
   "authors": [
    {
     "fullname": "Dudul Dorjay", 
     "id": "26"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "6327", 
-  "dates": [], 
   "title": "The Most Popular Hat for Tibetans"
  }
 }

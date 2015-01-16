@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:04:35 UTC", 
+  "domain": "subjects", 
+  "kid": "516", 
   "authors": [
    {
     "fullname": "Pakpa Dondrup", 
     "id": "17"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "516", 
-  "dates": [], 
   "title": "An Overview of Chinese Townships (without urban registered population)"
  }
 }

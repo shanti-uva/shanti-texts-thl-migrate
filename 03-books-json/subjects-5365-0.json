@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:15:59 UTC", 
+  "domain": "subjects", 
+  "kid": "5365", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5365", 
-  "dates": [], 
   "title": "About Indirect Object (in the Dative) and Adverbials of Place: “To Whom,” “To Which,” “That,” “Where”"
  }
 }

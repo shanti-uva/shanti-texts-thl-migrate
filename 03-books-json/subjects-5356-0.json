@@ -8,15 +8,15 @@
   }
  ], 
  "meta": {
+  "date": "2013-09-15 04:15:58 UTC", 
+  "domain": "subjects", 
+  "kid": "5356", 
   "authors": [
    {
     "fullname": "Nicolas Tournadre", 
     "id": "6"
    }
   ], 
-  "domain": "subjects", 
-  "kid": "5356", 
-  "dates": [], 
   "title": "About Direct Speech"
  }
 }

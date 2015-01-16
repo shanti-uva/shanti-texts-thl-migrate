@@ -8,6 +8,9 @@
   }
  ], 
  "meta": {
+  "date": "2009-06-10 12:16:49 UTC", 
+  "domain": "places", 
+  "kid": "15401", 
   "authors": [
    {
     "fullname": "David Germano", 
@@ -18,9 +21,6 @@
     "id": "42"
    }
   ], 
-  "domain": "places", 
-  "kid": "15401", 
-  "dates": [], 
   "title": "About Porong"
  }
 }

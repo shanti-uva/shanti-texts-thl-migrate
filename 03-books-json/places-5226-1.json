@@ -20,6 +20,9 @@
   }
  ], 
  "meta": {
+  "date": "2009-05-21 12:04:11 UTC", 
+  "domain": "places", 
+  "kid": "5226", 
   "authors": [
    {
     "fullname": "David Germano", 
@@ -30,9 +33,6 @@
     "id": "42"
    }
   ], 
-  "domain": "places", 
-  "kid": "5226", 
-  "dates": [], 
   "title": "Reflections on the Complexities of Tibet"
  }
 }
