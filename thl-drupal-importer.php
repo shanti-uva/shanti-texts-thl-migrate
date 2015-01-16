@@ -16,9 +16,9 @@ nodes = []
     
 */
 
-#$min_kid = 1853; # To allow skipping successful imports
-$min_kid = 0;
+$last_good_kid = 15348;
 $filemask = 'places-*.json'; 
+
 $dir = '~/WORK/shanti-texts-thl-migrate/03-books-json';
 print "Attempting to import files from $dir/$filemask ...\n";
 exec("ls $dir/$filemask", $filenames);
@@ -35,7 +35,7 @@ foreach ($filenames as $filename) {
     print "Missing key for $filename: DOMAIN=$domain, KID=$kid\n";
     continue;
   }
-  if ($kid < $min_kid) {
+  if ($kid <= $last_good_kid) {
     print "Skipping ...\n";
     continue;
   }
@@ -45,6 +45,9 @@ foreach ($filenames as $filename) {
   foreach ($book->nodes as $part) {
     
     $title    = $part->title;
+    if (strlen($title) > 255) {
+      $title = substr($title,0,255);
+    }
     $index    = $part->index;
     $parent   = $part->parent_index;
     $body     = $part->body;
