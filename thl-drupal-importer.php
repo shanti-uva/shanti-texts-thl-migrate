@@ -67,6 +67,7 @@ foreach ($filenames as $filename) {
       if ($authors) {
         $prev_author = ''; # Remove duplicates
         foreach ($authors as $author_inf) {
+          $author = '';
           if (is_object($author_inf)) {
             $author = $author_inf->fullname;
           }
@@ -81,7 +82,6 @@ foreach ($filenames as $filename) {
           }
         }      
         $prev_author = $author;
-        print "TEST: $author\n";
       }
 
       # DATE
