@@ -18,7 +18,7 @@ nodes = []
 
 #$min_kid = 1853; # To allow skipping successful imports
 $min_kid = 0;
-$filemask = 'subjects-*.json'; 
+$filemask = 'places-*.json'; 
 $dir = '~/WORK/shanti-texts-thl-migrate/03-books-json';
 print "Attempting to import files from $dir/$filemask ...\n";
 exec("ls $dir/$filemask", $filenames);

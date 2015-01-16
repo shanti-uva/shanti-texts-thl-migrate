@@ -1,5 +1,4 @@
 <?php
-
 $min = 67040;
 $max = 68917;
 print "Deleting nodes from $min to $max ...\n";
