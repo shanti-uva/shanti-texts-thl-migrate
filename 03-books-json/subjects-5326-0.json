@@ -4,7 +4,7 @@
    "body": "<ul> <li><span class=\"tibetan\" title=\"Type ID here\">སྤ་སེ་</span> “Ticket” (<em>pass</em>)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཏི་ཀ་སི་</span> “Postage stamp” (<em>ticket</em>)</li> <li><span class=\"tibetan\" title=\"Type ID here\">པེ་སེ་ཀོབ་</span> (obsolete) “Cinema” (<em>bioscope</em>)</li> <li><span class=\"tibetan\" title=\"Type ID here\">རི་ལི་</span> “Train” (<em>rail</em>)</li> <li><span class=\"tibetan\" title=\"Type ID here\">མོ་ཏ་</span> “Car” (<em>motor</em>)</li> <li><span class=\"tibetan\" title=\"Type ID here\">འབའ་སེ་</span> “Bus” (<em>bus</em>)</li> </ul>", 
    "index": 0, 
    "parent_index": -1, 
-   "title": "About From English"
+   "title": "From English"
   }
  ], 
  "meta": {
@@ -17,6 +17,6 @@
     "id": "6"
    }
   ], 
-  "title": "About From English"
+  "title": "From English"
  }
 }

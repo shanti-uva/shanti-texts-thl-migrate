@@ -4,7 +4,7 @@
    "body": "<ul> <li><span class=\"tibetan\" title=\"Type ID here\">ལྷ་ས་ནས་ཆབ་མདོ་བར་དུ།</span> “From Lhasa to Chamdo”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཆུ་ཚོད་གསུམ་པ་ནས་ལྔ་པ་བར་དུ།</span> “From three to five o’clock”</li> </ul><p class=\"Paragraph\"><em>Note</em>: The ablative is often associated with verbs indicating acquisition, such as <span class=\"tibetan\" title=\"Type ID here\">བརྙེད་</span> “to find,” <span class=\"tibetan\" title=\"Type ID here\">ཉོ་</span> “to buy,” <span class=\"tibetan\" title=\"Type ID here\">ཐོབ་</span> “to obtain,” <span class=\"tibetan\" title=\"Type ID here\">གཡར་</span> “to borrow,” <span class=\"tibetan\" title=\"Type ID here\">རག་</span> “to get, find,” and verbs of movement such as <span class=\"tibetan\" title=\"Type ID here\">འགྲོ་</span> “to go.”</p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཁྲོམ་ནས་ཉོས་པ་རེད།</span> “Bought from the market....”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ལམ་ཁག་ནས་བརྙེད་བྱུང་།</span> “I found it on the road.” (Literally: “found it from....”)</li> <li><span class=\"tibetan\" title=\"Type ID here\">འདི་ནས་འགྲོ།</span> “Go through here.” (Literally: “from here.”)</li> </ul>", 
    "index": 0, 
    "parent_index": -1, 
-   "title": "About Spatial or Temporal Provenance"
+   "title": "Spatial or Temporal Provenance"
   }
  ], 
  "meta": {
@@ -17,6 +17,6 @@
     "id": "6"
    }
   ], 
-  "title": "About Spatial or Temporal Provenance"
+  "title": "Spatial or Temporal Provenance"
  }
 }

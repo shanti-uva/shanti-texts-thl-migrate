@@ -4,7 +4,7 @@
    "body": "", 
    "index": 0, 
    "parent_index": -1, 
-   "title": "About Miscellaneous"
+   "title": "Miscellaneous"
   }, 
   {
    "body": "<p>This is used for rituals that do not fit in any of the other Knowledge Map categories. It also contains an \"Unknown\" section, for rituals whose nature is under investigation.</p>", 
@@ -18,6 +18,6 @@
   "domain": "subjects", 
   "kid": "2510", 
   "authors": [], 
-  "title": "About Miscellaneous"
+  "title": "Miscellaneous"
  }
 }

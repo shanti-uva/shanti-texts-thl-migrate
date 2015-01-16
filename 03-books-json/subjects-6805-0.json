@@ -4,7 +4,7 @@
    "body": "<p>A restoration intends to return an existing building which has some damage or wear to a previous state of existence. This is in contrast to a reconstruction, which intends to rebuild from scratch a building which has been completely or nearly completely destroyed; a renovation, which seeks to alter an existing building, but not necessarily return it to some previously existing state; and a repair, which intends to repair damage to an existing building, but again not necessarily return it to some previously existing state.</p>", 
    "index": 0, 
    "parent_index": -1, 
-   "title": "About Restoration"
+   "title": "Restoration"
   }
  ], 
  "meta": {
@@ -17,6 +17,6 @@
     "id": "13"
    }
   ], 
-  "title": "About Restoration"
+  "title": "Restoration"
  }
 }

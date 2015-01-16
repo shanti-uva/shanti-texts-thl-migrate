@@ -25,13 +25,13 @@ class Booker:
       for n, desc in enumerate(doc['descriptions']):
         book = Book()
         book.title = desc.get('title') 
-        if not(book.title):
+        if book.title is None:
           kdata = ''
           kmap_info = {}
           try:
-            kdata = open(self.infdir+'/'+self.key+'-info.json','r').read()
+            kdata = open(self.infdir + '/' + self.key + '-info.json', 'r').read()
             kmap_info = json.loads(kdata,encoding='utf-8')
-            book.title = "About " + kmap_info.get('feature').get('header')
+            book.title = kmap_info.get('feature').get('header')
             del kdata, kmap_info
             gc.collect()
           except:

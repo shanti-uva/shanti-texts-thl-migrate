@@ -4,7 +4,7 @@
    "body": "<p class=\"Paragraph\">When the agent (marked with the ergative) and the possessor of an object (marked with the genitive) refer to the same person in a single sentence (in which case they are coreferent), in most cases only the possessor is mentioned. For example, in the following sentence, the owner of the bicycle and the agent of the verb “to put” are the same person, and therefore only the genitive case appears, without the agentive.</p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཁྱེད་རང་གི་རྐང་ག་རིལ་ག་པར་བཞག་ཡོད།</span> “Where did you put your bicycle?”</li> </ul><p class=\"Paragraph\">The use of the ergative instead of the genitive is possible, but this would place the stress on the action and not on ownership.</p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཁྱེད་རང་གིས་རྒང་ག་རིལ་ག་པར་བཞག་ཡོད།</span> “Where did you put the/your bicycle?”</li> </ul><p class=\"Paragraph\">The use of both agent and possessor would be very odd:</p><ul> <li>*<span class=\"tibetan\" title=\"Type ID here\">ཁྱེད་རང་གིས་ཁྱེད་རང་གི་རྐང་ག་རིལ་ག་བར་བཞག་ཡོད།</span> (Incorrect)</li> </ul>", 
    "index": 0, 
    "parent_index": -1, 
-   "title": "About Ergative Sentences Involving Possession"
+   "title": "Ergative Sentences Involving Possession"
   }
  ], 
  "meta": {
@@ -17,6 +17,6 @@
     "id": "6"
    }
   ], 
-  "title": "About Ergative Sentences Involving Possession"
+  "title": "Ergative Sentences Involving Possession"
  }
 }

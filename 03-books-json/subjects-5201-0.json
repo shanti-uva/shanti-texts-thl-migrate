@@ -4,7 +4,7 @@
    "body": "<p class=\"Paragraph\">The particle <span class=\"tibetan\" title=\"Type ID here\">ནས་</span> may be used in the composition of postpositions and adverbs.</p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཐོག་ནས་</span> adverbalizer, “In an X way”</li> <li><span class=\"tibetan\" title=\"Type ID here\">སྒོ་ནས་</span> adverbalizer, “In an X way”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁྱོན་ནས་</span> “Absolutely (not)”</li> <li><span class=\"tibetan\" title=\"Type ID here\">རྩ་བ་ནས་</span> “Absolutely (not)”</li> </ul>", 
    "index": 0, 
    "parent_index": -1, 
-   "title": "About Adverbializer"
+   "title": "Adverbializer"
   }
  ], 
  "meta": {
@@ -17,6 +17,6 @@
     "id": "6"
    }
   ], 
-  "title": "About Adverbializer"
+  "title": "Adverbializer"
  }
 }

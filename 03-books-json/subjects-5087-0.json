@@ -4,7 +4,7 @@
    "body": "<p class=\"Paragraph\">Verbs of movement are often formed by using directional auxiliaries that specify whether an action is coming toward or going away from the speaker (or the point of reference).</p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཁོང་མཆོང་ཡོང་གིས།</span> “He’s coming jumping.” (He’s jumping this way.)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁོང་མཆོང་འགྲོ་གིས།</span> “He’s going jumping.” (He’s jumping away.)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ང་ནང་ལ་ལོག་འགྲོ་གི་ཡིན།</span> “I’m going back home (away from the interlocutor).” </li> <li><span class=\"tibetan\" title=\"Type ID here\">ང་ནང་ལ་ལོག་ཡོང་གི་ཡིན།</span> “I’m coming back home (toward the interlocutor).”</li> </ul><p class=\"Paragraph\">The two auxiliaries may also be used with non-volitional verbs to indicate the beginning of a process (inchoative sense). The auxiliary <span class=\"tibetan\" title=\"Type ID here\">ཡོང་</span> is used with the first person (singular or plural), whereas <span class=\"tibetan\" title=\"Type ID here\">འགྲོ་</span> is used with the second and third persons (singular or plural).</p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">ང་གཉིད་ཁུག་ཡོང་གིས།</span> “I’m starting to fall asleep.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁོང་གཉིད་ཁུག་འགྲོ་གིས།</span> “He’s starting to fall asleep.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ང་འཁྱག་ཡོང་གིས།</span> “I’m starting to feel cold.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁོང་འཁྱག་འགྲོ་གིས།</span> “He’s starting to feel cold.”</li> </ul>", 
    "index": 0, 
    "parent_index": -1, 
-   "title": "About Directional and Aspectual (ཡོང་ and འགྲོ་)"
+   "title": "Directional and Aspectual (ཡོང་ and འགྲོ་)"
   }
  ], 
  "meta": {
@@ -17,6 +17,6 @@
     "id": "6"
    }
   ], 
-  "title": "About Directional and Aspectual (ཡོང་ and འགྲོ་)"
+  "title": "Directional and Aspectual (ཡོང་ and འགྲོ་)"
  }
 }

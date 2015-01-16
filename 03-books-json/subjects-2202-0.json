@@ -4,7 +4,7 @@
    "body": "", 
    "index": 0, 
    "parent_index": -1, 
-   "title": "About Marriage"
+   "title": "Marriage"
   }, 
   {
    "body": "<p>Rituals related to marriage.</p>", 
@@ -24,6 +24,6 @@
   "domain": "subjects", 
   "kid": "2202", 
   "authors": [], 
-  "title": "About Marriage"
+  "title": "Marriage"
  }
 }

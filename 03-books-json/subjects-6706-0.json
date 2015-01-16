@@ -4,7 +4,7 @@
    "body": "<p><span style=\"font-size: 14.0pt; font-family: 'Microsoft Himalaya'; mso-fareast-font-family: 宋体; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: BO;\" lang=\"BO\">རས་ཀྱིས་བཟོས་པའི་བོད་ལྭར་གོ</span></p><p><!--[if gte mso 9]><xml> <w:WordDocument> <w:View>Normal</w:View> <w:Zoom>0</w:Zoom> <w:TrackMoves/> <w:TrackFormatting/> <w:PunctuationKerning/> <w:DrawingGridVerticalSpacing>7.8 pt</w:DrawingGridVerticalSpacing> <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery> <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery> <w:ValidateAgainstSchemas/> <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid> <w:IgnoreMixedContent>false</w:IgnoreMixedContent> <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText> <w:DoNotPromoteQF/> <w:LidThemeOther>EN-US</w:LidThemeOther> <w:LidThemeAsian>ZH-CN</w:LidThemeAsian> <w:LidThemeComplexScript>BO</w:LidThemeComplexScript> <w:Compatibility> <w:SpaceForUL/> <w:BalanceSingleByteDoubleByteWidth/> <w:DoNotLeaveBackslashAlone/> <w:ULTrailSpace/> <w:DoNotExpandShiftReturn/> <w:AdjustLineHeightInTable/> <w:BreakWrappedTables/> <w:SnapToGridInCell/> <w:ApplyBreakingRules/> <w:WrapTextWithPunct/> <w:UseAsianBreakRules/> <w:DontGrowAutofit/> <w:SplitPgBreakAndParaMark/> <w:DontVertAlignCellWithSp/> <w:DontBreakConstrainedForcedTables/> <w:DontVertAlignInTxbx/> <w:Word11KerningPairs/> <w:CachedColBalance/> <w:UseFELayout/> </w:Compatibility> <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel> <m:mathPr> <m:mathFont m:val=\"Cambria Math\"/> <m:brkBin m:val=\"before\"/> <m:brkBinSub m:val=\"--\"/> <m:smallFrac m:val=\"off\"/> <m:dispDef/> <m:lMargin m:val=\"0\"/> <m:rMargin m:val=\"0\"/> <m:defJc m:val=\"centerGroup\"/> <m:wrapIndent m:val=\"1440\"/> <m:intLim m:val=\"subSup\"/> <m:naryLim m:val=\"undOvr\"/> </m:mathPr></w:WordDocument> </xml><![endif]--></p>", 
    "index": 0, 
    "parent_index": -1, 
-   "title": "About Cloth Robe"
+   "title": "Cloth Robe"
   }
  ], 
  "meta": {
@@ -17,6 +17,6 @@
     "id": "25"
    }
   ], 
-  "title": "About Cloth Robe"
+  "title": "Cloth Robe"
  }
 }

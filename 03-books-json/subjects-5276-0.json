@@ -4,7 +4,7 @@
    "body": "<ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཁྱོད་</span>, <span class=\"tibetan\" title=\"Type ID here\">ཁྱོད་རང་</span>, <span class=\"tibetan\" title=\"Type ID here\">ཁྱེད་</span> (H)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཁྱེད་རང་</span> (H)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཉིད་</span> (L, Elegant)</li> <li><span class=\"tibetan\" title=\"Type ID here\">ཉིད་རང་</span> (L, Elegant)</li> <li><span class=\"tibetan\" title=\"Type ID here\">སྐུ་ཉིད་</span> (L, H)</li> </ul>", 
    "index": 0, 
    "parent_index": -1, 
-   "title": "About Second Person Singular (You)"
+   "title": "Second Person Singular (You)"
   }
  ], 
  "meta": {
@@ -17,6 +17,6 @@
     "id": "6"
    }
   ], 
-  "title": "About Second Person Singular (You)"
+  "title": "Second Person Singular (You)"
  }
 }

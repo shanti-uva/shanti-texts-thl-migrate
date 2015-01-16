@@ -4,7 +4,7 @@
    "body": "<p>musician</p>", 
    "index": 0, 
    "parent_index": -1, 
-   "title": "About Musician"
+   "title": "Musician"
   }
  ], 
  "meta": {
@@ -17,6 +17,6 @@
     "id": "22"
    }
   ], 
-  "title": "About Musician"
+  "title": "Musician"
  }
 }

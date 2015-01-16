@@ -4,7 +4,7 @@
    "body": "<table border=\"1\" cellspacing=\"0\" cellpadding=\"0\" align=\"left\"> <tbody> <tr> <td width=\"98\"> <p class=\"Paragraph\"> </p> </td> <td width=\"101\"> <p class=\"Paragraph\"><strong>Egophoric</strong></p> </td> <td width=\"115\"> <p class=\"Paragraph\"><strong>Testimonial</strong></p> </td> <td width=\"119\"> <p class=\"Paragraph\"><strong>Inferential</strong></p> </td> <td width=\"101\"> <p class=\"Paragraph\"><strong>Assertive</strong></p> </td> </tr> <tr> <td width=\"98\"> <p class=\"Paragraph\"><strong>Future</strong></p> </td> <td width=\"101\"> <p class=\"Paragraph\"><span class=\"tibetan\" title=\"Type ID here\">གི་ཡིན་</span></p> <p class=\"Paragraph\"><span class=\"tibetan\" title=\"Type ID here\">དགོས་</span></p> </td> <td width=\"115\"> <p class=\"Paragraph\"> </p> </td> <td width=\"119\"> <p class=\"Paragraph\"> </p> </td> <td width=\"101\"> <p class=\"Paragraph\"><span class=\"tibetan\" title=\"Type ID here\">གི་རེད་</span></p> </td> </tr> <tr> <td width=\"98\"> <p class=\"Paragraph\"><strong>Present (or Imperfective Past)</strong></p> </td> <td width=\"101\"> <p class=\"Paragraph\"><span class=\"tibetan\" title=\"Type ID here\">གི་ཡོད་</span></p> </td> <td width=\"115\"> <p class=\"Paragraph\"><span class=\"tibetan\" title=\"Type ID here\">གི་འདུག་</span></p> </td> <td width=\"119\"> <p class=\"Paragraph\"> </p> </td> <td width=\"101\"> <p class=\"Paragraph\"><span class=\"tibetan\" title=\"Type ID here\">གི་ཡོད་རེད་</span></p> </td> </tr> <tr> <td width=\"98\"> <p class=\"Paragraph\"><strong>Past (Simple Perfective)</strong></p> </td> <td width=\"101\"> <p class=\"Paragraph\"><span class=\"tibetan\" title=\"Type ID here\">པ་ཡིན་</span></p> <p class=\"Paragraph\"><span class=\"tibetan\" title=\"Type ID here\">བྱུང་</span></p> <p class=\"Paragraph\"><span class=\"tibetan\" title=\"Type ID here\">མྱོང་</span></p> </td> <td width=\"115\"> <p class=\"Paragraph\"><span class=\"tibetan\" title=\"Type ID here\">སོང་</span></p> </td> <td width=\"119\"> <p class=\"Paragraph\"> </p> </td> <td width=\"101\"> <p class=\"Paragraph\"><span class=\"tibetan\" title=\"Type ID here\">པ་རེད་</span></p> </td> </tr> <tr> <td width=\"98\"> <p class=\"Paragraph\"><strong>Past (Perfect)</strong></p> </td> <td width=\"101\"> <p class=\"Paragraph\"><span class=\"tibetan\" title=\"Type ID here\">ཡོད་</span></p> </td> <td width=\"115\"> <p class=\"Paragraph\"> </p> </td> <td width=\"119\"> <p class=\"Paragraph\"><span class=\"tibetan\" title=\"Type ID here\">འདུག་</span></p> <p class=\"Paragraph\"><span class=\"tibetan\" title=\"Type ID here\">བཞག་</span></p> </td> <td width=\"101\"> <p class=\"Paragraph\"><span class=\"tibetan\" title=\"Type ID here\">ཡོད་རེད་</span></p> </td> </tr> </tbody> </table>", 
    "index": 0, 
    "parent_index": -1, 
-   "title": "About Table: The Different Mediatory Moods According to Tense-Aspect "
+   "title": "Table: The Different Mediatory Moods According to Tense-Aspect "
   }
  ], 
  "meta": {
@@ -17,6 +17,6 @@
     "id": "6"
    }
   ], 
-  "title": "About Table: The Different Mediatory Moods According to Tense-Aspect "
+  "title": "Table: The Different Mediatory Moods According to Tense-Aspect "
  }
 }

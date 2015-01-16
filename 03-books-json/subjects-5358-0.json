@@ -4,7 +4,7 @@
    "body": "<p class=\"Paragraph\">“Hearsay” is formulated directly without introducing a speaker, citing and closing the assertion with the marker <span class=\"tibetan\" title=\"Type ID here\">ཟ་</span> “it is said that,” or <span class=\"tibetan\" title=\"Type ID here\">ཟེར་གྱི་ཟ་</span>. “X is said to have said that…,” “X allegedly said that…”</p><ul> <li><span class=\"tibetan\" title=\"Type ID here\">ཁོང་ཨེམ་ཆི་རེད་ཟ།</span> “They say he’s a doctor.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">བོད་ལ་གསེར་མང་པོ་ཡོད་རེད་ཟ།</span> “There’s said to be a lot of gold in Tibet.”</li> <li><span class=\"tibetan\" title=\"Type ID here\">བཀྲ་ཤིས་ལགས་རྒྱ་གར་ལ་ཕེབས་པ་རེད་ཟེར་གྱི་ཟ།</span> “Apparently he said that Trashi had gone to India.”</li> </ul>", 
    "index": 0, 
    "parent_index": -1, 
-   "title": "About Hearsay"
+   "title": "Hearsay"
   }
  ], 
  "meta": {
@@ -17,6 +17,6 @@
     "id": "6"
    }
   ], 
-  "title": "About Hearsay"
+  "title": "Hearsay"
  }
 }

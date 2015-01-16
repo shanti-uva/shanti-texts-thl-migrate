@@ -63,7 +63,6 @@ foreach ($filenames as $filename) {
     if ($parent == -1) {
     
       # AUTHORS
-      print "Trying to get authors ...\n";
       $authors = $book->meta->authors;
       if ($authors) {
         $prev_author = ''; # Remove duplicates

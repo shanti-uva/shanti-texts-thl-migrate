@@ -4,7 +4,7 @@
    "body": "<p><!-- --></p><p><strong>Screencasting on a Mac</strong></p><p>As of December 2009, there are three major options for screencasting on a Mac - a basic, free option offered by Apple and two commercial options that are very similar.</p><p> If you have Snow Leopard as your Mac OS, then there is a free option offered by apple - just open up QuickTime, and you will see under the FILE menu an option for \"new screen recording\".  This does a very good job for simple recording of actions on the screen, but offers no advanced features at all - there is no way to capture a window or specific part of your desktop, or do many other screencasting features offered in other programs. Its simple options (microphone, quality, save location) are available from the small triangle in the window when you choose \"new screen recording\".</p><p>The two main full-featured commercial options are Screenflow (from Telestream) and Camtasia for Mac (from Tech Smith). Both have powerful editing features, but also have frustrating gaps compared to Windows-based programs. Adobe is working on releasing Captivate for the Mac, but as of now it is only in beta. Both offer sophisticated features to capture and to produce professional screencast video within a single application.</p>", 
    "index": 0, 
    "parent_index": -1, 
-   "title": "About Screencasts"
+   "title": "Screencasts"
   }
  ], 
  "meta": {
@@ -17,6 +17,6 @@
     "id": "2"
    }
   ], 
-  "title": "About Screencasts"
+  "title": "Screencasts"
  }
 }
