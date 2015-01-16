@@ -70,11 +70,9 @@ foreach ($filenames as $filename) {
           $author = '';
           if (is_object($author_inf)) {
             $author = $author_inf->fullname;
-          }
-          if (is_array($author_inf)) {
+          } elseif (is_array($author_inf)) {
             $author = $author_inf['fullname'];
-          } 
-          else {
+          } else {
             $author = $author_inf;
           }
           if ($author != $prev_author) {
