@@ -70,11 +70,15 @@ foreach ($filenames as $filename) {
           $author = '';
           if (is_object($author_inf)) {
             $author = $author_inf->fullname;
+            print "Author is an object ...\n";
           } elseif (is_array($author_inf)) {
             $author = $author_inf['fullname'];
+            print "Author is an array ...\n";
           } else {
+          print "Author is a string ...\n";
             $author = $author_inf;
           }
+          print "AUTHOR: $author\n";
           if ($author != $prev_author) {
             $node->field_book_author[$node->language][0]['value'] = $author;
           }
