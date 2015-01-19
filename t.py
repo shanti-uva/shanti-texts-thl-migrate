@@ -1,15 +1,7 @@
-import booker as b
+import booker
 
-# print "Scraping"
-#scraper = b.Scraper()
-#scraper.scrape()
-
-#print "Decoding"
-#decoder = b.Decoder()
-#decoder.decode()
-
-#print "Booking"
-#booker = b.Booker()
-#booker.bookem()
-
+bkr = booker.Booker()
+#bkr.scrape()
+bkr.clean()
+bkr.bookem()
 

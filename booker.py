@@ -1,20 +1,13 @@
 import os, re, json, gc, config
 from lxml import html
 
-class Scraper:
+class Booker:
 
-  def __init__(self):
-    import kmap_ids
-    self.kmaps = kmap_ids.kmaps
-    
-  def test(self):
-    print 'Places',len(self.kmaps['places'])
-    print 'Subjects',len(self.kmaps['subjects'])
-    
   def scrape(self):
+    import kmap_ids
     import urllib
-    for domain in self.kmaps.keys():
-      for kid in self.kmaps[domain]:
+    for domain in kmap_ids.kmaps.keys():
+      for kid in kmap_ids.kmaps[domain]:
         kmap_key = domain + '-' + str(kid)
         file_url1 = config.kmap_url1 % (domain,kid)
         file_name1 = config.rawdir + '/' + kmap_key + '.json'
@@ -22,12 +15,8 @@ class Scraper:
         file_url2 = config.kmap_url2 % (domain,kid)
         file_name2 = config.rawdir + '/' + kmap_key + '-info.json'
         urllib.urlretrieve(file_url2,file_name2)
-        
-class Decoder:
 
-  #def __init__(self):
-
-  def decode(self):
+  def clean(self):
     for filename in os.listdir(config.rawdir):
       if not(re.match('(places|subjects)-(\d+)\.json',filename)): continue
       outstr = ''
@@ -38,28 +27,17 @@ class Decoder:
         line = re.sub(r'\s+',' ',line)
         outstr += line 
       infile.close()
-
-      #pydoc  = json.loads(outstr,encoding='utf-8')
-      #outstr = json.dumps(pydoc, indent=1).decode('unicode-escape').encode('utf8') # EXCELLENT
-
       outfile = open(config.srcdir +'/'+ filename, 'w')
       outfile.write(outstr)
       outfile.close()
-      
-class Booker:
 
-  def __init__(self):
-    self.srcdir = config.srcdir
-    self.infdir = config.infdir
-    self.outdir = config.outdir
-    
   def bookem(self):
-    for filename in os.listdir(self.srcdir):
+    for filename in os.listdir(config.srcdir):
       if not(re.match('(places|subjects)-(\d+)\.json',filename)): continue
       
       self.domain, self.kid, foo = re.split(r'[.-]',filename)
       self.key     = self.domain + '-' + self.kid
-      fdata        = open(self.srcdir+'/'+filename,'r').read()
+      fdata        = open(config.srcdir+'/'+filename,'r').read()
       doc          = []
       try:    
         doc = json.loads(fdata,encoding='utf-8')
@@ -77,7 +55,7 @@ class Booker:
           kdata = ''
           kmap_info = {}
           try:
-            kdata = open(self.infdir + '/' + self.key + '-info.json', 'r').read()
+            kdata = open(config.infdir + '/' + self.key + '-info.json', 'r').read()
             kmap_info = json.loads(kdata,encoding='utf-8')
             book.title = kmap_info.get('feature').get('header')
             del kdata, kmap_info
@@ -90,8 +68,6 @@ class Booker:
         book.kid      = self.kid
         book.domain   = self.domain
         book.desc_n   = n
-        book.outdir   = self.outdir
-        #book.losers   = self.losers
         book.make_nodes()
         book.print_jdoc()
         del book
@@ -108,7 +84,6 @@ class Book:
     self.authors  = []
     self.body     = '' # Temporary storage for creating nodes
     self.nodes    = []
-    self.outdir   = ''
     self.losers   = []
 
   def make_nodes(self):    
@@ -185,7 +160,7 @@ class Book:
     }
     
     jdoc = json.dumps(outbook, indent=1).decode('unicode-escape').encode('utf8') # EXCELLENT
-    outfile = open(self.outdir+'/'+self.domain+'-'+self.kid+'-'+str(self.desc_n)+'.json','w')
+    outfile = open(config.outdir+'/'+self.domain+'-'+self.kid+'-'+str(self.desc_n)+'.json','w')
     outfile.write(jdoc)
     outfile.close()
       
