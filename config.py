@@ -1,6 +1,11 @@
-srcdir    = "02-raw-json-decoded"
+kmap_url1  = 'http://%s.kmaps.virginia.edu/features/%s/descriptions.json'
+kmap_url2  = 'http://%s.kmaps.virginia.edu/features/%s.json'
+
+rawdir    = '01-raw-json'
 infdir    = "01-raw-json-info"
+srcdir    = "02-raw-json-decoded"
 outdir    = "03-books-json"
+
 losers = [
   '//table[@class="navarrows"]',
   '//*[@id="chap-id"]', 

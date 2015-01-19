@@ -1,6 +1,51 @@
 import os, re, json, gc, config
 from lxml import html
 
+class Scraper:
+
+  def __init__(self):
+    import kmap_ids
+    self.kmaps = kmap_ids.kmaps
+    
+  def test(self):
+    print 'Places',len(self.kmaps['places'])
+    print 'Subjects',len(self.kmaps['subjects'])
+    
+  def scrape(self):
+    import urllib
+    for domain in self.kmaps.keys():
+      for kid in self.kmaps[domain]:
+        kmap_key = domain + '-' + str(kid)
+        file_url1 = config.kmap_url1 % (domain,kid)
+        file_name1 = config.rawdir + '/' + kmap_key + '.json'
+        urllib.urlretrieve(file_url1,file_name1)
+        file_url2 = config.kmap_url2 % (domain,kid)
+        file_name2 = config.rawdir + '/' + kmap_key + '-info.json'
+        urllib.urlretrieve(file_url2,file_name2)
+        
+class Decoder:
+
+  #def __init__(self):
+
+  def decode(self):
+    for filename in os.listdir(config.rawdir):
+      if not(re.match('(places|subjects)-(\d+)\.json',filename)): continue
+      outstr = ''
+      infile = open(config.rawdir +'/'+ filename,'r')
+      for line in infile.readlines():
+        line = re.sub(r'\\t+',' ',line)
+        line = re.sub(r'\\n+',' ',line)
+        line = re.sub(r'\s+',' ',line)
+        outstr += line 
+      infile.close()
+
+      #pydoc  = json.loads(outstr,encoding='utf-8')
+      #outstr = json.dumps(pydoc, indent=1).decode('unicode-escape').encode('utf8') # EXCELLENT
+
+      outfile = open(config.srcdir +'/'+ filename, 'w')
+      outfile.write(outstr)
+      outfile.close()
+      
 class Booker:
 
   def __init__(self):
@@ -8,12 +53,11 @@ class Booker:
     self.infdir = config.infdir
     self.outdir = config.outdir
     
-  def proc(self):
+  def bookem(self):
     for filename in os.listdir(self.srcdir):
       if not(re.match('(places|subjects)-(\d+)\.json',filename)): continue
-      fparts       = re.split(r'[.-]',filename)
-      self.domain  = fparts[0]
-      self.kid     = fparts[1]
+      
+      self.domain, self.kid, foo = re.split(r'[.-]',filename)
       self.key     = self.domain + '-' + self.kid
       fdata        = open(self.srcdir+'/'+filename,'r').read()
       doc          = []
@@ -21,6 +65,10 @@ class Booker:
         doc = json.loads(fdata,encoding='utf-8')
       except:
         print self.domain, self.kid, 'is not a doc'
+        continue
+      if 'descriptions' not in doc:
+        print "No description for", self.key
+        # Consider grabbing from the nested_descriptions key of the info file
         continue
       for n, desc in enumerate(doc['descriptions']):
         book = Book()
@@ -31,9 +79,7 @@ class Booker:
           try:
             kdata = open(self.infdir + '/' + self.key + '-info.json', 'r').read()
             kmap_info = json.loads(kdata,encoding='utf-8')
-            print book.title, " -> ",
             book.title = kmap_info.get('feature').get('header')
-            print book.title
             del kdata, kmap_info
             gc.collect()
           except:
