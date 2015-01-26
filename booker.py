@@ -49,7 +49,9 @@ class Booker:
         # Consider grabbing from the nested_descriptions key of the info file
         continue
       for n, desc in enumerate(doc['descriptions']):
+
         book = Book()
+        
         book.title = desc.get('title') 
         if (book.title is None) or (re.match(r'^\s*Essay\s*$', book.title)):
           kdata = ''
@@ -62,31 +64,34 @@ class Booker:
             gc.collect()
           except:
             book.title = 'Untitled'
+        
         book.date     = desc.get('created_at')
         book.authors  = desc.get('authors')
         book.body     = desc.get('content')
         book.kid      = self.kid
         book.domain   = self.domain
         book.desc_n   = n
+        
         book.make_nodes()
         book.print_jdoc()
+        
         del book
         gc.collect()
         
 class Book:
 
-  def __init__(self,title=''):
-    self.title    = title
-    self.domain   = ''
-    self.kid      = 0
-    self.desc_n   = 0
-    self.dates    = []
-    self.authors  = []
-    self.body     = '' # Temporary storage for creating nodes
-    self.nodes    = []
-    self.losers   = []
-
+  title    = ''
+  domain   = ''
+  kid      = 0
+  desc_n   = 0
+  dates    = []
+  authors  = []
+  body     = '' # Temporary storage for creating nodes
+  nodes    = []
+  losers   = []
+  
   def make_nodes(self):    
+  
     tree = html.document_fromstring(self.body)
     tree = self.prune_tree(tree)
 

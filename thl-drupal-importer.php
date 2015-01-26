@@ -16,59 +16,59 @@ nodes = []
     
 */
 
-$last_good_kid = 15348;
-$filemask = 'places-*.json'; 
-
+$filemask = '*.json'; 
 $dir = '~/WORK/shanti-texts-thl-migrate/03-books-json';
-print "Attempting to import files from $dir/$filemask ...\n";
 exec("ls $dir/$filemask", $filenames);
-$kmap_fields = array();
-$kmap_fields['subjects']  = 'field_kmap_term';
-$kmap_fields['places']    = 'field_kmap_places';
+$kmap_fields = array(
+  'subjects' => 'field_kmap_term',
+  'places'   => 'field_kmap_places',
+);
+
 foreach ($filenames as $filename) {
+  
   print $filename . "\n";
+  
   $book = file_get_contents($filename);
   $book = json_decode($book);
-  $kid = $book->meta->kid;
+  $kid    = $book->meta->kid;
   $domain = $book->meta->domain;
+  $key    = "$domain-$kid";
   if (!$domain || !$kid) {
-    print "Missing key for $filename: DOMAIN=$domain, KID=$kid\n";
+    print "ERROR: Missing key for $key\n";
     continue;
   }
-  if ($kid <= $last_good_kid) {
-    print "Skipping ...\n";
-    continue;
-  }
-  $key = "$domain-$kid";
+  
+  # Good place to see how long the text is
+  # Count number of parts and sum of text lengths in parts
   
   $RECORD = array(); // Keep track of book's ancestor and parents when creating children
+  
   foreach ($book->nodes as $part) {
     
-    $title    = $part->title;
+    $title = $part->title;
     if (strlen($title) > 255) {
       $title = substr($title,0,255);
     }
     $index    = $part->index;
     $parent   = $part->parent_index;
     $body     = $part->body;
-    
+        
     # CREATE NODE, ADD TITLE AND CONTENT
-    $node = new stdClass(); // We create a new node object
+    $node = new stdClass(); 
     $node->type = 'book';
-    node_object_prepare($node); // Set some default values.
+    node_object_prepare($node);
     $node->title = $title;
-    $node->language = LANGUAGE_NONE; // But this should be changed, right?
+    $node->language = LANGUAGE_NONE;
     $node->field_book_content[$node->language][0]['value'] = $body;
     $node->field_book_content[$node->language][0]['format'] = 'ckeditor_full';
     
-    # IF NO PARENT, CREATE A BOOK -- ACTUALLY, CREATE A 
-    # BOOK BEFORE THIS AND JUST APPEND A NEW CHILD
+    # IF NO PARENT, CREATE A BOOK
     if ($parent == -1) {
     
       # AUTHORS
       $authors = $book->meta->authors;
       if ($authors) {
-        $prev_author = ''; # Remove duplicates
+        $prev_author = ''; # Use to remove duplicate authors
         foreach ($authors as $author_inf) {
           $author = '';
           if (is_object($author_inf)) {
@@ -95,10 +95,11 @@ foreach ($filenames as $filename) {
         if ($year) $node->field_dc_date_publication_year[$node->language][0]['value'] = $year;
       }
 
-      # KMAP
+      # KMAPS
       $kmap_json = file_get_contents("http://$domain.kmaps.virginia.edu/features/$kid.json");
       if ($kmap_json === FALSE) {
-        print "$key $index has no KMap info.\n";
+        print "ERROR: $key $index has no KMap info.\n";
+        continue;
       } 
       else {
         $kmap = json_decode($kmap_json); 
@@ -122,10 +123,10 @@ foreach ($filenames as $filename) {
         $node->{$kmap_field}[$node->language][0]['path']    = $kmap_ancestors_str;
 
         # Use KMap info to fix empty book titles
-        if (preg_match("/^\s*Essay\s*$/", $title)) {
-          $node->title .= " on " . ucwords($kmap_header);
-        } elseif (preg_match("/^\s*$/", $title)) {
-          $node->title .= ucwords($kmap_header);
+        if (preg_match("/^\s*Essay\s*$/", $node->title)) {
+          $node->title = "Essay on " . ucwords($kmap_header);
+        } elseif (preg_match("/^\s*$/", $node->title)) {
+          $node->title = ucwords($kmap_header);
         }
 
       }
@@ -137,8 +138,10 @@ foreach ($filenames as $filename) {
 
     # IF CHILD, ADD TO BOOK
     else {
-      $node->book['bid']  = $RECORD[0]['nid'];
-      $node->book['plid'] = $RECORD[$parent]['mlid'];
+      $node->book['bid']    = $RECORD[0]['nid'];  
+      $node->book['plid']   = $RECORD[$parent]['mlid'];
+      $node->book['weight'] = $index; 
+
     }    
     
     $node->field_admin_status[$node->language][0]['value'] = 'thl-import'; # Used for selecting nodes to delete
